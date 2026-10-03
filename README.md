@@ -3,7 +3,16 @@
 Fotoquiz met 464 zeedieren: kies uit 4 namen, lees daarna feitjes en bekijk op een wereldkaart waar het dier voorkomt.
 
 ## Spelen
-Dubbelklik op `index.html`. Werkt volledig offline (foto's in `images/`, kaarten in `maps/`, lettertypen in `fonts/`).
+**Online / op je telefoon:** https://ronaldsteenkamp.github.io/oceaanquiz/
+
+- **Android (Chrome):** tik op *Installeer app* op de startpagina (of menu ⋮ → *App installeren*).
+- **iPhone (Safari):** tik op *Deel* → *Zet op beginscherm*.
+- Tik daarna op *Alles offline beschikbaar maken* om zonder internet te spelen (±97 MB).
+
+**Op je pc:** dubbelklik op `index.html`. Werkt ook offline (foto's in `images/`, kaarten in `maps/`, lettertypen in `fonts/`).
+
+**Online versie bijwerken** na wijzigingen: `git add -A`, `git commit -m "..."`, `git push`.
+Verhoog daarna `VERSION` in `sw.js` en de `?v=` in `index.html`, zodat geïnstalleerde apps de nieuwe versie ophalen.
 
 - **Spelmodi**: Klassiek (10/20/50/alle vragen, met uitleg na elk antwoord), Tijdrace (60 seconden), Overleven (3 levens).
 - **Niveaus**: Makkelijk, Normaal, Moeilijk (lijkende namen, geen hint over de diergroep, dubbele punten).
