@@ -378,8 +378,24 @@ def main():
         from media import enrich
         print(f"Foto's en kaarten voor {len(animals)} dieren...")
         animals = enrich(animals)
+        from extras import extend
+        animals = extend(animals)
     for a in animals:
         a.pop("imgFile", None)
+
+    # Handmatig geredigeerde feitjes (gecontroleerd tegen Wikipedia) gaan voor
+    curated_path = os.path.join(HERE, "facts_curated.json")
+    if os.path.exists(curated_path):
+        with open(curated_path, encoding="utf-8") as f:
+            curated = json.load(f)
+        for a in animals:
+            c = curated.get(a["id"])
+            if c:
+                a["facts"] = c["facts"]
+                if c.get("intro"):
+                    a["intro"] = c["intro"]
+                a["curated"] = True
+        print(f"Geredigeerde feitjes: {sum(1 for a in animals if a.get('curated'))}/{len(animals)}")
 
     animals.sort(key=lambda a: (a["cat"], a["name"]))
     with open(os.path.join(ROOT, "data.js"), "w", encoding="utf-8") as f:
@@ -388,6 +404,11 @@ def main():
         f.write("window.OCEAN_ANIMALS = ")
         json.dump(animals, f, ensure_ascii=False, indent=1)
         f.write(";\n")
+        # grootte van wat 'Alles offline beschikbaar maken' downloadt (hoofdfoto, thumbnail, kaart)
+        files = {p for a in animals for p in (a.get("img"), a.get("thumb"), a.get("map")) if p}
+        size = sum(os.path.getsize(os.path.join(ROOT, p)) for p in files if os.path.exists(os.path.join(ROOT, p)))
+        f.write("window.OCEAN_META = " + json.dumps({
+            "built": time.strftime("%Y-%m-%d"), "offlineMB": round(size / 1e6)}) + ";\n")
     with open(os.path.join(HERE, "dropped.txt"), "w", encoding="utf-8") as f:
         f.write("\n".join(f"{s}\t{r}" for s, r in dropped))
     cats = {}

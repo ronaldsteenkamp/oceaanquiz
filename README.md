@@ -1,41 +1,48 @@
 # Oceaanquiz 🐋
 
-Fotoquiz met 464 zeedieren: kies uit 4 namen, lees daarna feitjes en bekijk op een wereldkaart waar het dier voorkomt.
+Fotoquiz met 464 zeedieren: herken het dier, lees feitjes en bekijk op een wereldkaart waar het voorkomt.
+
+**Gemaakt door Ronald Steenkamp.**
 
 ## Spelen
 **Online / op je telefoon:** https://ronaldsteenkamp.github.io/oceaanquiz/
 
 - **Android (Chrome):** tik op *Installeer app* op de startpagina (of menu ⋮ → *App installeren*).
 - **iPhone (Safari):** tik op *Deel* → *Zet op beginscherm*.
-- Tik daarna op *Alles offline beschikbaar maken* om zonder internet te spelen (±97 MB).
+- Tik daarna op *Alles offline beschikbaar maken* om zonder internet te spelen.
 
-**Op je pc:** dubbelklik op `index.html`. Werkt ook offline (foto's in `images/`, kaarten in `maps/`, lettertypen in `fonts/`).
+**Op je pc:** dubbelklik op `index.html`.
 
-**Online versie bijwerken** na wijzigingen: `git add -A`, `git commit -m "..."`, `git push`.
-Verhoog daarna `VERSION` in `sw.js` en de `?v=` in `index.html`, zodat geïnstalleerde apps de nieuwe versie ophalen.
+## Wat zit erin
+- **Dagelijkse uitdaging**: elke dag dezelfde 10 dieren voor iedereen, met een deelbare score (🟩🟥).
+- **Oefenen**: herhaling op afstand. Dieren die je fout hebt komen meteen terug, goede pas na 1, 3, 7, 14 en 30 dagen.
+- **Spelmodi**: Klassiek, Tijdrace (60 seconden) en Overleven (3 levens).
+- **Vraagsoorten**: foto → naam, gemengd (ook naam → foto en "welk dier leeft hier?" op de kaart) en intypen (expert, tikfouten toegestaan).
+- **Niveaus**: Makkelijk, Normaal, Moeilijk (foute antwoorden uit dezelfde familie of met lijkende namen).
+- **Noordzee-modus**: speel alleen met dieren die regelmatig in de Noordzee worden gezien.
+- **Collectie**: elk dier dat je goed raadt wordt "ontdekt".
+- **Dierengids**: zoeken, filteren (ook op Noordzee), meerdere foto's per dier, feitjes en verspreidingskaart.
+- **Toegankelijk**: toetsenbord (`1`–`4`, `Enter`), meldingen voor schermlezers, licht/donker thema.
 
-- **Spelmodi**: Klassiek (10/20/50/alle vragen, met uitleg na elk antwoord), Tijdrace (60 seconden), Overleven (3 levens).
-- **Niveaus**: Makkelijk, Normaal, Moeilijk (lijkende namen, geen hint over de diergroep, dubbele punten).
-- **Collectie**: elk dier dat je goed raadt, wordt "ontdekt" (teller rechtsboven, voortgang per diergroep).
-- **Dierengids**: zoeken, filteren, sorteren; elk dier met foto, feitjes en verspreidingskaart.
-- **Licht/donker thema** (volgt je systeem, of wissel met de knop rechtsboven).
-- Toetsen `1`–`4` om te antwoorden, `Enter` om door te gaan, pijltjes in de gids.
-
-Scores, collectie en instellingen worden in je browser bewaard.
+Scores, collectie en oefenvoortgang worden alleen in je browser bewaard.
 
 ## Bronnen
 | Wat | Bron |
 |---|---|
-| Namen en feitjes | Nederlandstalige Wikipedia (CC BY-SA), via Wikidata gekoppeld |
-| Foto's | iNaturalist (alleen open licenties) en Wikimedia Commons; maker en licentie staan bij elke foto |
-| Kaarten | Waarnemingen uit GBIF.org (hexagon-dichtheidskaart) |
+| Namen | Nederlandstalige Wikipedia, via Wikidata gekoppeld |
+| Feitjes | Per dier herschreven uit het Wikipedia-artikel (`scraper/facts_curated.json`); elk feitje is terug te vinden in de bron |
+| Foto's | iNaturalist (alleen open licenties, bij voorkeur zonder NC) en Wikimedia Commons; maker en licentie bij elke foto |
+| Kaarten, familie, Noordzee | GBIF.org |
 
-## Data opnieuw ophalen / dieren toevoegen
+## Bijwerken
+**Online versie bijwerken** na wijzigingen: `git add -A`, `git commit -m "..."`, `git push`.
+Verhoog daarna `VERSION` in `sw.js` en de `?v=` in `index.html`, zodat geïnstalleerde apps de nieuwe versie ophalen.
+
+**Data opnieuw ophalen / dieren toevoegen**
 1. Voeg wetenschappelijke namen toe in `scraper/species.py`.
 2. `pip install pillow` (eenmalig) en draai `python scraper/scrape.py`.
+3. Nieuwe dieren krijgen automatisch gekozen feitjes; schrijf er eventueel zelf betere bij in `scraper/facts_curated.json`.
 
-De scraper zoekt elke soort op in Wikidata, haalt het Nederlandse Wikipedia-artikel op en kiest de leukste zinnen als feitjes.
-Per dier vergelijkt hij een iNaturalist- en een Commons-foto (resolutie, scherpte, levend dier i.p.v. museumexemplaar),
-slaat de beste op als scherpe WebP van max. 1400 px en maakt een kaart van de GBIF-waarnemingen.
+De scraper zoekt elke soort op in Wikidata en Wikipedia, kiest per dier de beste foto's (resolutie, scherpte, licentie),
+maakt thumbnails, haalt familie en Noordzee-waarnemingen op bij GBIF en tekent de verspreidingskaart.
 Alles wordt gecachet in `scraper/cache/` (mag je weggooien als je niet opnieuw wilt scrapen).
-Soorten zonder Nederlands artikel of Nederlandse naam worden overgeslagen (zie `scraper/dropped.txt`).

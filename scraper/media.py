@@ -241,7 +241,7 @@ def gbif_map(animal_id, key):
         print(f"  kaart mislukt {animal_id}: {e}")
         return None
     tile = crop_map(Image.open(io.BytesIO(data)).convert("RGBA"))
-    # dichtheid zit in de kleur (geel -> rood); omzetten naar Ã©Ã©n kleur met variabele dekking
+    # dichtheid zit in de kleur (geel -> rood); omzetten naar één kleur met variabele dekking
     r, g, b, a = tile.split()
     strength = g.point(lambda v: 150 + (255 - v) * 105 // 255)
     alpha = Image.composite(strength, Image.new("L", tile.size, 0), a.point(lambda v: 255 if v > 20 else 0))
