@@ -1,0 +1,5 @@
+# Alleen nodig om opnieuw te scrapen (groot)
+scraper/cache/
+scraper/*.log
+__pycache__/
+*.pyc
