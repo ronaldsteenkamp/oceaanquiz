@@ -464,7 +464,7 @@
 
   const mediaKey = url => new URL(url, location.href).pathname.split("/").slice(-2).join("/");
   async function countCached() {
-    const have = new Set((await (await caches.open("oq-media-2")).keys()).map(r => mediaKey(r.url)));
+    const have = new Set((await (await caches.open("oq-media-3")).keys()).map(r => mediaKey(r.url)));
     return MEDIA_URLS.filter(u => have.has(u)).length;
   }
 
@@ -483,7 +483,7 @@
   async function downloadAll() {
     if (offline.busy) return;
     offline.busy = true;
-    const cache = await caches.open("oq-media-2");
+    const cache = await caches.open("oq-media-3");
     const have = new Set((await cache.keys()).map(r => mediaKey(r.url)));
     const todo = MEDIA_URLS.filter(u => !have.has(u));
     offline.done = MEDIA_URLS.length - todo.length;

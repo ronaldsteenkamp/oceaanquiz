@@ -67,8 +67,20 @@ _picks_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "photo_pi
 PICKS = json.load(open(_picks_path, encoding="utf-8")) if os.path.exists(_picks_path) else {}
 
 
+_keep_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "photo_keep.json")
+KEEP = json.load(open(_keep_path, encoding="utf-8")) if os.path.exists(_keep_path) else {}
+
+
 def photos_for(a):
-    """-> lijst foto's [{img, size, credit}], hoofdfoto eerst."""
+    """-> lijst foto's [{img, size, credit}], hoofdfoto eerst.
+    photo_keep.json: welke automatisch gekozen foto's (1-3) blijven, bv. alleen die met één exemplaar."""
+    photos = _photos_for(a)
+    if a["id"] in KEEP:
+        photos = [photos[i - 1] for i in KEEP[a["id"]] if i <= len(photos)] or photos
+    return photos
+
+
+def _photos_for(a):
     if a["id"] in PICKS:  # met de hand gekozen (hele dier, natuurlijke omgeving): zie apply_picks.py
         out = []
         for p in PICKS[a["id"]]["photos"]:

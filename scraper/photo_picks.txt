@@ -1,82 +1,82 @@
 # Handmatig gekozen foto's per dier (indexen uit cache/sheets): eerste = hoofdfoto.
-# Criteria: hele dier in beeld, natuurlijke omgeving (geen aquarium, strand-stranding, museum, dood dier).
-stenella-frontalis: 0, 4, 9
-neophoca-cinerea: 0, 10, 11
+# Criteria: hele dier in beeld, natuurlijke omgeving, bij voorkeur één exemplaar.
+stenella-frontalis: 0, 9
+neophoca-cinerea: 0, 10
 erignathus-barbatus: 1, 10, 2
 histriophoca-fasciata: 0, 6, 4
-balaenoptera-musculus: 7, 0, 5
-phocoena-phocoena: 3, 10, 4
-megaptera-novaeangliae: 0, 10, 8
-phocoena-sinus: 0, 1
-zalophus-californianus: 6, 7, 5
+balaenoptera-musculus: 7, 0
+phocoena-phocoena: 4
+megaptera-novaeangliae: 0
+phocoena-sinus: 0
+zalophus-californianus: 5
 trichechus-manatus: 0, 11, 4
-sousa-chinensis: 0, 1, 6
-phocoenoides-dalli: 3, 0, 4
-dugong-dugon: 10, 6, 11
+sousa-chinensis: 0, 1
+phocoenoides-dalli: 0
+dugong-dugon: 10, 6
 ziphius-cavirostris: 1, 8, 10
-lagenorhynchus-obscurus: 1, 10, 2
-kogia-breviceps: 1, 8, 9
-balaenoptera-acutorostrata: 2, 8, 1
+lagenorhynchus-obscurus: 4, 3
+kogia-breviceps: 8
+balaenoptera-acutorostrata: 2, 8
 balaenoptera-edeni: 0, 2, 3
 zalophus-wollebaeki: 0, 7, 8
-stenella-coeruleoalba: 5, 1, 8
-delphinus-delphis: 2, 1, 9
-mesoplodon-bidens: 5, 0, 8
+stenella-coeruleoalba: 5
+delphinus-delphis: 2, 1
+mesoplodon-bidens: 0
 balaenoptera-physalus: 5, 0, 2
 phoca-vitulina: 1, 6, 0
 grampus-griseus: 4, 3, 0
-globicephala-melas: 3, 0, 10
+globicephala-melas: 2, 7
 eschrichtius-robustus: 6, 5, 2
-halichoerus-grypus: 0, 6, 3
+halichoerus-grypus: 6, 3
 balaena-mysticetus: 0, 4, 9
-cephalorhynchus-hectori: 9, 11, 5
-ursus-maritimus: 8, 6, 5
-globicephala-macrorhynchus: 9, 1, 8
-orcaella-brevirostris: 7, 3, 6
-arctocephalus-pusillus: 0, 5, 4
-arctocephalus-gazella: 10, 0, 3
+cephalorhynchus-hectori: 11, 5
+ursus-maritimus: 6, 5
+globicephala-macrorhynchus: 9
+orcaella-brevirostris: 7, 3
+arctocephalus-pusillus: 0, 5
+arctocephalus-gazella: 10, 3
 cystophora-cristata: 5, 10, 2
 kogia-sima: 0, 1, 8
-cephalorhynchus-commersonii: 2, 1, 4
+cephalorhynchus-commersonii: 4
 lobodon-carcinophaga: 0, 9, 7
-lontra-felina: 0, 4, 7
-stenella-longirostris: 0, 7, 3
-phoca-largha: 0, 1, 8
-otaria-flavescens: 0, 5, 2
-monodon-monoceros: 0, 1, 3
+lontra-felina: 0, 4
+stenella-longirostris: 7
+phoca-largha: 1
+otaria-flavescens: 5
+monodon-monoceros: 0, 3
 phocarctos-hookeri: 4, 0, 11
-hyperoodon-ampullatus: 2, 1, 7
+hyperoodon-ampullatus: 2, 1
 lissodelphis-borealis: 3, 9, 1
-callorhinus-ursinus: 0, 8, 1
-mirounga-angustirostris: 0, 1, 10
-eubalaena-glacialis: 0, 3, 4
+callorhinus-ursinus: 0, 1
+mirounga-angustirostris: 0, 10
+eubalaena-glacialis: 0
 balaenoptera-borealis: 1, 9, 0
-orcinus-orca: 5, 10, 0
-physeter-macrocephalus: 0, 7, 10
+orcinus-orca: 5
+physeter-macrocephalus: 10
 pusa-hispida: 1, 2, 8
 ommatophoca-rossii: 9, 3, 10
-steno-bredanensis: 0, 11, 8
-eumetopias-jubatus: 6, 10, 0
-tursiops-truncatus: 0, 9, 7
-odobenus-rosmarus: 9, 8, 0
+steno-bredanensis: 0, 11
+eumetopias-jubatus: 0
+tursiops-truncatus: 7
+odobenus-rosmarus: 9, 8
 leptonychotes-weddellii: 0, 10, 11
-lagenorhynchus-acutus: 2, 11, 1
-lagenorhynchus-albirostris: 1, 8, 6
-delphinapterus-leucas: 5, 4, 0
+lagenorhynchus-acutus: 2, 1
+lagenorhynchus-albirostris: 6
+delphinapterus-leucas: 0, 5
 pagophilus-groenlandicus: 3, 2, 0
 hydrurga-leptonyx: 1, 11, 4
-enhydra-lutris: 2, 10, 8
-mirounga-leonina: 5, 2, 1
+enhydra-lutris: 2, 8
+mirounga-leonina: 5, 1
 eubalaena-australis: 0, 7, 11
-berardius-bairdii: 10, 0, 4
-pseudorca-crassidens: 11, 8, 3
+berardius-bairdii: 0
+pseudorca-crassidens: 11, 8
 caretta-caretta: 4, 3, 0
-laticauda-laticaudata: 0, 7, 11
+laticauda-laticaudata: 7, 11
 eretmochelys-imbricata: 0, 6, 10
 lepidochelys-kempii: 3, 5, 10
 dermochelys-coriacea: 10, 4, 8
 natator-depressus: 0, 10, 5
-laticauda-colubrina: 0, 6, 2
+laticauda-colubrina: 0, 2
 hydrophis-platurus: 0, 1, 6
 chelonia-mydas: 0, 8, 10
 lepidochelys-olivacea: 0, 1, 7
@@ -89,24 +89,24 @@ taeniura-lymma: 0, 7, 1
 raja-brachyura: 0, 8, 11
 chiloscyllium-punctatum: 5, 0, 11
 heterodontus-francisci: 11, 6, 3
-negaprion-brevirostris: 0, 4, 8
+negaprion-brevirostris: 0, 4
 hemiscyllium-ocellatum: 5, 6, 10
 eucrossorhinus-dasypogon: 3, 1, 0
-nebrius-ferrugineus: 2, 10, 0
+nebrius-ferrugineus: 2, 10
 torpedo-marmorata: 0, 4, 1
-sphyrna-lewini: 11, 1, 8
-aetobatus-narinari: 0, 9, 1
+sphyrna-lewini: 11, 8
+aetobatus-narinari: 0, 9
 orectolobus-maculatus: 0, 7, 1
 hydrolagus-colliei: 0, 7, 2
-mustelus-asterias: 5, 11
+mustelus-asterias: 5
 raja-montagui: 0, 1
 notorynchus-cepedianus: 1, 0, 3
 chimaera-monstrosa: 0, 4, 1
 dasyatis-pastinaca: 0, 3, 1
 pristis-pristis: 0, 1
-sphyrna-zygaena: 8, 5, 4
+sphyrna-zygaena: 5, 8
 hexanchus-griseus: 0, 10, 1
-carcharhinus-amblyrhynchos: 0, 5, 8
+carcharhinus-amblyrhynchos: 0, 5
 leucoraja-naevus: 3, 4
 sphyrna-mokarran: 6, 1, 0
 scyliorhinus-canicula: 0, 6, 5
@@ -118,74 +118,74 @@ isurus-paucus: 10, 11
 carcharhinus-longimanus: 0, 4, 9
 alopias-pelagicus: 4, 0, 1
 cetorhinus-maximus: 7, 8, 0
-mobula-birostris: 0, 9, 3
-rhina-ancylostoma: 1, 2, 3
+mobula-birostris: 0, 9
+rhina-ancylostoma: 2, 3
 urobatis-halleri: 0, 8, 2
-galeorhinus-galeus: 4, 1, 2
+galeorhinus-galeus: 1, 4
 callorhinchus-milii: 0, 3, 6
 raja-clavata: 0, 7, 3
-carcharhinus-leucas: 8, 5, 10
+carcharhinus-leucas: 8, 5
 galeocerdo-cuvier: 0, 10, 7
 mustelus-mustelus: 0, 1, 2
-ginglymostoma-cirratum: 0, 7
+ginglymostoma-cirratum: 7
 alopias-vulpinus: 0, 3, 1
 rhincodon-typus: 0, 10, 5
 rhynchobatus-djiddensis: 0, 8, 1
 triaenodon-obesus: 0, 4, 11
 carcharodon-carcharias: 0, 7, 5
-carcharias-taurus: 2, 10, 4
+carcharias-taurus: 4
 stegostoma-fasciatum: 0, 3, 9
 squatina-squatina: 0, 9, 7
-carcharhinus-falciformis: 0, 7, 10
-carcharhinus-limbatus: 0, 2, 1
-carcharhinus-melanopterus: 1, 7, 2
+carcharhinus-falciformis: 7
+carcharhinus-limbatus: 2, 1
+carcharhinus-melanopterus: 1, 7
 cephaloscyllium-ventriosum: 6, 8, 5
-pygoscelis-adeliae: 3, 11, 5
+pygoscelis-adeliae: 3
 alca-torda: 0, 8, 9
 fregata-magnificens: 0, 1, 9
-sula-nebouxii: 2, 8, 0
+sula-nebouxii: 2, 0
 pelecanus-occidentalis: 8, 10, 4
 rissa-tridactyla: 0, 2, 11
 eudyptula-minor: 0, 3, 5
-somateria-mollissima: 0, 1, 2
-pygoscelis-papua: 0, 7, 11
-spheniscus-mendiculus: 0, 5, 7
-megadyptes-antipodes: 9, 3, 1
+somateria-mollissima: 0, 2
+pygoscelis-papua: 7, 11
+spheniscus-mendiculus: 0, 7
+megadyptes-antipodes: 9
 ardenna-grisea: 0, 7, 10
-diomedea-exulans: 0, 4, 7
-stercorarius-skua: 8, 1, 6
+diomedea-exulans: 0, 4
+stercorarius-skua: 8, 6
 larus-marinus: 0, 5, 10
-thalasseus-sandvicensis: 0, 5, 1
-spheniscus-humboldti: 0, 8, 11
-morus-bassanus: 0, 7, 11
-aptenodytes-forsteri: 0, 7, 8
-aptenodytes-patagonicus: 4, 0, 10
-gulosus-aristotelis: 3, 5, 1
+thalasseus-sandvicensis: 0, 5
+spheniscus-humboldti: 0
+morus-bassanus: 0, 11
+aptenodytes-forsteri: 11, 8, 10
+aptenodytes-patagonicus: 4
+gulosus-aristotelis: 3, 1
 fratercula-cirrhata: 4, 8, 0
-phoebastria-immutabilis: 0, 1, 9
-eudyptes-chrysolophus: 0, 5, 8
-spheniscus-magellanicus: 7, 4, 0
-sula-dactylatra: 0, 9, 8
-puffinus-puffinus: 1, 3, 9
-sterna-paradisaea: 8, 6, 11
-fulmarus-glacialis: 3, 0, 8
+phoebastria-immutabilis: 0, 1
+eudyptes-chrysolophus: 5, 8
+spheniscus-magellanicus: 7, 0
+sula-dactylatra: 9, 8
+puffinus-puffinus: 1, 9
+sterna-paradisaea: 8, 6
+fulmarus-glacialis: 3, 0
 fratercula-arctica: 5, 0, 6
 sula-sula: 0, 5, 11
 phaethon-aethereus: 1, 11, 0
-pygoscelis-antarcticus: 2, 9, 8
+pygoscelis-antarcticus: 9, 8
 hydrobates-pelagicus: 0, 1
 sterna-hirundo: 0, 6, 7
-thalassarche-melanophris: 4, 9, 10
-eudyptes-chrysocome: 9, 3, 5
+thalassarche-melanophris: 4, 10
+eudyptes-chrysocome: 9, 5
 oceanites-oceanicus: 0, 2, 4
-uria-aalge: 9, 0, 8
-larus-argentatus: 0, 5, 10
+uria-aalge: 9
+larus-argentatus: 0, 10
 macronectes-giganteus: 1, 5, 7
-cepphus-grylle: 0, 4, 9
-spheniscus-demersus: 6, 1, 10
+cepphus-grylle: 4, 9
+spheniscus-demersus: 6, 10
 homarus-americanus: 4, 0, 7
-limulus-polyphemus: 10, 5
-callinectes-sapidus: 0, 1, 2
+limulus-polyphemus: 10
+callinectes-sapidus: 1, 2
 galathea-strigosa: 5, 10, 0
 homarus-gammarus: 1, 0, 8
 necora-puber: 8, 6, 10
@@ -193,10 +193,10 @@ crangon-crangon: 6, 11, 5
 pagurus-bernhardus: 1, 6, 3
 hyas-araneus: 0, 1, 2
 semibalanus-balanoides: 1, 5, 6
-palaemon-serratus: 0, 7, 11
+palaemon-serratus: 0, 11
 lepas-anatifera: 7, 0, 3
 maja-squinado: 0, 1, 11
-porcellana-platycheles: 3, 1, 6
+porcellana-platycheles: 1, 6
 ligia-oceanica: 0, 11, 8
 corystes-cassivelaunus: 5, 9, 0
 birgus-latro: 0, 3, 7
@@ -208,7 +208,7 @@ paralithodes-camtschaticus: 3, 8, 9
 carcinus-maenas: 2, 0, 11
 caprella-linearis: 1, 11, 2
 chironex-fleckeri: 0, 3
-velella-velella: 3, 0, 5
+velella-velella: 3, 0
 cyanea-lamarckii: 0, 9, 6
 corallium-rubrum: 0, 3, 2
 rhizostoma-pulmo: 1, 6, 2
@@ -217,45 +217,45 @@ cyanea-capillata: 0, 2, 8
 chrysaora-hysoscella: 7, 9, 0
 aurelia-aurita: 1, 6, 3
 pelagia-noctiluca: 0, 6, 11
-tubularia-indivisa: 3, 0, 9
-physalia-physalis: 11, 0, 6
-actinia-equina: 7, 0, 8
-sagartia-elegans: 0, 2, 4
+tubularia-indivisa: 0
+physalia-physalis: 0, 6
+actinia-equina: 7, 0
+sagartia-elegans: 4
 cotylorhiza-tuberculata: 1, 2, 0
 anemonia-viridis: 10, 2, 3
-metridium-senile: 0, 4, 6
+metridium-senile: 4, 6
 urticina-felina: 0, 1, 8
 mnemiopsis-leidyi: 3, 4, 2
 cliona-celata: 0, 9, 1
 clavelina-lepadiformis: 4, 7, 10
-ciona-intestinalis: 8, 0, 5
+ciona-intestinalis: 0, 5
 lepidonotus-squamatus: 5, 4, 7
 sabellaria-spinulosa: 6, 1, 7
 halichondria-panicea: 2, 4, 0
 electra-pilosa: 4, 1, 9
-spirobranchus-giganteus: 0, 1, 7
-branchiostoma-lanceolatum: 0, 9
+spirobranchus-giganteus: 0, 7
+branchiostoma-lanceolatum: 0
 lineus-longissimus: 1, 3, 4
 membranipora-membranacea: 1, 3, 4
 beroe-cucumis: 11, 0, 1
-sabella-pavonina: 4, 8, 10
+sabella-pavonina: 8, 10
 riftia-pachyptila: 3, 2, 4
 lanice-conchilega: 0, 4, 10
 botryllus-schlosseri: 3, 6, 1
-hediste-diversicolor: 5, 1, 9
-euplectella-aspergillum: 0, 3, 6
+hediste-diversicolor: 5, 9
+euplectella-aspergillum: 6
 pleurobrachia-pileus: 11, 0, 8
 alitta-virens: 3, 0, 10
 aphrodita-aculeata: 1, 6, 4
 arenicola-marina: 0, 10, 7
 henricia-sanguinolenta: 1, 0, 4
-ophiothrix-fragilis: 6, 3, 0
+ophiothrix-fragilis: 6, 3
 diadema-setosum: 3, 2, 1
 acanthaster-planci: 2, 4, 3
 echinus-esculentus: 0, 4, 5
 crossaster-papposus: 0, 8, 11
 ophiura-ophiura: 0, 1, 11
-holothuria-forskali: 0, 4, 9
+holothuria-forskali: 0, 4
 asterias-rubens: 0, 7, 1
 astropecten-irregularis: 1, 0, 11
 psammechinus-miliaris: 5, 0, 1
@@ -263,95 +263,95 @@ strongylocentrotus-purpuratus: 3, 0, 10
 echinocardium-cordatum: 4, 6, 0
 pycnopodia-helianthoides: 0, 7, 4
 engraulis-encrasicolus: 0, 6, 3
-salmo-salar: 4, 1, 7
+salmo-salar: 1, 7
 diodon-holocanthus: 0, 1, 2
-periophthalmus-barbarus: 2, 7, 3
-synchiropus-splendidus: 0, 2, 10
+periophthalmus-barbarus: 2, 3
+synchiropus-splendidus: 0, 2
 makaira-nigricans: 1, 0
-chromis-viridis: 0, 5, 2
+chromis-viridis: 0
 thunnus-thynnus: 3, 1, 10
 psychrolutes-marcidus: 3, 0
 platichthys-flesus: 0, 7, 11
-pholis-gunnellus: 0, 10, 4
-premnas-biaculeatus: 11, 0, 3
+pholis-gunnellus: 0, 4
+premnas-biaculeatus: 11, 0
 epinephelus-marginatus: 0, 10, 2
-bolbometopon-muricatum: 4, 3, 5
+bolbometopon-muricatum: 4, 3
 oncorhynchus-tshawytscha: 0, 4
 pomatoschistus-minutus: 5, 1, 11
 chelon-labrosus: 0, 4, 5
 epinephelus-lanceolatus: 1, 0, 11
-amphiprion-ocellaris: 0, 7, 9
+amphiprion-ocellaris: 7
 gasterosteus-aculeatus: 2, 3, 8
-katsuwonus-pelamis: 5, 1
+katsuwonus-pelamis: 5
 sardina-pilchardus: 0, 9, 4
-dicentrarchus-labrax: 1, 3, 10
-pomacanthus-paru: 0, 2, 7
-opistognathus-aurifrons: 0, 3, 6
-thunnus-albacares: 3, 0, 2
+dicentrarchus-labrax: 10, 3
+pomacanthus-paru: 0, 7
+opistognathus-aurifrons: 6, 3
+thunnus-albacares: 0, 2
 belone-belone: 0, 1, 3
-zebrasoma-flavescens: 0, 1, 4
+zebrasoma-flavescens: 0, 1
 forcipiger-flavissimus: 0, 2, 10
 diodon-hystrix: 8, 0, 9
 dendrochirus-zebra: 0, 5, 11
-plotosus-lineatus: 0, 2, 4
-aeoliscus-strigatus: 0, 1, 10
-heteroconger-hassi: 0, 5, 7
+plotosus-lineatus: 1
+aeoliscus-strigatus: 8
+heteroconger-hassi: 0, 5
 labrus-bergylta: 0, 10, 7
 lepadogaster-lepadogaster: 0, 5, 6
 latimeria-chalumnae: 1, 2
 pterois-volitans: 0, 10, 2
-labroides-dimidiatus: 0, 4, 7
+labroides-dimidiatus: 0, 4
 myxine-glutinosa: 0
-heniochus-acuminatus: 4, 6, 2
+heniochus-acuminatus: 4
 myoxocephalus-scorpius: 0, 8
 fistularia-commersonii: 3, 10, 9
-sparus-aurata: 0, 6, 7
-coryphaena-hippurus: 5, 0, 4
+sparus-aurata: 0, 6
+coryphaena-hippurus: 5, 2, 3
 balistes-capriscus: 4, 0, 1
 gymnothorax-funebris: 10, 0, 5
 sphyraena-barracuda: 9, 7, 1
 gymnothorax-favagineus: 0, 10, 1
 trachinus-draco: 0, 3, 9
-phycodurus-eques: 0, 6, 7
+phycodurus-eques: 0, 7
 syngnathus-acus: 4, 0, 9
-chaetodon-lunula: 0, 4, 9
+chaetodon-lunula: 9
 clupea-harengus: 2, 8
 agonus-cataphractus: 5, 2, 3
 hippoglossus-hippoglossus: 5, 0
-trachurus-trachurus: 2, 3, 5
-pterois-miles: 0, 1, 4
-epinephelus-itajara: 11, 7, 10
+trachurus-trachurus: 2
+pterois-miles: 1, 4
+epinephelus-itajara: 11, 10
 melanocetus-johnsonii: 1
 gadus-morhua: 0, 6, 10
-lutjanus-kasmira: 3, 1, 4
+lutjanus-kasmira: 0, 5, 7
 hoplostethus-atlanticus: 0
 pomacanthus-imperator: 0, 7, 11
 echiichthys-vipera: 0, 7, 10
-naso-lituratus: 0, 9, 5
+naso-lituratus: 0, 9
 conger-conger: 0, 8, 3
 pollachius-virens: 0, 5
-atherina-presbyter: 0, 2, 1
+atherina-presbyter: 0, 2
 hippocampus-hippocampus: 0, 5, 11
 lactoria-cornuta: 7, 1, 9
 hippocampus-guttulatus: 7, 3, 10
-platax-teira: 1, 0, 10
+platax-teira: 10
 molva-molva: 3, 6, 5
 balistoides-conspicillum: 0, 7, 11
-dascyllus-aruanus: 0, 2, 3
+dascyllus-aruanus: 0, 2
 zanclus-cornutus: 0, 11, 3
-muraena-helena: 1, 8, 10
-mullus-surmuletus: 4, 1, 2
+muraena-helena: 8, 10
+mullus-surmuletus: 4, 1
 cheilinus-undulatus: 1, 0, 6
 chaetodon-auriga: 4, 0, 8
 uranoscopus-scaber: 0, 3
 caranx-hippos: 0, 10
-istiophorus-platypterus: 7, 10, 6
-anguilla-anguilla: 8, 9, 4
+istiophorus-platypterus: 10, 6
+anguilla-anguilla: 8, 4
 arothron-meleagris: 0, 5, 2
 bothus-lunatus: 2, 0, 4
 pygoplites-diacanthus: 5, 0, 6
-paracanthurus-hepatus: 8, 6, 9
-chelmon-rostratus: 5, 7, 2
+paracanthurus-hepatus: 8, 6
+chelmon-rostratus: 2, 7
 callionymus-lyra: 0, 11, 2
 zoarces-viviparus: 0, 8
 gymnothorax-javanicus: 11, 0, 9
@@ -361,7 +361,7 @@ pterois-antennata: 1, 3, 8
 chelidonichthys-lucerna: 5, 0, 10
 scorpaena-scrofa: 3, 4, 6
 lutjanus-campechanus: 3, 7
-pseudanthias-squamipinnis: 0, 3, 7
+pseudanthias-squamipinnis: 0, 3
 platax-pinnatus: 8, 0, 10
 oncorhynchus-nerka: 9, 6
 coris-gaimard: 1, 0, 9
@@ -369,7 +369,7 @@ odonus-niger: 2, 3, 0
 limanda-limanda: 0, 1
 melanogrammus-aeglefinus: 0, 1
 pleuronectes-platessa: 3, 0, 4
-abudefduf-saxatilis: 0, 3, 7
+abudefduf-saxatilis: 0
 cyclopterus-lumpus: 1, 3, 0
 oxycirrhites-typus: 2, 0, 5
 scophthalmus-maximus: 5, 9, 4
@@ -377,15 +377,15 @@ solea-solea: 5, 0, 10
 aulostomus-maculatus: 5, 7, 9
 dactylopterus-volitans: 0, 8, 9
 siganus-vulpinus: 4, 0, 7
-nemateleotris-magnifica: 0, 6, 1
-phyllopteryx-taeniolatus: 4, 0, 9
+nemateleotris-magnifica: 0, 6
+phyllopteryx-taeniolatus: 0, 9
 merlangius-merlangus: 2
 acanthurus-leucosternon: 1, 0, 5
 arothron-hispidus: 0, 3, 11
 antennarius-maculatus: 0, 1, 4
 ammodytes-tobianus: 7
 lophius-piscatorius: 1, 0, 4
-petromyzon-marinus: 1, 6, 2
+petromyzon-marinus: 6, 2
 spinachia-spinachia: 1, 4, 0
 anarhichas-lupus: 0, 8, 2
 zeus-faber: 7, 9, 4
@@ -397,11 +397,11 @@ facelina-bostoniensis: 0, 4, 3
 aplysia-californica: 0, 9, 8
 tridacna-gigas: 10, 0, 2
 octopus-vulgaris: 0, 1, 6
-aplysia-punctata: 2, 8, 0
+aplysia-punctata: 2, 0
 littorina-littorea: 1, 7, 8
 ostrea-edulis: 0
 loligo-vulgaris: 2, 0, 1
-patella-vulgata: 10, 1, 6
+patella-vulgata: 6, 10
 charonia-tritonis: 7, 1, 5
 clione-limacina: 1, 0, 2
 sepia-officinalis: 0, 3, 8
@@ -409,14 +409,14 @@ haliotis-tuberculata: 4, 2, 7
 hapalochlaena-lunulata: 7, 0, 1
 pecten-maximus: 1, 10
 tritonia-hombergii: 0, 5, 7
-crassostrea-gigas: 0, 9, 4
-mytilus-edulis: 2, 1, 6
-crepidula-fornicata: 0, 6, 5
-arctica-islandica: 0, 1
+crassostrea-gigas: 0, 4
+mytilus-edulis: 6
+crepidula-fornicata: 0
+arctica-islandica: 1
 teredo-navalis: 0, 1, 4
 edmundsella-pedata: 1, 0, 7
-janthina-janthina: 1, 2, 8
-nucella-lapillus: 10, 1, 4
+janthina-janthina: 2, 1
+nucella-lapillus: 10, 4
 cryptochiton-stelleri: 0, 6
 enteroctopus-dofleini: 0, 8
 hexabranchus-sanguineus: 0, 9, 1
@@ -425,3 +425,4 @@ murex-pecten: 11, 9, 7
 aequipecten-opercularis: 1, 5
 limacia-clavigera: 0, 4, 11
 buccinum-undatum: 5, 10
+monachus-monachus: 0

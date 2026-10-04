@@ -1,0 +1,178 @@
+# Per dier: welke van de huidige foto's (1-3, volgorde = nieuwe volgorde) blijven: alleen één exemplaar in beeld
+stenella-frontalis: 1, 3
+neophoca-cinerea: 1, 2
+balaenoptera-musculus: 1, 2
+phocoena-phocoena: 3
+megaptera-novaeangliae: 1
+phocoena-sinus: 1
+zalophus-californianus: 3
+sousa-chinensis: 1, 2
+phocoenoides-dalli: 2
+dugong-dugon: 1, 2
+lagenorhynchus-obscurus: ZOEK
+kogia-breviceps: 2
+balaenoptera-acutorostrata: 1, 2
+stenella-coeruleoalba: 1
+delphinus-delphis: 1, 2
+mesoplodon-bidens: 2
+globicephala-melas: ZOEK
+halichoerus-grypus: 2, 3
+cephalorhynchus-hectori: 2, 3
+ursus-maritimus: 2, 3
+neophocaena-phocaenoides: 3
+globicephala-macrorhynchus: 1
+orcaella-brevirostris: 1, 2
+arctocephalus-pusillus: 1, 2
+arctocephalus-gazella: 1, 3
+cephalorhynchus-commersonii: 3
+lontra-felina: 1, 2
+pontoporia-blainvillei: 3
+stenella-longirostris: 2
+phoca-largha: 2
+otaria-flavescens: 2
+monachus-monachus: ZOEK
+monodon-monoceros: 1, 3
+hyperoodon-ampullatus: 1, 2
+callorhinus-ursinus: 1, 3
+mirounga-angustirostris: 1, 3
+eubalaena-glacialis: 1
+orcinus-orca: 1
+physeter-macrocephalus: 3
+steno-bredanensis: 1, 2
+eumetopias-jubatus: 3
+tursiops-truncatus: 3
+odobenus-rosmarus: 1, 2
+lagenorhynchus-acutus: 1, 3
+lagenorhynchus-albirostris: 3
+delphinapterus-leucas: 3, 1
+enhydra-lutris: 1, 3
+mirounga-leonina: 1, 3
+berardius-bairdii: 2
+pseudorca-crassidens: 1, 2
+laticauda-laticaudata: 2, 3
+laticauda-colubrina: 1, 3
+negaprion-brevirostris: 1, 2
+squalus-acanthias: 2, 3
+chlamydoselachus-anguineus: 1
+nebrius-ferrugineus: 1, 2
+sphyrna-lewini: 1, 3
+aetobatus-narinari: 1, 2
+mustelus-asterias: 1
+sphyrna-zygaena: ZOEK
+carcharhinus-amblyrhynchos: 1, 2
+mitsukurina-owstoni: 1
+isistius-brasiliensis: 1
+mobula-birostris: 1, 2
+rhina-ancylostoma: 2, 3
+galeorhinus-galeus: 2, 1
+carcharhinus-leucas: 1, 2
+ginglymostoma-cirratum: 2
+carcharias-taurus: 3
+carcharhinus-falciformis: 2
+carcharhinus-limbatus: 2, 3
+carcharhinus-melanopterus: 1, 2
+pygoscelis-adeliae: 1
+sula-nebouxii: 1, 3
+somateria-mollissima: 1, 3
+pygoscelis-papua: 2, 3
+spheniscus-mendiculus: 1, 3
+megadyptes-antipodes: 1
+diomedea-exulans: 1, 2
+stercorarius-skua: 1, 3
+thalasseus-sandvicensis: 1, 2
+spheniscus-humboldti: 1
+morus-bassanus: 1, 3
+aptenodytes-forsteri: ZOEK
+alle-alle: ZOEK
+aptenodytes-patagonicus: 1
+gulosus-aristotelis: 1, 3
+phoebastria-immutabilis: 1, 2
+eudyptes-chrysolophus: 2, 3
+spheniscus-magellanicus: 1, 3
+sula-dactylatra: 2, 3
+puffinus-puffinus: 1, 3
+sterna-paradisaea: 1, 2
+fulmarus-glacialis: 1, 2
+pygoscelis-antarcticus: 2, 3
+thalassarche-melanophris: 1, 3
+eudyptes-chrysocome: 1, 3
+uria-aalge: 1
+larus-argentatus: 1, 3
+cepphus-grylle: 2, 3
+spheniscus-demersus: 1, 3
+limulus-polyphemus: 1
+callinectes-sapidus: 2, 3
+palaemon-serratus: 1, 3
+porcellana-platycheles: 2, 3
+macrocheira-kaempferi: 2
+velella-velella: 1, 2
+tubularia-indivisa: 2
+physalia-physalis: 2, 3
+actinia-equina: 1, 2
+sagartia-elegans: 3
+metridium-senile: 2, 3
+ciona-intestinalis: 2, 3
+spirobranchus-giganteus: 1, 3
+branchiostoma-lanceolatum: 1
+sabella-pavonina: 2, 3
+hediste-diversicolor: 1, 3
+euplectella-aspergillum: 3
+ophiothrix-fragilis: 1, 2
+holothuria-forskali: 1, 2
+engraulis-encrasicolus: ZOEK
+salmo-salar: 2, 3
+periophthalmus-barbarus: 1, 3
+synchiropus-splendidus: 1, 2
+chromis-viridis: 1
+pholis-gunnellus: 1, 3
+premnas-biaculeatus: 1, 2
+bolbometopon-muricatum: 1, 2
+amphiprion-ocellaris: 2
+katsuwonus-pelamis: 1
+sardina-pilchardus: ZOEK
+dicentrarchus-labrax: 3, 2
+pomacanthus-paru: 1, 3
+opistognathus-aurifrons: 3, 2
+thunnus-albacares: 2, 3
+zebrasoma-flavescens: 1, 2
+plotosus-lineatus: ZOEK
+aeoliscus-strigatus: ZOEK
+heteroconger-hassi: 1, 2
+labroides-dimidiatus: 1, 2
+heniochus-acuminatus: 1
+sparus-aurata: 1, 2
+coryphaena-hippurus: ZOEK
+phycodurus-eques: 1, 3
+chaetodon-lunula: 3
+clupea-harengus: ZOEK
+trachurus-trachurus: 1
+pterois-miles: 2, 3
+epinephelus-itajara: 1, 3
+lutjanus-kasmira: ZOEK
+naso-lituratus: 1, 2
+atherina-presbyter: 1, 2
+platax-teira: 3
+scomber-scombrus: ZOEK
+dascyllus-aruanus: 1, 2
+muraena-helena: 2, 3
+mullus-surmuletus: 1, 2
+caranx-hippos: ZOEK
+istiophorus-platypterus: 2, 3
+anguilla-anguilla: 1, 3
+paracanthurus-hepatus: 1, 2
+chelmon-rostratus: 3, 2
+pseudanthias-squamipinnis: 1, 2
+abudefduf-saxatilis: 1
+exocoetus-volitans: 1
+nemateleotris-magnifica: 1, 2
+phyllopteryx-taeniolatus: 2, 3
+petromyzon-marinus: 2, 3
+ensis-leei: 1, 2
+aplysia-punctata: 1, 3
+patella-vulgata: 3, 1
+crassostrea-gigas: 1, 3
+mytilus-edulis: 3
+crepidula-fornicata: 1
+arctica-islandica: 2
+janthina-janthina: 2, 1
+nucella-lapillus: 1, 3

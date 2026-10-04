@@ -53,6 +53,14 @@ def main():
                     top = dict(top, url=wiki_by_id[aid], by="Wikipedia")
                 c["top"] = top
 
+    # Feitjes die (bijna) hetzelfde zeggen als het topfeitje niet nog eens onder 'Meer weten' tonen
+    drop_path = os.path.join(HERE, "fun", "drop_dupes.json")
+    if os.path.exists(drop_path):
+        with open(drop_path, encoding="utf-8") as f:
+            for aid, dupes in json.load(f).items():
+                if aid in curated:
+                    curated[aid]["facts"] = [x for x in curated[aid]["facts"] if x not in dupes]
+
     with open(curated_path, "w", encoding="utf-8") as f:
         json.dump(curated, f, ensure_ascii=False, indent=1)
     print(f"{len(fun)} dieren bijgewerkt, {sum('wikiEn' in c for c in curated.values())} met Engelse bron, "

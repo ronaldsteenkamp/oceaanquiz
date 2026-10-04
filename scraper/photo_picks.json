@@ -2,7 +2,6 @@
  "stenella-frontalis": {
   "keys": [
    "stenella-frontalis_cur",
-   "stenella-frontalis_461275013",
    "stenella-frontalis_534552623"
   ],
   "photos": [
@@ -18,15 +17,6 @@
    {
     "img": "images/stenella-frontalis-2.webp",
     "credit": {
-     "by": "Mikie Green",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/461275013",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/stenella-frontalis-3.webp",
-    "credit": {
      "by": "William Stephens",
      "license": "CC-BY",
      "url": "https://www.inaturalist.org/photos/534552623",
@@ -38,8 +28,7 @@
  "neophoca-cinerea": {
   "keys": [
    "neophoca-cinerea_cur",
-   "neophoca-cinerea_121891673",
-   "neophoca-cinerea_604662934"
+   "neophoca-cinerea_121891673"
   ],
   "photos": [
    {
@@ -57,15 +46,6 @@
      "by": "Rick",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/121891673",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/neophoca-cinerea-3.webp",
-    "credit": {
-     "by": "nlarghi",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/604662934",
      "source": "iNaturalist"
     }
    }
@@ -146,8 +126,7 @@
  "balaenoptera-musculus": {
   "keys": [
    "balaenoptera-musculus_136988876",
-   "balaenoptera-musculus_cur",
-   "balaenoptera-musculus_610949536"
+   "balaenoptera-musculus_cur"
   ],
   "photos": [
    {
@@ -167,45 +146,16 @@
      "url": "https://www.inaturalist.org/photos/48765179",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/balaenoptera-musculus-3.webp",
-    "credit": {
-     "by": "steve3rivers",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/610949536",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "phocoena-phocoena": {
   "keys": [
-   "phocoena-phocoena_317123618",
-   "phocoena-phocoena_500491015",
    "phocoena-phocoena_434344425"
   ],
   "photos": [
    {
     "img": "images/phocoena-phocoena.webp",
-    "credit": {
-     "by": "likebirds214",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/317123618",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/phocoena-phocoena-2.webp",
-    "credit": {
-     "by": "Gabi Rusu",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/500491015",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/phocoena-phocoena-3.webp",
     "credit": {
      "by": "Tobias S. Radmer",
      "license": "CC-BY-NC",
@@ -217,9 +167,7 @@
  },
  "megaptera-novaeangliae": {
   "keys": [
-   "megaptera-novaeangliae_cur",
-   "megaptera-novaeangliae_337668260",
-   "megaptera-novaeangliae_254499834"
+   "megaptera-novaeangliae_cur"
   ],
   "photos": [
    {
@@ -230,31 +178,12 @@
      "url": "https://www.inaturalist.org/photos/255461843",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/megaptera-novaeangliae-2.webp",
-    "credit": {
-     "by": "Tobin Sparling (he/him)",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/337668260",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/megaptera-novaeangliae-3.webp",
-    "credit": {
-     "by": "Wayne and Pam Osborn",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/254499834",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "phocoena-sinus": {
   "keys": [
-   "phocoena-sinus_cur",
-   "phocoena-sinus_13154800"
+   "phocoena-sinus_cur"
   ],
   "photos": [
    {
@@ -265,45 +194,16 @@
      "url": "https://www.inaturalist.org/photos/13154799",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/phocoena-sinus-2.webp",
-    "credit": {
-     "by": "Paula Olson",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/13154800",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "zalophus-californianus": {
   "keys": [
-   "zalophus-californianus_361047442",
-   "zalophus-californianus_361047459",
    "zalophus-californianus_315137890"
   ],
   "photos": [
    {
     "img": "images/zalophus-californianus.webp",
-    "credit": {
-     "by": "Luis P. B.",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/361047442",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/zalophus-californianus-2.webp",
-    "credit": {
-     "by": "Luis P. B.",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/361047459",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/zalophus-californianus-3.webp",
     "credit": {
      "by": "James Maughn",
      "license": "CC-BY-NC",
@@ -352,8 +252,7 @@
  "sousa-chinensis": {
   "keys": [
    "sousa-chinensis_cur",
-   "sousa-chinensis_435036509",
-   "sousa-chinensis_54344344"
+   "sousa-chinensis_435036509"
   ],
   "photos": [
    {
@@ -373,49 +272,20 @@
      "url": "https://www.inaturalist.org/photos/435036509",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/sousa-chinensis-3.webp",
-    "credit": {
-     "by": "momo_sara",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/54344344",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "phocoenoides-dalli": {
   "keys": [
-   "phocoenoides-dalli_551635115",
-   "phocoenoides-dalli_cur",
-   "phocoenoides-dalli_551635136"
+   "phocoenoides-dalli_cur"
   ],
   "photos": [
    {
     "img": "images/phocoenoides-dalli.webp",
     "credit": {
-     "by": "Travis Nolan",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/551635115",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/phocoenoides-dalli-2.webp",
-    "credit": {
      "by": "Alex Lamoreaux",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/22713235",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/phocoenoides-dalli-3.webp",
-    "credit": {
-     "by": "Travis Nolan",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/551635136",
      "source": "iNaturalist"
     }
    }
@@ -424,8 +294,7 @@
  "dugong-dugon": {
   "keys": [
    "dugong-dugon_711266185",
-   "dugong-dugon_49026381",
-   "dugong-dugon_163258305"
+   "dugong-dugon_49026381"
   ],
   "photos": [
    {
@@ -443,15 +312,6 @@
      "by": "Ivan Samra",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/49026381",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/dugong-dugon-3.webp",
-    "credit": {
-     "by": "madgeographic",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/163258305",
      "source": "iNaturalist"
     }
    }
@@ -495,35 +355,25 @@
  },
  "lagenorhynchus-obscurus": {
   "keys": [
-   "lagenorhynchus-obscurus_536857918",
-   "lagenorhynchus-obscurus_83048676",
-   "lagenorhynchus-obscurus_536857924"
+   "lagenorhynchus-obscurus_552587458",
+   "lagenorhynchus-obscurus_3043129"
   ],
   "photos": [
    {
     "img": "images/lagenorhynchus-obscurus.webp",
     "credit": {
-     "by": "kbanning94",
+     "by": "Oscar Thomas",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/536857918",
+     "url": "https://www.inaturalist.org/photos/552587458",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/lagenorhynchus-obscurus-2.webp",
     "credit": {
-     "by": "martinmoscovich",
+     "by": "marsci_nelson",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/83048676",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/lagenorhynchus-obscurus-3.webp",
-    "credit": {
-     "by": "kbanning94",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/536857924",
+     "url": "https://www.inaturalist.org/photos/3043129",
      "source": "iNaturalist"
     }
    }
@@ -531,35 +381,15 @@
  },
  "kogia-breviceps": {
   "keys": [
-   "kogia-breviceps_198282116",
-   "kogia-breviceps_720129275",
-   "kogia-breviceps_720129259"
+   "kogia-breviceps_720129275"
   ],
   "photos": [
    {
     "img": "images/kogia-breviceps.webp",
     "credit": {
-     "by": "Sergio Martínez",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/198282116",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/kogia-breviceps-2.webp",
-    "credit": {
      "by": "DiGua Su",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/720129275",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/kogia-breviceps-3.webp",
-    "credit": {
-     "by": "DiGua Su",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/720129259",
      "source": "iNaturalist"
     }
    }
@@ -568,8 +398,7 @@
  "balaenoptera-acutorostrata": {
   "keys": [
    "balaenoptera-acutorostrata_255459537",
-   "balaenoptera-acutorostrata_536411497",
-   "balaenoptera-acutorostrata_255463958"
+   "balaenoptera-acutorostrata_536411497"
   ],
   "photos": [
    {
@@ -587,15 +416,6 @@
      "by": "bretthartl",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/536411497",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/balaenoptera-acutorostrata-3.webp",
-    "credit": {
-     "by": "Wayne and Pam Osborn",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/255463958",
      "source": "iNaturalist"
     }
    }
@@ -675,9 +495,7 @@
  },
  "stenella-coeruleoalba": {
   "keys": [
-   "stenella-coeruleoalba_137862485",
-   "stenella-coeruleoalba_165801708",
-   "stenella-coeruleoalba_409216726"
+   "stenella-coeruleoalba_137862485"
   ],
   "photos": [
    {
@@ -688,32 +506,13 @@
      "url": "https://www.inaturalist.org/photos/137862485",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/stenella-coeruleoalba-2.webp",
-    "credit": {
-     "by": "Remy DUBAS",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/165801708",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/stenella-coeruleoalba-3.webp",
-    "credit": {
-     "by": "gabmot",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/409216726",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "delphinus-delphis": {
   "keys": [
    "delphinus-delphis_158954338",
-   "delphinus-delphis_5026344",
-   "delphinus-delphis_252670730"
+   "delphinus-delphis_5026344"
   ],
   "photos": [
    {
@@ -733,49 +532,20 @@
      "url": "https://www.inaturalist.org/photos/5026344",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/delphinus-delphis-3.webp",
-    "credit": {
-     "by": "Joao Tata Regala",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/252670730",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "mesoplodon-bidens": {
   "keys": [
-   "mesoplodon-bidens_255464915",
-   "mesoplodon-bidens_cur",
-   "mesoplodon-bidens_223004336"
+   "mesoplodon-bidens_cur"
   ],
   "photos": [
    {
     "img": "images/mesoplodon-bidens.webp",
     "credit": {
-     "by": "Wayne and Pam Osborn",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/255464915",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/mesoplodon-bidens-2.webp",
-    "credit": {
      "by": "Ryan Zucker",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/246320414",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/mesoplodon-bidens-3.webp",
-    "credit": {
-     "by": "Tim Healy",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/223004336",
      "source": "iNaturalist"
     }
    }
@@ -891,35 +661,25 @@
  },
  "globicephala-melas": {
   "keys": [
-   "globicephala-melas_254758028",
-   "globicephala-melas_cur",
-   "globicephala-melas_283726671"
+   "globicephala-melas_215548410",
+   "globicephala-melas_696532477"
   ],
   "photos": [
    {
     "img": "images/globicephala-melas.webp",
     "credit": {
-     "by": "whale_nerd",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/254758028",
+     "by": "Vsevolod Rudyi",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/215548410",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/globicephala-melas-2.webp",
     "credit": {
-     "by": "Vsevolod Rudyi",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/215548393",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/globicephala-melas-3.webp",
-    "credit": {
-     "by": "simben",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/283726671",
+     "by": "Eve Henríquez",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/696532477",
      "source": "iNaturalist"
     }
    }
@@ -963,22 +723,12 @@
  },
  "halichoerus-grypus": {
   "keys": [
-   "halichoerus-grypus_cur",
    "halichoerus-grypus_178457742",
    "halichoerus-grypus_83153847"
   ],
   "photos": [
    {
     "img": "images/halichoerus-grypus.webp",
-    "credit": {
-     "by": "Martha de Jong-Lantink",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/200723202",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/halichoerus-grypus-2.webp",
     "credit": {
      "by": "Jakob Fahr",
      "license": "CC-BY-NC",
@@ -987,7 +737,7 @@
     }
    },
    {
-    "img": "images/halichoerus-grypus-3.webp",
+    "img": "images/halichoerus-grypus-2.webp",
     "credit": {
      "by": "Kevin Lynch",
      "license": "CC-BY",
@@ -1035,22 +785,12 @@
  },
  "cephalorhynchus-hectori": {
   "keys": [
-   "cephalorhynchus-hectori_593006629",
    "cephalorhynchus-hectori_593568119",
    "cephalorhynchus-hectori_187167571"
   ],
   "photos": [
    {
     "img": "images/cephalorhynchus-hectori.webp",
-    "credit": {
-     "by": "William Harland",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/593006629",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/cephalorhynchus-hectori-2.webp",
     "credit": {
      "by": "Genevieve Early",
      "license": "CC-BY",
@@ -1059,7 +799,7 @@
     }
    },
    {
-    "img": "images/cephalorhynchus-hectori-3.webp",
+    "img": "images/cephalorhynchus-hectori-2.webp",
     "credit": {
      "by": "chris_barnesoz",
      "license": "CC-BY-NC",
@@ -1071,22 +811,12 @@
  },
  "ursus-maritimus": {
   "keys": [
-   "ursus-maritimus_19264370",
    "ursus-maritimus_61910982",
    "ursus-maritimus_61910979"
   ],
   "photos": [
    {
     "img": "images/ursus-maritimus.webp",
-    "credit": {
-     "by": "Laura Keene",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/19264370",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/ursus-maritimus-2.webp",
     "credit": {
      "by": "M. A. Naturalist",
      "license": "CC-BY-NC",
@@ -1095,7 +825,7 @@
     }
    },
    {
-    "img": "images/ursus-maritimus-3.webp",
+    "img": "images/ursus-maritimus-2.webp",
     "credit": {
      "by": "M. A. Naturalist",
      "license": "CC-BY-NC",
@@ -1107,9 +837,7 @@
  },
  "globicephala-macrorhynchus": {
   "keys": [
-   "globicephala-macrorhynchus_159806977",
-   "globicephala-macrorhynchus_160507022",
-   "globicephala-macrorhynchus_252161554"
+   "globicephala-macrorhynchus_159806977"
   ],
   "photos": [
    {
@@ -1120,32 +848,13 @@
      "url": "https://www.inaturalist.org/photos/159806977",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/globicephala-macrorhynchus-2.webp",
-    "credit": {
-     "by": "thadroller",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/160507022",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/globicephala-macrorhynchus-3.webp",
-    "credit": {
-     "by": "docprt",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/252161554",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "orcaella-brevirostris": {
   "keys": [
    "orcaella-brevirostris_282767229",
-   "orcaella-brevirostris_345657581",
-   "orcaella-brevirostris_346960788"
+   "orcaella-brevirostris_345657581"
   ],
   "photos": [
    {
@@ -1165,23 +874,13 @@
      "url": "https://www.inaturalist.org/photos/345657581",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/orcaella-brevirostris-3.webp",
-    "credit": {
-     "by": "Sila Viriyautsahakul",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/346960788",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "arctocephalus-pusillus": {
   "keys": [
    "arctocephalus-pusillus_cur",
-   "arctocephalus-pusillus_23809900",
-   "arctocephalus-pusillus_23809673"
+   "arctocephalus-pusillus_23809900"
   ],
   "photos": [
    {
@@ -1201,22 +900,12 @@
      "url": "https://www.inaturalist.org/photos/23809900",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/arctocephalus-pusillus-3.webp",
-    "credit": {
-     "by": "Bird Explorers",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/23809673",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "arctocephalus-gazella": {
   "keys": [
    "arctocephalus-gazella_115960957",
-   "arctocephalus-gazella_cur",
    "arctocephalus-gazella_386912638"
   ],
   "photos": [
@@ -1231,15 +920,6 @@
    },
    {
     "img": "images/arctocephalus-gazella-2.webp",
-    "credit": {
-     "by": "Liam Quinn",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/71159",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/arctocephalus-gazella-3.webp",
     "credit": {
      "by": "Johnny Giese",
      "license": "CC-BY-NC",
@@ -1323,31 +1003,11 @@
  },
  "cephalorhynchus-commersonii": {
   "keys": [
-   "cephalorhynchus-commersonii_441842688",
-   "cephalorhynchus-commersonii_144049450",
    "cephalorhynchus-commersonii_457991771"
   ],
   "photos": [
    {
     "img": "images/cephalorhynchus-commersonii.webp",
-    "credit": {
-     "by": "Justin Hofman",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/441842688",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/cephalorhynchus-commersonii-2.webp",
-    "credit": {
-     "by": "pleistocene",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/144049450",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/cephalorhynchus-commersonii-3.webp",
     "credit": {
      "by": "sonata_z",
      "license": "CC-BY-NC",
@@ -1396,8 +1056,7 @@
  "lontra-felina": {
   "keys": [
    "lontra-felina_cur",
-   "lontra-felina_304561619",
-   "lontra-felina_403234004"
+   "lontra-felina_304561619"
   ],
   "photos": [
    {
@@ -1417,49 +1076,20 @@
      "url": "https://www.inaturalist.org/photos/304561619",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/lontra-felina-3.webp",
-    "credit": {
-     "by": "Dalila Parraguez",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/403234004",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "stenella-longirostris": {
   "keys": [
-   "stenella-longirostris_cur",
-   "stenella-longirostris_718489182",
-   "stenella-longirostris_457279580"
+   "stenella-longirostris_718489182"
   ],
   "photos": [
    {
     "img": "images/stenella-longirostris.webp",
     "credit": {
-     "by": "Alexander Vasenin",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/71746515",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/stenella-longirostris-2.webp",
-    "credit": {
      "by": "Lucie Koudelková",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/718489182",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/stenella-longirostris-3.webp",
-    "credit": {
-     "by": "ktnt",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/457279580",
      "source": "iNaturalist"
     }
    }
@@ -1467,35 +1097,15 @@
  },
  "phoca-largha": {
   "keys": [
-   "phoca-largha_cur",
-   "phoca-largha_413886120",
-   "phoca-largha_160057980"
+   "phoca-largha_413886120"
   ],
   "photos": [
    {
     "img": "images/phoca-largha.webp",
     "credit": {
-     "by": "NOAA Fisheries",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/508700173",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/phoca-largha-2.webp",
-    "credit": {
      "by": "Greg Easton",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/413886120",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/phoca-largha-3.webp",
-    "credit": {
-     "by": "Grigory Evtukh",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/160057980",
      "source": "iNaturalist"
     }
    }
@@ -1503,35 +1113,15 @@
  },
  "otaria-flavescens": {
   "keys": [
-   "otaria-flavescens_cur",
-   "otaria-flavescens_43577360",
-   "otaria-flavescens_127683947"
+   "otaria-flavescens_43577360"
   ],
   "photos": [
    {
     "img": "images/otaria-flavescens.webp",
     "credit": {
-     "by": "no rights reserved",
-     "license": "CC0",
-     "url": "https://www.inaturalist.org/photos/45866827",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/otaria-flavescens-2.webp",
-    "credit": {
      "by": "Sebastián Lescano",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/43577360",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/otaria-flavescens-3.webp",
-    "credit": {
-     "by": "Enzo Bonanno",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/127683947",
      "source": "iNaturalist"
     }
    }
@@ -1540,7 +1130,6 @@
  "monodon-monoceros": {
   "keys": [
    "monodon-monoceros_cur",
-   "monodon-monoceros_561463407",
    "monodon-monoceros_11134682"
   ],
   "photos": [
@@ -1555,15 +1144,6 @@
    },
    {
     "img": "images/monodon-monoceros-2.webp",
-    "credit": {
-     "by": "azure27014",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/561463407",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/monodon-monoceros-3.webp",
     "credit": {
      "by": "pfaucher",
      "license": "CC-BY-NC",
@@ -1612,8 +1192,7 @@
  "hyperoodon-ampullatus": {
   "keys": [
    "hyperoodon-ampullatus_329941326",
-   "hyperoodon-ampullatus_329941286",
-   "hyperoodon-ampullatus_229393605"
+   "hyperoodon-ampullatus_329941286"
   ],
   "photos": [
    {
@@ -1631,15 +1210,6 @@
      "by": "Jean-François Rousseau",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/329941286",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/hyperoodon-ampullatus-3.webp",
-    "credit": {
-     "by": "Jean-François Rousseau",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/229393605",
      "source": "iNaturalist"
     }
    }
@@ -1684,7 +1254,6 @@
  "callorhinus-ursinus": {
   "keys": [
    "callorhinus-ursinus_cur",
-   "callorhinus-ursinus_306868691",
    "callorhinus-ursinus_431602460"
   ],
   "photos": [
@@ -1700,15 +1269,6 @@
    {
     "img": "images/callorhinus-ursinus-2.webp",
     "credit": {
-     "by": "no rights reserved",
-     "license": "CC0",
-     "url": "https://www.inaturalist.org/photos/306868691",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/callorhinus-ursinus-3.webp",
-    "credit": {
      "by": "Liam Ragan",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/431602460",
@@ -1720,7 +1280,6 @@
  "mirounga-angustirostris": {
   "keys": [
    "mirounga-angustirostris_cur",
-   "mirounga-angustirostris_109363496",
    "mirounga-angustirostris_360606570"
   ],
   "photos": [
@@ -1736,15 +1295,6 @@
    {
     "img": "images/mirounga-angustirostris-2.webp",
     "credit": {
-     "by": "Sam Wilson",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/109363496",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/mirounga-angustirostris-3.webp",
-    "credit": {
      "by": "John Sullivan",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/360606570",
@@ -1755,9 +1305,7 @@
  },
  "eubalaena-glacialis": {
   "keys": [
-   "eubalaena-glacialis_cur",
-   "eubalaena-glacialis_110558182",
-   "eubalaena-glacialis_110558224"
+   "eubalaena-glacialis_cur"
   ],
   "photos": [
    {
@@ -1766,24 +1314,6 @@
      "by": "FWC Fish and Wildlife Research Institute",
      "license": "CC-BY-NC-ND",
      "url": "https://www.inaturalist.org/photos/60393661",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/eubalaena-glacialis-2.webp",
-    "credit": {
-     "by": "Stuart Tingley",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/110558182",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/eubalaena-glacialis-3.webp",
-    "credit": {
-     "by": "Stuart Tingley",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/110558224",
      "source": "iNaturalist"
     }
    }
@@ -1827,9 +1357,7 @@
  },
  "orcinus-orca": {
   "keys": [
-   "orcinus-orca_223550594",
-   "orcinus-orca_213848580",
-   "orcinus-orca_cur"
+   "orcinus-orca_223550594"
   ],
   "photos": [
    {
@@ -1840,54 +1368,16 @@
      "url": "https://www.inaturalist.org/photos/223550594",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/orcinus-orca-2.webp",
-    "credit": {
-     "by": "Sabine Templeton",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/213848580",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/orcinus-orca-3.webp",
-    "credit": {
-     "by": "Robert Pittman",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/360303852",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "physeter-macrocephalus": {
   "keys": [
-   "physeter-macrocephalus_cur",
-   "physeter-macrocephalus_604186154",
    "physeter-macrocephalus_649789156"
   ],
   "photos": [
    {
     "img": "images/physeter-macrocephalus.webp",
-    "credit": {
-     "by": "Wayne and Pam Osborn",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/255460036",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/physeter-macrocephalus-2.webp",
-    "credit": {
-     "by": "Jane Kempler &amp; Andrew Goldby Freelance",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/604186154",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/physeter-macrocephalus-3.webp",
     "credit": {
      "by": "Martin Holladay",
      "license": "CC-BY-NC",
@@ -1972,8 +1462,7 @@
  "steno-bredanensis": {
   "keys": [
    "steno-bredanensis_cur",
-   "steno-bredanensis_340859062",
-   "steno-bredanensis_452235610"
+   "steno-bredanensis_340859062"
   ],
   "photos": [
    {
@@ -1993,45 +1482,16 @@
      "url": "https://www.inaturalist.org/photos/340859062",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/steno-bredanensis-3.webp",
-    "credit": {
-     "by": "Arturo Ruiz Villanueva",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/452235610",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "eumetopias-jubatus": {
   "keys": [
-   "eumetopias-jubatus_2966237",
-   "eumetopias-jubatus_170699017",
    "eumetopias-jubatus_cur"
   ],
   "photos": [
    {
     "img": "images/eumetopias-jubatus.webp",
-    "credit": {
-     "by": "Steven Mlodinow",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/2966237",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/eumetopias-jubatus-2.webp",
-    "credit": {
-     "by": "Jason Headley",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/170699017",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/eumetopias-jubatus-3.webp",
     "credit": {
      "by": "Thomas",
      "license": "CC-BY-ND",
@@ -2043,31 +1503,11 @@
  },
  "tursiops-truncatus": {
   "keys": [
-   "tursiops-truncatus_cur",
-   "tursiops-truncatus_9448595",
    "tursiops-truncatus_50888296"
   ],
   "photos": [
    {
     "img": "images/tursiops-truncatus.webp",
-    "credit": {
-     "by": "Kimberlie Sasan",
-     "license": "CC-BY-ND",
-     "url": "https://www.inaturalist.org/photos/329479298",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/tursiops-truncatus-2.webp",
-    "credit": {
-     "by": "Sergio Martínez",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/9448595",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/tursiops-truncatus-3.webp",
     "credit": {
      "by": "Dean Hester",
      "license": "CC-BY-NC-ND",
@@ -2080,8 +1520,7 @@
  "odobenus-rosmarus": {
   "keys": [
    "odobenus-rosmarus_330739632",
-   "odobenus-rosmarus_330739492",
-   "odobenus-rosmarus_cur"
+   "odobenus-rosmarus_330739492"
   ],
   "photos": [
    {
@@ -2099,15 +1538,6 @@
      "by": "alexander_semenov",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/330739492",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/odobenus-rosmarus-3.webp",
-    "credit": {
-     "by": "Sheelagh Halsey",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/53721113",
      "source": "iNaturalist"
     }
    }
@@ -2152,7 +1582,6 @@
  "lagenorhynchus-acutus": {
   "keys": [
    "lagenorhynchus-acutus_418606567",
-   "lagenorhynchus-acutus_511339041",
    "lagenorhynchus-acutus_462438488"
   ],
   "photos": [
@@ -2168,15 +1597,6 @@
    {
     "img": "images/lagenorhynchus-acutus-2.webp",
     "credit": {
-     "by": "Austin Bow",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/511339041",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/lagenorhynchus-acutus-3.webp",
-    "credit": {
      "by": "yeungmenteu",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/462438488",
@@ -2187,31 +1607,11 @@
  },
  "lagenorhynchus-albirostris": {
   "keys": [
-   "lagenorhynchus-albirostris_245196519",
-   "lagenorhynchus-albirostris_550944401",
    "lagenorhynchus-albirostris_438195478"
   ],
   "photos": [
    {
     "img": "images/lagenorhynchus-albirostris.webp",
-    "credit": {
-     "by": "Sigrún Helgu",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/245196519",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/lagenorhynchus-albirostris-2.webp",
-    "credit": {
-     "by": "Stijn",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/550944401",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/lagenorhynchus-albirostris-3.webp",
     "credit": {
      "by": "Isabel C. Avila",
      "license": "CC-BY-NC-ND",
@@ -2223,35 +1623,25 @@
  },
  "delphinapterus-leucas": {
   "keys": [
-   "delphinapterus-leucas_13972749",
-   "delphinapterus-leucas_15033336",
-   "delphinapterus-leucas_cur"
+   "delphinapterus-leucas_cur",
+   "delphinapterus-leucas_13972749"
   ],
   "photos": [
    {
     "img": "images/delphinapterus-leucas.webp",
     "credit": {
-     "by": "kathleenfspicer",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/13972749",
+     "by": "Hafiz Issadeen",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/66927700",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/delphinapterus-leucas-2.webp",
     "credit": {
-     "by": "Mark Davidson",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/15033336",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/delphinapterus-leucas-3.webp",
-    "credit": {
-     "by": "Hafiz Issadeen",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/66927700",
+     "by": "kathleenfspicer",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/13972749",
      "source": "iNaturalist"
     }
    }
@@ -2332,7 +1722,6 @@
  "enhydra-lutris": {
   "keys": [
    "enhydra-lutris_173090796",
-   "enhydra-lutris_58965959",
    "enhydra-lutris_557544676"
   ],
   "photos": [
@@ -2348,15 +1737,6 @@
    {
     "img": "images/enhydra-lutris-2.webp",
     "credit": {
-     "by": "benjchristensen",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/58965959",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/enhydra-lutris-3.webp",
-    "credit": {
      "by": "Mickey Wu",
      "license": "CC-BY",
      "url": "https://www.inaturalist.org/photos/557544676",
@@ -2368,7 +1748,6 @@
  "mirounga-leonina": {
   "keys": [
    "mirounga-leonina_74623482",
-   "mirounga-leonina_55697851",
    "mirounga-leonina_115701"
   ],
   "photos": [
@@ -2383,15 +1762,6 @@
    },
    {
     "img": "images/mirounga-leonina-2.webp",
-    "credit": {
-     "by": "Adrien Mauss",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/55697851",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/mirounga-leonina-3.webp",
     "credit": {
      "by": "Brian Gratwicke",
      "license": "CC-BY",
@@ -2439,35 +1809,15 @@
  },
  "berardius-bairdii": {
   "keys": [
-   "berardius-bairdii_288375414",
-   "berardius-bairdii_cur",
-   "berardius-bairdii_126550741"
+   "berardius-bairdii_cur"
   ],
   "photos": [
    {
     "img": "images/berardius-bairdii.webp",
     "credit": {
-     "by": "James Maughn",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/288375414",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/berardius-bairdii-2.webp",
-    "credit": {
      "by": "markc666",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/322952635",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/berardius-bairdii-3.webp",
-    "credit": {
-     "by": "Robin Gwen Agarwal",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/126550741",
      "source": "iNaturalist"
     }
    }
@@ -2476,8 +1826,7 @@
  "pseudorca-crassidens": {
   "keys": [
    "pseudorca-crassidens_55991844",
-   "pseudorca-crassidens_534773746",
-   "pseudorca-crassidens_80473834"
+   "pseudorca-crassidens_534773746"
   ],
   "photos": [
    {
@@ -2495,15 +1844,6 @@
      "by": "laurentdenoumea",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/534773746",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/pseudorca-crassidens-3.webp",
-    "credit": {
-     "by": "clararodrigues",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/80473834",
      "source": "iNaturalist"
     }
    }
@@ -2547,22 +1887,12 @@
  },
  "laticauda-laticaudata": {
   "keys": [
-   "laticauda-laticaudata_cur",
    "laticauda-laticaudata_153943493",
    "laticauda-laticaudata_354607300"
   ],
   "photos": [
    {
     "img": "images/laticauda-laticaudata.webp",
-    "credit": {
-     "by": "Joey Santore",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/61419122",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/laticauda-laticaudata-2.webp",
     "credit": {
      "by": "Susanne Spindler",
      "license": "CC-BY-NC-ND",
@@ -2571,7 +1901,7 @@
     }
    },
    {
-    "img": "images/laticauda-laticaudata-3.webp",
+    "img": "images/laticauda-laticaudata-2.webp",
     "credit": {
      "by": "Amaury Durbano",
      "license": "CC-BY-NC",
@@ -2728,7 +2058,6 @@
  "laticauda-colubrina": {
   "keys": [
    "laticauda-colubrina_cur",
-   "laticauda-colubrina_297321266",
    "laticauda-colubrina_74444534"
   ],
   "photos": [
@@ -2743,15 +2072,6 @@
    },
    {
     "img": "images/laticauda-colubrina-2.webp",
-    "credit": {
-     "by": "Lukas Phan-huy",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/297321266",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/laticauda-colubrina-3.webp",
     "credit": {
      "by": "Bird Explorers",
      "license": "CC-BY-NC",
@@ -3196,8 +2516,7 @@
  "negaprion-brevirostris": {
   "keys": [
    "negaprion-brevirostris_cur",
-   "negaprion-brevirostris_152438793",
-   "negaprion-brevirostris_415586815"
+   "negaprion-brevirostris_152438793"
   ],
   "photos": [
    {
@@ -3215,15 +2534,6 @@
      "by": "Mike Krampf",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/152438793",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/negaprion-brevirostris-3.webp",
-    "credit": {
-     "by": "Jen",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/415586815",
      "source": "iNaturalist"
     }
    }
@@ -3304,8 +2614,7 @@
  "nebrius-ferrugineus": {
   "keys": [
    "nebrius-ferrugineus_333103541",
-   "nebrius-ferrugineus_93289418",
-   "nebrius-ferrugineus_cur"
+   "nebrius-ferrugineus_93289418"
   ],
   "photos": [
    {
@@ -3323,15 +2632,6 @@
      "by": "Dave Suszcynsky",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/93289418",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/nebrius-ferrugineus-3.webp",
-    "credit": {
-     "by": "Daniel Benák",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/229382183",
      "source": "iNaturalist"
     }
    }
@@ -3376,7 +2676,6 @@
  "sphyrna-lewini": {
   "keys": [
    "sphyrna-lewini_224059254",
-   "sphyrna-lewini_126759764",
    "sphyrna-lewini_142108380"
   ],
   "photos": [
@@ -3392,15 +2691,6 @@
    {
     "img": "images/sphyrna-lewini-2.webp",
     "credit": {
-     "by": "Nicholas Hess",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/126759764",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/sphyrna-lewini-3.webp",
-    "credit": {
      "by": "Albert Kang",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/142108380",
@@ -3412,8 +2702,7 @@
  "aetobatus-narinari": {
   "keys": [
    "aetobatus-narinari_cur",
-   "aetobatus-narinari_55196027",
-   "aetobatus-narinari_255477917"
+   "aetobatus-narinari_55196027"
   ],
   "photos": [
    {
@@ -3431,15 +2720,6 @@
      "by": "Phil's 1stPix",
      "license": "CC-BY-NC-SA",
      "url": "https://www.inaturalist.org/photos/55196027",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/aetobatus-narinari-3.webp",
-    "credit": {
-     "by": "Julian Jimenez",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/255477917",
      "source": "iNaturalist"
     }
    }
@@ -3519,8 +2799,7 @@
  },
  "mustelus-asterias": {
   "keys": [
-   "mustelus-asterias_76343484",
-   "mustelus-asterias_9364592"
+   "mustelus-asterias_76343484"
   ],
   "photos": [
    {
@@ -3529,15 +2808,6 @@
      "by": "Andy Drumm",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/76343484",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/mustelus-asterias-2.webp",
-    "credit": {
-     "by": "Michael Bakker Paiva",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/9364592",
      "source": "iNaturalist"
     }
    }
@@ -3705,22 +2975,12 @@
  },
  "sphyrna-zygaena": {
   "keys": [
-   "sphyrna-zygaena_133867631",
    "sphyrna-zygaena_251917723",
-   "sphyrna-zygaena_29601611"
+   "sphyrna-zygaena_133867631"
   ],
   "photos": [
    {
     "img": "images/sphyrna-zygaena.webp",
-    "credit": {
-     "by": "Ben Knight",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/133867631",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/sphyrna-zygaena-2.webp",
     "credit": {
      "by": "Saxon Nelson-Milton",
      "license": "CC-BY-NC",
@@ -3729,11 +2989,11 @@
     }
    },
    {
-    "img": "images/sphyrna-zygaena-3.webp",
+    "img": "images/sphyrna-zygaena-2.webp",
     "credit": {
-     "by": "Clinton Duffy",
+     "by": "Ben Knight",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/29601611",
+     "url": "https://www.inaturalist.org/photos/133867631",
      "source": "iNaturalist"
     }
    }
@@ -3778,8 +3038,7 @@
  "carcharhinus-amblyrhynchos": {
   "keys": [
    "carcharhinus-amblyrhynchos_cur",
-   "carcharhinus-amblyrhynchos_550043",
-   "carcharhinus-amblyrhynchos_243516612"
+   "carcharhinus-amblyrhynchos_550043"
   ],
   "photos": [
    {
@@ -3797,15 +3056,6 @@
      "by": "Mark Rosenstein",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/550043",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/carcharhinus-amblyrhynchos-3.webp",
-    "credit": {
-     "by": "Luis P. B.",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/243516612",
      "source": "iNaturalist"
     }
    }
@@ -4170,8 +3420,7 @@
  "mobula-birostris": {
   "keys": [
    "mobula-birostris_cur",
-   "mobula-birostris_532957950",
-   "mobula-birostris_34483741"
+   "mobula-birostris_532957950"
   ],
   "photos": [
    {
@@ -4191,21 +3440,11 @@
      "url": "https://www.inaturalist.org/photos/532957950",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/mobula-birostris-3.webp",
-    "credit": {
-     "by": "mantawatch_newzealand",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/34483741",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "rhina-ancylostoma": {
   "keys": [
-   "rhina-ancylostoma_56750358",
    "rhina-ancylostoma_56750359",
    "rhina-ancylostoma_425429653"
   ],
@@ -4215,21 +3454,12 @@
     "credit": {
      "by": "hectorbara",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/56750358",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/rhina-ancylostoma-2.webp",
-    "credit": {
-     "by": "hectorbara",
-     "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/56750359",
      "source": "iNaturalist"
     }
    },
    {
-    "img": "images/rhina-ancylostoma-3.webp",
+    "img": "images/rhina-ancylostoma-2.webp",
     "credit": {
      "by": "brendonh",
      "license": "CC-BY-NC",
@@ -4277,22 +3507,12 @@
  },
  "galeorhinus-galeus": {
   "keys": [
-   "galeorhinus-galeus_712355612",
    "galeorhinus-galeus_332800312",
-   "galeorhinus-galeus_332800341"
+   "galeorhinus-galeus_712355612"
   ],
   "photos": [
    {
     "img": "images/galeorhinus-galeus.webp",
-    "credit": {
-     "by": "Kirby Morejohn",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/712355612",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/galeorhinus-galeus-2.webp",
     "credit": {
      "by": "tarnh",
      "license": "CC-BY-NC",
@@ -4301,11 +3521,11 @@
     }
    },
    {
-    "img": "images/galeorhinus-galeus-3.webp",
+    "img": "images/galeorhinus-galeus-2.webp",
     "credit": {
-     "by": "tarnh",
+     "by": "Kirby Morejohn",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/332800341",
+     "url": "https://www.inaturalist.org/photos/712355612",
      "source": "iNaturalist"
     }
    }
@@ -4386,8 +3606,7 @@
  "carcharhinus-leucas": {
   "keys": [
    "carcharhinus-leucas_168237268",
-   "carcharhinus-leucas_10939590",
-   "carcharhinus-leucas_323478792"
+   "carcharhinus-leucas_10939590"
   ],
   "photos": [
    {
@@ -4405,15 +3624,6 @@
      "by": "Ian Banks",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/10939590",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/carcharhinus-leucas-3.webp",
-    "credit": {
-     "by": "Pablo A. Arias Cid",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/323478792",
      "source": "iNaturalist"
     }
    }
@@ -4493,21 +3703,11 @@
  },
  "ginglymostoma-cirratum": {
   "keys": [
-   "ginglymostoma-cirratum_cur",
    "ginglymostoma-cirratum_439764980"
   ],
   "photos": [
    {
     "img": "images/ginglymostoma-cirratum.webp",
-    "credit": {
-     "by": "R Vasconcellos",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/379827271",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/ginglymostoma-cirratum-2.webp",
     "credit": {
      "by": "CONANP_Reserva de la Biosfera Banco Chinchorro",
      "license": "CC-BY-NC",
@@ -4699,31 +3899,11 @@
  },
  "carcharias-taurus": {
   "keys": [
-   "carcharias-taurus_155103165",
-   "carcharias-taurus_414569891",
    "carcharias-taurus_248156041"
   ],
   "photos": [
    {
     "img": "images/carcharias-taurus.webp",
-    "credit": {
-     "by": "Rafi Amar",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/155103165",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/carcharias-taurus-2.webp",
-    "credit": {
-     "by": "Frank Krasovec",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/414569891",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/carcharias-taurus-3.webp",
     "credit": {
      "by": "divercraig",
      "license": "CC-BY-NC",
@@ -4807,35 +3987,15 @@
  },
  "carcharhinus-falciformis": {
   "keys": [
-   "carcharhinus-falciformis_cur",
-   "carcharhinus-falciformis_416966185",
-   "carcharhinus-falciformis_313162787"
+   "carcharhinus-falciformis_416966185"
   ],
   "photos": [
    {
     "img": "images/carcharhinus-falciformis.webp",
     "credit": {
-     "by": "Jane Kempler &amp; Andrew Goldby Freelance",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/477653797",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/carcharhinus-falciformis-2.webp",
-    "credit": {
      "by": "Frank Krasovec",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/416966185",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/carcharhinus-falciformis-3.webp",
-    "credit": {
-     "by": "María Rodríguez-Salinas",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/313162787",
      "source": "iNaturalist"
     }
    }
@@ -4843,22 +4003,12 @@
  },
  "carcharhinus-limbatus": {
   "keys": [
-   "carcharhinus-limbatus_cur",
    "carcharhinus-limbatus_225162527",
    "carcharhinus-limbatus_297698611"
   ],
   "photos": [
    {
     "img": "images/carcharhinus-limbatus.webp",
-    "credit": {
-     "by": "Luis P. B.",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/247619680",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/carcharhinus-limbatus-2.webp",
     "credit": {
      "by": "Simon Pierce",
      "license": "CC-BY-NC",
@@ -4867,7 +4017,7 @@
     }
    },
    {
-    "img": "images/carcharhinus-limbatus-3.webp",
+    "img": "images/carcharhinus-limbatus-2.webp",
     "credit": {
      "by": "Simon Pierce",
      "license": "CC-BY-NC",
@@ -4880,8 +4030,7 @@
  "carcharhinus-melanopterus": {
   "keys": [
    "carcharhinus-melanopterus_608947383",
-   "carcharhinus-melanopterus_567823175",
-   "carcharhinus-melanopterus_561231110"
+   "carcharhinus-melanopterus_567823175"
   ],
   "photos": [
    {
@@ -4899,15 +4048,6 @@
      "by": "Luis Thiem",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/567823175",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/carcharhinus-melanopterus-3.webp",
-    "credit": {
-     "by": "Michael Kelly",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/561231110",
      "source": "iNaturalist"
     }
    }
@@ -4951,9 +4091,7 @@
  },
  "pygoscelis-adeliae": {
   "keys": [
-   "pygoscelis-adeliae_587615088",
-   "pygoscelis-adeliae_28500654",
-   "pygoscelis-adeliae_11367815"
+   "pygoscelis-adeliae_587615088"
   ],
   "photos": [
    {
@@ -4962,24 +4100,6 @@
      "by": "greghadley1",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/587615088",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/pygoscelis-adeliae-2.webp",
-    "credit": {
-     "by": "Nidhin Cyril Joseph",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/28500654",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/pygoscelis-adeliae-3.webp",
-    "credit": {
-     "by": "John Barkla",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/11367815",
      "source": "iNaturalist"
     }
    }
@@ -5060,7 +4180,6 @@
  "sula-nebouxii": {
   "keys": [
    "sula-nebouxii_66974590",
-   "sula-nebouxii_167309513",
    "sula-nebouxii_cur"
   ],
   "photos": [
@@ -5075,15 +4194,6 @@
    },
    {
     "img": "images/sula-nebouxii-2.webp",
-    "credit": {
-     "by": "David Torres",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/167309513",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/sula-nebouxii-3.webp",
     "credit": {
      "by": "Ad Konings",
      "license": "CC-BY-NC",
@@ -5204,7 +4314,6 @@
  "somateria-mollissima": {
   "keys": [
    "somateria-mollissima_cur",
-   "somateria-mollissima_28781439",
    "somateria-mollissima_301362214"
   ],
   "photos": [
@@ -5220,15 +4329,6 @@
    {
     "img": "images/somateria-mollissima-2.webp",
     "credit": {
-     "by": "Amy Guala",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/28781439",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/somateria-mollissima-3.webp",
-    "credit": {
      "by": "rosamiragliotta",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/301362214",
@@ -5239,22 +4339,12 @@
  },
  "pygoscelis-papua": {
   "keys": [
-   "pygoscelis-papua_cur",
    "pygoscelis-papua_91528536",
    "pygoscelis-papua_279543342"
   ],
   "photos": [
    {
     "img": "images/pygoscelis-papua.webp",
-    "credit": {
-     "by": "Sebastián Lescano",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/44210941",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/pygoscelis-papua-2.webp",
     "credit": {
      "by": "pougeon",
      "license": "CC-BY-NC",
@@ -5263,7 +4353,7 @@
     }
    },
    {
-    "img": "images/pygoscelis-papua-3.webp",
+    "img": "images/pygoscelis-papua-2.webp",
     "credit": {
      "by": "Tony Palliser",
      "license": "CC-BY-NC",
@@ -5276,7 +4366,6 @@
  "spheniscus-mendiculus": {
   "keys": [
    "spheniscus-mendiculus_cur",
-   "spheniscus-mendiculus_118349448",
    "spheniscus-mendiculus_126760547"
   ],
   "photos": [
@@ -5292,15 +4381,6 @@
    {
     "img": "images/spheniscus-mendiculus-2.webp",
     "credit": {
-     "by": "Blythe Nilson",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/118349448",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/spheniscus-mendiculus-3.webp",
-    "credit": {
      "by": "Nicholas Hess",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/126760547",
@@ -5311,9 +4391,7 @@
  },
  "megadyptes-antipodes": {
   "keys": [
-   "megadyptes-antipodes_113537806",
-   "megadyptes-antipodes_2015676",
-   "megadyptes-antipodes_250094180"
+   "megadyptes-antipodes_113537806"
   ],
   "photos": [
    {
@@ -5322,24 +4400,6 @@
      "by": "Oscar Thomas",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/113537806",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/megadyptes-antipodes-2.webp",
-    "credit": {
-     "by": "Greg Lasley",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/2015676",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/megadyptes-antipodes-3.webp",
-    "credit": {
-     "by": "duckindisguise",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/250094180",
      "source": "iNaturalist"
     }
    }
@@ -5384,8 +4444,7 @@
  "diomedea-exulans": {
   "keys": [
    "diomedea-exulans_cur",
-   "diomedea-exulans_142048643",
-   "diomedea-exulans_336189515"
+   "diomedea-exulans_142048643"
   ],
   "photos": [
    {
@@ -5405,22 +4464,12 @@
      "url": "https://www.inaturalist.org/photos/142048643",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/diomedea-exulans-3.webp",
-    "credit": {
-     "by": "Flavien Saboureau",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/336189515",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "stercorarius-skua": {
   "keys": [
    "stercorarius-skua_413005631",
-   "stercorarius-skua_146874683",
    "stercorarius-skua_673429142"
   ],
   "photos": [
@@ -5435,15 +4484,6 @@
    },
    {
     "img": "images/stercorarius-skua-2.webp",
-    "credit": {
-     "by": "Andrew Thompson",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/146874683",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/stercorarius-skua-3.webp",
     "credit": {
      "by": "Sherry Kirkvold",
      "license": "CC-BY-NC",
@@ -5492,8 +4532,7 @@
  "thalasseus-sandvicensis": {
   "keys": [
    "thalasseus-sandvicensis_cur",
-   "thalasseus-sandvicensis_216642434",
-   "thalasseus-sandvicensis_4202336"
+   "thalasseus-sandvicensis_216642434"
   ],
   "photos": [
    {
@@ -5513,23 +4552,12 @@
      "url": "https://www.inaturalist.org/photos/216642434",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/thalasseus-sandvicensis-3.webp",
-    "credit": {
-     "by": "José Antonio Linage Espinosa",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/4202336",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "spheniscus-humboldti": {
   "keys": [
-   "spheniscus-humboldti_cur",
-   "spheniscus-humboldti_106273414",
-   "spheniscus-humboldti_359209473"
+   "spheniscus-humboldti_cur"
   ],
   "photos": [
    {
@@ -5540,31 +4568,12 @@
      "url": "https://www.inaturalist.org/photos/106273398",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/spheniscus-humboldti-2.webp",
-    "credit": {
-     "by": "jmclatchie",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/106273414",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/spheniscus-humboldti-3.webp",
-    "credit": {
-     "by": "David Samata Flores",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/359209473",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "morus-bassanus": {
   "keys": [
    "morus-bassanus_cur",
-   "morus-bassanus_305869565",
    "morus-bassanus_212678209"
   ],
   "photos": [
@@ -5580,15 +4589,6 @@
    {
     "img": "images/morus-bassanus-2.webp",
     "credit": {
-     "by": "Marc Henrion",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/305869565",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/morus-bassanus-3.webp",
-    "credit": {
      "by": "Jonny Andrews",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/212678209",
@@ -5599,35 +4599,35 @@
  },
  "aptenodytes-forsteri": {
   "keys": [
-   "aptenodytes-forsteri_cur",
-   "aptenodytes-forsteri_170888393",
-   "aptenodytes-forsteri_602105771"
+   "aptenodytes-forsteri_620619111",
+   "aptenodytes-forsteri_602105771",
+   "aptenodytes-forsteri_620619051"
   ],
   "photos": [
    {
     "img": "images/aptenodytes-forsteri.webp",
     "credit": {
-     "by": "U.S. Geological Survey",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/106925391",
+     "by": "marionfr",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/620619111",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/aptenodytes-forsteri-2.webp",
     "credit": {
-     "by": "Marcela Libertelli",
+     "by": "Justin Hofman",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/170888393",
+     "url": "https://www.inaturalist.org/photos/602105771",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/aptenodytes-forsteri-3.webp",
     "credit": {
-     "by": "Justin Hofman",
+     "by": "marionfr",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/602105771",
+     "url": "https://www.inaturalist.org/photos/620619051",
      "source": "iNaturalist"
     }
    }
@@ -5635,9 +4635,7 @@
  },
  "aptenodytes-patagonicus": {
   "keys": [
-   "aptenodytes-patagonicus_243750848",
-   "aptenodytes-patagonicus_cur",
-   "aptenodytes-patagonicus_188891077"
+   "aptenodytes-patagonicus_243750848"
   ],
   "photos": [
    {
@@ -5648,31 +4646,12 @@
      "url": "https://www.inaturalist.org/photos/243750848",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/aptenodytes-patagonicus-2.webp",
-    "credit": {
-     "by": "meta4",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/602978114",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/aptenodytes-patagonicus-3.webp",
-    "credit": {
-     "by": "Geoff Walker",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/188891077",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "gulosus-aristotelis": {
   "keys": [
    "gulosus-aristotelis_498917184",
-   "gulosus-aristotelis_385960255",
    "gulosus-aristotelis_383178959"
   ],
   "photos": [
@@ -5687,15 +4666,6 @@
    },
    {
     "img": "images/gulosus-aristotelis-2.webp",
-    "credit": {
-     "by": "Tomasz Wilk",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/385960255",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/gulosus-aristotelis-3.webp",
     "credit": {
      "by": "Stergios Vasilis",
      "license": "CC-BY-NC-ND",
@@ -5744,8 +4714,7 @@
  "phoebastria-immutabilis": {
   "keys": [
    "phoebastria-immutabilis_cur",
-   "phoebastria-immutabilis_346867909",
-   "phoebastria-immutabilis_18101845"
+   "phoebastria-immutabilis_346867909"
   ],
   "photos": [
    {
@@ -5765,36 +4734,17 @@
      "url": "https://www.inaturalist.org/photos/346867909",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/phoebastria-immutabilis-3.webp",
-    "credit": {
-     "by": "Scott Buckel",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/18101845",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "eudyptes-chrysolophus": {
   "keys": [
-   "eudyptes-chrysolophus_cur",
    "eudyptes-chrysolophus_357697107",
    "eudyptes-chrysolophus_279672627"
   ],
   "photos": [
    {
     "img": "images/eudyptes-chrysolophus.webp",
-    "credit": {
-     "by": "Jerzy Strzelecki",
-     "license": "CC BY 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Macaroni_Penguins_(js).jpg",
-     "source": "Wikimedia Commons"
-    }
-   },
-   {
-    "img": "images/eudyptes-chrysolophus-2.webp",
     "credit": {
      "by": "Maximiliano Aguilar",
      "license": "CC-BY-NC",
@@ -5803,7 +4753,7 @@
     }
    },
    {
-    "img": "images/eudyptes-chrysolophus-3.webp",
+    "img": "images/eudyptes-chrysolophus-2.webp",
     "credit": {
      "by": "Tony Palliser",
      "license": "CC-BY-NC",
@@ -5816,7 +4766,6 @@
  "spheniscus-magellanicus": {
   "keys": [
    "spheniscus-magellanicus_40232445",
-   "spheniscus-magellanicus_341382441",
    "spheniscus-magellanicus_cur"
   ],
   "photos": [
@@ -5832,15 +4781,6 @@
    {
     "img": "images/spheniscus-magellanicus-2.webp",
     "credit": {
-     "by": "Sebastián Lescano",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/341382441",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/spheniscus-magellanicus-3.webp",
-    "credit": {
      "by": "John Barkla",
      "license": "CC-BY",
      "url": "https://www.inaturalist.org/photos/4115244",
@@ -5851,22 +4791,12 @@
  },
  "sula-dactylatra": {
   "keys": [
-   "sula-dactylatra_cur",
    "sula-dactylatra_214608110",
    "sula-dactylatra_239543440"
   ],
   "photos": [
    {
     "img": "images/sula-dactylatra.webp",
-    "credit": {
-     "by": "R Vasconcellos",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/319088233",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/sula-dactylatra-2.webp",
     "credit": {
      "by": "abelardomendesjr",
      "license": "CC-BY-NC",
@@ -5875,7 +4805,7 @@
     }
    },
    {
-    "img": "images/sula-dactylatra-3.webp",
+    "img": "images/sula-dactylatra-2.webp",
     "credit": {
      "by": "Daniel LaFrance",
      "license": "CC-BY-NC",
@@ -5888,7 +4818,6 @@
  "puffinus-puffinus": {
   "keys": [
    "puffinus-puffinus_111005655",
-   "puffinus-puffinus_294706706",
    "puffinus-puffinus_579552349"
   ],
   "photos": [
@@ -5904,15 +4833,6 @@
    {
     "img": "images/puffinus-puffinus-2.webp",
     "credit": {
-     "by": "mervyngreening",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/294706706",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/puffinus-puffinus-3.webp",
-    "credit": {
      "by": "Chris",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/579552349",
@@ -5924,8 +4844,7 @@
  "sterna-paradisaea": {
   "keys": [
    "sterna-paradisaea_91472303",
-   "sterna-paradisaea_437414603",
-   "sterna-paradisaea_74916247"
+   "sterna-paradisaea_437414603"
   ],
   "photos": [
    {
@@ -5945,23 +4864,13 @@
      "url": "https://www.inaturalist.org/photos/437414603",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/sterna-paradisaea-3.webp",
-    "credit": {
-     "by": "Greg Holland",
-     "license": "CC-BY-ND",
-     "url": "https://www.inaturalist.org/photos/74916247",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "fulmarus-glacialis": {
   "keys": [
    "fulmarus-glacialis_114284813",
-   "fulmarus-glacialis_cur",
-   "fulmarus-glacialis_6630601"
+   "fulmarus-glacialis_cur"
   ],
   "photos": [
    {
@@ -5980,15 +4889,6 @@
      "license": "CC BY-SA 4.0",
      "url": "https://commons.wikimedia.org/wiki/File:Fulmar_(Fulmarus_glacialis)_on_water.jpg",
      "source": "Wikimedia Commons"
-    }
-   },
-   {
-    "img": "images/fulmarus-glacialis-3.webp",
-    "credit": {
-     "by": "Justin Johnsen",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/6630601",
-     "source": "iNaturalist"
     }
    }
   ]
@@ -6103,22 +5003,12 @@
  },
  "pygoscelis-antarcticus": {
   "keys": [
-   "pygoscelis-antarcticus_249608827",
    "pygoscelis-antarcticus_247745852",
    "pygoscelis-antarcticus_446804475"
   ],
   "photos": [
    {
     "img": "images/pygoscelis-antarcticus.webp",
-    "credit": {
-     "by": "Paul Steeves",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/249608827",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/pygoscelis-antarcticus-2.webp",
     "credit": {
      "by": "dougiewainwright",
      "license": "CC-BY-NC",
@@ -6127,7 +5017,7 @@
     }
    },
    {
-    "img": "images/pygoscelis-antarcticus-3.webp",
+    "img": "images/pygoscelis-antarcticus-2.webp",
     "credit": {
      "by": "Charlotte Kirchner",
      "license": "CC-BY",
@@ -6202,7 +5092,6 @@
  "thalassarche-melanophris": {
   "keys": [
    "thalassarche-melanophris_475423201",
-   "thalassarche-melanophris_55699721",
    "thalassarche-melanophris_67620414"
   ],
   "photos": [
@@ -6218,15 +5107,6 @@
    {
     "img": "images/thalassarche-melanophris-2.webp",
     "credit": {
-     "by": "Adrien Mauss",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/55699721",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/thalassarche-melanophris-3.webp",
-    "credit": {
      "by": "Martin Arregui",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/67620414",
@@ -6238,7 +5118,6 @@
  "eudyptes-chrysocome": {
   "keys": [
    "eudyptes-chrysocome_575773007",
-   "eudyptes-chrysocome_73293397",
    "eudyptes-chrysocome_98118016"
   ],
   "photos": [
@@ -6253,15 +5132,6 @@
    },
    {
     "img": "images/eudyptes-chrysocome-2.webp",
-    "credit": {
-     "by": "M. A. Naturalist",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/73293397",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/eudyptes-chrysocome-3.webp",
     "credit": {
      "by": "Carlos Schmidtutz",
      "license": "CC-BY-NC",
@@ -6309,9 +5179,7 @@
  },
  "uria-aalge": {
   "keys": [
-   "uria-aalge_328015637",
-   "uria-aalge_cur",
-   "uria-aalge_349231658"
+   "uria-aalge_328015637"
   ],
   "photos": [
    {
@@ -6322,31 +5190,12 @@
      "url": "https://www.inaturalist.org/photos/328015637",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/uria-aalge-2.webp",
-    "credit": {
-     "by": "Diego González Dopico",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/498922599",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/uria-aalge-3.webp",
-    "credit": {
-     "by": "cassiia",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/349231658",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "larus-argentatus": {
   "keys": [
    "larus-argentatus_cur",
-   "larus-argentatus_177928584",
    "larus-argentatus_83599788"
   ],
   "photos": [
@@ -6361,15 +5210,6 @@
    },
    {
     "img": "images/larus-argentatus-2.webp",
-    "credit": {
-     "by": "Настя Климова",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/177928584",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/larus-argentatus-3.webp",
     "credit": {
      "by": "emilyd47",
      "license": "CC-BY-SA",
@@ -6417,22 +5257,12 @@
  },
  "cepphus-grylle": {
   "keys": [
-   "cepphus-grylle_cur",
    "cepphus-grylle_185984750",
    "cepphus-grylle_638204068"
   ],
   "photos": [
    {
     "img": "images/cepphus-grylle.webp",
-    "credit": {
-     "by": "Christoph Moning",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/195013918",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/cepphus-grylle-2.webp",
     "credit": {
      "by": "Jonny Andrews",
      "license": "CC-BY-NC",
@@ -6441,7 +5271,7 @@
     }
    },
    {
-    "img": "images/cepphus-grylle-3.webp",
+    "img": "images/cepphus-grylle-2.webp",
     "credit": {
      "by": "Thorsten Stegmann",
      "license": "CC-BY-NC-ND",
@@ -6454,7 +5284,6 @@
  "spheniscus-demersus": {
   "keys": [
    "spheniscus-demersus_68384904",
-   "spheniscus-demersus_37529473",
    "spheniscus-demersus_579659294"
   ],
   "photos": [
@@ -6469,15 +5298,6 @@
    },
    {
     "img": "images/spheniscus-demersus-2.webp",
-    "credit": {
-     "by": "Rémi Cardinael",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/37529473",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/spheniscus-demersus-3.webp",
     "credit": {
      "by": "Chris",
      "license": "CC-BY-NC",
@@ -6525,8 +5345,7 @@
  },
  "limulus-polyphemus": {
   "keys": [
-   "limulus-polyphemus_242357854",
-   "limulus-polyphemus_197479787"
+   "limulus-polyphemus_242357854"
   ],
   "photos": [
    {
@@ -6537,36 +5356,17 @@
      "url": "https://www.inaturalist.org/photos/242357854",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/limulus-polyphemus-2.webp",
-    "credit": {
-     "by": "Max McCarthy",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/197479787",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "callinectes-sapidus": {
   "keys": [
-   "callinectes-sapidus_cur",
    "callinectes-sapidus_175905385",
    "callinectes-sapidus_175905387"
   ],
   "photos": [
    {
     "img": "images/callinectes-sapidus.webp",
-    "credit": {
-     "by": "Le Gallais",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/712582855",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/callinectes-sapidus-2.webp",
     "credit": {
      "by": "Alex Shure",
      "license": "CC-BY-NC",
@@ -6575,7 +5375,7 @@
     }
    },
    {
-    "img": "images/callinectes-sapidus-3.webp",
+    "img": "images/callinectes-sapidus-2.webp",
     "credit": {
      "by": "Alex Shure",
      "license": "CC-BY-NC",
@@ -6840,7 +5640,6 @@
  "palaemon-serratus": {
   "keys": [
    "palaemon-serratus_cur",
-   "palaemon-serratus_112336555",
    "palaemon-serratus_174676896"
   ],
   "photos": [
@@ -6855,15 +5654,6 @@
    },
    {
     "img": "images/palaemon-serratus-2.webp",
-    "credit": {
-     "by": "Daniel Rodrigues",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/112336555",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/palaemon-serratus-3.webp",
     "credit": {
      "by": "Bernat Espigulé",
      "license": "CC-BY-NC",
@@ -6947,22 +5737,12 @@
  },
  "porcellana-platycheles": {
   "keys": [
-   "porcellana-platycheles_658673818",
    "porcellana-platycheles_54312181",
    "porcellana-platycheles_79329838"
   ],
   "photos": [
    {
     "img": "images/porcellana-platycheles.webp",
-    "credit": {
-     "by": "Vsevolod Rudyi",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/658673818",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/porcellana-platycheles-2.webp",
     "credit": {
      "by": "João Pedro Silva",
      "license": "CC-BY-NC",
@@ -6971,7 +5751,7 @@
     }
    },
    {
-    "img": "images/porcellana-platycheles-3.webp",
+    "img": "images/porcellana-platycheles-2.webp",
     "credit": {
      "by": "Glenn Biscop",
      "license": "CC-BY-NC",
@@ -7360,8 +6140,7 @@
  "velella-velella": {
   "keys": [
    "velella-velella_100386027",
-   "velella-velella_cur",
-   "velella-velella_251677201"
+   "velella-velella_cur"
   ],
   "photos": [
    {
@@ -7379,15 +6158,6 @@
      "by": "Niki Hubbard",
      "license": "CC-BY",
      "url": "https://www.inaturalist.org/photos/94738913",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/velella-velella-3.webp",
-    "credit": {
-     "by": "Luca Davenport-Thomas",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/251677201",
      "source": "iNaturalist"
     }
    }
@@ -7683,9 +6453,7 @@
  },
  "tubularia-indivisa": {
   "keys": [
-   "tubularia-indivisa_275997303",
-   "tubularia-indivisa_cur",
-   "tubularia-indivisa_621120655"
+   "tubularia-indivisa_cur"
   ],
   "photos": [
    {
@@ -7693,25 +6461,7 @@
     "credit": {
      "by": "Vsevolod Rudyi",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/275997303",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/tubularia-indivisa-2.webp",
-    "credit": {
-     "by": "Vsevolod Rudyi",
-     "license": "CC-BY",
      "url": "https://www.inaturalist.org/photos/275997380",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/tubularia-indivisa-3.webp",
-    "credit": {
-     "by": "Tony Gilbert",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/621120655",
      "source": "iNaturalist"
     }
    }
@@ -7719,7 +6469,6 @@
  },
  "physalia-physalis": {
   "keys": [
-   "physalia-physalis_183028065",
    "physalia-physalis_cur",
    "physalia-physalis_65000254"
   ],
@@ -7729,21 +6478,12 @@
     "credit": {
      "by": "Jan Ebr &amp; Ivana Ebrová",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/183028065",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/physalia-physalis-2.webp",
-    "credit": {
-     "by": "Jan Ebr &amp; Ivana Ebrová",
-     "license": "CC-BY",
      "url": "https://www.inaturalist.org/photos/544306293",
      "source": "iNaturalist"
     }
    },
    {
-    "img": "images/physalia-physalis-3.webp",
+    "img": "images/physalia-physalis-2.webp",
     "credit": {
      "by": "zschmolka",
      "license": "CC-BY-NC",
@@ -7756,8 +6496,7 @@
  "actinia-equina": {
   "keys": [
    "actinia-equina_451366476",
-   "actinia-equina_cur",
-   "actinia-equina_451366369"
+   "actinia-equina_cur"
   ],
   "photos": [
    {
@@ -7777,45 +6516,16 @@
      "url": "https://commons.wikimedia.org/wiki/File:Actinia_equina_0009.JPG",
      "source": "Wikimedia Commons"
     }
-   },
-   {
-    "img": "images/actinia-equina-3.webp",
-    "credit": {
-     "by": "Donald Davesne",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/451366369",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "sagartia-elegans": {
   "keys": [
-   "sagartia-elegans_cur",
-   "sagartia-elegans_609967928",
    "sagartia-elegans_120975161"
   ],
   "photos": [
    {
     "img": "images/sagartia-elegans.webp",
-    "credit": {
-     "by": "Libby Keatley",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/169722484",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/sagartia-elegans-2.webp",
-    "credit": {
-     "by": "Tony Gilbert",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/609967928",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/sagartia-elegans-3.webp",
     "credit": {
      "by": "Daniel Rodrigues",
      "license": "CC-BY-NC",
@@ -7899,22 +6609,12 @@
  },
  "metridium-senile": {
   "keys": [
-   "metridium-senile_cur",
    "metridium-senile_154399582",
    "metridium-senile_372921727"
   ],
   "photos": [
    {
     "img": "images/metridium-senile.webp",
-    "credit": {
-     "by": "Stefan",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/11464534",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/metridium-senile-2.webp",
     "credit": {
      "by": "María Bagur",
      "license": "CC-BY-NC",
@@ -7923,7 +6623,7 @@
     }
    },
    {
-    "img": "images/metridium-senile-3.webp",
+    "img": "images/metridium-senile-2.webp",
     "credit": {
      "by": "Janine H.",
      "license": "CC-BY-NC",
@@ -8079,22 +6779,12 @@
  },
  "ciona-intestinalis": {
   "keys": [
-   "ciona-intestinalis_14581895",
    "ciona-intestinalis_cur",
    "ciona-intestinalis_175647677"
   ],
   "photos": [
    {
     "img": "images/ciona-intestinalis.webp",
-    "credit": {
-     "by": "Poul Erik Rasmussen",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/14581895",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/ciona-intestinalis-2.webp",
     "credit": {
      "by": "Bernard Picton",
      "license": "CC-BY",
@@ -8103,7 +6793,7 @@
     }
    },
    {
-    "img": "images/ciona-intestinalis-3.webp",
+    "img": "images/ciona-intestinalis-2.webp",
     "credit": {
      "by": "Tara McEvoy-Wilding",
      "license": "CC-BY-NC",
@@ -8260,7 +6950,6 @@
  "spirobranchus-giganteus": {
   "keys": [
    "spirobranchus-giganteus_cur",
-   "spirobranchus-giganteus_30906390",
    "spirobranchus-giganteus_349881105"
   ],
   "photos": [
@@ -8276,15 +6965,6 @@
    {
     "img": "images/spirobranchus-giganteus-2.webp",
     "credit": {
-     "by": "terence zahner",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/30906390",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/spirobranchus-giganteus-3.webp",
-    "credit": {
      "by": "Sylvain Le Bris",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/349881105",
@@ -8295,8 +6975,7 @@
  },
  "branchiostoma-lanceolatum": {
   "keys": [
-   "branchiostoma-lanceolatum_cur",
-   "branchiostoma-lanceolatum_456159966"
+   "branchiostoma-lanceolatum_cur"
   ],
   "photos": [
    {
@@ -8305,15 +6984,6 @@
      "by": "Hans Hillewaert",
      "license": "CC-BY-SA",
      "url": "https://www.inaturalist.org/photos/14958565",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/branchiostoma-lanceolatum-2.webp",
-    "credit": {
-     "by": "Chris Isaacs",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/456159966",
      "source": "iNaturalist"
     }
    }
@@ -8429,22 +7099,12 @@
  },
  "sabella-pavonina": {
   "keys": [
-   "sabella-pavonina_565066450",
    "sabella-pavonina_738197567",
    "sabella-pavonina_393013024"
   ],
   "photos": [
    {
     "img": "images/sabella-pavonina.webp",
-    "credit": {
-     "by": "Anna Kellagher",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/565066450",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/sabella-pavonina-2.webp",
     "credit": {
      "by": "Rory Wilson",
      "license": "CC-BY",
@@ -8453,7 +7113,7 @@
     }
    },
    {
-    "img": "images/sabella-pavonina-3.webp",
+    "img": "images/sabella-pavonina-2.webp",
     "credit": {
      "by": "Emil B",
      "license": "CC-BY-NC",
@@ -8574,7 +7234,6 @@
  "hediste-diversicolor": {
   "keys": [
    "hediste-diversicolor_269612088",
-   "hediste-diversicolor_125418238",
    "hediste-diversicolor_116874143"
   ],
   "photos": [
@@ -8590,15 +7249,6 @@
    {
     "img": "images/hediste-diversicolor-2.webp",
     "credit": {
-     "by": "Rita Jansen",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/125418238",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/hediste-diversicolor-3.webp",
-    "credit": {
      "by": "Gerrit Öhm",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/116874143",
@@ -8609,31 +7259,11 @@
  },
  "euplectella-aspergillum": {
   "keys": [
-   "euplectella-aspergillum_cur",
-   "euplectella-aspergillum_239134059",
    "euplectella-aspergillum_239134090"
   ],
   "photos": [
    {
     "img": "images/euplectella-aspergillum.webp",
-    "credit": {
-     "by": "NOAA Okeanos Explorer Program",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/55397941",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/euplectella-aspergillum-2.webp",
-    "credit": {
-     "by": "NOAA Photo Library",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/239134059",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/euplectella-aspergillum-3.webp",
     "credit": {
      "by": "NOAA Photo Library",
      "license": "PD",
@@ -8826,8 +7456,7 @@
  "ophiothrix-fragilis": {
   "keys": [
    "ophiothrix-fragilis_581834472",
-   "ophiothrix-fragilis_370118239",
-   "ophiothrix-fragilis_cur"
+   "ophiothrix-fragilis_370118239"
   ],
   "photos": [
    {
@@ -8845,15 +7474,6 @@
      "by": "François-Xavier Taxil",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/370118239",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/ophiothrix-fragilis-3.webp",
-    "credit": {
-     "by": "Bernard Picton",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/6881712",
      "source": "iNaturalist"
     }
    }
@@ -9042,8 +7662,7 @@
  "holothuria-forskali": {
   "keys": [
    "holothuria-forskali_cur",
-   "holothuria-forskali_108891084",
-   "holothuria-forskali_40629725"
+   "holothuria-forskali_108891084"
   ],
   "photos": [
    {
@@ -9061,15 +7680,6 @@
      "by": "Xavier Rufray",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/108891084",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/holothuria-forskali-3.webp",
-    "credit": {
-     "by": "Albertini maridom",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/40629725",
      "source": "iNaturalist"
     }
    }
@@ -9329,22 +7939,12 @@
  },
  "salmo-salar": {
   "keys": [
-   "salmo-salar_555838239",
    "salmo-salar_126517872",
    "salmo-salar_164023670"
   ],
   "photos": [
    {
     "img": "images/salmo-salar.webp",
-    "credit": {
-     "by": "v_moss",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/555838239",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/salmo-salar-2.webp",
     "credit": {
      "by": "Tom Clenche",
      "license": "CC-BY-NC",
@@ -9353,7 +7953,7 @@
     }
    },
    {
-    "img": "images/salmo-salar-3.webp",
+    "img": "images/salmo-salar-2.webp",
     "credit": {
      "by": "Tse Chung Yi",
      "license": "CC-BY-NC",
@@ -9402,7 +8002,6 @@
  "periophthalmus-barbarus": {
   "keys": [
    "periophthalmus-barbarus_465312815",
-   "periophthalmus-barbarus_466030506",
    "periophthalmus-barbarus_455532205"
   ],
   "photos": [
@@ -9418,15 +8017,6 @@
    {
     "img": "images/periophthalmus-barbarus-2.webp",
     "credit": {
-     "by": "Adedotun Ajibade",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/466030506",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/periophthalmus-barbarus-3.webp",
-    "credit": {
      "by": "Tom Heijnen",
      "license": "CC-BY",
      "url": "https://www.inaturalist.org/photos/455532205",
@@ -9438,8 +8028,7 @@
  "synchiropus-splendidus": {
   "keys": [
    "synchiropus-splendidus_cur",
-   "synchiropus-splendidus_31997673",
-   "synchiropus-splendidus_72211676"
+   "synchiropus-splendidus_31997673"
   ],
   "photos": [
    {
@@ -9457,15 +8046,6 @@
      "by": "David R",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/31997673",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/synchiropus-splendidus-3.webp",
-    "credit": {
-     "by": "Klaus Stiefel",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/72211676",
      "source": "iNaturalist"
     }
    }
@@ -9499,9 +8079,7 @@
  },
  "chromis-viridis": {
   "keys": [
-   "chromis-viridis_cur",
-   "chromis-viridis_312485018",
-   "chromis-viridis_476689894"
+   "chromis-viridis_cur"
   ],
   "photos": [
    {
@@ -9510,24 +8088,6 @@
      "by": "Mark Rosenstein",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/936216",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/chromis-viridis-2.webp",
-    "credit": {
-     "by": "mbp349",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/312485018",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/chromis-viridis-3.webp",
-    "credit": {
-     "by": "Marceau Coppée",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/476689894",
      "source": "iNaturalist"
     }
    }
@@ -9634,7 +8194,6 @@
  "pholis-gunnellus": {
   "keys": [
    "pholis-gunnellus_cur",
-   "pholis-gunnellus_352575813",
    "pholis-gunnellus_263661268"
   ],
   "photos": [
@@ -9650,15 +8209,6 @@
    {
     "img": "images/pholis-gunnellus-2.webp",
     "credit": {
-     "by": "Alex Shure",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/352575813",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/pholis-gunnellus-3.webp",
-    "credit": {
      "by": "Calum McLennan",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/263661268",
@@ -9670,8 +8220,7 @@
  "premnas-biaculeatus": {
   "keys": [
    "premnas-biaculeatus_69927140",
-   "premnas-biaculeatus_cur",
-   "premnas-biaculeatus_412795651"
+   "premnas-biaculeatus_cur"
   ],
   "photos": [
    {
@@ -9690,15 +8239,6 @@
      "license": "CC BY-SA 3.0",
      "url": "https://commons.wikimedia.org/wiki/File:Spinecheek.jpg",
      "source": "Wikimedia Commons"
-    }
-   },
-   {
-    "img": "images/premnas-biaculeatus-3.webp",
-    "credit": {
-     "by": "Sarah Whyte",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/412795651",
-     "source": "iNaturalist"
     }
    }
   ]
@@ -9742,8 +8282,7 @@
  "bolbometopon-muricatum": {
   "keys": [
    "bolbometopon-muricatum_477917086",
-   "bolbometopon-muricatum_477917062",
-   "bolbometopon-muricatum_85607007"
+   "bolbometopon-muricatum_477917062"
   ],
   "photos": [
    {
@@ -9761,15 +8300,6 @@
      "by": "Jane Kempler &amp; Andrew Goldby Freelance",
      "license": "CC-BY-NC-ND",
      "url": "https://www.inaturalist.org/photos/477917062",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/bolbometopon-muricatum-3.webp",
-    "credit": {
-     "by": "Albert Kang",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/85607007",
      "source": "iNaturalist"
     }
    }
@@ -9911,35 +8441,15 @@
  },
  "amphiprion-ocellaris": {
   "keys": [
-   "amphiprion-ocellaris_cur",
-   "amphiprion-ocellaris_370606798",
-   "amphiprion-ocellaris_725640618"
+   "amphiprion-ocellaris_370606798"
   ],
   "photos": [
    {
     "img": "images/amphiprion-ocellaris.webp",
     "credit": {
-     "by": "yannickvm",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/9045216",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/amphiprion-ocellaris-2.webp",
-    "credit": {
      "by": "deblee5",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/370606798",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/amphiprion-ocellaris-3.webp",
-    "credit": {
-     "by": "Ying Wang",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/725640618",
      "source": "iNaturalist"
     }
    }
@@ -9983,8 +8493,7 @@
  },
  "katsuwonus-pelamis": {
   "keys": [
-   "katsuwonus-pelamis_668386712",
-   "katsuwonus-pelamis_490499302"
+   "katsuwonus-pelamis_668386712"
   ],
   "photos": [
    {
@@ -9993,15 +8502,6 @@
      "by": "cjp5826",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/668386712",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/katsuwonus-pelamis-2.webp",
-    "credit": {
-     "by": "Scott Plume",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/490499302",
      "source": "iNaturalist"
     }
    }
@@ -10045,17 +8545,16 @@
  },
  "dicentrarchus-labrax": {
   "keys": [
-   "dicentrarchus-labrax_580923497",
-   "dicentrarchus-labrax_458297467",
-   "dicentrarchus-labrax_567465162"
+   "dicentrarchus-labrax_567465162",
+   "dicentrarchus-labrax_458297467"
   ],
   "photos": [
    {
     "img": "images/dicentrarchus-labrax.webp",
     "credit": {
-     "by": "Dan Brown - Wild Discovery tours",
+     "by": "Alison Mayor",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/580923497",
+     "url": "https://www.inaturalist.org/photos/567465162",
      "source": "iNaturalist"
     }
    },
@@ -10067,22 +8566,12 @@
      "url": "https://www.inaturalist.org/photos/458297467",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/dicentrarchus-labrax-3.webp",
-    "credit": {
-     "by": "Alison Mayor",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/567465162",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "pomacanthus-paru": {
   "keys": [
    "pomacanthus-paru_cur",
-   "pomacanthus-paru_608289162",
    "pomacanthus-paru_61807393"
   ],
   "photos": [
@@ -10098,15 +8587,6 @@
    {
     "img": "images/pomacanthus-paru-2.webp",
     "credit": {
-     "by": "Brian Hofstetter",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/608289162",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/pomacanthus-paru-3.webp",
-    "credit": {
      "by": "Paul Prior",
      "license": "CC-BY",
      "url": "https://www.inaturalist.org/photos/61807393",
@@ -10117,17 +8597,16 @@
  },
  "opistognathus-aurifrons": {
   "keys": [
-   "opistognathus-aurifrons_cur",
-   "opistognathus-aurifrons_150723039",
-   "opistognathus-aurifrons_239080672"
+   "opistognathus-aurifrons_239080672",
+   "opistognathus-aurifrons_150723039"
   ],
   "photos": [
    {
     "img": "images/opistognathus-aurifrons.webp",
     "credit": {
-     "by": "Brian Gratwicke",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/127246",
+     "by": "genevieve_21",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/239080672",
      "source": "iNaturalist"
     }
    },
@@ -10139,36 +8618,17 @@
      "url": "https://www.inaturalist.org/photos/150723039",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/opistognathus-aurifrons-3.webp",
-    "credit": {
-     "by": "genevieve_21",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/239080672",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "thunnus-albacares": {
   "keys": [
-   "thunnus-albacares_59012812",
    "thunnus-albacares_cur",
    "thunnus-albacares_83053275"
   ],
   "photos": [
    {
     "img": "images/thunnus-albacares.webp",
-    "credit": {
-     "by": "craigjhowe",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/59012812",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/thunnus-albacares-2.webp",
     "credit": {
      "by": "Almcglashan",
      "license": "CC-BY-SA",
@@ -10177,7 +8637,7 @@
     }
    },
    {
-    "img": "images/thunnus-albacares-3.webp",
+    "img": "images/thunnus-albacares-2.webp",
     "credit": {
      "by": "martinmoscovich",
      "license": "CC-BY-NC",
@@ -10226,8 +8686,7 @@
  "zebrasoma-flavescens": {
   "keys": [
    "zebrasoma-flavescens_cur",
-   "zebrasoma-flavescens_677414100",
-   "zebrasoma-flavescens_407199180"
+   "zebrasoma-flavescens_677414100"
   ],
   "photos": [
    {
@@ -10245,15 +8704,6 @@
      "by": "rabbitlady101",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/677414100",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/zebrasoma-flavescens-3.webp",
-    "credit": {
-     "by": "sea-kangaroo",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/407199180",
      "source": "iNaturalist"
     }
    }
@@ -10369,35 +8819,15 @@
  },
  "plotosus-lineatus": {
   "keys": [
-   "plotosus-lineatus_cur",
-   "plotosus-lineatus_15005869",
-   "plotosus-lineatus_20280720"
+   "plotosus-lineatus_195908688"
   ],
   "photos": [
    {
     "img": "images/plotosus-lineatus.webp",
     "credit": {
-     "by": "Luis P. B.",
+     "by": "albertogaus",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/487402396",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/plotosus-lineatus-2.webp",
-    "credit": {
-     "by": "Mark Rosenstein",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/15005869",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/plotosus-lineatus-3.webp",
-    "credit": {
-     "by": "Tony Strazzari",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/20280720",
+     "url": "https://www.inaturalist.org/photos/195908688",
      "source": "iNaturalist"
     }
    }
@@ -10405,35 +8835,15 @@
  },
  "aeoliscus-strigatus": {
   "keys": [
-   "aeoliscus-strigatus_cur",
-   "aeoliscus-strigatus_281676079",
-   "aeoliscus-strigatus_435373125"
+   "aeoliscus-strigatus_169556416"
   ],
   "photos": [
    {
     "img": "images/aeoliscus-strigatus.webp",
     "credit": {
-     "by": "Mark Rosenstein",
+     "by": "Amaury Durbano",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/38429774",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/aeoliscus-strigatus-2.webp",
-    "credit": {
-     "by": "Rafi Amar",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/281676079",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/aeoliscus-strigatus-3.webp",
-    "credit": {
-     "by": "Jens Sommer-Knudsen",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/435373125",
+     "url": "https://www.inaturalist.org/photos/169556416",
      "source": "iNaturalist"
     }
    }
@@ -10442,8 +8852,7 @@
  "heteroconger-hassi": {
   "keys": [
    "heteroconger-hassi_cur",
-   "heteroconger-hassi_257874600",
-   "heteroconger-hassi_207352872"
+   "heteroconger-hassi_257874600"
   ],
   "photos": [
    {
@@ -10461,15 +8870,6 @@
      "by": "uwkwaj",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/257874600",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/heteroconger-hassi-3.webp",
-    "credit": {
-     "by": "Rafi Amar",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/207352872",
      "source": "iNaturalist"
     }
    }
@@ -10612,8 +9012,7 @@
  "labroides-dimidiatus": {
   "keys": [
    "labroides-dimidiatus_cur",
-   "labroides-dimidiatus_632016569",
-   "labroides-dimidiatus_300737956"
+   "labroides-dimidiatus_632016569"
   ],
   "photos": [
    {
@@ -10631,15 +9030,6 @@
      "by": "Terry Farr",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/632016569",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/labroides-dimidiatus-3.webp",
-    "credit": {
-     "by": "Graham McMartin",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/300737956",
      "source": "iNaturalist"
     }
    }
@@ -10663,9 +9053,7 @@
  },
  "heniochus-acuminatus": {
   "keys": [
-   "heniochus-acuminatus_386242143",
-   "heniochus-acuminatus_677458067",
-   "heniochus-acuminatus_251551497"
+   "heniochus-acuminatus_386242143"
   ],
   "photos": [
    {
@@ -10674,24 +9062,6 @@
      "by": "Malcolm Francis",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/386242143",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/heniochus-acuminatus-2.webp",
-    "credit": {
-     "by": "Freya",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/677458067",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/heniochus-acuminatus-3.webp",
-    "credit": {
-     "by": "DZIVULA GUBE",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/251551497",
      "source": "iNaturalist"
     }
    }
@@ -10762,8 +9132,7 @@
  "sparus-aurata": {
   "keys": [
    "sparus-aurata_cur",
-   "sparus-aurata_327723001",
-   "sparus-aurata_283482386"
+   "sparus-aurata_327723001"
   ],
   "photos": [
    {
@@ -10783,23 +9152,14 @@
      "url": "https://www.inaturalist.org/photos/327723001",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/sparus-aurata-3.webp",
-    "credit": {
-     "by": "loan_1221",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/283482386",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "coryphaena-hippurus": {
   "keys": [
    "coryphaena-hippurus_171728606",
-   "coryphaena-hippurus_cur",
-   "coryphaena-hippurus_361046688"
+   "coryphaena-hippurus_323300429",
+   "coryphaena-hippurus_323300475"
   ],
   "photos": [
    {
@@ -10814,18 +9174,18 @@
    {
     "img": "images/coryphaena-hippurus-2.webp",
     "credit": {
-     "by": "Luis P. B.",
+     "by": "jjulio2000",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/361046671",
+     "url": "https://www.inaturalist.org/photos/323300429",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/coryphaena-hippurus-3.webp",
     "credit": {
-     "by": "Luis P. B.",
+     "by": "jjulio2000",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/361046688",
+     "url": "https://www.inaturalist.org/photos/323300475",
      "source": "iNaturalist"
     }
    }
@@ -11014,7 +9374,6 @@
  "phycodurus-eques": {
   "keys": [
    "phycodurus-eques_cur",
-   "phycodurus-eques_176136328",
    "phycodurus-eques_13478316"
   ],
   "photos": [
@@ -11029,15 +9388,6 @@
    },
    {
     "img": "images/phycodurus-eques-2.webp",
-    "credit": {
-     "by": "J. Martin Crossley",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/176136328",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/phycodurus-eques-3.webp",
     "credit": {
      "by": "sahirabelluwa",
      "license": "CC-BY-NC",
@@ -11085,31 +9435,11 @@
  },
  "chaetodon-lunula": {
   "keys": [
-   "chaetodon-lunula_cur",
-   "chaetodon-lunula_290315687",
    "chaetodon-lunula_734917518"
   ],
   "photos": [
    {
     "img": "images/chaetodon-lunula.webp",
-    "credit": {
-     "by": "Ken-ichi Ueda",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/331",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/chaetodon-lunula-2.webp",
-    "credit": {
-     "by": "David Kimr",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/290315687",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/chaetodon-lunula-3.webp",
     "credit": {
      "by": "Martin Holladay",
      "license": "CC-BY-NC",
@@ -11209,9 +9539,7 @@
  },
  "trachurus-trachurus": {
   "keys": [
-   "trachurus-trachurus_263484980",
-   "trachurus-trachurus_625970131",
-   "trachurus-trachurus_207781582"
+   "trachurus-trachurus_263484980"
   ],
   "photos": [
    {
@@ -11222,45 +9550,17 @@
      "url": "https://www.inaturalist.org/photos/263484980",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/trachurus-trachurus-2.webp",
-    "credit": {
-     "by": "Georgina Jones",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/625970131",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/trachurus-trachurus-3.webp",
-    "credit": {
-     "by": "Julien Renoult",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/207781582",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "pterois-miles": {
   "keys": [
-   "pterois-miles_cur",
    "pterois-miles_15737241",
    "pterois-miles_465692547"
   ],
   "photos": [
    {
     "img": "images/pterois-miles.webp",
-    "credit": {
-     "by": "Daniel Benák",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/334363520",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/pterois-miles-2.webp",
     "credit": {
      "by": "brentch",
      "license": "CC-BY-NC",
@@ -11269,7 +9569,7 @@
     }
    },
    {
-    "img": "images/pterois-miles-3.webp",
+    "img": "images/pterois-miles-2.webp",
     "credit": {
      "by": "Falk Viczian Solarboot-Projekte gGmbH",
      "license": "CC-BY-NC",
@@ -11282,7 +9582,6 @@
  "epinephelus-itajara": {
   "keys": [
    "epinephelus-itajara_478333034",
-   "epinephelus-itajara_47713240",
    "epinephelus-itajara_236943246"
   ],
   "photos": [
@@ -11297,15 +9596,6 @@
    },
    {
     "img": "images/epinephelus-itajara-2.webp",
-    "credit": {
-     "by": "bronyaur",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/47713240",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/epinephelus-itajara-3.webp",
     "credit": {
      "by": "Jamie Holloway",
      "license": "CC-BY-NC",
@@ -11369,35 +9659,35 @@
  },
  "lutjanus-kasmira": {
   "keys": [
-   "lutjanus-kasmira_411180925",
-   "lutjanus-kasmira_20927822",
-   "lutjanus-kasmira_344445744"
+   "lutjanus-kasmira_cur",
+   "lutjanus-kasmira_16103805",
+   "lutjanus-kasmira_19458007"
   ],
   "photos": [
    {
     "img": "images/lutjanus-kasmira.webp",
     "credit": {
-     "by": "Nigel Marsh",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/411180925",
+     "by": "Meghan Cassidy",
+     "license": "CC-BY-SA",
+     "url": "https://www.inaturalist.org/photos/12781149",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/lutjanus-kasmira-2.webp",
     "credit": {
-     "by": "Tony Strazzari",
+     "by": "John Sear",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/20927822",
+     "url": "https://www.inaturalist.org/photos/16103805",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/lutjanus-kasmira-3.webp",
     "credit": {
-     "by": "Graham McMartin",
+     "by": "John Sear",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/344445744",
+     "url": "https://www.inaturalist.org/photos/19458007",
      "source": "iNaturalist"
     }
    }
@@ -11494,8 +9784,7 @@
  "naso-lituratus": {
   "keys": [
    "naso-lituratus_cur",
-   "naso-lituratus_66776977",
-   "naso-lituratus_342503806"
+   "naso-lituratus_66776977"
   ],
   "photos": [
    {
@@ -11513,15 +9802,6 @@
      "by": "sdmariee",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/66776977",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/naso-lituratus-3.webp",
-    "credit": {
-     "by": "animalview29",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/342503806",
      "source": "iNaturalist"
     }
    }
@@ -11592,8 +9872,7 @@
  "atherina-presbyter": {
   "keys": [
    "atherina-presbyter_cur",
-   "atherina-presbyter_613426378",
-   "atherina-presbyter_159582728"
+   "atherina-presbyter_613426378"
   ],
   "photos": [
    {
@@ -11611,15 +9890,6 @@
      "by": "Dennis Rabeling",
      "license": "CC-BY-NC-ND",
      "url": "https://www.inaturalist.org/photos/613426378",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/atherina-presbyter-3.webp",
-    "credit": {
-     "by": "Ana Santos",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/159582728",
      "source": "iNaturalist"
     }
    }
@@ -11735,31 +10005,11 @@
  },
  "platax-teira": {
   "keys": [
-   "platax-teira_346413167",
-   "platax-teira_cur",
    "platax-teira_658230901"
   ],
   "photos": [
    {
     "img": "images/platax-teira.webp",
-    "credit": {
-     "by": "ajustinfocus.com",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/346413167",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/platax-teira-2.webp",
-    "credit": {
-     "by": "madgeographic",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/155551553",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/platax-teira-3.webp",
     "credit": {
      "by": "Colin Marshall",
      "license": "CC-BY-NC-ND",
@@ -11844,8 +10094,7 @@
  "dascyllus-aruanus": {
   "keys": [
    "dascyllus-aruanus_cur",
-   "dascyllus-aruanus_62392288",
-   "dascyllus-aruanus_46096726"
+   "dascyllus-aruanus_62392288"
   ],
   "photos": [
    {
@@ -11863,15 +10112,6 @@
      "by": "terence zahner",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/62392288",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/dascyllus-aruanus-3.webp",
-    "credit": {
-     "by": "Peter",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/46096726",
      "source": "iNaturalist"
     }
    }
@@ -11915,22 +10155,12 @@
  },
  "muraena-helena": {
   "keys": [
-   "muraena-helena_90348912",
    "muraena-helena_457076543",
    "muraena-helena_102663502"
   ],
   "photos": [
    {
     "img": "images/muraena-helena.webp",
-    "credit": {
-     "by": "frahome",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/90348912",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/muraena-helena-2.webp",
     "credit": {
      "by": "Falk Viczian Solarboot-Projekte gGmbH",
      "license": "CC-BY-NC",
@@ -11939,7 +10169,7 @@
     }
    },
    {
-    "img": "images/muraena-helena-3.webp",
+    "img": "images/muraena-helena-2.webp",
     "credit": {
      "by": "josepvilanova",
      "license": "CC-BY-NC",
@@ -11952,8 +10182,7 @@
  "mullus-surmuletus": {
   "keys": [
    "mullus-surmuletus_3426676",
-   "mullus-surmuletus_326147277",
-   "mullus-surmuletus_453566101"
+   "mullus-surmuletus_326147277"
   ],
   "photos": [
    {
@@ -11971,15 +10200,6 @@
      "by": "Frédéric ANDRE",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/326147277",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/mullus-surmuletus-3.webp",
-    "credit": {
-     "by": "Falk Viczian Solarboot-Projekte gGmbH",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/453566101",
      "source": "iNaturalist"
     }
    }
@@ -12111,22 +10331,12 @@
  },
  "istiophorus-platypterus": {
   "keys": [
-   "istiophorus-platypterus_341497370",
    "istiophorus-platypterus_388539772",
    "istiophorus-platypterus_341497359"
   ],
   "photos": [
    {
     "img": "images/istiophorus-platypterus.webp",
-    "credit": {
-     "by": "edgarku",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/341497370",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/istiophorus-platypterus-2.webp",
     "credit": {
      "by": "rudi-diesel",
      "license": "CC-BY-NC",
@@ -12135,7 +10345,7 @@
     }
    },
    {
-    "img": "images/istiophorus-platypterus-3.webp",
+    "img": "images/istiophorus-platypterus-2.webp",
     "credit": {
      "by": "edgarku",
      "license": "CC-BY-NC",
@@ -12148,7 +10358,6 @@
  "anguilla-anguilla": {
   "keys": [
    "anguilla-anguilla_21512695",
-   "anguilla-anguilla_712567454",
    "anguilla-anguilla_234265640"
   ],
   "photos": [
@@ -12163,15 +10372,6 @@
    },
    {
     "img": "images/anguilla-anguilla-2.webp",
-    "credit": {
-     "by": "Anne Holz",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/712567454",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/anguilla-anguilla-3.webp",
     "credit": {
      "by": "lindra",
      "license": "CC-BY-NC",
@@ -12292,8 +10492,7 @@
  "paracanthurus-hepatus": {
   "keys": [
    "paracanthurus-hepatus_251134746",
-   "paracanthurus-hepatus_575998294",
-   "paracanthurus-hepatus_251134737"
+   "paracanthurus-hepatus_575998294"
   ],
   "photos": [
    {
@@ -12313,31 +10512,21 @@
      "url": "https://www.inaturalist.org/photos/575998294",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/paracanthurus-hepatus-3.webp",
-    "credit": {
-     "by": "Pauline Fey",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/251134737",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "chelmon-rostratus": {
   "keys": [
-   "chelmon-rostratus_165226880",
-   "chelmon-rostratus_368377065",
-   "chelmon-rostratus_579723343"
+   "chelmon-rostratus_579723343",
+   "chelmon-rostratus_368377065"
   ],
   "photos": [
    {
     "img": "images/chelmon-rostratus.webp",
     "credit": {
-     "by": "Nigel Marsh",
+     "by": "Jiayuan Lin",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/165226880",
+     "url": "https://www.inaturalist.org/photos/579723343",
      "source": "iNaturalist"
     }
    },
@@ -12347,15 +10536,6 @@
      "by": "deblee5",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/368377065",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/chelmon-rostratus-3.webp",
-    "credit": {
-     "by": "Jiayuan Lin",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/579723343",
      "source": "iNaturalist"
     }
    }
@@ -12658,8 +10838,7 @@
  "pseudanthias-squamipinnis": {
   "keys": [
    "pseudanthias-squamipinnis_cur",
-   "pseudanthias-squamipinnis_474118491",
-   "pseudanthias-squamipinnis_469526026"
+   "pseudanthias-squamipinnis_474118491"
   ],
   "photos": [
    {
@@ -12677,15 +10856,6 @@
      "by": "Frank Krasovec",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/474118491",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/pseudanthias-squamipinnis-3.webp",
-    "credit": {
-     "by": "Luis P. B.",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/469526026",
      "source": "iNaturalist"
     }
    }
@@ -12915,9 +11085,7 @@
  },
  "abudefduf-saxatilis": {
   "keys": [
-   "abudefduf-saxatilis_cur",
-   "abudefduf-saxatilis_391414349",
-   "abudefduf-saxatilis_205346094"
+   "abudefduf-saxatilis_cur"
   ],
   "photos": [
    {
@@ -12926,24 +11094,6 @@
      "by": "Brian Gratwicke",
      "license": "CC-BY",
      "url": "https://www.inaturalist.org/photos/201212501",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/abudefduf-saxatilis-2.webp",
-    "credit": {
-     "by": "Roger A. Morales-Flores",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/391414349",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/abudefduf-saxatilis-3.webp",
-    "credit": {
-     "by": "Popsicleemperor",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/205346094",
      "source": "iNaturalist"
     }
    }
@@ -13204,8 +11354,7 @@
  "nemateleotris-magnifica": {
   "keys": [
    "nemateleotris-magnifica_cur",
-   "nemateleotris-magnifica_200148972",
-   "nemateleotris-magnifica_607054505"
+   "nemateleotris-magnifica_200148972"
   ],
   "photos": [
    {
@@ -13225,36 +11374,17 @@
      "url": "https://www.inaturalist.org/photos/200148972",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/nemateleotris-magnifica-3.webp",
-    "credit": {
-     "by": "cello caruso-turiello",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/607054505",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "phyllopteryx-taeniolatus": {
   "keys": [
-   "phyllopteryx-taeniolatus_31259639",
    "phyllopteryx-taeniolatus_cur",
    "phyllopteryx-taeniolatus_135686306"
   ],
   "photos": [
    {
     "img": "images/phyllopteryx-taeniolatus.webp",
-    "credit": {
-     "by": "scubagran",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/31259639",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/phyllopteryx-taeniolatus-2.webp",
     "credit": {
      "by": "J. Martin Crossley",
      "license": "CC-BY-NC-SA",
@@ -13263,7 +11393,7 @@
     }
    },
    {
-    "img": "images/phyllopteryx-taeniolatus-3.webp",
+    "img": "images/phyllopteryx-taeniolatus-2.webp",
     "credit": {
      "by": "John Sear",
      "license": "CC-BY-NC",
@@ -13451,22 +11581,12 @@
  },
  "petromyzon-marinus": {
   "keys": [
-   "petromyzon-marinus_737959559",
    "petromyzon-marinus_269747511",
    "petromyzon-marinus_737959608"
   ],
   "photos": [
    {
     "img": "images/petromyzon-marinus.webp",
-    "credit": {
-     "by": "Below Blue Water Diver",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/737959559",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/petromyzon-marinus-2.webp",
     "credit": {
      "by": "Thomas Menut",
      "license": "CC-BY-NC",
@@ -13475,7 +11595,7 @@
     }
    },
    {
-    "img": "images/petromyzon-marinus-3.webp",
+    "img": "images/petromyzon-marinus-2.webp",
     "credit": {
      "by": "Below Blue Water Diver",
      "license": "CC-BY-NC",
@@ -13874,7 +11994,6 @@
  "aplysia-punctata": {
   "keys": [
    "aplysia-punctata_166251444",
-   "aplysia-punctata_267804084",
    "aplysia-punctata_cur"
   ],
   "photos": [
@@ -13889,15 +12008,6 @@
    },
    {
     "img": "images/aplysia-punctata-2.webp",
-    "credit": {
-     "by": "Juraj Ahel",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/267804084",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/aplysia-punctata-3.webp",
     "credit": {
      "by": "Nathan Jackson",
      "license": "CC-BY-NC",
@@ -13997,35 +12107,25 @@
  },
  "patella-vulgata": {
   "keys": [
-   "patella-vulgata_251467169",
-   "patella-vulgata_469063122",
-   "patella-vulgata_605066641"
+   "patella-vulgata_605066641",
+   "patella-vulgata_251467169"
   ],
   "photos": [
    {
     "img": "images/patella-vulgata.webp",
     "credit": {
-     "by": "Jamie O'Neill",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/251467169",
+     "by": "Luis Silva",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/605066641",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/patella-vulgata-2.webp",
     "credit": {
-     "by": "Marie Lou Legrand",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/469063122",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/patella-vulgata-3.webp",
-    "credit": {
-     "by": "Luis Silva",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/605066641",
+     "by": "Jamie O'Neill",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/251467169",
      "source": "iNaturalist"
     }
    }
@@ -14276,7 +12376,6 @@
  "crassostrea-gigas": {
   "keys": [
    "crassostrea-gigas_cur",
-   "crassostrea-gigas_14067846",
    "crassostrea-gigas_111014253"
   ],
   "photos": [
@@ -14292,15 +12391,6 @@
    {
     "img": "images/crassostrea-gigas-2.webp",
     "credit": {
-     "by": "Christian Schwarz",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/14067846",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/crassostrea-gigas-3.webp",
-    "credit": {
      "by": "Matt Tank",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/111014253",
@@ -14311,31 +12401,11 @@
  },
  "mytilus-edulis": {
   "keys": [
-   "mytilus-edulis_652956597",
-   "mytilus-edulis_22482630",
    "mytilus-edulis_285625826"
   ],
   "photos": [
    {
     "img": "images/mytilus-edulis.webp",
-    "credit": {
-     "by": "Rita Jansen",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/652956597",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/mytilus-edulis-2.webp",
-    "credit": {
-     "by": "Sally Anderson",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/22482630",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/mytilus-edulis-3.webp",
     "credit": {
      "by": "Alex Shure",
      "license": "CC-BY-NC",
@@ -14347,9 +12417,7 @@
  },
  "crepidula-fornicata": {
   "keys": [
-   "crepidula-fornicata_cur",
-   "crepidula-fornicata_160046385",
-   "crepidula-fornicata_5990015"
+   "crepidula-fornicata_cur"
   ],
   "photos": [
    {
@@ -14360,44 +12428,16 @@
      "url": "https://www.inaturalist.org/photos/3237245",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/crepidula-fornicata-2.webp",
-    "credit": {
-     "by": "Mette Hesselholt Henne Hansen",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/160046385",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/crepidula-fornicata-3.webp",
-    "credit": {
-     "by": "peggyo",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/5990015",
-     "source": "iNaturalist"
-    }
    }
   ]
  },
  "arctica-islandica": {
   "keys": [
-   "arctica-islandica_cur",
    "arctica-islandica_20035779"
   ],
   "photos": [
    {
     "img": "images/arctica-islandica.webp",
-    "credit": {
-     "by": "Vsevolod Rudyi",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/384934266",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/arctica-islandica-2.webp",
     "credit": {
      "by": "ðejay (Orkney)",
      "license": "CC-BY-NC",
@@ -14481,22 +12521,12 @@
  },
  "janthina-janthina": {
   "keys": [
-   "janthina-janthina_184825171",
    "janthina-janthina_184825794",
-   "janthina-janthina_615023143"
+   "janthina-janthina_184825171"
   ],
   "photos": [
    {
     "img": "images/janthina-janthina.webp",
-    "credit": {
-     "by": "Norman P Farmer",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/184825171",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/janthina-janthina-2.webp",
     "credit": {
      "by": "Norman P Farmer",
      "license": "CC-BY-NC",
@@ -14505,11 +12535,11 @@
     }
    },
    {
-    "img": "images/janthina-janthina-3.webp",
+    "img": "images/janthina-janthina-2.webp",
     "credit": {
-     "by": "M. Salimeh",
+     "by": "Norman P Farmer",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/615023143",
+     "url": "https://www.inaturalist.org/photos/184825171",
      "source": "iNaturalist"
     }
    }
@@ -14518,7 +12548,6 @@
  "nucella-lapillus": {
   "keys": [
    "nucella-lapillus_627348452",
-   "nucella-lapillus_65489594",
    "nucella-lapillus_474568856"
   ],
   "photos": [
@@ -14533,15 +12562,6 @@
    },
    {
     "img": "images/nucella-lapillus-2.webp",
-    "credit": {
-     "by": "julievanroestel",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/65489594",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/nucella-lapillus-3.webp",
     "credit": {
      "by": "ipat",
      "license": "CC-BY-NC-ND",
@@ -14785,6 +12805,22 @@
      "license": "CC-BY",
      "url": "https://www.inaturalist.org/photos/232777911",
      "source": "iNaturalist"
+    }
+   }
+  ]
+ },
+ "monachus-monachus": {
+  "keys": [
+   "monachus-monachus_cur"
+  ],
+  "photos": [
+   {
+    "img": "images/monachus-monachus.webp",
+    "credit": {
+     "by": "Atsoukali",
+     "license": "CC BY-SA 4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Billy_monk_seal_2.jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ]
