@@ -22,7 +22,8 @@
   };
   const QTYPES = {
     photo: { label: "Foto's",  hint: "Je ziet een foto en kiest de juiste naam." },
-    mixed: { label: "Gemengd", hint: "Afwisselend: foto bij naam, naam bij foto en 'welk dier leeft hier?' op de kaart." },
+    fact:  { label: "Weetjes", hint: "Je leest een opvallend weetje (zonder de naam) en raadt over welk dier het gaat." },
+    mixed: { label: "Gemengd", hint: "Afwisselend: foto bij naam, naam bij foto, weetjes en 'welk dier leeft hier?' op de kaart." },
     type:  { label: "Intypen", hint: "Expert: typ zelf de naam. Kleine tikfouten worden goedgerekend." },
   };
   const MODES = {
@@ -464,7 +465,7 @@
 
   const mediaKey = url => new URL(url, location.href).pathname.split("/").slice(-2).join("/");
   async function countCached() {
-    const have = new Set((await (await caches.open("oq-media-3")).keys()).map(r => mediaKey(r.url)));
+    const have = new Set((await (await caches.open("oq-media-4")).keys()).map(r => mediaKey(r.url)));
     return MEDIA_URLS.filter(u => have.has(u)).length;
   }
 
@@ -483,7 +484,7 @@
   async function downloadAll() {
     if (offline.busy) return;
     offline.busy = true;
-    const cache = await caches.open("oq-media-3");
+    const cache = await caches.open("oq-media-4");
     const have = new Set((await cache.keys()).map(r => mediaKey(r.url)));
     const todo = MEDIA_URLS.filter(u => !have.has(u));
     offline.done = MEDIA_URLS.length - todo.length;
@@ -559,17 +560,17 @@
   }
 
   function makeQuestion(animal, opts, rnd = Math.random) {
-    let type = opts.qtype === "type" ? "type" : "photo";
+    let type = opts.qtype === "type" ? "type" : opts.qtype === "fact" && animal.top ? "fact" : "photo";
     if (opts.qtype === "mixed") {
       const r = rnd();
-      type = r < 0.5 ? "photo" : r < 0.75 ? "name2photo" : (animal.map ? "map" : "name2photo");
+      type = r < 0.4 ? "photo" : r < 0.6 ? "name2photo" : r < 0.8 ? (animal.top ? "fact" : "photo") : (animal.map ? "map" : "name2photo");
     }
     const q = {
       animal, type,
       photo: animal.photos[Math.floor(rnd() * animal.photos.length)],
     };
     if (type !== "type") {
-      q.options = shuffle([animal, ...pickDistractors(animal, opts.difficulty, opts.pool, rnd, type === "map")], rnd);
+      q.options = shuffle([animal, ...pickDistractors(animal, opts.difficulty, opts.pool, rnd, type === "map" || type === "fact")], rnd);
       if (type === "name2photo") q.optionPhotos = q.options.map(o => o.photos[0]);
     }
     return q;
@@ -655,6 +656,18 @@
     </div>`;
   }
 
+  // Weetjesvraag: de naam (en woorden eruit, ook in samenstellingen en meervoud) wegstrepen
+  const NAME_STOP = new Set(["gewone", "grote", "kleine", "echte", "europese", "atlantische"]);
+  function maskName(text, a) {
+    const words = new Set([...a.name.toLowerCase().split(/[^a-zà-ÿ]+/), ...a.sci.toLowerCase().split(/\s+/)]
+      .filter(w => w.length >= 4 && !NAME_STOP.has(w)));
+    let html = esc(text);
+    for (const w of [...words].sort((x, y) => y.length - x.length)) {
+      html = html.replace(new RegExp(`(^|[^a-zà-ÿ>])${w.replace(/[^a-zà-ÿ]/g, "")}[a-zà-ÿ]*`, "gi"), `$1<span class="blank" aria-label="weggelaten">…</span>`);
+    }
+    return html;
+  }
+
   function renderQuestion() {
     const g = game;
     if (g.index >= g.questions.length) return endGame();
@@ -668,6 +681,12 @@
       left = `<div class="photo-card map-card"><div class="map big"><img src="${a.map}" alt="Kaart met waarnemingen van het dier dat je moet raden"></div></div>`;
       title = "Welk dier komt hier voor?";
       sub = "De kaart toont waar dit dier is waargenomen.";
+    } else if (q.type === "fact") {
+      left = `<div class="name-card fact-card"><span class="name-label">${icon("bulb")} Weetje</span>
+        <blockquote>${maskName(a.top.text, a)}</blockquote>
+        ${showCat ? `<span class="chip soft">${esc(a.cat)}</span>` : ""}</div>`;
+      title = "Over welk dier gaat dit?";
+      sub = "De naam van het dier is weggelaten.";
     } else if (q.type === "name2photo") {
       left = `<div class="name-card"><span class="name-label">Zoek de foto van</span><h2>${esc(a.name)}</h2>
         ${showCat ? `<span class="chip soft">${esc(a.cat)}</span>` : ""}</div>`;
@@ -835,7 +854,7 @@
     }
 
     const isLast = g.mode === "survival" ? g.lives <= 0 || g.index + 1 >= g.questions.length : g.index + 1 >= g.questions.length;
-    $("#q-info").innerHTML = infoHTML(a, q.type === "map" ? q.photo : null);
+    $("#q-info").innerHTML = infoHTML(a, q.type === "map" || q.type === "fact" ? q.photo : null);
     $(".kbd-hint", view).hidden = true;
     const praise = pick(["Goed zo!", "Helemaal goed!", "Uitstekend!", "Raak!", "Knap gedaan!"]);
     const title = ok ? `${praise} +${pts}` : (g.mode === "survival" && g.lives <= 0 ? "Je levens zijn op!" : "Helaas, niet goed");

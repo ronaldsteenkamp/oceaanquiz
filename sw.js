@@ -1,8 +1,8 @@
 // Service worker: maakt de Oceaanquiz installeerbaar en offline speelbaar.
-const VERSION = "v9";
+const VERSION = "v10";
 const SHELL = `oq-shell-${VERSION}`;
 // foto's en kaarten veranderen zelden: blijft bewaard tussen versies, behalve als de foto's vernieuwd zijn
-const MEDIA = "oq-media-3";
+const MEDIA = "oq-media-4";
 
 const SHELL_FILES = [
   "./", "index.html", "style.css", "app.js", "data.js", "manifest.webmanifest",

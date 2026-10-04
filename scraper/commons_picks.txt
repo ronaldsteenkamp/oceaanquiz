@@ -1,0 +1,22 @@
+# Commons-keuzes: id: index (eerste = hoofdfoto)
+neophocaena-phocaenoides: 8
+mitsukurina-owstoni: 4
+isistius-brasiliensis: 15, 13
+megachasma-pelagios: 4
+acipenser-sturio: 3
+thunnus-obesus: 5
+scomber-scombrus: 13
+sebastes-norvegicus: 12
+histrio-histrio: 13, 7
+anoplogaster-cornuta: 10
+thunnus-alalunga: 5
+architeuthis-dux: 0
+todarodes-sagittatus: 2
+cerastoderma-edule: 8
+mesonychoteuthis-hamiltoni: 12
+macoma-balthica: 7, 9
+mya-arenaria: 9, 1
+caranx-hippos: 11, 10
+alle-alle: 9, 14, 1
+mustelus-asterias: 7, 0
+merlangius-merlangus: 12

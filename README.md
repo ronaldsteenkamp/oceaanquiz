@@ -17,7 +17,7 @@ Fotoquiz met 464 zeedieren: herken het dier, lees feitjes en bekijk op een werel
 - **Dagelijkse uitdaging**: elke dag dezelfde 10 dieren voor iedereen, met een deelbare score (🟩🟥).
 - **Oefenen**: herhaling op afstand. Dieren die je fout hebt komen meteen terug, goede pas na 1, 3, 7, 14 en 30 dagen.
 - **Spelmodi**: Klassiek, Tijdrace (60 seconden) en Overleven (3 levens).
-- **Vraagsoorten**: foto → naam, gemengd (ook naam → foto en "welk dier leeft hier?" op de kaart) en intypen (expert, tikfouten toegestaan).
+- **Vraagsoorten**: foto → naam, weetjes (raad het dier bij een opvallend feit), gemengd (ook naam → foto, weetjes en "welk dier leeft hier?" op de kaart) en intypen (expert, tikfouten toegestaan).
 - **Niveaus**: Makkelijk, Normaal, Moeilijk (foute antwoorden uit dezelfde familie of met lijkende namen).
 - **Noordzee-modus**: speel alleen met dieren die regelmatig in de Noordzee worden gezien.
 - **Collectie**: elk dier dat je goed raadt wordt "ontdekt".

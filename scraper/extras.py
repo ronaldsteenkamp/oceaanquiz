@@ -71,22 +71,32 @@ _keep_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "photo_kee
 KEEP = json.load(open(_keep_path, encoding="utf-8")) if os.path.exists(_keep_path) else {}
 
 
+_commons_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "commons_picks.json")
+COMMONS = json.load(open(_commons_path, encoding="utf-8")) if os.path.exists(_commons_path) else {}
+
+
 def photos_for(a):
     """-> lijst foto's [{img, size, credit}], hoofdfoto eerst.
     photo_keep.json: welke automatisch gekozen foto's (1-3) blijven, bv. alleen die met één exemplaar."""
+    if a["id"] in COMMONS:  # met de hand gekozen van Wikimedia Commons: zie apply_commons.py
+        return _load(COMMONS[a["id"]]["photos"])
     photos = _photos_for(a)
     if a["id"] in KEEP:
         photos = [photos[i - 1] for i in KEEP[a["id"]] if i <= len(photos)] or photos
     return photos
 
 
+def _load(picked):
+    out = []
+    for p in picked:
+        with Image.open(os.path.join(ROOT, p["img"])) as im:
+            out.append({"img": p["img"], "size": list(im.size), "credit": p["credit"]})
+    return out
+
+
 def _photos_for(a):
     if a["id"] in PICKS:  # met de hand gekozen (hele dier, natuurlijke omgeving): zie apply_picks.py
-        out = []
-        for p in PICKS[a["id"]]["photos"]:
-            with Image.open(os.path.join(ROOT, p["img"])) as im:
-                out.append({"img": p["img"], "size": list(im.size), "credit": p["credit"]})
-        return out
+        return _load(PICKS[a["id"]]["photos"])
     main ={"img": a["img"], "size": a["imgSize"], "credit": a["credit"]}
     with INAT_LOCK:
         alts = inat_alternatives(a["sci"])

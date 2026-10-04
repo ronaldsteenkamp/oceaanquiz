@@ -1312,14 +1312,14 @@ window.OCEAN_ANIMALS = [
   "wiki": "https://nl.wikipedia.org/wiki/Gevlekte_gladde_haai",
   "img": "images/mustelus-asterias.webp",
   "imgSize": [
-   1400,
-   538
+   1200,
+   797
   ],
   "credit": {
-   "by": "Andy Drumm",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/76343484",
-   "source": "iNaturalist"
+   "by": "This illustration was made by Citron\nYou must credit this : Citron / CC-BY-SA-3.",
+   "license": "CC-BY-SA-3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Mustelus_asterias_aquarium.jpg",
+   "source": "Wikimedia Commons"
   },
   "obs": 35347,
   "map": "maps/mustelus-asterias.webp",
@@ -1327,14 +1327,27 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/mustelus-asterias.webp",
     "size": [
-     1400,
-     538
+     1200,
+     797
     ],
     "credit": {
-     "by": "Andy Drumm",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/76343484",
-     "source": "iNaturalist"
+     "by": "This illustration was made by Citron\nYou must credit this : Citron / CC-BY-SA-3.",
+     "license": "CC-BY-SA-3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Mustelus_asterias_aquarium.jpg",
+     "source": "Wikimedia Commons"
+    }
+   },
+   {
+    "img": "images/mustelus-asterias-2.webp",
+    "size": [
+     1100,
+     733
+    ],
+    "credit": {
+     "by": "Bene Riobó",
+     "license": "CC-BY-SA-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Caz%C3%B3n_branco.jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -2647,13 +2660,13 @@ window.OCEAN_ANIMALS = [
   "img": "images/mitsukurina-owstoni.webp",
   "imgSize": [
    1400,
-   1050
+   752
   ],
   "credit": {
-   "by": "anonymous",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/53695137",
-   "source": "iNaturalist"
+   "by": "Michigan State University/USFWS",
+   "license": "PUBLIC-DOMAIN",
+   "url": "https://commons.wikimedia.org/wiki/File:Goblin_shark_(Mitsukurina_owstoni).jpg",
+   "source": "Wikimedia Commons"
   },
   "obs": 286,
   "map": "maps/mitsukurina-owstoni.webp",
@@ -2662,13 +2675,13 @@ window.OCEAN_ANIMALS = [
     "img": "images/mitsukurina-owstoni.webp",
     "size": [
      1400,
-     1050
+     752
     ],
     "credit": {
-     "by": "anonymous",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/53695137",
-     "source": "iNaturalist"
+     "by": "Michigan State University/USFWS",
+     "license": "PUBLIC-DOMAIN",
+     "url": "https://commons.wikimedia.org/wiki/File:Goblin_shark_(Mitsukurina_owstoni).jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -2698,13 +2711,13 @@ window.OCEAN_ANIMALS = [
   "img": "images/isistius-brasiliensis.webp",
   "imgSize": [
    1400,
-   589
+   1050
   ],
   "credit": {
-   "by": "Ken Graham",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/180209206",
-   "source": "iNaturalist"
+   "by": "Vsevolod Rudyi",
+   "license": "CC-BY-4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Velvet_Belly_Lanternshark.jpg",
+   "source": "Wikimedia Commons"
   },
   "obs": 745,
   "map": "maps/isistius-brasiliensis.webp",
@@ -2713,13 +2726,26 @@ window.OCEAN_ANIMALS = [
     "img": "images/isistius-brasiliensis.webp",
     "size": [
      1400,
-     589
+     1050
     ],
     "credit": {
-     "by": "Ken Graham",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/180209206",
-     "source": "iNaturalist"
+     "by": "Vsevolod Rudyi",
+     "license": "CC-BY-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Velvet_Belly_Lanternshark.jpg",
+     "source": "Wikimedia Commons"
+    }
+   },
+   {
+    "img": "images/isistius-brasiliensis-2.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "Vsevolod Rudyi",
+     "license": "CC-BY-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Etmopterus_spinax_closeup.jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -3033,13 +3059,13 @@ window.OCEAN_ANIMALS = [
   "img": "images/megachasma-pelagios.webp",
   "imgSize": [
    1400,
-   933
+   700
   ],
   "credit": {
-   "by": "GordonMakryllos",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/438047600",
-   "source": "iNaturalist"
+   "by": "AndiV",
+   "license": "CC0",
+   "url": "https://commons.wikimedia.org/wiki/File:Megachasma_pelagios_Megamouth_Shark.png",
+   "source": "Wikimedia Commons"
   },
   "obs": 76,
   "map": "maps/megachasma-pelagios.webp",
@@ -3048,39 +3074,13 @@ window.OCEAN_ANIMALS = [
     "img": "images/megachasma-pelagios.webp",
     "size": [
      1400,
-     933
+     700
     ],
     "credit": {
-     "by": "GordonMakryllos",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/438047600",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/megachasma-pelagios-2.webp",
-    "size": [
-     800,
-     800
-    ],
-    "credit": {
-     "by": "opencage",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/563057612",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/megachasma-pelagios-3.webp",
-    "size": [
-     800,
-     359
-    ],
-    "credit": {
-     "by": "OpenCage",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/438047617",
-     "source": "iNaturalist"
+     "by": "AndiV",
+     "license": "CC0",
+     "url": "https://commons.wikimedia.org/wiki/File:Megachasma_pelagios_Megamouth_Shark.png",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -13063,13 +13063,13 @@ window.OCEAN_ANIMALS = [
   "img": "images/acipenser-sturio.webp",
   "imgSize": [
    1400,
-   934
+   1050
   ],
   "credit": {
-   "by": "Joachim S. Müller",
-   "license": "CC-BY-NC-SA",
-   "url": "https://www.inaturalist.org/photos/57422005",
-   "source": "iNaturalist"
+   "by": "Aah-Yeah",
+   "license": "CC-BY-2.0",
+   "url": "https://commons.wikimedia.org/wiki/File:St%C3%B6r_-_Sturgeon.jpg",
+   "source": "Wikimedia Commons"
   },
   "obs": 3024,
   "map": "maps/acipenser-sturio.webp",
@@ -13078,39 +13078,13 @@ window.OCEAN_ANIMALS = [
     "img": "images/acipenser-sturio.webp",
     "size": [
      1400,
-     934
+     1050
     ],
     "credit": {
-     "by": "Joachim S. Müller",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/57422005",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/acipenser-sturio-2.webp",
-    "size": [
-     1100,
-     353
-    ],
-    "credit": {
-     "by": "Krüger",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/84687894",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/acipenser-sturio-3.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Acácio Costa",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/26459996",
-     "source": "iNaturalist"
+     "by": "Aah-Yeah",
+     "license": "CC-BY-2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:St%C3%B6r_-_Sturgeon.jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -14916,10 +14890,10 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "Bobby McCabe",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/302883489",
-   "source": "iNaturalist"
+   "by": "Hugues Evano (IFREMER, Délégation océan Indien (DOI), Département Ressources Bio",
+   "license": "CC-BY-4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Thon_ob%C3%A8se_(Thunnus_obesus)_(Ifremer_00764-87617).jpg",
+   "source": "Wikimedia Commons"
   },
   "obs": 76204,
   "map": "maps/thunnus-obesus.webp",
@@ -14931,36 +14905,10 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "Bobby McCabe",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/302883489",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/thunnus-obesus-2.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "INVEMAR Banco de Imagenes",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/384383944",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/thunnus-obesus-3.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Gonzalo Mucientes Sandoval",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/28638107",
-     "source": "iNaturalist"
+     "by": "Hugues Evano (IFREMER, Délégation océan Indien (DOI), Département Ressources Bio",
+     "license": "CC-BY-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Thon_ob%C3%A8se_(Thunnus_obesus)_(Ifremer_00764-87617).jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -17103,13 +17051,13 @@ window.OCEAN_ANIMALS = [
   "img": "images/scomber-scombrus.webp",
   "imgSize": [
    1400,
-   980
+   1050
   ],
   "credit": {
-   "by": "Petar Milošević",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/18592138",
-   "source": "iNaturalist"
+   "by": "Hans Hillewaert",
+   "license": "CC-BY-SA-4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Scomber_scombrus.jpg",
+   "source": "Wikimedia Commons"
   },
   "obs": 443120,
   "map": "maps/scomber-scombrus.webp",
@@ -17118,39 +17066,13 @@ window.OCEAN_ANIMALS = [
     "img": "images/scomber-scombrus.webp",
     "size": [
      1400,
-     980
+     1050
     ],
     "credit": {
-     "by": "Petar Milošević",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/18592138",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/scomber-scombrus-2.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Joe Kunkel",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/28321549",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/scomber-scombrus-3.webp",
-    "size": [
-     1100,
-     595
-    ],
-    "credit": {
-     "by": "robertweeden",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/557522928",
-     "source": "iNaturalist"
+     "by": "Hans Hillewaert",
+     "license": "CC-BY-SA-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Scomber_scombrus.jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -17669,10 +17591,10 @@ window.OCEAN_ANIMALS = [
    933
   ],
   "credit": {
-   "by": "James Bailey",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/1800499",
-   "source": "iNaturalist"
+   "by": "Dguendel",
+   "license": "CC-BY-4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Lisbon,_Oceanarium,_Caranx_hippos.JPG",
+   "source": "Wikimedia Commons"
   },
   "obs": 91736,
   "map": "maps/caranx-hippos.webp",
@@ -17684,23 +17606,23 @@ window.OCEAN_ANIMALS = [
      933
     ],
     "credit": {
-     "by": "James Bailey",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/1800499",
-     "source": "iNaturalist"
+     "by": "Dguendel",
+     "license": "CC-BY-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Lisbon,_Oceanarium,_Caranx_hippos.JPG",
+     "source": "Wikimedia Commons"
     }
    },
    {
     "img": "images/caranx-hippos-2.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Donají Graham",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/39420706",
-     "source": "iNaturalist"
+     "by": "Dguendel",
+     "license": "CC-BY-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Lisbon,_Oceanarium,_Crevalle_jack.JPG",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -19077,13 +18999,13 @@ window.OCEAN_ANIMALS = [
   "img": "images/sebastes-norvegicus.webp",
   "imgSize": [
    1400,
-   1050
+   655
   ],
   "credit": {
-   "by": "User:Tanzania",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/169723833",
-   "source": "iNaturalist"
+   "by": "Havforskningsinstituttet",
+   "license": "CC-BY-4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Sebastes_norvegicus1.jpg",
+   "source": "Wikimedia Commons"
   },
   "obs": 10371,
   "map": "maps/sebastes-norvegicus.webp",
@@ -19092,39 +19014,13 @@ window.OCEAN_ANIMALS = [
     "img": "images/sebastes-norvegicus.webp",
     "size": [
      1400,
-     1050
+     655
     ],
     "credit": {
-     "by": "User:Tanzania",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/169723833",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/sebastes-norvegicus-2.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Steven G. Johnson",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/169723817",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/sebastes-norvegicus-3.webp",
-    "size": [
-     1100,
-     826
-    ],
-    "credit": {
-     "by": "terve",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/120191543",
-     "source": "iNaturalist"
+     "by": "Havforskningsinstituttet",
+     "license": "CC-BY-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Sebastes_norvegicus1.jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -19307,13 +19203,13 @@ window.OCEAN_ANIMALS = [
   "wiki": "https://nl.wikipedia.org/wiki/Sargassovis",
   "img": "images/histrio-histrio.webp",
   "imgSize": [
-   1400,
-   1026
+   1200,
+   857
   ],
   "credit": {
-   "by": "A. H. Baldwin",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File:Histrio_histrio_by_A._H._Baldwin.jpg",
+   "by": "Jean-Marie Gradot",
+   "license": "CC-BY-SA-4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Histrio_histrio_R%C3%A9union.jpg",
    "source": "Wikimedia Commons"
   },
   "obs": 43291,
@@ -19322,13 +19218,26 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/histrio-histrio.webp",
     "size": [
-     1400,
-     1026
+     1200,
+     857
     ],
     "credit": {
-     "by": "A. H. Baldwin",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Histrio_histrio_by_A._H._Baldwin.jpg",
+     "by": "Jean-Marie Gradot",
+     "license": "CC-BY-SA-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Histrio_histrio_R%C3%A9union.jpg",
+     "source": "Wikimedia Commons"
+    }
+   },
+   {
+    "img": "images/histrio-histrio-2.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "NasserHalaweh",
+     "license": "CC-BY-SA-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Antennariidae_Histrio_histrio_1.jpg",
      "source": "Wikimedia Commons"
     }
    }
@@ -20233,14 +20142,14 @@ window.OCEAN_ANIMALS = [
   "wiki": "https://nl.wikipedia.org/wiki/Vangtandvis",
   "img": "images/anoplogaster-cornuta.webp",
   "imgSize": [
-   1400,
-   1050
+   1000,
+   535
   ],
   "credit": {
-   "by": "Brian Suda",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/100562152",
-   "source": "iNaturalist"
+   "by": "This illustration was made by Citron\nYou must credit this : Citron / CC-BY-SA-3.",
+   "license": "CC-BY-SA-3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Anoplogaster_cornuta_2012.jpg",
+   "source": "Wikimedia Commons"
   },
   "obs": 2263,
   "map": "maps/anoplogaster-cornuta.webp",
@@ -20248,40 +20157,14 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/anoplogaster-cornuta.webp",
     "size": [
-     1400,
-     1050
+     1000,
+     535
     ],
     "credit": {
-     "by": "Brian Suda",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/100562152",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/anoplogaster-cornuta-2.webp",
-    "size": [
-     1100,
-     670
-    ],
-    "credit": {
-     "by": "Emma Kissling",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/100562154",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/anoplogaster-cornuta-3.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Gonzalo Mucientes Sandoval",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/34085544",
-     "source": "iNaturalist"
+     "by": "This illustration was made by Citron\nYou must credit this : Citron / CC-BY-SA-3.",
+     "license": "CC-BY-SA-3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Anoplogaster_cornuta_2012.jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -20593,13 +20476,13 @@ window.OCEAN_ANIMALS = [
   "img": "images/merlangius-merlangus.webp",
   "imgSize": [
    1400,
-   933
+   930
   ],
   "credit": {
-   "by": "Roy Anderson",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/635675826",
-   "source": "iNaturalist"
+   "by": "larsjuh",
+   "license": "CC-BY-2.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Petit_merlan.jpg",
+   "source": "Wikimedia Commons"
   },
   "obs": 1007936,
   "map": "maps/merlangius-merlangus.webp",
@@ -20608,13 +20491,13 @@ window.OCEAN_ANIMALS = [
     "img": "images/merlangius-merlangus.webp",
     "size": [
      1400,
-     933
+     930
     ],
     "credit": {
-     "by": "Roy Anderson",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/635675826",
-     "source": "iNaturalist"
+     "by": "larsjuh",
+     "license": "CC-BY-2.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Petit_merlan.jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -20798,13 +20681,13 @@ window.OCEAN_ANIMALS = [
   "img": "images/thunnus-alalunga.webp",
   "imgSize": [
    1400,
-   933
+   1050
   ],
   "credit": {
-   "by": "Julien Renoult",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/122726956",
-   "source": "iNaturalist"
+   "by": "Hugues Evano (IFREMER, Délégation océan Indien (DOI), Département Ressources Bio",
+   "license": "CC-BY-4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Thon_germon_(Thunnus_alalunga)_(Ifremer_00764-87615).jpg",
+   "source": "Wikimedia Commons"
   },
   "obs": 40877,
   "map": "maps/thunnus-alalunga.webp",
@@ -20813,39 +20696,13 @@ window.OCEAN_ANIMALS = [
     "img": "images/thunnus-alalunga.webp",
     "size": [
      1400,
-     933
+     1050
     ],
     "credit": {
-     "by": "Julien Renoult",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/122726956",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/thunnus-alalunga-2.webp",
-    "size": [
-     1100,
-     503
-    ],
-    "credit": {
-     "by": "Dominick Porcelli",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/101904027",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/thunnus-alalunga-3.webp",
-    "size": [
-     1100,
-     691
-    ],
-    "credit": {
-     "by": "Bill Fintel",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/173437197",
-     "source": "iNaturalist"
+     "by": "Hugues Evano (IFREMER, Délégation océan Indien (DOI), Département Ressources Bio",
+     "license": "CC-BY-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Thon_germon_(Thunnus_alalunga)_(Ifremer_00764-87615).jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -21732,14 +21589,14 @@ window.OCEAN_ANIMALS = [
   "wiki": "https://nl.wikipedia.org/wiki/Atlantische_reuzeninktvis",
   "img": "images/architeuthis-dux.webp",
   "imgSize": [
-   1400,
-   674
+   933,
+   1400
   ],
   "credit": {
-   "by": "Addison Emery Verrill",
-   "license": "PD",
-   "url": "https://www.inaturalist.org/photos/465943669",
-   "source": "iNaturalist"
+   "by": "Auckland War Memorial Museum",
+   "license": "CC-BY-4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Architeuthis_dux_68146399.jpg",
+   "source": "Wikimedia Commons"
   },
   "obs": 549,
   "map": "maps/architeuthis-dux.webp",
@@ -21747,40 +21604,14 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/architeuthis-dux.webp",
     "size": [
-     1400,
-     674
+     933,
+     1400
     ],
     "credit": {
-     "by": "Addison Emery Verrill",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/465943669",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/architeuthis-dux-2.webp",
-    "size": [
-     1100,
-     619
-    ],
-    "credit": {
-     "by": "Marian Oliver",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/223182254",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/architeuthis-dux-3.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "danielhooft",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/312801551",
-     "source": "iNaturalist"
+     "by": "Auckland War Memorial Museum",
+     "license": "CC-BY-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Architeuthis_dux_68146399.jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -22897,14 +22728,14 @@ window.OCEAN_ANIMALS = [
   "wiki": "https://nl.wikipedia.org/wiki/Grote_pijlinktvis",
   "img": "images/todarodes-sagittatus.webp",
   "imgSize": [
-   1400,
-   864
+   933,
+   1400
   ],
   "credit": {
-   "by": "Biodiversity Heritage Library",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/51187466",
-   "source": "iNaturalist"
+   "by": "Emőke Dénes",
+   "license": "CC-BY-SA-4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Pu_-_Todarodes_sagittatus_-_2.jpg",
+   "source": "Wikimedia Commons"
   },
   "obs": 3832,
   "map": "maps/todarodes-sagittatus.webp",
@@ -22912,40 +22743,14 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/todarodes-sagittatus.webp",
     "size": [
-     1400,
-     864
+     933,
+     1400
     ],
     "credit": {
-     "by": "Biodiversity Heritage Library",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/51187466",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/todarodes-sagittatus-2.webp",
-    "size": [
-     1100,
-     687
-    ],
-    "credit": {
-     "by": "Biodiversity Heritage Library",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/51187467",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/todarodes-sagittatus-3.webp",
-    "size": [
-     1100,
-     677
-    ],
-    "credit": {
-     "by": "Biodiversity Heritage Library",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/13563618",
-     "source": "iNaturalist"
+     "by": "Emőke Dénes",
+     "license": "CC-BY-SA-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Pu_-_Todarodes_sagittatus_-_2.jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -23116,13 +22921,13 @@ window.OCEAN_ANIMALS = [
   "img": "images/cerastoderma-edule.webp",
   "imgSize": [
    1400,
-   1120
+   933
   ],
   "credit": {
-   "by": "Ryan Hodnett",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/177541173",
-   "source": "iNaturalist"
+   "by": "Ansgar Koreng",
+   "license": "CC-BY-SA-4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Cerastoderma_edule,_1807281919,_ako.jpg",
+   "source": "Wikimedia Commons"
   },
   "obs": 105761,
   "map": "maps/cerastoderma-edule.webp",
@@ -23131,39 +22936,13 @@ window.OCEAN_ANIMALS = [
     "img": "images/cerastoderma-edule.webp",
     "size": [
      1400,
-     1120
+     933
     ],
     "credit": {
-     "by": "Ryan Hodnett",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/177541173",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/cerastoderma-edule-2.webp",
-    "size": [
-     1100,
-     880
-    ],
-    "credit": {
-     "by": "Ryan Hodnett",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/177541179",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/cerastoderma-edule-3.webp",
-    "size": [
-     1100,
-     1100
-    ],
-    "credit": {
-     "by": "kyselinasirova",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/250116732",
-     "source": "iNaturalist"
+     "by": "Ansgar Koreng",
+     "license": "CC-BY-SA-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Cerastoderma_edule,_1807281919,_ako.jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -23194,13 +22973,13 @@ window.OCEAN_ANIMALS = [
   "img": "images/mesonychoteuthis-hamiltoni.webp",
   "imgSize": [
    1400,
-   788
+   1050
   ],
   "credit": {
-   "by": "Victoria  Klarissa de Souza",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/184772865",
-   "source": "iNaturalist"
+   "by": "Mgiganteus1",
+   "license": "CC-BY-SA-4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Colossal_squid_head_and_limbs,_NHM_(1).jpg",
+   "source": "Wikimedia Commons"
   },
   "obs": 151,
   "map": "maps/mesonychoteuthis-hamiltoni.webp",
@@ -23209,39 +22988,13 @@ window.OCEAN_ANIMALS = [
     "img": "images/mesonychoteuthis-hamiltoni.webp",
     "size": [
      1400,
-     788
+     1050
     ],
     "credit": {
-     "by": "Victoria  Klarissa de Souza",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/184772865",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/mesonychoteuthis-hamiltoni-2.webp",
-    "size": [
-     1100,
-     733
-    ],
-    "credit": {
-     "by": "Laika ac",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/134965444",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/mesonychoteuthis-hamiltoni-3.webp",
-    "size": [
-     1100,
-     336
-    ],
-    "credit": {
-     "by": "Y23",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/184772873",
-     "source": "iNaturalist"
+     "by": "Mgiganteus1",
+     "license": "CC-BY-SA-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Colossal_squid_head_and_limbs,_NHM_(1).jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -23372,14 +23125,14 @@ window.OCEAN_ANIMALS = [
   "wiki": "https://nl.wikipedia.org/wiki/Nonnetje_%28weekdier%29",
   "img": "images/macoma-balthica.webp",
   "imgSize": [
-   1317,
-   1102
+   1400,
+   1050
   ],
   "credit": {
-   "by": "Jon Mortin",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/16834435",
-   "source": "iNaturalist"
+   "by": "4028mdk09",
+   "license": "CC-BY-SA-3.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Rosa_Baltische_Plattmuschel.JPG",
+   "source": "Wikimedia Commons"
   },
   "obs": 212456,
   "map": "maps/macoma-balthica.webp",
@@ -23387,14 +23140,27 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/macoma-balthica.webp",
     "size": [
-     1317,
-     1102
+     1400,
+     1050
     ],
     "credit": {
-     "by": "Jon Mortin",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/16834435",
-     "source": "iNaturalist"
+     "by": "4028mdk09",
+     "license": "CC-BY-SA-3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Rosa_Baltische_Plattmuschel.JPG",
+     "source": "Wikimedia Commons"
+    }
+   },
+   {
+    "img": "images/macoma-balthica-2.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "4028mdk09",
+     "license": "CC-BY-SA-3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Baltische_Plattmuschel_orange.JPG",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -23964,13 +23730,13 @@ window.OCEAN_ANIMALS = [
   "img": "images/mya-arenaria.webp",
   "imgSize": [
    1400,
-   1082
+   1050
   ],
   "credit": {
-   "by": "Jon Mortin",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/179762318",
-   "source": "iNaturalist"
+   "by": "Ecomare/Oscar Bos",
+   "license": "CC-BY-SA-4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Ecomare_-_strandgaper_(4792-mya-strandgaper-mok-ogb).jpg",
+   "source": "Wikimedia Commons"
   },
   "obs": 113233,
   "map": "maps/mya-arenaria.webp",
@@ -23979,39 +23745,26 @@ window.OCEAN_ANIMALS = [
     "img": "images/mya-arenaria.webp",
     "size": [
      1400,
-     1082
+     1050
     ],
     "credit": {
-     "by": "Jon Mortin",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/179762318",
-     "source": "iNaturalist"
+     "by": "Ecomare/Oscar Bos",
+     "license": "CC-BY-SA-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Ecomare_-_strandgaper_(4792-mya-strandgaper-mok-ogb).jpg",
+     "source": "Wikimedia Commons"
     }
    },
    {
     "img": "images/mya-arenaria-2.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Andrey Polstianoi",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/199127945",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/mya-arenaria-3.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Cullen Hanks",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/4214447",
-     "source": "iNaturalist"
+     "by": "Stephan Sprinz",
+     "license": "CC-BY-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Sandklaffmuschel_im_Watt_vor_Norderney.jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -25670,13 +25423,13 @@ window.OCEAN_ANIMALS = [
   "wiki": "https://nl.wikipedia.org/wiki/Kleine_alk",
   "img": "images/alle-alle.webp",
   "imgSize": [
-   1280,
-   853
+   1234,
+   1400
   ],
   "credit": {
-   "by": "onbekend",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:AlleAlle_2.jpg",
+   "by": "Ma-ludw, https://ludwig-photography.ch",
+   "license": "CC-BY-SA-4.0",
+   "url": "https://commons.wikimedia.org/wiki/File:Krabbentaucher_Sommer_2023_(cropped).jpg",
    "source": "Wikimedia Commons"
   },
   "obs": 133712,
@@ -25685,13 +25438,39 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/alle-alle.webp",
     "size": [
-     1280,
-     853
+     1234,
+     1400
     ],
     "credit": {
-     "by": "onbekend",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:AlleAlle_2.jpg",
+     "by": "Ma-ludw, https://ludwig-photography.ch",
+     "license": "CC-BY-SA-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Krabbentaucher_Sommer_2023_(cropped).jpg",
+     "source": "Wikimedia Commons"
+    }
+   },
+   {
+    "img": "images/alle-alle-2.webp",
+    "size": [
+     1100,
+     733
+    ],
+    "credit": {
+     "by": "User:Jerzystrzelecki:Jerzy Strzelecki",
+     "license": "CC-BY-SA-3.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Alle_alle_11(js),_Hornsund.jpg",
+     "source": "Wikimedia Commons"
+    }
+   },
+   {
+    "img": "images/alle-alle-3.webp",
+    "size": [
+     1100,
+     1100
+    ],
+    "credit": {
+     "by": "Ma-ludw, https://ludwig-photography.ch",
+     "license": "CC-BY-SA-4.0",
+     "url": "https://commons.wikimedia.org/wiki/File:Krabbentaucher_Sommer_2023.jpg",
      "source": "Wikimedia Commons"
     }
    }
@@ -29351,31 +29130,31 @@ window.OCEAN_ANIMALS = [
    "Hij komt vaak ver van de plek waar hij onderdook weer boven."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Indische_bruinvis",
-  "img": "images/neophocaena-phocaenoides-3.webp",
+  "img": "images/neophocaena-phocaenoides.webp",
   "imgSize": [
-   1080,
-   720
+   1400,
+   933
   ],
   "credit": {
-   "by": "Niran Anurakpongsathorn",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/222037598",
-   "source": "iNaturalist"
+   "by": "냥이",
+   "license": "CC-BY-SA-2.0-KR",
+   "url": "https://commons.wikimedia.org/wiki/File:Neophocaena_phocaenoides_DSC_03.jpg",
+   "source": "Wikimedia Commons"
   },
   "obs": 768,
   "map": "maps/neophocaena-phocaenoides.webp",
   "photos": [
    {
-    "img": "images/neophocaena-phocaenoides-3.webp",
+    "img": "images/neophocaena-phocaenoides.webp",
     "size": [
-     1080,
-     720
+     1400,
+     933
     ],
     "credit": {
-     "by": "Niran Anurakpongsathorn",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/222037598",
-     "source": "iNaturalist"
+     "by": "냥이",
+     "license": "CC-BY-SA-2.0-KR",
+     "url": "https://commons.wikimedia.org/wiki/File:Neophocaena_phocaenoides_DSC_03.jpg",
+     "source": "Wikimedia Commons"
     }
    }
   ],
@@ -32080,4 +31859,4 @@ window.OCEAN_ANIMALS = [
   "curated": true
  }
 ];
-window.OCEAN_META = {"built": "2026-10-04", "offlineMB": 113};
+window.OCEAN_META = {"built": "2026-10-04", "offlineMB": 114};
