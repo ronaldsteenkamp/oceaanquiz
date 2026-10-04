@@ -992,10 +992,20 @@
   }
 
   // ================= Dierinformatie (gedeeld) =================
-  function infoHTML(a, photoOverride) {
+  function infoHTML(a, photoOverride, expanded = false) {
     const facts = a.facts.length
       ? `<ul class="facts">${a.facts.map((f, i) => `<li><span class="num">${i + 1}</span><span>${esc(f)}</span></li>`).join("")}</ul>`
       : "";
+    // Het ene opvallendste feit, uitgelicht en met eigen bron; de rest onder 'Meer weten'
+    const top = a.top
+      ? `<figure class="top-fact"><blockquote>${esc(a.top.text)}</blockquote>
+           <figcaption>Bron: <a href="${esc(a.top.url)}" target="_blank" rel="noopener">${esc(a.top.by)} ${icon("external")}</a></figcaption></figure>`
+      : "";
+    const more = `<p>${esc(a.intro)}</p>${facts}
+        <div class="more-links">
+          <a class="more-link" href="${esc(a.wiki)}" target="_blank" rel="noopener">Lees verder op Wikipedia ${icon("external")}</a>
+          ${a.wikiEn ? `<a class="more-link" href="${esc(a.wikiEn)}" target="_blank" rel="noopener">Bron: Engelse Wikipedia ${icon("external")}</a>` : ""}
+        </div>`;
     const map = a.map
       ? `<div class="map"><img src="${a.map}" alt="Kaart met waarnemingen van ${esc(a.name)}" loading="lazy"></div>
          <div class="map-legend"><span class="swatch"><span class="grad"></span> weinig → veel waarnemingen</span>
@@ -1018,11 +1028,7 @@
       </div>
       <section class="info-sec">
         <h4>${icon("bulb")} Wist je dat?</h4>
-        <p>${esc(a.intro)}</p>${facts}
-        <div class="more-links">
-          <a class="more-link" href="${esc(a.wiki)}" target="_blank" rel="noopener">Lees verder op Wikipedia ${icon("external")}</a>
-          ${a.wikiEn ? `<a class="more-link" href="${esc(a.wikiEn)}" target="_blank" rel="noopener">Bron: Engelse Wikipedia ${icon("external")}</a>` : ""}
-        </div>
+        ${top ? `${top}<details class="more-facts"${expanded ? " open" : ""}><summary>Meer weten</summary>${more}</details>` : more}
       </section>
       <section class="info-sec">
         <h4>${icon("map")} Waar komt dit dier voor?</h4>
@@ -1131,7 +1137,8 @@
           <section class="about-card">
             <h2>Hoe het werkt</h2>
             <ul class="about-list">
-              <li><b>Feitjes</b>: per dier uitgezocht in de Nederlandse en Engelse Wikipedia en in eigen woorden herschreven (${curated} dieren met handmatig nagelopen feitjes). Elk feitje is terug te vinden in het gelinkte Wikipedia-artikel.</li>
+              <li><b>Topfeitje</b>: per dier één uitgelicht feit, gezocht bij betrouwbare bronnen zoals aquaria, musea, universiteiten en NOAA (${ANIMALS.filter(a => a.top).length} dieren). De bron staat er steeds direct onder.</li>
+              <li><b>Meer feitjes</b>: per dier uitgezocht in de Nederlandse en Engelse Wikipedia en in eigen woorden herschreven (${curated} dieren met handmatig nagelopen feitjes). Elk feitje is terug te vinden in het gelinkte Wikipedia-artikel.</li>
               <li><b>Foto's</b>: ${fmt(photos.length)} foto's, waarvan ${fmt(inat)} van iNaturalist en ${fmt(photos.length - inat)} van Wikimedia Commons. Alleen foto's met een open licentie; maker en licentie staan bij elke foto.</li>
               <li><b>Kaarten</b>: waarnemingen uit GBIF, de wereldwijde database met miljoenen waarnemingen van dieren.</li>
               <li><b>Oefenen</b>: werkt met herhaling op afstand. Een dier dat je goed hebt, komt pas na 1, 3, 7, 14 en 30 dagen terug; een fout dier meteen weer.</li>
@@ -1190,7 +1197,7 @@
           <button class="gal-btn next" data-ph="1" aria-label="Volgende foto">${icon("right")}</button>
           <div class="gal-dots">${a.photos.map((_, i) => `<i class="${i === detailPhoto ? "on" : ""}"></i>`).join("")}</div>` : ""}
       </div>
-      ${infoHTML(a, null).replace(/<p class="info-credit">[\s\S]*?<\/p>/, `<p class="info-credit">${icon("camera")} Foto: <a href="${esc(p.credit.url)}" target="_blank" rel="noopener">${esc(p.credit.by)}</a> · ${esc(p.credit.license)} · ${esc(p.credit.source)}</p>`)}
+      ${infoHTML(a, null, true).replace(/<p class="info-credit">[\s\S]*?<\/p>/, `<p class="info-credit">${icon("camera")} Foto: <a href="${esc(p.credit.url)}" target="_blank" rel="noopener">${esc(p.credit.by)}</a> · ${esc(p.credit.license)} · ${esc(p.credit.source)}</p>`)}
       ${multi ? `<div class="sheet-nav">
         <button class="btn btn-secondary" data-dir="-1" ${detailIndex === 0 ? "disabled" : ""}>${icon("left")} Vorige</button>
         <button class="btn btn-secondary" data-dir="1" ${detailIndex === detailList.length - 1 ? "disabled" : ""}>Volgende ${icon("right")}</button>

@@ -71,6 +71,11 @@ window.OCEAN_ANIMALS = [
   "family": "Myliobatidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_eagle_ray",
+  "top": {
+   "text": "Zijn tanden zijn vergroeid tot platte plaatjes in een mozaïekpatroon, waarmee hij schelpen kraakt.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/myliobatis-aquila/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -144,6 +149,11 @@ window.OCEAN_ANIMALS = [
   "family": "Heterodontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Port_Jackson_shark",
+  "top": {
+   "text": "Anders dan de meeste haaien kan hij tegelijk eten en ademen.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/heterodontus-portusjacksoni/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -217,6 +227,11 @@ window.OCEAN_ANIMALS = [
   "family": "Carcharhinidae",
   "ns": 182,
   "wikiEn": "https://en.wikipedia.org/wiki/Blue_shark",
+  "top": {
+   "text": "Elke tand wordt om de 8 tot 15 dagen vervangen door een nieuwe.",
+   "url": "https://animaldiversity.org/accounts/Prionace_glauca/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -290,6 +305,11 @@ window.OCEAN_ANIMALS = [
   "family": "Dasyatidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Bluespotted_ribbontail_ray",
+  "top": {
+   "text": "Zijn enige natuurlijke vijand is de hamerhaai, die hem eerst tegen de bodem drukt om niet gestoken te worden.",
+   "url": "https://animaldiversity.org/accounts/Taeniura_lymma/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -363,6 +383,11 @@ window.OCEAN_ANIMALS = [
   "family": "Rajidae",
   "ns": 772,
   "wikiEn": "https://en.wikipedia.org/wiki/Blonde_ray",
+  "top": {
+   "text": "Deze rog heeft de vorm van een vlieger en kan zo'n 15 jaar oud worden.",
+   "url": "https://nl.wikipedia.org/wiki/Blonde_rog",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -436,6 +461,11 @@ window.OCEAN_ANIMALS = [
   "family": "Hemiscylliidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Brownbanded_bamboo_shark",
+  "top": {
+   "text": "Deze haai kan tot 12 uur buiten het water overleven!",
+   "url": "https://en.wikipedia.org/wiki/Brownbanded_bamboo_shark",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -509,6 +539,11 @@ window.OCEAN_ANIMALS = [
   "family": "Heterodontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Horn_shark",
+  "top": {
+   "text": "Grote exemplaren eten zoveel paarse zee-egels dat hun tanden en stekels paars kleuren.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/heterodontus-francisci/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -582,6 +617,11 @@ window.OCEAN_ANIMALS = [
   "family": "Carcharhinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Lemon_shark",
+  "top": {
+   "text": "Zijn hersenen zijn naar verhouding zo groot als die van een vogel of zoogdier: hij leert van soortgenoten en sluit 'vriendschappen'.",
+   "url": "https://en.wikipedia.org/wiki/Lemon_shark",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -655,6 +695,11 @@ window.OCEAN_ANIMALS = [
   "family": "Squalidae",
   "ns": 1266,
   "wikiEn": "https://en.wikipedia.org/wiki/Spiny_dogfish",
+  "top": {
+   "text": "Hij heeft waarschijnlijk de langste zwangerschap van alle gewervelde dieren: tot 24 maanden.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/squalus-acanthias/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -728,6 +773,11 @@ window.OCEAN_ANIMALS = [
   "family": "Hemiscylliidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Epaulette_shark",
+  "top": {
+   "text": "Strandt hij in een getijdenpoel, dan overleeft hij een uur zonder zuurstof en 'loopt' hij op zijn vinnen weer naar het water.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/hemiscyllium-ocellatum/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -801,6 +851,11 @@ window.OCEAN_ANIMALS = [
   "family": "Orectolobidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Tasselled_wobbegong",
+  "top": {
+   "text": "Hij zwaait met zijn staart, die dan op een klein visje lijkt, om prooien te lokken.",
+   "url": "https://en.wikipedia.org/wiki/Tasselled_wobbegong",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -874,6 +929,11 @@ window.OCEAN_ANIMALS = [
   "family": "Chlamydoselachidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Frilled_shark",
+  "top": {
+   "text": "Met zijn slangachtige lijf zou hij weleens achter de verhalen over 'zeeslangen' kunnen zitten.",
+   "url": "https://animaldiversity.org/accounts/Chlamydoselachus_anguineus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -947,6 +1007,11 @@ window.OCEAN_ANIMALS = [
   "family": "Ginglymostomatidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Tawny_nurse_shark",
+  "top": {
+   "text": "Overdag slaapt hij in een favoriete grot, vaak op een stapel met andere haaien.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/nebrius-ferrugineus/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -1020,6 +1085,11 @@ window.OCEAN_ANIMALS = [
   "family": "Torpedinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Marbled_electric_ray",
+  "top": {
+   "text": "Hij geeft stroomstoten tot 200 volt, en jongen kunnen meteen na hun geboorte al met elektriciteit jagen.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/torpedo-marmorata/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -1093,6 +1163,11 @@ window.OCEAN_ANIMALS = [
   "family": "Sphyrnidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Scalloped_hammerhead",
+  "top": {
+   "text": "Hij laat zich schoonmaken door poetsvisjes, die parasieten van zijn huid, kieuwen en zelfs uit zijn bek halen.",
+   "url": "https://animaldiversity.org/accounts/Sphyrna_lewini/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -1166,6 +1241,11 @@ window.OCEAN_ANIMALS = [
   "family": "Myliobatidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Spotted_eagle_ray",
+  "top": {
+   "text": "Hij springt soms zo hoog uit het water dat hij in boten belandt!",
+   "url": "https://en.wikipedia.org/wiki/Spotted_eagle_ray",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -1239,6 +1319,11 @@ window.OCEAN_ANIMALS = [
   "family": "Orectolobidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Spotted_wobbegong",
+  "top": {
+   "text": "Rond zijn snuit zitten flapjes die op zeewier lijken; kreeftjes en inktvissen zwemmen soms zo zijn open bek in.",
+   "url": "https://en.wikipedia.org/wiki/Spotted_wobbegong",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -1312,6 +1397,11 @@ window.OCEAN_ANIMALS = [
   "family": "Chimaeridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Spotted_ratfish",
+  "top": {
+   "text": "Deze 'levende fossielen' stammen af van vissen van meer dan 300 miljoen jaar geleden, en zijn bijna niet veranderd.",
+   "url": "https://oceana.org/marine-life/spotted-ratfish/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -1372,6 +1462,11 @@ window.OCEAN_ANIMALS = [
   "family": "Triakidae",
   "ns": 809,
   "wikiEn": "https://en.wikipedia.org/wiki/Starry_smooth-hound",
+  "top": {
+   "text": "Deze haai heeft geen scherpe tanden, maar rijtjes vlakke tandjes om krabben te kraken.",
+   "url": "https://nl.wikipedia.org/wiki/Gevlekte_gladde_haai",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -1432,6 +1527,11 @@ window.OCEAN_ANIMALS = [
   "family": "Rajidae",
   "ns": 2484,
   "wikiEn": "https://en.wikipedia.org/wiki/Spotted_ray",
+  "top": {
+   "text": "Het is een van de kleinste roggen, met een bruine rug vol zwarte stippen.",
+   "url": "https://nl.wikipedia.org/wiki/Gevlekte_rog",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -1479,6 +1579,11 @@ window.OCEAN_ANIMALS = [
   "family": "Torpedinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_torpedo",
+  "top": {
+   "text": "Een pasgeboren rogje geeft al 4 volt, en na vier maanden al 26 volt.",
+   "url": "https://en.wikipedia.org/wiki/Common_torpedo",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -1552,6 +1657,11 @@ window.OCEAN_ANIMALS = [
   "family": "Hexanchidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Broadnose_sevengill_shark",
+  "top": {
+   "text": "Hij jaagt in groepen: ze sluipen op prooien af en vallen dan op hoge snelheid aan.",
+   "url": "https://animaldiversity.org/accounts/Notorynchus_cepedianus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -1625,6 +1735,11 @@ window.OCEAN_ANIMALS = [
   "family": "Chimaeridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Rabbit_fish",
+  "top": {
+   "text": "Door zijn grote ogen en tandplaten lijkt zijn kop op die van een konijn: in het Engels heet hij 'rabbit fish'.",
+   "url": "https://en.wikipedia.org/wiki/Rabbit_fish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -1698,6 +1813,11 @@ window.OCEAN_ANIMALS = [
   "family": "Dasyatidae",
   "ns": 9,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_stingray",
+  "top": {
+   "text": "De Romeinse schrijver Plinius beweerde dat zijn stekel bomen kon doden en ijzer kon laten roesten.",
+   "url": "https://en.wikipedia.org/wiki/Common_stingray",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -1771,6 +1891,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pristiophoridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Longnose_sawshark",
+  "top": {
+   "text": "Bij de geboorte liggen de tanden van zijn zaag plat, waarschijnlijk zodat de moeder zich niet verwondt.",
+   "url": "https://animaldiversity.org/accounts/Pristiophorus_cirratus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -1831,6 +1956,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pristidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Largetooth_sawfish",
+  "top": {
+   "text": "Hij kan meer dan 6 meter lang worden en zwaait met zijn zaag door scholen vis om prooien te verdoven.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/pristis-pristis/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -1904,6 +2034,11 @@ window.OCEAN_ANIMALS = [
   "family": "Sphyrnidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Smooth_hammerhead",
+  "top": {
+   "text": "In één exemplaar zaten 95 giftige stekels van pijlstaartroggen rond zijn bek: hij eet ze gewoon.",
+   "url": "https://en.wikipedia.org/wiki/Smooth_hammerhead",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -1977,6 +2112,11 @@ window.OCEAN_ANIMALS = [
   "family": "Hexanchidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Bluntnose_sixgill_shark",
+  "top": {
+   "text": "Deze grote diepzeehaai lijkt op oeroude soorten die we verder alleen als fossiel kennen.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/hexanchus-griseus/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -2050,6 +2190,11 @@ window.OCEAN_ANIMALS = [
   "family": "Carcharhinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Grey_reef_shark",
+  "top": {
+   "text": "Bij gevaar doet hij een dreigdans: kop omlaag, rug krom, lijf in een S-vorm.",
+   "url": "https://en.wikipedia.org/wiki/Grey_reef_shark",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -2123,6 +2268,11 @@ window.OCEAN_ANIMALS = [
   "family": "Somniosidae",
   "ns": 8,
   "wikiEn": "https://en.wikipedia.org/wiki/Greenland_shark",
+  "top": {
+   "text": "Hij is het langst levende gewervelde dier: hij kan zo'n 400 jaar oud worden, en groeit maar een paar millimeter per jaar.",
+   "url": "https://www.nationalgeographic.com/animals/fish/facts/greenland-shark",
+   "by": "National Geographic"
+  },
   "curated": true
  },
  {
@@ -2183,6 +2333,11 @@ window.OCEAN_ANIMALS = [
   "family": "Rajidae",
   "ns": 1081,
   "wikiEn": "https://en.wikipedia.org/wiki/Leucoraja_naevus",
+  "top": {
+   "text": "Op elke borstvin heeft hij een grote zwarte vlek met een gele rand, als een oog.",
+   "url": "https://en.wikipedia.org/wiki/Leucoraja_naevus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -2256,6 +2411,11 @@ window.OCEAN_ANIMALS = [
   "family": "Sphyrnidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Great_hammerhead",
+  "top": {
+   "text": "Hij zwaait met zijn kop over de bodem als een metaaldetector, op zoek naar ingegraven roggen.",
+   "url": "https://en.wikipedia.org/wiki/Great_hammerhead",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -2329,6 +2489,11 @@ window.OCEAN_ANIMALS = [
   "family": "Lamnidae",
   "ns": 45,
   "wikiEn": "https://en.wikipedia.org/wiki/Porbeagle",
+  "top": {
+   "text": "Hij houdt zijn lijf warmer dan het water om hem heen, wat bij vissen heel zeldzaam is.",
+   "url": "https://animaldiversity.org/accounts/Lamna_nasus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -2402,6 +2567,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scyliorhinidae",
   "ns": 6198,
   "wikiEn": "https://en.wikipedia.org/wiki/Small-spotted_catshark",
+  "top": {
+   "text": "Zijn huid is zo ruw dat hij vroeger werd gebruikt in plaats van puimsteen.",
+   "url": "https://en.wikipedia.org/wiki/Small-spotted_catshark",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -2462,6 +2632,11 @@ window.OCEAN_ANIMALS = [
   "family": "Sphyrnidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Bonnethead",
+  "top": {
+   "text": "Deze haai eet ook planten: tot de helft van zijn maaginhoud kan zeegras zijn.",
+   "url": "https://en.wikipedia.org/wiki/Bonnethead",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -2535,6 +2710,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scyliorhinidae",
   "ns": 70,
   "wikiEn": "https://en.wikipedia.org/wiki/Nursehound",
+  "top": {
+   "text": "Haaien die in de Noordzee een merkje kregen, werden teruggevonden bij de Canarische Eilanden.",
+   "url": "https://en.wikipedia.org/wiki/Nursehound",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -2608,6 +2788,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pristidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Smalltooth_sawfish",
+  "top": {
+   "text": "De 'tanden' op zijn zaag zijn geen echte tanden maar speciale schubben, en de zaag voelt de elektrische velden van prooien.",
+   "url": "https://en.wikipedia.org/wiki/Smalltooth_sawfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -2681,6 +2866,11 @@ window.OCEAN_ANIMALS = [
   "family": "Mitsukurinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Goblin_shark",
+  "top": {
+   "text": "Hij is roze doordat je zijn bloedvaten door zijn huid ziet, en zijn kaak schiet als een katapult naar voren.",
+   "url": "https://en.wikipedia.org/wiki/Goblin_shark",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -2754,6 +2944,11 @@ window.OCEAN_ANIMALS = [
   "family": "Dalatiidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Cookiecutter_shark",
+  "top": {
+   "text": "Hij bijt ronde hapjes uit veel grotere dieren, alsof hij een koekjesvorm gebruikt.",
+   "url": "https://en.wikipedia.org/wiki/Cookiecutter_shark",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -2814,6 +3009,11 @@ window.OCEAN_ANIMALS = [
   "family": "Lamnidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Shortfin_mako_shark",
+  "top": {
+   "text": "Hij is de snelste haai ter wereld: tot 70 kilometer per uur, en hij springt hoog uit het water.",
+   "url": "https://oceana.org/marine-life/shortfin-mako-shark/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -2874,6 +3074,11 @@ window.OCEAN_ANIMALS = [
   "family": "Lamnidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Longfin_mako_shark",
+  "top": {
+   "text": "Zijn borstvinnen zijn net zo lang als zijn kop, of nog langer.",
+   "url": "https://oceana.org/marine-life/longfin-mako-shark/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -2947,6 +3152,11 @@ window.OCEAN_ANIMALS = [
   "family": "Carcharhinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Oceanic_whitetip_shark",
+  "top": {
+   "text": "In de Tweede Wereldoorlog was hij een groot gevaar voor schipbreukelingen midden op zee.",
+   "url": "https://en.wikipedia.org/wiki/Oceanic_whitetip_shark",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -3020,6 +3230,11 @@ window.OCEAN_ANIMALS = [
   "family": "Alopiidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Pelagic_thresher",
+  "top": {
+   "text": "Hij verdooft prooien met een zweepslag van zijn enorme staart; dat werd pas in 2010 voor het eerst gefilmd.",
+   "url": "https://www.nationalgeographic.com/animals/fish/facts/pelagic-thresher",
+   "by": "National Geographic"
+  },
   "curated": true
  },
  {
@@ -3093,6 +3308,11 @@ window.OCEAN_ANIMALS = [
   "family": "Megachasmidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Megamouth_shark",
+  "top": {
+   "text": "Deze haai van 9 meter werd pas in 1976 ontdekt; er zijn nog maar zo'n 270 waarnemingen.",
+   "url": "https://oceana.org/marine-life/megamouth-shark/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -3166,6 +3386,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cetorhinidae",
   "ns": 236,
   "wikiEn": "https://en.wikipedia.org/wiki/Basking_shark",
+  "top": {
+   "text": "Hij wordt bijna 12 meter lang, maar eet alleen piepklein plankton en is ongevaarlijk voor mensen.",
+   "url": "https://oceana.org/marine-life/basking-shark/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -3239,6 +3464,11 @@ window.OCEAN_ANIMALS = [
   "family": "Myliobatidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Giant_oceanic_manta_ray",
+  "top": {
+   "text": "Hij heeft het grootste brein van alle vissen, en is misschien een van de weinige dieren die zichzelf herkent in een spiegel.",
+   "url": "https://en.wikipedia.org/wiki/Giant_oceanic_manta_ray",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -3312,6 +3542,11 @@ window.OCEAN_ANIMALS = [
   "family": "Rhinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Rhina_ancylostoma",
+  "top": {
+   "text": "Op zijn kop en 'schouders' zitten richels met stekels, als een harnas.",
+   "url": "https://en.wikipedia.org/wiki/Rhina_ancylostoma",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -3385,6 +3620,11 @@ window.OCEAN_ANIMALS = [
   "family": "Urolophidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Round_stingray",
+  "top": {
+   "text": "Zijn gifstekel valt elk jaar af en groeit daarna opnieuw aan.",
+   "url": "https://en.wikipedia.org/wiki/Round_stingray",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -3458,6 +3698,11 @@ window.OCEAN_ANIMALS = [
   "family": "Triakidae",
   "ns": 374,
   "wikiEn": "https://en.wikipedia.org/wiki/School_shark",
+  "top": {
+   "text": "Zijn lievelingsprooi is al minstens 50 miljoen jaar barracuda: een fossiele voorouder had er een in zijn maag.",
+   "url": "https://en.wikipedia.org/wiki/School_shark",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -3531,6 +3776,11 @@ window.OCEAN_ANIMALS = [
   "family": "Callorhinchidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Australian_ghostshark",
+  "top": {
+   "text": "Hij ziet kleuren met drie soorten kleurcellen, net als mensen.",
+   "url": "https://en.wikipedia.org/wiki/Australian_ghostshark",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -3604,6 +3854,11 @@ window.OCEAN_ANIMALS = [
   "family": "Rajidae",
   "ns": 6571,
   "wikiEn": "https://en.wikipedia.org/wiki/Thornback_ray",
+  "top": {
+   "text": "Zijn zwarte eikapsels spoelen aan op Nederlandse en Belgische stranden; een vrouwtje legt er tot 170 per jaar.",
+   "url": "https://en.wikipedia.org/wiki/Thornback_ray",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -3677,6 +3932,11 @@ window.OCEAN_ANIMALS = [
   "family": "Carcharhinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Bull_shark",
+  "top": {
+   "text": "Hij zwemt rivieren op: tot ver in de Mississippi en zelfs tot Bagdad in de Tigris.",
+   "url": "https://en.wikipedia.org/wiki/Bull_shark",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -3750,6 +4010,11 @@ window.OCEAN_ANIMALS = [
   "family": "Carcharhinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Tiger_shark",
+  "top": {
+   "text": "Jonge tijgerhaaien redden zich vanaf hun geboorte zelf: ze hebben al camouflage, tanden om te jagen en snelheid om te vluchten.",
+   "url": "https://animaldiversity.org/accounts/Galeocerdo_cuvier/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -3822,6 +4087,11 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Triakidae",
   "ns": 218,
+  "top": {
+   "text": "In plaats van scherpe tanden heeft deze haai vlakke tanden, en 's nachts jaagt hij in groepjes op kreeftjes.",
+   "url": "https://en.wikipedia.org/wiki/Common_smooth-hound",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -3882,6 +4152,11 @@ window.OCEAN_ANIMALS = [
   "family": "Ginglymostomatidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Nurse_shark",
+  "top": {
+   "text": "Hij zuigt zijn prooi naar binnen met een van de sterkste zuigkrachten van alle waterdieren; te grote prooien spuugt hij uit en zuigt hij opnieuw in.",
+   "url": "https://en.wikipedia.org/wiki/Nurse_shark",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -3942,6 +4217,11 @@ window.OCEAN_ANIMALS = [
   "family": "Rajidae",
   "ns": 168,
   "wikiEn": "https://en.wikipedia.org/wiki/Blue_skate",
+  "top": {
+   "text": "Deze grote rog kan 50 tot 100 jaar oud worden, en is pas rond zijn elfde volwassen.",
+   "url": "https://en.wikipedia.org/wiki/Blue_skate",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -4015,6 +4295,11 @@ window.OCEAN_ANIMALS = [
   "family": "Alopiidae",
   "ns": 37,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_thresher",
+  "top": {
+   "text": "Bijna de helft van zijn lengte is staart, en die gebruikt hij als zweep om vis te verdoven.",
+   "url": "https://en.wikipedia.org/wiki/Common_thresher",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -4088,6 +4373,11 @@ window.OCEAN_ANIMALS = [
   "family": "Rhincodontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Whale_shark",
+  "top": {
+   "text": "Zijn bek is tot anderhalve meter breed, met wel 300 rijen piepkleine tandjes.",
+   "url": "https://animaldiversity.org/accounts/Rhincodon_typus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -4161,6 +4451,11 @@ window.OCEAN_ANIMALS = [
   "family": "Rhinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Giant_guitarfish",
+  "top": {
+   "text": "Hij hoort bij een groep dieren die al meer dan 400 miljoen jaar bestaat.",
+   "url": "https://en.wikipedia.org/wiki/Giant_guitarfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -4234,6 +4529,11 @@ window.OCEAN_ANIMALS = [
   "family": "Carcharhinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Whitetip_reef_shark",
+  "top": {
+   "text": "Anders dan veel haaien hoeft hij niet te blijven zwemmen om te ademen: overdag ligt hij stil op de bodem of in een grot.",
+   "url": "https://oceana.org/marine-life/whitetip-reef-shark/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -4307,6 +4607,11 @@ window.OCEAN_ANIMALS = [
   "family": "Lamnidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Great_white_shark",
+  "top": {
+   "text": "Mensen krijgen maar twee keer tanden, maar een witte haai maakt zijn hele leven lang nieuwe.",
+   "url": "https://www.nationalgeographic.com/animals/fish/facts/great-white-shark",
+   "by": "National Geographic"
+  },
   "curated": true
  },
  {
@@ -4380,6 +4685,11 @@ window.OCEAN_ANIMALS = [
   "family": "Odontaspididae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Sand_tiger_shark",
+  "top": {
+   "text": "In de baarmoeder eet het sterkste jong al zijn broertjes en zusjes op.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/carcharias-taurus/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -4453,6 +4763,11 @@ window.OCEAN_ANIMALS = [
   "family": "Stegostomatidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Zebra_shark",
+  "top": {
+   "text": "Jonge zebrahaaien hebben strepen die lijken op die van een giftige zeeslang, zodat andere dieren uit de buurt blijven.",
+   "url": "https://www.nationalgeographic.com/animals/fish/facts/zebra-shark",
+   "by": "National Geographic"
+  },
   "curated": true
  },
  {
@@ -4526,6 +4841,11 @@ window.OCEAN_ANIMALS = [
   "family": "Squatinidae",
   "ns": 9,
   "wikiEn": "https://en.wikipedia.org/wiki/Squatina_squatina",
+  "top": {
+   "text": "De oude Romeinen gebruikten zijn ruwe huid om hout en ivoor te polijsten.",
+   "url": "https://en.wikipedia.org/wiki/Squatina_squatina",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -4599,6 +4919,11 @@ window.OCEAN_ANIMALS = [
   "family": "Carcharhinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Silky_shark",
+  "top": {
+   "text": "Hij ruikt één druppel bloed in 100 liter water, en hoort het spartelen van prooien.",
+   "url": "https://animaldiversity.org/accounts/Carcharhinus_falciformis/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -4672,6 +4997,11 @@ window.OCEAN_ANIMALS = [
   "family": "Carcharhinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Blacktip_shark",
+  "top": {
+   "text": "Bij de jacht springt hij uit het water en draait hij soms drie of vier keer om zijn as.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/carcharhinus-limbatus/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -4745,6 +5075,11 @@ window.OCEAN_ANIMALS = [
   "family": "Carcharhinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Blacktip_reef_shark",
+  "top": {
+   "text": "Hij zwemt vaak zo ondiep dat zijn zwarte rugvinpunt boven water uitsteekt.",
+   "url": "https://en.wikipedia.org/wiki/Blacktip_reef_shark",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -4818,6 +5153,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scyliorhinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Swell_shark",
+  "top": {
+   "text": "Bij gevaar slikt hij water en wordt hij twee keer zo dik; laat hij de lucht weer los, dan klinkt dat als blaffen.",
+   "url": "https://animaldiversity.org/accounts/Cephaloscyllium_ventriosum/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -4891,6 +5231,11 @@ window.OCEAN_ANIMALS = [
   "family": "Nephropidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/American_lobster",
+  "top": {
+   "text": "Kreeften vervellen hun hele leven, daarom is hun leeftijd moeilijk te bepalen; mogelijk worden ze 100 jaar oud.",
+   "url": "https://oceana.org/marine-life/american-lobster/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -4951,6 +5296,11 @@ window.OCEAN_ANIMALS = [
   "family": "Limulidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_horseshoe_crab",
+  "top": {
+   "text": "Hij bestaat al 450 miljoen jaar: ruim 200 miljoen jaar vóór de eerste dinosaurussen.",
+   "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/atlantic-horseshoe-crab",
+   "by": "National Geographic"
+  },
   "curated": true
  },
  {
@@ -5024,6 +5374,11 @@ window.OCEAN_ANIMALS = [
   "family": "Portunidae",
   "ns": 11,
   "wikiEn": "https://en.wikipedia.org/wiki/Callinectes_sapidus",
+  "top": {
+   "text": "Mannetjes kiezen bij voorkeur een vrouwtje met rode puntjes aan haar scharen.",
+   "url": "https://animaldiversity.org/accounts/Callinectes_sapidus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -5097,6 +5452,11 @@ window.OCEAN_ANIMALS = [
   "family": "Galatheidae",
   "ns": 261,
   "wikiEn": "https://en.wikipedia.org/wiki/Galathea_strigosa",
+  "top": {
+   "text": "Je herkent hem meteen aan de felblauwe dwarsstrepen over zijn lijf.",
+   "url": "https://en.wikipedia.org/wiki/Galathea_strigosa",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -5170,6 +5530,11 @@ window.OCEAN_ANIMALS = [
   "family": "Nephropidae",
   "ns": 2324,
   "wikiEn": "https://en.wikipedia.org/wiki/Homarus_gammarus",
+  "top": {
+   "text": "Een levende kreeft is blauw; 'kreeftrood' wordt hij pas in de pan.",
+   "url": "https://en.wikipedia.org/wiki/Homarus_gammarus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -5243,6 +5608,11 @@ window.OCEAN_ANIMALS = [
   "family": "Polybiidae",
   "ns": 3405,
   "wikiEn": "https://en.wikipedia.org/wiki/Velvet_crab",
+  "top": {
+   "text": "Hij heet ook wel 'duivelskrab', vanwege zijn agressieve gedrag en felrode ogen.",
+   "url": "https://en.wikipedia.org/wiki/Velvet_crab",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -5316,6 +5686,11 @@ window.OCEAN_ANIMALS = [
   "family": "Crangonidae",
   "ns": 1881,
   "wikiEn": "https://en.wikipedia.org/wiki/Crangon_crangon",
+  "top": {
+   "text": "De meeste Hollandse garnalen worden met de hand gepeld in landen als Marokko.",
+   "url": "https://nl.wikipedia.org/wiki/Gewone_garnaal",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -5389,6 +5764,11 @@ window.OCEAN_ANIMALS = [
   "family": "Paguridae",
   "ns": 4736,
   "wikiEn": "https://en.wikipedia.org/wiki/Pagurus_bernhardus",
+  "top": {
+   "text": "Twee heremietkreeften kunnen vechten om een schelp door er meer dan 500 keer op te kloppen.",
+   "url": "https://animaldiversity.org/accounts/Pagurus_bernhardus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -5462,6 +5842,11 @@ window.OCEAN_ANIMALS = [
   "family": "Oregoniidae",
   "ns": 722,
   "wikiEn": "https://en.wikipedia.org/wiki/Great_spider_crab",
+  "top": {
+   "text": "In 1986 werden er twee gevangen bij Antarctica: waarschijnlijk meegelift met mensen.",
+   "url": "https://en.wikipedia.org/wiki/Great_spider_crab",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -5535,6 +5920,11 @@ window.OCEAN_ANIMALS = [
   "family": "Archaeobalanidae",
   "ns": 1350,
   "wikiEn": "https://en.wikipedia.org/wiki/Semibalanus_balanoides",
+  "top": {
+   "text": "Zeepokken bestaan al meer dan 150 miljoen jaar, en als volwassene zitten ze hun hele leven op één plek vastgeplakt.",
+   "url": "https://animaldiversity.org/accounts/Semibalanus_balanoides/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -5608,6 +5998,11 @@ window.OCEAN_ANIMALS = [
   "family": "Palaemonidae",
   "ns": 825,
   "wikiEn": "https://en.wikipedia.org/wiki/Palaemon_serratus",
+  "top": {
+   "text": "Zijn voelsprieten zijn anderhalf keer zo lang als zijn lijf.",
+   "url": "https://nl.wikipedia.org/wiki/Gezaagde_steurgarnaal",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -5681,6 +6076,11 @@ window.OCEAN_ANIMALS = [
   "family": "Lepadidae",
   "ns": 329,
   "wikiEn": "https://en.wikipedia.org/wiki/Lepas_anatifera",
+  "top": {
+   "text": "Hij lift mee op alles wat in zee drijft: wrakhout, flessen, boten, boeien en zeeschildpadden.",
+   "url": "https://animaldiversity.org/accounts/Lepas_anatifera/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -5754,6 +6154,11 @@ window.OCEAN_ANIMALS = [
   "family": "Majidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Maja_squinado",
+  "top": {
+   "text": "Hij camoufleert zich door poliepen, sponsjes en wier op zijn eigen schild te plakken.",
+   "url": "https://nl.wikipedia.org/wiki/Grote_spinkrab",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -5827,6 +6232,11 @@ window.OCEAN_ANIMALS = [
   "family": "Porcellanidae",
   "ns": 193,
   "wikiEn": "https://en.wikipedia.org/wiki/Porcellana_platycheles",
+  "top": {
+   "text": "Zijn laatste paar poten zit verstopt, waardoor het lijkt alsof hij maar drie paar looppoten heeft.",
+   "url": "https://en.wikipedia.org/wiki/Porcellana_platycheles",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -5900,6 +6310,11 @@ window.OCEAN_ANIMALS = [
   "family": "Ligiidae",
   "ns": 671,
   "wikiEn": "https://en.wikipedia.org/wiki/Ligia_oceanica",
+  "top": {
+   "text": "Zijn grote ogen bestaan uit meer dan 40 facetjes, net als bij insecten.",
+   "url": "https://en.wikipedia.org/wiki/Ligia_oceanica",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -5973,6 +6388,11 @@ window.OCEAN_ANIMALS = [
   "family": "Corystidae",
   "ns": 2263,
   "wikiEn": "https://en.wikipedia.org/wiki/Corystes",
+  "top": {
+   "text": "Zijn twee lange voelsprieten vormen samen een snorkel, zodat hij ingegraven in het zand kan ademen.",
+   "url": "https://nl.wikipedia.org/wiki/Helmkrab",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -6046,6 +6466,11 @@ window.OCEAN_ANIMALS = [
   "family": "Macrocheiridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Japanese_spider_crab",
+  "top": {
+   "text": "Zijn schild is maar 37 centimeter, maar met gestrekte scharen is hij bijna 4 meter breed: het grootste geleedpotige dier.",
+   "url": "https://animaldiversity.org/accounts/Macrocheira_kaempferi/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -6119,6 +6544,11 @@ window.OCEAN_ANIMALS = [
   "family": "Coenobitidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Coconut_crab",
+  "top": {
+   "text": "Deze krab heeft longen in plaats van kieuwen en wordt pas na 40 tot 60 jaar volgroeid.",
+   "url": "https://animaldiversity.org/accounts/Birgus_latro/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -6179,6 +6609,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cancridae",
   "ns": 7511,
   "wikiEn": "https://en.wikipedia.org/wiki/Cancer_pagurus",
+  "top": {
+   "text": "Zijn grootste vijand is de octopus, die hem zelfs in de vangkorven van vissers aanvalt.",
+   "url": "https://en.wikipedia.org/wiki/Cancer_pagurus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -6252,6 +6687,11 @@ window.OCEAN_ANIMALS = [
   "family": "Nephropidae",
   "ns": 233,
   "wikiEn": "https://en.wikipedia.org/wiki/Nephrops_norvegicus",
+  "top": {
+   "text": "In de winkel en op het menu heet hij langoustine of scampi.",
+   "url": "https://en.wikipedia.org/wiki/Nephrops_norvegicus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -6325,6 +6765,11 @@ window.OCEAN_ANIMALS = [
   "family": "Lysmatidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Lysmata_amboinensis",
+  "top": {
+   "text": "Hij stond model voor Jacques in Finding Nemo, en poetst echt vissen schoon.",
+   "url": "https://nl.wikipedia.org/wiki/Pacifische_poetsgarnaal",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -6398,6 +6843,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cirolanidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Bathynomus_giganteus",
+  "top": {
+   "text": "Toen hij in 1879 werd ontdekt, dacht men nog dat er in de diepzee geen leven was.",
+   "url": "https://nl.wikipedia.org/wiki/Reuzenpissebed",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -6471,6 +6921,11 @@ window.OCEAN_ANIMALS = [
   "family": "Lithodidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Red_king_crab",
+  "top": {
+   "text": "Hij is genoemd naar de kleur die hij krijgt als hij gekookt wordt; levend is hij eerder bordeauxrood.",
+   "url": "https://en.wikipedia.org/wiki/Red_king_crab",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -6544,6 +6999,11 @@ window.OCEAN_ANIMALS = [
   "family": "Carcinidae",
   "ns": 12349,
   "wikiEn": "https://en.wikipedia.org/wiki/Carcinus_maenas",
+  "top": {
+   "text": "Een Amerikaanse stokerij bracht in 2022 een bourbon uit die met deze krab is gemaakt.",
+   "url": "https://en.wikipedia.org/wiki/Carcinus_maenas",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -6616,6 +7076,11 @@ window.OCEAN_ANIMALS = [
   "order": "Amphipoda",
   "family": "Caprellidae",
   "ns": 90,
+  "top": {
+   "text": "Dit dunne, doorzichtige kreeftje lijkt op een wandelend geraamte en vist met grote scharen plankton uit het water.",
+   "url": "https://nl.wikipedia.org/wiki/Wandelend_geraamte",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -6676,6 +7141,11 @@ window.OCEAN_ANIMALS = [
   "family": "Chirodropidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Chironex_fleckeri",
+  "top": {
+   "text": "Hij heeft 24 ogen maar geen hersenen, en geldt als een van de giftigste dieren ter wereld.",
+   "url": "https://animaldiversity.org/accounts/Chironex_fleckeri/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -6749,6 +7219,11 @@ window.OCEAN_ANIMALS = [
   "family": "Porpitidae",
   "ns": 29,
   "wikiEn": "https://en.wikipedia.org/wiki/Velella_velella",
+  "top": {
+   "text": "Zijn zeiltje staat zo dat hij steeds optimaal gebruik kan maken van de wind.",
+   "url": "https://animaldiversity.org/accounts/Velella_velella/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -6822,6 +7297,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cyaneidae",
   "ns": 2458,
   "wikiEn": "https://en.wikipedia.org/wiki/Blue_jellyfish",
+  "top": {
+   "text": "Aan de kleur van zijn hoed zie je hoe oud hij is: jong is hij bleek, volwassen paarsblauw.",
+   "url": "https://en.wikipedia.org/wiki/Blue_jellyfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -6895,6 +7375,11 @@ window.OCEAN_ANIMALS = [
   "family": "Coralliidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Precious_coral",
+  "top": {
+   "text": "Volgens de Griekse mythe ontstond rood koraal uit het bloed van Medusa's afgehakte hoofd.",
+   "url": "https://en.wikipedia.org/wiki/Precious_coral",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -6968,6 +7453,11 @@ window.OCEAN_ANIMALS = [
   "family": "Rhizostomatidae",
   "ns": 5890,
   "wikiEn": "https://en.wikipedia.org/wiki/Rhizostoma_pulmo",
+  "top": {
+   "text": "In 2019 werd bij Engeland een bloemkoolkwal van naar schatting 1,5 meter gefilmd.",
+   "url": "https://nl.wikipedia.org/wiki/Bloemkoolkwal",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -7041,6 +7531,11 @@ window.OCEAN_ANIMALS = [
   "family": "Alcyoniidae",
   "ns": 2596,
   "wikiEn": "https://en.wikipedia.org/wiki/Alcyonium_digitatum",
+  "top": {
+   "text": "Dit zachte koraal lijkt op een paar dikke vingers; in het Engels heet het 'dodemansvingers'.",
+   "url": "https://en.wikipedia.org/wiki/Alcyonium_digitatum",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -7114,6 +7609,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cyaneidae",
   "ns": 320,
   "wikiEn": "https://en.wikipedia.org/wiki/Lion%27s_mane_jellyfish",
+  "top": {
+   "text": "Bij Noorwegen en in de Noordzee vormen ze soms zwermen van wel een kilometer lang.",
+   "url": "https://animaldiversity.org/accounts/Cyanea_capillata/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -7187,6 +7687,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pelagiidae",
   "ns": 4093,
   "wikiEn": "https://en.wikipedia.org/wiki/Chrysaora_hysoscella",
+  "top": {
+   "text": "Elke kompaskwal is eerst mannetje en wordt later vrouwtje.",
+   "url": "https://animaldiversity.org/accounts/Chrysaora_hysoscella/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -7260,6 +7765,11 @@ window.OCEAN_ANIMALS = [
   "family": "Ulmaridae",
   "ns": 5504,
   "wikiEn": "https://en.wikipedia.org/wiki/Aurelia_aurita",
+  "top": {
+   "text": "De kwal zelf leeft maar een jaartje, maar zijn poliep kan 25 jaar wachten voordat hij kwalletjes maakt.",
+   "url": "https://animaldiversity.org/accounts/Aurelia_aurita/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -7333,6 +7843,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pelagiidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Pelagia_noctiluca",
+  "top": {
+   "text": "Zijn naam betekent 'nachtlicht van de zee': bij aanraking licht hij op en laat hij lichtgevend slijm achter.",
+   "url": "https://animaldiversity.org/accounts/Pelagia_noctiluca/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -7406,6 +7921,11 @@ window.OCEAN_ANIMALS = [
   "family": "Tubulariidae",
   "ns": 1473,
   "wikiEn": "https://en.wikipedia.org/wiki/Tubularia_indivisa",
+  "top": {
+   "text": "Op Belgische scheepswrakken leven er tot 100.000 bij elkaar.",
+   "url": "https://en.wikipedia.org/wiki/Tubularia_indivisa",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -7479,6 +7999,11 @@ window.OCEAN_ANIMALS = [
   "family": "Physaliidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Portuguese_man_o%27_war",
+  "top": {
+   "text": "Het is geen kwal maar een kolonie diertjes zonder hersenen, die toch perfect samenwerken; zijn tentakels worden tot 30 meter lang.",
+   "url": "https://oceana.org/marine-life/portuguese-man-o-war/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -7552,6 +8077,11 @@ window.OCEAN_ANIMALS = [
   "family": "Actiniidae",
   "ns": 1489,
   "wikiEn": "https://en.wikipedia.org/wiki/Beadlet_anemone",
+  "top": {
+   "text": "Een Schotse anemoon genaamd 'Granny' werd in 1828 gevonden en leefde tot 1887.",
+   "url": "https://en.wikipedia.org/wiki/Beadlet_anemone",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -7625,6 +8155,11 @@ window.OCEAN_ANIMALS = [
   "family": "Sagartiidae",
   "ns": 1649,
   "wikiEn": "https://en.wikipedia.org/wiki/Sagartia_elegans",
+  "top": {
+   "text": "Bij verstoring schiet hij witte draden uit zijn lijf en mond.",
+   "url": "https://en.wikipedia.org/wiki/Sagartia_elegans",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -7698,6 +8233,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cepheidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Cotylorhiza_tuberculata",
+  "top": {
+   "text": "Hij lijkt op een gebakken ei, en in zijn lijf wonen algjes die met zonlicht energie voor hem maken.",
+   "url": "https://en.wikipedia.org/wiki/Cotylorhiza_tuberculata",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -7771,6 +8311,11 @@ window.OCEAN_ANIMALS = [
   "family": "Actiniidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Snakelocks_anemone",
+  "top": {
+   "text": "Hij kan zich een prikkel tot vijf dagen lang 'herinneren'.",
+   "url": "https://animaldiversity.org/accounts/Anemonia_viridis/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -7844,6 +8389,11 @@ window.OCEAN_ANIMALS = [
   "family": "Metridiidae",
   "ns": 395,
   "wikiEn": "https://en.wikipedia.org/wiki/Metridium_senile",
+  "top": {
+   "text": "Drooggevallen hangt hij slap, als een natte handschoen met een druppel aan het puntje.",
+   "url": "https://en.wikipedia.org/wiki/Metridium_senile",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -7917,6 +8467,11 @@ window.OCEAN_ANIMALS = [
   "family": "Actiniidae",
   "ns": 2793,
   "wikiEn": "https://en.wikipedia.org/wiki/Dahlia_anemone",
+  "top": {
+   "text": "Aan de wratjes op zijn zuil blijven schelpstukjes en zand plakken; met zijn netelcellen verlamt hij visjes en krabben.",
+   "url": "https://nl.wikipedia.org/wiki/Zeedahlia",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -7990,6 +8545,11 @@ window.OCEAN_ANIMALS = [
   "family": "Bolinopsidae",
   "ns": 811,
   "wikiEn": "https://en.wikipedia.org/wiki/Mnemiopsis_leidyi",
+  "top": {
+   "text": "Hij heeft alleen een anus op het moment dat hij moet poepen; daarna verdwijnt die weer.",
+   "url": "https://en.wikipedia.org/wiki/Mnemiopsis_leidyi",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -8063,6 +8623,11 @@ window.OCEAN_ANIMALS = [
   "family": "Clionaidae",
   "ns": 679,
   "wikiEn": "https://en.wikipedia.org/wiki/Cliona_celata",
+  "top": {
+   "text": "Hij boort zich in kalksteen en schelpen; je ziet alleen kleine gaatjes, de rest van de spons zit in de steen.",
+   "url": "https://nl.wikipedia.org/wiki/Boorspons",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -8135,6 +8700,11 @@ window.OCEAN_ANIMALS = [
   "order": "Aplousobranchia",
   "family": "Clavelinidae",
   "ns": 1192,
+  "top": {
+   "text": "Met zijn heldere lijf en gekleurde bandjes lijkt hij op een gloeilampje.",
+   "url": "https://nl.wikipedia.org/wiki/Bretelzakpijp",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -8208,6 +8778,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cionidae",
   "ns": 277,
   "wikiEn": "https://en.wikipedia.org/wiki/Ciona_intestinalis",
+  "top": {
+   "text": "Zijn Latijnse naam betekent 'pilaar van ingewanden'.",
+   "url": "https://nl.wikipedia.org/wiki/Doorschijnende_zakpijp",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -8281,6 +8856,11 @@ window.OCEAN_ANIMALS = [
   "family": "Polynoidae",
   "ns": 310,
   "wikiEn": "https://en.wikipedia.org/wiki/Lepidonotus_squamatus",
+  "top": {
+   "text": "Zijn rug is bedekt met schubben die zwak oplichten in het donker.",
+   "url": "https://en.wikipedia.org/wiki/Lepidonotus_squamatus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -8354,6 +8934,11 @@ window.OCEAN_ANIMALS = [
   "family": "Sabellariidae",
   "ns": 1506,
   "wikiEn": "https://en.wikipedia.org/wiki/Sabellaria_spinulosa",
+  "top": {
+   "text": "Er kunnen wel 4000 van deze wormpjes op één vierkante meter zitten, elk in een zelfgebouwd kokertje.",
+   "url": "https://en.wikipedia.org/wiki/Sabellaria_spinulosa",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -8427,6 +9012,11 @@ window.OCEAN_ANIMALS = [
   "family": "Halichondriidae",
   "ns": 1740,
   "wikiEn": "https://en.wikipedia.org/wiki/Halichondria_panicea",
+  "top": {
+   "text": "Hij ziet er zo wisselend uit dat hij 56 keer per ongeluk als 'nieuwe soort' is beschreven.",
+   "url": "https://en.wikipedia.org/wiki/Halichondria_panicea",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -8500,6 +9090,11 @@ window.OCEAN_ANIMALS = [
   "family": "Electridae",
   "ns": 2486,
   "wikiEn": "https://en.wikipedia.org/wiki/Electra_pilosa",
+  "top": {
+   "text": "Elk sterretje op het zeewier is een hele kolonie piepkleine diertjes van een halve millimeter.",
+   "url": "https://nl.wikipedia.org/wiki/Harig_mosdiertje",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -8573,6 +9168,11 @@ window.OCEAN_ANIMALS = [
   "family": "Serpulidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Spirobranchus_giganteus",
+  "top": {
+   "text": "Bij gevaar schiet hij bliksemsnel zijn hol in en sluit het af met een soort valluikje.",
+   "url": "https://oceana.org/marine-life/christmas-tree-worm/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -8633,6 +9233,11 @@ window.OCEAN_ANIMALS = [
   "family": "Branchiostomatidae",
   "ns": 1283,
   "wikiEn": "https://en.wikipedia.org/wiki/Branchiostoma_lanceolatum",
+  "top": {
+   "text": "Wetenschappers bestuderen dit diertje om te begrijpen hoe dieren met een ruggengraat, zoals wij, zijn ontstaan.",
+   "url": "https://nl.wikipedia.org/wiki/Lancetvisje",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -8706,6 +9311,11 @@ window.OCEAN_ANIMALS = [
   "family": "Lineidae",
   "ns": 42,
   "wikiEn": "https://en.wikipedia.org/wiki/Lineus_longissimus",
+  "top": {
+   "text": "In 1864 spoelde er in Schotland een aan van meer dan 55 meter: langer dan de grootste haarkwal.",
+   "url": "https://en.wikipedia.org/wiki/Lineus_longissimus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -8779,6 +9389,11 @@ window.OCEAN_ANIMALS = [
   "family": "Membraniporidae",
   "ns": 445,
   "wikiEn": "https://en.wikipedia.org/wiki/Membranipora_membranacea",
+  "top": {
+   "text": "Komen er zeenaaktslakken op af, dan maakt de kolonie stekeltjes van chitine om zich te verdedigen.",
+   "url": "https://nl.wikipedia.org/wiki/Ledermosdiertje",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -8852,6 +9467,11 @@ window.OCEAN_ANIMALS = [
   "family": null,
   "ns": 2216,
   "wikiEn": "https://en.wikipedia.org/wiki/Beroe_cucumis",
+  "top": {
+   "text": "Zijn kamrijen schitteren in regenboogkleuren door hun bouw, niet door kleurstof.",
+   "url": "https://en.wikipedia.org/wiki/Beroe_cucumis",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -8925,6 +9545,11 @@ window.OCEAN_ANIMALS = [
   "family": "Sabellidae",
   "ns": 1222,
   "wikiEn": "https://en.wikipedia.org/wiki/Sabella_pavonina",
+  "top": {
+   "text": "Ook als een vis een groot stuk van zijn buis en lijf afbijt, groeit hij gewoon weer aan.",
+   "url": "https://en.wikipedia.org/wiki/Sabella_pavonina",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -8998,6 +9623,11 @@ window.OCEAN_ANIMALS = [
   "family": "Siboglinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Riftia_pachyptila",
+  "top": {
+   "text": "Hij heeft geen mond, geen ogen en geen maag: miljarden bacteriën in zijn lijf maken zijn eten.",
+   "url": "https://animaldiversity.org/accounts/Riftia_pachyptila/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -9071,6 +9701,11 @@ window.OCEAN_ANIMALS = [
   "family": "Terebellidae",
   "ns": 8837,
   "wikiEn": "https://en.wikipedia.org/wiki/Lanice_conchilega",
+  "top": {
+   "text": "Raakt zijn kokertje bedolven onder het zand, dan bouwt hij het gewoon verder op.",
+   "url": "https://en.wikipedia.org/wiki/Lanice_conchilega",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -9144,6 +9779,11 @@ window.OCEAN_ANIMALS = [
   "family": "Styelidae",
   "ns": 644,
   "wikiEn": "https://en.wikipedia.org/wiki/Botryllus_schlosseri",
+  "top": {
+   "text": "Zakpijpen zoals hij zijn de naaste ongewervelde familie van de mens.",
+   "url": "https://en.wikipedia.org/wiki/Botryllus_schlosseri",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -9217,6 +9857,11 @@ window.OCEAN_ANIMALS = [
   "family": "Nereididae",
   "ns": 246,
   "wikiEn": "https://en.wikipedia.org/wiki/Hediste_diversicolor",
+  "top": {
+   "text": "Hij spint een slijmnetje bij de ingang van zijn gang om voedsel te vangen.",
+   "url": "https://en.wikipedia.org/wiki/Hediste_diversicolor",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -9290,6 +9935,11 @@ window.OCEAN_ANIMALS = [
   "family": "Euplectellidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Venus%27_flower_basket",
+  "top": {
+   "text": "In Japan wordt dit glazen sponsje als huwelijkscadeau gegeven, als symbool voor 'tot de dood ons scheidt'.",
+   "url": "https://animaldiversity.org/accounts/Euplectella_aspergillum/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -9363,6 +10013,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pleurobrachiidae",
   "ns": 1094,
   "wikiEn": "https://en.wikipedia.org/wiki/Pleurobrachia_pileus",
+  "top": {
+   "text": "In het licht zie je regenboogkleuren over zijn doorzichtige lijfje lopen.",
+   "url": "https://nl.wikipedia.org/wiki/Zeedruif_%28ribkwal%29",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -9436,6 +10091,11 @@ window.OCEAN_ANIMALS = [
   "family": "Nereididae",
   "ns": 171,
   "wikiEn": "https://en.wikipedia.org/wiki/Alitta_virens",
+  "top": {
+   "text": "In de Amerikaanse staat Maine werken meer dan 1000 mensen als zeeduizendpootgraver.",
+   "url": "https://en.wikipedia.org/wiki/Alitta_virens",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -9509,6 +10169,11 @@ window.OCEAN_ANIMALS = [
   "family": "Aphroditidae",
   "ns": 1476,
   "wikiEn": "https://en.wikipedia.org/wiki/Aphrodita_aculeata",
+  "top": {
+   "text": "Zijn borstels zijn dieprood, maar flitsen groen en blauw als het licht er recht op valt.",
+   "url": "https://en.wikipedia.org/wiki/Aphrodita_aculeata",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -9582,6 +10247,11 @@ window.OCEAN_ANIMALS = [
   "family": "Arenicolidae",
   "ns": 1557,
   "wikiEn": "https://en.wikipedia.org/wiki/Blow_lugworm",
+  "top": {
+   "text": "Zijn bloed kan 156 zuurstofmoleculen vervoeren, tegen 4 bij mensen; het wordt onderzocht voor orgaantransplantaties.",
+   "url": "https://en.wikipedia.org/wiki/Blow_lugworm",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -9655,6 +10325,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cheloniidae",
   "ns": 40,
   "wikiEn": "https://en.wikipedia.org/wiki/Loggerhead_sea_turtle",
+  "top": {
+   "text": "Jonge schildpadden uit Japan en Australië zwemmen de hele Stille Oceaan over: bijna 13.000 kilometer.",
+   "url": "https://www.fisheries.noaa.gov/species/loggerhead-turtle",
+   "by": "NOAA Fisheries"
+  },
   "curated": true
  },
  {
@@ -9728,6 +10403,11 @@ window.OCEAN_ANIMALS = [
   "family": "Elapidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Blue-lipped_sea_krait",
+  "top": {
+   "text": "Zijn neusgaten hebben flapjes die het water buiten houden, en hij duikt tot 80 meter diep.",
+   "url": "https://en.wikipedia.org/wiki/Blue-lipped_sea_krait",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -9801,6 +10481,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cheloniidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Hawksbill_sea_turtle",
+  "top": {
+   "text": "Hij is de enige zeeschildpad die vooral sponzen eet; daardoor kan zijn eigen vlees giftig worden.",
+   "url": "https://www.fisheries.noaa.gov/species/hawksbill-turtle",
+   "by": "NOAA Fisheries"
+  },
   "curated": true
  },
  {
@@ -9874,6 +10559,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cheloniidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Kemp%27s_ridley_sea_turtle",
+  "top": {
+   "text": "Hij is de kleinste zeeschildpad, en de enige die gewoon overdag haar eieren legt.",
+   "url": "https://www.fisheries.noaa.gov/species/kemps-ridley-sea-turtle",
+   "by": "NOAA Fisheries"
+  },
   "curated": true
  },
  {
@@ -9947,6 +10637,11 @@ window.OCEAN_ANIMALS = [
   "family": "Dermochelyidae",
   "ns": 53,
   "wikiEn": "https://en.wikipedia.org/wiki/Leatherback_sea_turtle",
+  "top": {
+   "text": "Hij duikt tot 1280 meter diep, dieper dan elke andere schildpad, en kan 85 minuten onder water blijven.",
+   "url": "https://www.nationalgeographic.com/animals/reptiles/facts/leatherback-sea-turtle",
+   "by": "National Geographic"
+  },
   "curated": true
  },
  {
@@ -10020,6 +10715,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cheloniidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Flatback_sea_turtle",
+  "top": {
+   "text": "Zijn schild is zo teer dat hij al bloedt als hij er met zijn eigen flippers tegenaan slaat.",
+   "url": "https://animaldiversity.org/accounts/Natator_depressus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -10093,6 +10793,11 @@ window.OCEAN_ANIMALS = [
   "family": "Elapidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Yellow-lipped_sea_krait",
+  "top": {
+   "text": "Hij klimt in bomen en is gezien op de hoogste punten van zijn eilanden, tot 40 meter hoog.",
+   "url": "https://animaldiversity.org/accounts/Laticauda_colubrina/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -10166,6 +10871,11 @@ window.OCEAN_ANIMALS = [
   "family": "Elapidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Yellow-bellied_sea_snake",
+  "top": {
+   "text": "Hij leeft in zee, maar drinkt alleen zoet water.",
+   "url": "https://en.wikipedia.org/wiki/Yellow-bellied_sea_snake",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -10239,6 +10949,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cheloniidae",
   "ns": 6,
   "wikiEn": "https://en.wikipedia.org/wiki/Green_sea_turtle",
+  "top": {
+   "text": "Hij kan zo'n 2,5 uur zijn adem inhouden om te slapen.",
+   "url": "https://en.wikipedia.org/wiki/Green_sea_turtle",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -10312,6 +11027,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cheloniidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Olive_ridley_sea_turtle",
+  "top": {
+   "text": "Vrouwtjes komen met honderdduizenden tegelijk aan land om eieren te leggen: een 'arribada'.",
+   "url": "https://en.wikipedia.org/wiki/Olive_ridley_sea_turtle",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -10385,6 +11105,11 @@ window.OCEAN_ANIMALS = [
   "family": "Crocodylidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Saltwater_crocodile",
+  "top": {
+   "text": "Hij is het grootste reptiel ter wereld, en mannetjes kunnen 6 tot 7 meter lang worden.",
+   "url": "https://animaldiversity.org/accounts/Crocodylus_porosus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -10458,6 +11183,11 @@ window.OCEAN_ANIMALS = [
   "family": "Iguanidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Marine_iguana",
+  "top": {
+   "text": "Hij is de enige hagedis ter wereld die zijn eten in zee zoekt: grote exemplaren duiken tot 30 meter diep naar wier.",
+   "url": "https://oceana.org/marine-life/marine-iguana/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -10531,6 +11261,11 @@ window.OCEAN_ANIMALS = [
   "family": "Echinasteridae",
   "ns": 231,
   "wikiEn": "https://en.wikipedia.org/wiki/Henricia_sanguinolenta",
+  "top": {
+   "text": "Zijn jongen groeien op onder een koepel van de armen van hun moeder, tot ze zelf kunnen overleven.",
+   "url": "https://animaldiversity.org/accounts/Henricia_sanguinolenta/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -10604,6 +11339,11 @@ window.OCEAN_ANIMALS = [
   "family": "Ophiotrichidae",
   "ns": 1088,
   "wikiEn": "https://en.wikipedia.org/wiki/Ophiothrix_fragilis",
+  "top": {
+   "text": "Op één vierkante meter zeebodem zijn eens tweeduizend brokkelsterren geteld.",
+   "url": "https://animaldiversity.org/accounts/Ophiothrix_fragilis/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -10677,6 +11417,11 @@ window.OCEAN_ANIMALS = [
   "family": "Diadematidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Diadema_setosum",
+  "top": {
+   "text": "Bij gevaar kan hij zich omdraaien en op zijn langste stekels 'wegrennen'.",
+   "url": "https://en.wikipedia.org/wiki/Diadema_setosum",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -10750,6 +11495,11 @@ window.OCEAN_ANIMALS = [
   "family": "Acanthasteridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Crown-of-thorns_starfish",
+  "top": {
+   "text": "Eén volwassen doornenkroon kan per dag zo'n 478 vierkante centimeter levend koraal doden.",
+   "url": "https://animaldiversity.org/accounts/Acanthaster_planci/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -10823,6 +11573,11 @@ window.OCEAN_ANIMALS = [
   "family": "Echinidae",
   "ns": 1385,
   "wikiEn": "https://en.wikipedia.org/wiki/Echinus_esculentus",
+  "top": {
+   "text": "Rond zijn mond zitten piepkleine tangetjes om zich te verdedigen.",
+   "url": "https://en.wikipedia.org/wiki/Echinus_esculentus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -10895,6 +11650,11 @@ window.OCEAN_ANIMALS = [
   "order": "Valvatida",
   "family": "Solasteridae",
   "ns": 1387,
+  "top": {
+   "text": "Deze zeester eet andere zeesterren, vooral de gewone zeester.",
+   "url": "https://nl.wikipedia.org/wiki/Gestekelde_zonnester",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -10968,6 +11728,11 @@ window.OCEAN_ANIMALS = [
   "family": "Ophiuridae",
   "ns": 4229,
   "wikiEn": "https://en.wikipedia.org/wiki/Ophiura_ophiura",
+  "top": {
+   "text": "Als een arm afbreekt, groeit die gewoon weer aan.",
+   "url": "https://en.wikipedia.org/wiki/Ophiura_ophiura",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -11041,6 +11806,11 @@ window.OCEAN_ANIMALS = [
   "family": "Holothuriidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Holothuria_forskali",
+  "top": {
+   "text": "Bij gevaar schiet hij kleverige witte draden uit zijn achterkant om vijanden in te verstrikken.",
+   "url": "https://en.wikipedia.org/wiki/Holothuria_forskali",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -11114,6 +11884,11 @@ window.OCEAN_ANIMALS = [
   "family": "Asteriidae",
   "ns": 10442,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_starfish",
+  "top": {
+   "text": "Een kiertje van een tiende millimeter is genoeg om zijn maag in een mossel te duwen en hem daar te verteren.",
+   "url": "https://animaldiversity.org/accounts/Asterias_rubens/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -11187,6 +11962,11 @@ window.OCEAN_ANIMALS = [
   "family": "Astropectinidae",
   "ns": 2151,
   "wikiEn": "https://en.wikipedia.org/wiki/Astropecten_irregularis",
+  "top": {
+   "text": "Zijn armen zijn stijf en recht, niet soepel zoals bij de gewone zeester.",
+   "url": "https://nl.wikipedia.org/wiki/Kamster_%28soort%29",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -11260,6 +12040,11 @@ window.OCEAN_ANIMALS = [
   "family": "Parechinidae",
   "ns": 2351,
   "wikiEn": "https://en.wikipedia.org/wiki/Psammechinus_miliaris",
+  "top": {
+   "text": "Verhuis je hem naar een andere diepte, dan houdt hij gewoon zijn oude kleur.",
+   "url": "https://en.wikipedia.org/wiki/Psammechinus_miliaris",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -11333,6 +12118,11 @@ window.OCEAN_ANIMALS = [
   "family": "Strongylocentrotidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Strongylocentrotus_purpuratus",
+  "top": {
+   "text": "Hij schuurt een kuiltje in de rots, en is hij eenmaal gegroeid, dan past hij soms niet meer door de opening naar buiten.",
+   "url": "https://animaldiversity.org/accounts/Strongylocentrotus_purpuratus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -11406,6 +12196,11 @@ window.OCEAN_ANIMALS = [
   "family": "Loveniidae",
   "ns": 7093,
   "wikiEn": "https://en.wikipedia.org/wiki/Echinocardium_cordatum",
+  "top": {
+   "text": "Tussen zijn stekels houdt hij lucht vast, zodat hij ingegraven in het zand niet stikt.",
+   "url": "https://en.wikipedia.org/wiki/Echinocardium_cordatum",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -11479,6 +12274,11 @@ window.OCEAN_ANIMALS = [
   "family": "Asteriidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Sunflower_sea_star",
+  "top": {
+   "text": "Laat hij bij een aanval een arm los, dan geeft hij ook een geurtje af dat andere zonnebloemsterren waarschuwt.",
+   "url": "https://animaldiversity.org/accounts/Pycnopodia_helianthoides/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -11552,6 +12352,11 @@ window.OCEAN_ANIMALS = [
   "family": "Engraulidae",
   "ns": 519,
   "wikiEn": "https://en.wikipedia.org/wiki/European_anchovy",
+  "top": {
+   "text": "In Bergen op Zoom wordt al sinds minstens 1673 op ansjovis gevist, met een eeuwenoude vismethode.",
+   "url": "https://nl.wikipedia.org/wiki/Ansjovis",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -11625,6 +12430,11 @@ window.OCEAN_ANIMALS = [
   "family": "Salmonidae",
   "ns": 323,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_salmon",
+  "top": {
+   "text": "Vroeger maakten mensen laarzen van zalmhuid!",
+   "url": "https://animaldiversity.org/accounts/Salmo_salar/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -11698,6 +12508,11 @@ window.OCEAN_ANIMALS = [
   "family": "Diodontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Long-spine_porcupinefish",
+  "top": {
+   "text": "Wordt hij aangevallen door een vogel, dan blaast hij zich op met lucht; door een vis, dan met water.",
+   "url": "https://animaldiversity.org/accounts/Diodon_holocanthus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -11771,6 +12586,11 @@ window.OCEAN_ANIMALS = [
   "family": "Gobiidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_mudskipper",
+  "top": {
+   "text": "Deze vis leeft half op het land: zijn ogen staan boven op zijn kop en kunnen los van elkaar rondkijken, ook als zijn lijf onder water ligt.",
+   "url": "https://en.wikipedia.org/wiki/Atlantic_mudskipper",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -11844,6 +12664,11 @@ window.OCEAN_ANIMALS = [
   "family": "Callionymidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Synchiropus_splendidus",
+  "top": {
+   "text": "Hij is een van maar twee gewervelde dieren met echte blauwe kleurstof; bij alle andere is blauw een lichteffect.",
+   "url": "https://en.wikipedia.org/wiki/Synchiropus_splendidus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -11904,6 +12729,11 @@ window.OCEAN_ANIMALS = [
   "family": "Istiophoridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_blue_marlin",
+  "top": {
+   "text": "Hij slaat met zijn lange snavel heen en weer door een school vissen en eet daarna de verdoofde prooien op.",
+   "url": "https://oceana.org/marine-life/blue-marlin/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -11977,6 +12807,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pomacentridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Chromis_viridis",
+  "top": {
+   "text": "Het mannetje eet eitjes op die niet uitkomen, zodat er geen ziektekiemen in de rest van het legsel komen.",
+   "url": "https://en.wikipedia.org/wiki/Chromis_viridis",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -12050,6 +12885,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scombridae",
   "ns": 29,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_bluefin_tuna",
+  "top": {
+   "text": "In 1934 vochten zes mannen in Canada om beurten 62 uur lang met één tonijn.",
+   "url": "https://en.wikipedia.org/wiki/Atlantic_bluefin_tuna",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -12109,6 +12949,11 @@ window.OCEAN_ANIMALS = [
   "order": "Scorpaeniformes",
   "family": "Psychrolutidae",
   "ns": 0,
+  "top": {
+   "text": "In 2013 werd hij in een internationale stemming verkozen tot lelijkste dier ter wereld. Diep in zee ziet hij er overigens heel normaal uit.",
+   "url": "https://www.smithsonianmag.com/smart-news/worlds-ugliest-animal-blobfish-6676336/",
+   "by": "Smithsonian Magazine"
+  },
   "curated": true
  },
  {
@@ -12156,6 +13001,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scombridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_bonito",
+  "top": {
+   "text": "Bij New York heet hij 'skipjack', omdat hij graag uit het water springt.",
+   "url": "https://en.wikipedia.org/wiki/Atlantic_bonito",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -12229,6 +13079,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pleuronectidae",
   "ns": 2978,
   "wikiEn": "https://en.wikipedia.org/wiki/European_flounder",
+  "top": {
+   "text": "Deze platvis zwemt rivieren op en is in de Rijn zelfs tot in Bazel gevangen.",
+   "url": "https://nl.wikipedia.org/wiki/Bot_%28dier%29",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -12302,6 +13157,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pholidae",
   "ns": 1023,
   "wikiEn": "https://en.wikipedia.org/wiki/Rock_gunnel",
+  "top": {
+   "text": "Bij eb blijft hij soms droog liggen onder stenen en wier, en dan ademt hij gewoon lucht.",
+   "url": "https://en.wikipedia.org/wiki/Rock_gunnel",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -12375,6 +13235,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pomacentridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Maroon_clownfish",
+  "top": {
+   "text": "Bij gevaar kan het vrouwtje haar grijze strepen in een paar tellen wit laten worden.",
+   "url": "https://en.wikipedia.org/wiki/Maroon_clownfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -12448,6 +13313,11 @@ window.OCEAN_ANIMALS = [
   "family": "Serranidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Epinephelus_marginatus",
+  "top": {
+   "text": "Alle exemplaren beginnen als vrouwtje; pas als ze groot en oud zijn, veranderen ze in mannetjes.",
+   "url": "https://en.wikipedia.org/wiki/Epinephelus_marginatus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -12521,6 +13391,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scaridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Green_humphead_parrotfish",
+  "top": {
+   "text": "Mannetjes vechten door met hun bultige kop tegen elkaar te rammen, zo hard dat je de klap onder water hoort.",
+   "url": "https://en.wikipedia.org/wiki/Green_humphead_parrotfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -12581,6 +13456,11 @@ window.OCEAN_ANIMALS = [
   "family": "Salmonidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Chinook_salmon",
+  "top": {
+   "text": "In de Yukon-rivier zwemmen sommige ruim 3000 kilometer stroomopwaarts: de langste trektocht van alle zalmen.",
+   "url": "https://en.wikipedia.org/wiki/Chinook_salmon",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -12654,6 +13534,11 @@ window.OCEAN_ANIMALS = [
   "family": "Gobiidae",
   "ns": 933,
   "wikiEn": "https://en.wikipedia.org/wiki/Sand_goby",
+  "top": {
+   "text": "Het mannetje bouwt een nest onder een lege schelp; vrouwtjes kiezen het liefst een mannetje met een groot nest.",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1439-0310.2008.01500.x",
+   "by": "Ethology (vakblad, 2008)"
+  },
   "curated": true
  },
  {
@@ -12727,6 +13612,11 @@ window.OCEAN_ANIMALS = [
   "family": "Mugilidae",
   "ns": 136,
   "wikiEn": "https://en.wikipedia.org/wiki/Thicklip_grey_mullet",
+  "top": {
+   "text": "Hij zwemt graag rond bij de uitlaten van elektriciteitscentrales en riolen.",
+   "url": "https://en.wikipedia.org/wiki/Thicklip_grey_mullet",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -12800,6 +13690,11 @@ window.OCEAN_ANIMALS = [
   "family": "Serranidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Giant_grouper",
+  "top": {
+   "text": "Zijn bek is zo groot dat hij zelfs kleine haaien en jonge zeeschildpadden eet.",
+   "url": "https://nl.wikipedia.org/wiki/Donkere_reuzentandbaars",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -12873,6 +13768,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pomacentridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Ocellaris_clownfish",
+  "top": {
+   "text": "Sterft het vrouwtje van het groepje, dan verandert het grootste mannetje in een vrouwtje.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/amphiprion-ocellaris/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -12946,6 +13846,11 @@ window.OCEAN_ANIMALS = [
   "family": "Gasterosteidae",
   "ns": 1073,
   "wikiEn": "https://en.wikipedia.org/wiki/Three-spined_stickleback",
+  "top": {
+   "text": "Samen zwemmen ze naar een roofvis toe om te kijken hoe gevaarlijk die is, volgens de regel 'voor wat hoort wat'.",
+   "url": "https://en.wikipedia.org/wiki/Three-spined_stickleback",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -13006,6 +13911,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scombridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Skipjack_tuna",
+  "top": {
+   "text": "Hij is de kleinste tonijn waar op grote schaal op gevist wordt, maar toch is hij 40% van alle gevangen tonijn.",
+   "url": "https://animaldiversity.org/accounts/Katsuwonus_pelamis/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -13079,6 +13989,11 @@ window.OCEAN_ANIMALS = [
   "family": "Clupeidae",
   "ns": 187,
   "wikiEn": "https://en.wikipedia.org/wiki/European_pilchard",
+  "top": {
+   "text": "Eén vrouwtje legt 50.000 tot 60.000 eitjes.",
+   "url": "https://en.wikipedia.org/wiki/European_pilchard",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -13152,6 +14067,11 @@ window.OCEAN_ANIMALS = [
   "family": "Acipenseridae",
   "ns": 34,
   "wikiEn": "https://en.wikipedia.org/wiki/European_sea_sturgeon",
+  "top": {
+   "text": "Deze oervis kan 100 jaar oud worden.",
+   "url": "https://en.wikipedia.org/wiki/European_sea_sturgeon",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -13225,6 +14145,11 @@ window.OCEAN_ANIMALS = [
   "family": "Moronidae",
   "ns": 878,
   "wikiEn": "https://en.wikipedia.org/wiki/European_seabass",
+  "top": {
+   "text": "Hij jaagt door van onderen steil omhoog naar zijn prooi te schieten.",
+   "url": "https://animaldiversity.org/accounts/Dicentrarchus_labrax/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -13298,6 +14223,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pomacanthidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/French_angelfish",
+  "top": {
+   "text": "Anders dan de meeste vissen blijven Franse keizersvissen hun partner trouw.",
+   "url": "https://oceana.org/marine-life/french-angelfish/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -13371,6 +14301,11 @@ window.OCEAN_ANIMALS = [
   "family": "Opistognathidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Yellowhead_jawfish",
+  "top": {
+   "text": "Het mannetje broedt de eieren uit in zijn bek.",
+   "url": "https://nl.wikipedia.org/wiki/Geelkopkaakvis",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -13444,6 +14379,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scombridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Yellowfin_tuna",
+  "top": {
+   "text": "Hij duikt tot wel 1,6 kilometer diep.",
+   "url": "https://oceana.org/marine-life/yellowfin-tuna/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -13517,6 +14457,11 @@ window.OCEAN_ANIMALS = [
   "family": "Belonidae",
   "ns": 312,
   "wikiEn": "https://en.wikipedia.org/wiki/Garfish",
+  "top": {
+   "text": "Zijn graten zijn groen. Dat is onschadelijk, maar veel mensen durven hem daardoor niet te eten.",
+   "url": "https://en.wikipedia.org/wiki/Garfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -13590,6 +14535,11 @@ window.OCEAN_ANIMALS = [
   "family": "Acanthuridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Yellow_tang",
+  "top": {
+   "text": "In het wild kan dit kleine visje meer dan 40 jaar oud worden.",
+   "url": "https://en.wikipedia.org/wiki/Yellow_tang",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -13663,6 +14613,11 @@ window.OCEAN_ANIMALS = [
   "family": "Chaetodontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Yellow_longnose_butterflyfish",
+  "top": {
+   "text": "Hij maakt geluiden om zijn gebied af te bakenen; aan het geluid horen rivalen hoe groot hij is.",
+   "url": "https://en.wikipedia.org/wiki/Yellow_longnose_butterflyfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -13736,6 +14691,11 @@ window.OCEAN_ANIMALS = [
   "family": "Diodontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Spot-fin_porcupinefish",
+  "top": {
+   "text": "Zijn stekels liggen plat tegen zijn lijf en gaan pas overeind staan als hij zich opblaast.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/diodon-hystrix/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -13809,6 +14769,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scorpaenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Dendrochirus_zebra",
+  "top": {
+   "text": "Ze jagen soms in groepjes en drijven samen prooien in een hoek met hun uitgespreide giftige vinnen.",
+   "url": "https://en.wikipedia.org/wiki/Dendrochirus_zebra",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -13882,6 +14847,11 @@ window.OCEAN_ANIMALS = [
   "family": "Plotosidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Plotosus_lineatus",
+  "top": {
+   "text": "Zijn vinnen hebben giftige stekels; vissers worden vaak gestoken, maar er is nooit iemand aan overleden.",
+   "url": "https://en.wikipedia.org/wiki/Plotosus_lineatus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -13955,6 +14925,11 @@ window.OCEAN_ANIMALS = [
   "family": "Centriscidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Aeoliscus_strigatus",
+  "top": {
+   "text": "Hij zwemt bijna altijd rechtop, met zijn kop naar beneden.",
+   "url": "https://nl.wikipedia.org/wiki/Gestreepte_scheermesvis",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -14028,6 +15003,11 @@ window.OCEAN_ANIMALS = [
   "family": "Congridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Spotted_garden_eel",
+  "top": {
+   "text": "Een groot deel van zijn lijf blijft altijd in zijn hol, daardoor lijkt hij veel kleiner dan zijn 30 tot 45 centimeter.",
+   "url": "https://oceana.org/marine-life/spotted-garden-eel/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -14101,6 +15081,11 @@ window.OCEAN_ANIMALS = [
   "family": "Labridae",
   "ns": 719,
   "wikiEn": "https://en.wikipedia.org/wiki/Ballan_wrasse",
+  "top": {
+   "text": "Deze lipvis kan 34 jaar oud worden.",
+   "url": "https://en.wikipedia.org/wiki/Ballan_wrasse",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -14173,6 +15158,11 @@ window.OCEAN_ANIMALS = [
   "order": "Gobiesociformes",
   "family": "Gobiesocidae",
   "ns": 0,
+  "top": {
+   "text": "Zijn buikvinnen zijn vergroeid tot een zuignap, waarmee hij zich in de branding vastzuigt aan stenen.",
+   "url": "https://en.wikipedia.org/wiki/Shore_clingfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -14233,6 +15223,11 @@ window.OCEAN_ANIMALS = [
   "family": "Latimeriidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/West_Indian_Ocean_coelacanth",
+  "top": {
+   "text": "Men dacht dat hij samen met de dinosaurussen was uitgestorven, tot er in 1938 een levende werd gevangen.",
+   "url": "https://oceana.org/marine-life/coelacanth/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -14306,6 +15301,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scorpaenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Red_lionfish",
+  "top": {
+   "text": "Komen twee mannetjes elkaar tegen, dan kleurt de agressiefste donkerder en richt hij zijn giftige stekels op de ander, die meestal wegzwemt.",
+   "url": "https://animaldiversity.org/accounts/Pterois_volitans/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -14379,6 +15379,11 @@ window.OCEAN_ANIMALS = [
   "family": "Labridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Bluestreak_cleaner_wrasse",
+  "top": {
+   "text": "Grote roofvissen eten hem niet op, maar sperren juist hun bek en kieuwen open zodat hij ze vanbinnen kan poetsen.",
+   "url": "https://animaldiversity.org/accounts/Labroides_dimidiatus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -14426,6 +15431,11 @@ window.OCEAN_ANIMALS = [
   "family": "Myxinidae",
   "ns": 96,
   "wikiEn": "https://en.wikipedia.org/wiki/Myxine_glutinosa",
+  "top": {
+   "text": "Hij kan zijn lijf in een knoop leggen om stukken vlees los te trekken of om te ontsnappen.",
+   "url": "https://en.wikipedia.org/wiki/Myxine_glutinosa",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -14499,6 +15509,11 @@ window.OCEAN_ANIMALS = [
   "family": "Chaetodontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Pennant_coralfish",
+  "top": {
+   "text": "Jonge wimpelvissen verdienen hun kost als poetser: ze eten parasieten van andere vissen.",
+   "url": "https://animaldiversity.org/accounts/Heniochus_acuminatus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -14559,6 +15574,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cottidae",
   "ns": 511,
   "wikiEn": "https://en.wikipedia.org/wiki/Myoxocephalus_scorpius",
+  "top": {
+   "text": "Hij is helemaal niet giftig, maar wordt vaak verward met giftige schorpioenvissen.",
+   "url": "https://en.wikipedia.org/wiki/Myoxocephalus_scorpius",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -14632,6 +15652,11 @@ window.OCEAN_ANIMALS = [
   "family": "Fistulariidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Bluespotted_cornetfish",
+  "top": {
+   "text": "Alle fluitbekken in de Middellandse Zee stammen af van een handjevol voorouders die via het Suezkanaal kwamen.",
+   "url": "https://en.wikipedia.org/wiki/Bluespotted_cornetfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -14705,6 +15730,11 @@ window.OCEAN_ANIMALS = [
   "family": "Sparidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Gilt-head_bream",
+  "top": {
+   "text": "Hij begint zijn leven als mannetje; sommige worden later vrouwtje.",
+   "url": "https://en.wikipedia.org/wiki/Gilt-head_bream",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -14778,6 +15808,11 @@ window.OCEAN_ANIMALS = [
   "family": "Coryphaenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Mahi-mahi",
+  "top": {
+   "text": "Uit het water verandert hij een paar keer van kleur, van goud en blauwgroen tot grijsgeel.",
+   "url": "https://en.wikipedia.org/wiki/Mahi-mahi",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -14851,6 +15886,11 @@ window.OCEAN_ANIMALS = [
   "family": "Balistidae",
   "ns": 4,
   "wikiEn": "https://en.wikipedia.org/wiki/Grey_triggerfish",
+  "top": {
+   "text": "Bij gevaar wurmt hij zich in een spleet en zet hij zijn rugstekel op slot, zodat hij muurvast zit.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/balistes-capriscus/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -14924,6 +15964,11 @@ window.OCEAN_ANIMALS = [
   "family": "Muraenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Green_moray",
+  "top": {
+   "text": "Eigenlijk is hij bruingrijs: zijn groene kleur komt van een geel slijmlaagje over zijn donkere huid.",
+   "url": "https://animaldiversity.org/accounts/Gymnothorax_funebris/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -14997,6 +16042,11 @@ window.OCEAN_ANIMALS = [
   "family": "Eurypharyngidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Pelican_eel",
+  "top": {
+   "text": "Zijn bek kan zo wijd open dat hij een vis kan inslikken die groter is dan hijzelf.",
+   "url": "https://en.wikipedia.org/wiki/Pelican_eel",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -15070,6 +16120,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scombridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Bigeye_tuna",
+  "top": {
+   "text": "Grote volwassen grootoogtonijnen hebben maar één vijand: de mens.",
+   "url": "https://animaldiversity.org/accounts/Thunnus_obesus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -15143,6 +16198,11 @@ window.OCEAN_ANIMALS = [
   "family": "Sphyraenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Great_barracuda",
+  "top": {
+   "text": "Met zijn grote tanden kan hij een flinke vis in één hap doormidden bijten.",
+   "url": "https://oceana.org/marine-life/great-barracuda/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -15216,6 +16276,11 @@ window.OCEAN_ANIMALS = [
   "family": "Muraenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Laced_moray",
+  "top": {
+   "text": "In troebel water heeft hij meer zwarte vlekken dan in helder water.",
+   "url": "https://en.wikipedia.org/wiki/Laced_moray",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -15289,6 +16354,11 @@ window.OCEAN_ANIMALS = [
   "family": "Trachinidae",
   "ns": 67,
   "wikiEn": "https://en.wikipedia.org/wiki/Greater_weever",
+  "top": {
+   "text": "Hij graaft zich in met alleen zijn ogen en giftige rugvin boven het zand; vooral in de zomer stappen badgasten erop.",
+   "url": "https://en.wikipedia.org/wiki/Greater_weever",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -15362,6 +16432,11 @@ window.OCEAN_ANIMALS = [
   "family": "Syngnathidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Leafy_seadragon",
+  "top": {
+   "text": "Hij lijkt zo sprekend op een drijvend stukje zeewier dat roofdieren én prooien hem niet zien.",
+   "url": "https://oceana.org/marine-life/leafy-seadragon/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -15435,6 +16510,11 @@ window.OCEAN_ANIMALS = [
   "family": "Syngnathidae",
   "ns": 459,
   "wikiEn": "https://en.wikipedia.org/wiki/Greater_pipefish",
+  "top": {
+   "text": "Hij is familie van het zeepaardje, maar dan uitgerekt: hij kan wel 50 centimeter lang worden.",
+   "url": "https://nl.wikipedia.org/wiki/Grote_zeenaald",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -15508,6 +16588,11 @@ window.OCEAN_ANIMALS = [
   "family": "Chaetodontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Raccoon_butterflyfish",
+  "top": {
+   "text": "In het Engels heet hij 'wasbeervlindervis', door het zwarte masker over zijn ogen.",
+   "url": "https://en.wikipedia.org/wiki/Raccoon_butterflyfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -15568,6 +16653,11 @@ window.OCEAN_ANIMALS = [
   "family": "Clupeidae",
   "ns": 6658,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_herring",
+  "top": {
+   "text": "Haringen praten met 'haringscheten': de Zweedse marine dacht ooit dat dat geluid van vijandige onderzeeboten kwam.",
+   "url": "https://nl.wikipedia.org/wiki/Haring_%28soort%29",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -15640,6 +16730,11 @@ window.OCEAN_ANIMALS = [
   "order": "Scorpaeniformes",
   "family": "Agonidae",
   "ns": 1089,
+  "top": {
+   "text": "Zijn lijf zit in een harnas van beenplaatjes; vissers noemen hem ook wel 'oude vent'.",
+   "url": "https://nl.wikipedia.org/wiki/Harnasmannetje",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -15700,6 +16795,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pleuronectidae",
   "ns": 151,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_halibut",
+  "top": {
+   "text": "Hij is de grootste platvis ter wereld: de zwaarste ooit gevangen woog zonder ingewanden nog 279 kilo.",
+   "url": "https://www.fisheries.noaa.gov/species/atlantic-halibut",
+   "by": "NOAA Fisheries"
+  },
   "curated": true
  },
  {
@@ -15773,6 +16873,11 @@ window.OCEAN_ANIMALS = [
   "family": "Carangidae",
   "ns": 1749,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_horse_mackerel",
+  "top": {
+   "text": "Deze kleine makreel kan 40 jaar oud worden.",
+   "url": "https://en.wikipedia.org/wiki/Atlantic_horse_mackerel",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -15846,6 +16951,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scorpaenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Pterois_miles",
+  "top": {
+   "text": "Grote koraalduivels eten kleinere soortgenoten gewoon op.",
+   "url": "https://en.wikipedia.org/wiki/Pterois_miles",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -15919,6 +17029,11 @@ window.OCEAN_ANIMALS = [
   "family": "Serranidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_goliath_grouper",
+  "top": {
+   "text": "Hij kan een geluid maken dat onder water heel ver draagt, en zo vinden ze elkaar.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/epinephelus-itajara/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -15966,6 +17081,11 @@ window.OCEAN_ANIMALS = [
   "family": "Melanocetidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Humpback_anglerfish",
+  "top": {
+   "text": "Het vrouwtje lokt prooien met een lampje op haar kop; het licht wordt gemaakt door bacteriën.",
+   "url": "https://en.wikipedia.org/wiki/Humpback_anglerfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -16039,6 +17159,11 @@ window.OCEAN_ANIMALS = [
   "family": "Gadidae",
   "ns": 122440,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_cod",
+  "top": {
+   "text": "Sommige scholen kabeljauw hebben leiders, de grootste vissen, die de rest de weg wijzen tijdens de trek.",
+   "url": "https://oceana.org/marine-life/atlantic-cod/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -16112,6 +17237,11 @@ window.OCEAN_ANIMALS = [
   "family": "Lutjanidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_bluestripe_snapper",
+  "top": {
+   "text": "Een zeebarbeel doet hem na: die heeft bijna precies dezelfde kleuren.",
+   "url": "https://en.wikipedia.org/wiki/Common_bluestripe_snapper",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -16159,6 +17289,11 @@ window.OCEAN_ANIMALS = [
   "family": "Trachichthyidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Orange_roughy",
+  "top": {
+   "text": "Hij kan meer dan 200 jaar oud worden; één exemplaar werd geschat op ruim 230 jaar.",
+   "url": "https://en.wikipedia.org/wiki/Orange_roughy",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -16232,6 +17367,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pomacanthidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Emperor_angelfish",
+  "top": {
+   "text": "Jonge vissen zien er heel anders uit dan hun ouders: donkerblauw met witte en lichtblauwe kringen.",
+   "url": "https://en.wikipedia.org/wiki/Emperor_angelfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -16305,6 +17445,11 @@ window.OCEAN_ANIMALS = [
   "family": "Trachinidae",
   "ns": 907,
   "wikiEn": "https://en.wikipedia.org/wiki/Lesser_weever",
+  "top": {
+   "text": "Dit kleine visje is een van de giftigste dieren van Europa, en ligt ingegraven op zandbanken vlak bij het strand.",
+   "url": "https://nl.wikipedia.org/wiki/Kleine_pieterman",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -16378,6 +17523,11 @@ window.OCEAN_ANIMALS = [
   "family": "Acanthuridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Naso_lituratus",
+  "top": {
+   "text": "Alleen doktersvissen zoals hij dragen de bijzondere bacterie Epulopiscium bij zich.",
+   "url": "https://en.wikipedia.org/wiki/Naso_lituratus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -16451,6 +17601,11 @@ window.OCEAN_ANIMALS = [
   "family": "Congridae",
   "ns": 80,
   "wikiEn": "https://en.wikipedia.org/wiki/European_conger",
+  "top": {
+   "text": "Hij is de zwaarste aal ter wereld.",
+   "url": "https://en.wikipedia.org/wiki/European_conger",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -16511,6 +17666,11 @@ window.OCEAN_ANIMALS = [
   "family": "Lampridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Lampris_guttatus",
+  "top": {
+   "text": "Hij is de enige vis waarvan bekend is dat hij volledig warmbloedig is, tot en met zijn hart.",
+   "url": "https://en.wikipedia.org/wiki/Lampris_guttatus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -16571,6 +17731,11 @@ window.OCEAN_ANIMALS = [
   "family": "Gadidae",
   "ns": 3791,
   "wikiEn": "https://en.wikipedia.org/wiki/Pollachius_virens",
+  "top": {
+   "text": "Onderzoekers plakten hun ogen af en ontdekten dat ze ook blind gewoon in een school blijven zwemmen.",
+   "url": "https://animaldiversity.org/accounts/Pollachius_virens/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -16644,6 +17809,11 @@ window.OCEAN_ANIMALS = [
   "family": "Atherinidae",
   "ns": 69,
   "wikiEn": "https://en.wikipedia.org/wiki/Sand_smelt",
+  "top": {
+   "text": "Hij zwemt in scholen en trekt met de seizoenen mee langs de kust.",
+   "url": "https://en.wikipedia.org/wiki/Sand_smelt",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -16717,6 +17887,11 @@ window.OCEAN_ANIMALS = [
   "family": "Syngnathidae",
   "ns": 317,
   "wikiEn": "https://en.wikipedia.org/wiki/Short-snouted_seahorse",
+  "top": {
+   "text": "Het mannetje is zwanger: na 20 tot 21 dagen bevalt hij, meestal 's nachts.",
+   "url": "https://en.wikipedia.org/wiki/Short-snouted_seahorse",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -16789,6 +17964,11 @@ window.OCEAN_ANIMALS = [
   "order": "Pleuronectiformes",
   "family": "Pleuronectidae",
   "ns": 4892,
+  "top": {
+   "text": "Hij leeft in ijskoud water, van -0,5 tot 2,5 graden.",
+   "url": "https://nl.wikipedia.org/wiki/Lange_schar",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -16862,6 +18042,11 @@ window.OCEAN_ANIMALS = [
   "family": "Ostraciidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Longhorn_cowfish",
+  "top": {
+   "text": "Zijn hoorntjes groeien binnen een paar maanden terug als ze beschadigd raken.",
+   "url": "https://en.wikipedia.org/wiki/Longhorn_cowfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -16935,6 +18120,11 @@ window.OCEAN_ANIMALS = [
   "family": "Syngnathidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Long-snouted_seahorse",
+  "top": {
+   "text": "Zeepaardjes zwemmen met een rugvinnetje dat tot 70 keer per seconde slaat.",
+   "url": "https://www.nationalgeographic.com/animals/fish/facts/seahorse",
+   "by": "National Geographic"
+  },
   "curated": true
  },
  {
@@ -17008,6 +18198,11 @@ window.OCEAN_ANIMALS = [
   "family": "Ephippidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Platax_teira",
+  "top": {
+   "text": "Hij kan waar je bij staat van zilverwit naar bruin met banden veranderen, en weer terug.",
+   "url": "https://en.wikipedia.org/wiki/Platax_teira",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -17081,6 +18276,11 @@ window.OCEAN_ANIMALS = [
   "family": "Lotidae",
   "ns": 1181,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_ling",
+  "top": {
+   "text": "Hij is de langste van alle kabeljauwachtigen: tot 2 meter.",
+   "url": "https://en.wikipedia.org/wiki/Common_ling",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -17154,6 +18354,11 @@ window.OCEAN_ANIMALS = [
   "family": "Balistidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Clown_triggerfish",
+  "top": {
+   "text": "Hij kan zijn rugstekel op slot zetten; hoe ouder hij wordt, hoe agressiever hij is.",
+   "url": "https://en.wikipedia.org/wiki/Clown_triggerfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -17201,6 +18406,11 @@ window.OCEAN_ANIMALS = [
   "family": "Molidae",
   "ns": 134,
   "wikiEn": "https://en.wikipedia.org/wiki/Ocean_sunfish",
+  "top": {
+   "text": "Om parasieten kwijt te raken springt deze reus soms tot 3 meter uit het water en landt met een enorme plons.",
+   "url": "https://www.nationalgeographic.com/animals/fish/facts/ocean-sunfish",
+   "by": "National Geographic"
+  },
   "curated": true
  },
  {
@@ -17274,6 +18484,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scombridae",
   "ns": 3745,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_mackerel",
+  "top": {
+   "text": "In een school zwemmen ze maar één bekbreedte van elkaar: plankton dat de ene ontwijkt, belandt in de bek van de ander.",
+   "url": "https://en.wikipedia.org/wiki/Atlantic_mackerel",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -17347,6 +18562,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pomacentridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Whitetail_dascyllus",
+  "top": {
+   "text": "Hij woont zijn hele leven in één koraal en zwemt zelden ver van het huisje waar hij geboren is.",
+   "url": "https://en.wikipedia.org/wiki/Whitetail_dascyllus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -17420,6 +18640,11 @@ window.OCEAN_ANIMALS = [
   "family": "Zanclidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Moorish_idol",
+  "top": {
+   "text": "Bij Palau komen ze met honderden samen om te paaien, en dan slaan de grijze rifhaaien toe.",
+   "url": "https://en.wikipedia.org/wiki/Moorish_idol",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -17493,6 +18718,11 @@ window.OCEAN_ANIMALS = [
   "family": "Muraenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Mediterranean_moray",
+  "top": {
+   "text": "De oude Romeinen hielden murenen in vijvers, als huisdier of om op te eten.",
+   "url": "https://nl.wikipedia.org/wiki/Moeraal",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -17565,6 +18795,11 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Mullidae",
   "ns": 263,
+  "top": {
+   "text": "Sinds rond 2020 blijft hij langs de Nederlandse kust ook in de winter.",
+   "url": "https://nl.wikipedia.org/wiki/Mul_%28vis%29",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -17638,6 +18873,11 @@ window.OCEAN_ANIMALS = [
   "family": "Labridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Humphead_wrasse",
+  "top": {
+   "text": "Hij begint als roodoranje vrouwtje en kan later veranderen in een felblauw mannetje met een bult op zijn kop.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/cheilinus-undulatus/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -17711,6 +18951,11 @@ window.OCEAN_ANIMALS = [
   "family": "Chaetodontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Threadfin_butterflyfish",
+  "top": {
+   "text": "Door de zwarte band over zijn oog en de oogvlek bij zijn staart weten roofvissen waarschijnlijk niet goed wat voor en achter is.",
+   "url": "https://animaldiversity.org/accounts/Chaetodon_auriga/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -17771,6 +19016,11 @@ window.OCEAN_ANIMALS = [
   "family": "Uranoscopidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_stargazer",
+  "top": {
+   "text": "Hij ligt ingegraven met alleen zijn ogen boven het zand, en kan stroomstootjes geven.",
+   "url": "https://en.wikipedia.org/wiki/Atlantic_stargazer",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -17831,6 +19081,11 @@ window.OCEAN_ANIMALS = [
   "family": "Carangidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Crevalle_jack",
+  "top": {
+   "text": "Hij kan knorren door zijn tanden over elkaar te raspen, versterkt door zijn zwemblaas.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/caranx-hippos/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -17904,6 +19159,11 @@ window.OCEAN_ANIMALS = [
   "family": "Istiophoridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Indo-Pacific_sailfish",
+  "top": {
+   "text": "Bij de aanval klapt hij zijn zeil helemaal in en haalt hij tot 110 kilometer per uur.",
+   "url": "https://animaldiversity.org/accounts/Istiophorus_platypterus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -17977,6 +19237,11 @@ window.OCEAN_ANIMALS = [
   "family": "Anguillidae",
   "ns": 1578,
   "wikiEn": "https://en.wikipedia.org/wiki/European_eel",
+  "top": {
+   "text": "Elke paling wordt geboren in de Sargassozee bij Amerika; de larven drijven 300 dagen lang naar Europa.",
+   "url": "https://en.wikipedia.org/wiki/European_eel",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -18050,6 +19315,11 @@ window.OCEAN_ANIMALS = [
   "family": "Tetraodontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Arothron_meleagris",
+  "top": {
+   "text": "Er bestaan bruine met witte stippen en felgele met zwarte stippen; de gele kosten in de aquariumhandel tot 500 dollar.",
+   "url": "https://en.wikipedia.org/wiki/Arothron_meleagris",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -18123,6 +19393,11 @@ window.OCEAN_ANIMALS = [
   "family": "Bothidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Plate_fish",
+  "top": {
+   "text": "Als jonge vis schuift zijn rechteroog door een spleet in zijn kop naar de linkerkant.",
+   "url": "https://oceana.org/marine-life/peacock-flounder/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -18196,6 +19471,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pomacanthidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Royal_angelfish",
+  "top": {
+   "text": "Zijn felle oranje, blauwe en witte strepen maken zijn vorm juist moeilijker te herkennen voor roofvissen.",
+   "url": "https://nl.wikipedia.org/wiki/Pauwoogkeizersvis",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -18269,6 +19549,11 @@ window.OCEAN_ANIMALS = [
   "family": "Acanthuridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Paracanthurus",
+  "top": {
+   "text": "Hij stond model voor Dory uit Finding Nemo, en kreeg later zelfs een eigen film: Finding Dory.",
+   "url": "https://nl.wikipedia.org/wiki/Picassodoktersvis",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -18342,6 +19627,11 @@ window.OCEAN_ANIMALS = [
   "family": "Chaetodontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Copperband_butterflyfish",
+  "top": {
+   "text": "De nep-oogvlek op zijn rugvin valt meer op dan zijn echte oog.",
+   "url": "https://en.wikipedia.org/wiki/Copperband_butterflyfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -18415,6 +19705,11 @@ window.OCEAN_ANIMALS = [
   "family": "Callionymidae",
   "ns": 2462,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_dragonet",
+  "top": {
+   "text": "Om indruk te maken spreidt het mannetje zijn vinnen en spert hij steeds zijn bek wijd open.",
+   "url": "https://en.wikipedia.org/wiki/Common_dragonet",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -18475,6 +19770,11 @@ window.OCEAN_ANIMALS = [
   "family": "Zoarcidae",
   "ns": 163,
   "wikiEn": "https://en.wikipedia.org/wiki/Viviparous_eelpout",
+  "top": {
+   "text": "Hij is de enige vis die zijn jongen zoogt, terwijl ze nog in de buik van de moeder zitten.",
+   "url": "https://en.wikipedia.org/wiki/Viviparous_eelpout",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -18548,6 +19848,11 @@ window.OCEAN_ANIMALS = [
   "family": "Muraenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Giant_moray",
+  "top": {
+   "text": "Hij jaagt samen met de koraalbaars: de murene jaagt in het rif, de baars erboven, en ze jagen prooien naar elkaar toe.",
+   "url": "https://en.wikipedia.org/wiki/Giant_moray",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -18608,6 +19913,11 @@ window.OCEAN_ANIMALS = [
   "family": "Regalecidae",
   "ns": 5,
   "wikiEn": "https://en.wikipedia.org/wiki/Giant_oarfish",
+  "top": {
+   "text": "Hij is de langste beenvis ter wereld en waarschijnlijk de bron van de verhalen over zeeslangen. Pas in 2001 werd er voor het eerst een levend gefilmd.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/regalecus-glesne/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -18681,6 +19991,11 @@ window.OCEAN_ANIMALS = [
   "family": "Serranidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Coral_grouper",
+  "top": {
+   "text": "Een mannetje leeft met een harem van vrouwtjes op een stuk rif van zo'n 475 vierkante meter, en elk vrouwtje verdedigt haar eigen deel.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/cephalopholis-miniata/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -18754,6 +20069,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scorpaenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Pterois_antennata",
+  "top": {
+   "text": "Met speciale spiertjes aan zijn zwemblaas verschuift hij zijn zwaartepunt, zodat hij precies in de goede stand toeslaat.",
+   "url": "https://animaldiversity.org/accounts/Pterois_antennata/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -18827,6 +20147,11 @@ window.OCEAN_ANIMALS = [
   "family": "Triglidae",
   "ns": 729,
   "wikiEn": "https://en.wikipedia.org/wiki/Tub_gurnard",
+  "top": {
+   "text": "Met drie losse vinstralen 'loopt' hij over de bodem, en hij kan knorren met zijn zwemblaas.",
+   "url": "https://en.wikipedia.org/wiki/Tub_gurnard",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -18900,6 +20225,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scorpaenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Scorpaena_scrofa",
+  "top": {
+   "text": "Hij heeft geen werkende zwemblaas en schuifelt over de bodem; vanuit een hinderlaag zuigt hij zijn prooi in één keer naar binnen.",
+   "url": "https://en.wikipedia.org/wiki/Scorpaena_scrofa",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -18960,6 +20290,11 @@ window.OCEAN_ANIMALS = [
   "family": "Lutjanidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Northern_red_snapper",
+  "top": {
+   "text": "Eén vrouwtje kan in één keer meer dan 9 miljoen eitjes leggen.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/lutjanus-campechanus/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -19033,6 +20368,11 @@ window.OCEAN_ANIMALS = [
   "family": "Serranidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Sea_goldie",
+  "top": {
+   "text": "Sterft het mannetje, dan verandert het grootste vrouwtje in een paar weken in een mannetje.",
+   "url": "https://en.wikipedia.org/wiki/Sea_goldie",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -19106,6 +20446,11 @@ window.OCEAN_ANIMALS = [
   "family": "Ephippidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Platax_pinnatus",
+  "top": {
+   "text": "Jonge vissen doen in kleur en vorm een giftige platworm na.",
+   "url": "https://en.wikipedia.org/wiki/Platax_pinnatus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -19166,6 +20511,11 @@ window.OCEAN_ANIMALS = [
   "family": "Salmonidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Sockeye_salmon",
+  "top": {
+   "text": "In zee is hij zilverblauw, maar in de paaitijd wordt hij felrood met een groene kop.",
+   "url": "https://oceana.org/marine-life/sockeye-salmon/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -19239,6 +20589,11 @@ window.OCEAN_ANIMALS = [
   "family": "Sebastidae",
   "ns": 34,
   "wikiEn": "https://en.wikipedia.org/wiki/Sebastes_norvegicus",
+  "top": {
+   "text": "Hij is felrood en kan een meter lang worden; jongen groeien op in fjorden.",
+   "url": "https://en.wikipedia.org/wiki/Sebastes_norvegicus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -19312,6 +20667,11 @@ window.OCEAN_ANIMALS = [
   "family": "Labridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Coris_gaimard",
+  "top": {
+   "text": "Jonge vissen zijn felrood met grote witte vlekken, en lijken totaal niet op hun ouders.",
+   "url": "https://en.wikipedia.org/wiki/Coris_gaimard",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -19385,6 +20745,11 @@ window.OCEAN_ANIMALS = [
   "family": "Balistidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Redtoothed_triggerfish",
+  "top": {
+   "text": "Hij heeft piepkleine rode tandjes; twee zijn zelfs te zien als zijn bek dicht is.",
+   "url": "https://en.wikipedia.org/wiki/Redtoothed_triggerfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -19432,6 +20797,11 @@ window.OCEAN_ANIMALS = [
   "family": "Antennariidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Sargassum_fish",
+  "top": {
+   "text": "Bij gevaar springt hij uit het water op een mat van drijvend wier en blijft daar een tijdje liggen.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/histrio-histrio/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -19492,6 +20862,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pleuronectidae",
   "ns": 7073,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_dab",
+  "top": {
+   "text": "Een vrouwtje van 30 centimeter kan wel een miljoen eitjes maken.",
+   "url": "https://animaldiversity.org/accounts/Limanda_limanda/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -19552,6 +20927,11 @@ window.OCEAN_ANIMALS = [
   "family": "Gadidae",
   "ns": 4779,
   "wikiEn": "https://en.wikipedia.org/wiki/Haddock",
+  "top": {
+   "text": "Je herkent hem aan een zwarte 'duimafdruk' op elke zij.",
+   "url": "https://www.fisheries.noaa.gov/species/haddock",
+   "by": "NOAA Fisheries"
+  },
   "curated": true
  },
  {
@@ -19625,6 +21005,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pleuronectidae",
   "ns": 5660,
   "wikiEn": "https://en.wikipedia.org/wiki/European_plaice",
+  "top": {
+   "text": "Als larve zwemt hij rechtop; na zo'n zes weken schuift één oog naar de andere kant van zijn kop.",
+   "url": "https://nl.wikipedia.org/wiki/Schol_%28vis%29",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -19698,6 +21083,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pomacentridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Sergeant_major_%28fish%29",
+  "top": {
+   "text": "Hij heeft twee kleurstanden: licht boven het zand, donker als hij zich in het rif verstopt.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/abudefduf-saxatilis/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -19744,6 +21134,11 @@ window.OCEAN_ANIMALS = [
   "order": "Scorpaeniformes",
   "family": "Liparidae",
   "ns": 135,
+  "top": {
+   "text": "Zijn buikvinnen zijn vergroeid tot een ronde zuignap.",
+   "url": "https://nl.wikipedia.org/wiki/Slakdolf",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -19817,6 +21212,11 @@ window.OCEAN_ANIMALS = [
   "family": "Stomiidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Sloane%27s_viperfish",
+  "top": {
+   "text": "Zijn tanden zijn zo lang dat ze niet in zijn bek passen; als hij hem sluit, vormen ze een kooi voor zijn prooi.",
+   "url": "https://en.wikipedia.org/wiki/Sloane%27s_viperfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -19890,6 +21290,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cyclopteridae",
   "ns": 813,
   "wikiEn": "https://en.wikipedia.org/wiki/Cyclopterus_lumpus",
+  "top": {
+   "text": "Het mannetje bewaakt de eieren 6 tot 8 weken en blijft er zelfs bij als ze bij eb droogvallen.",
+   "url": "https://nl.wikipedia.org/wiki/Snotolf",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -19963,6 +21368,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cirrhitidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Longnose_hawkfish",
+  "top": {
+   "text": "Bij gevaar duikt hij een spleet in en zet hij zich schrap met de stekels van zijn borstvinnen.",
+   "url": "https://en.wikipedia.org/wiki/Longnose_hawkfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -20010,6 +21420,11 @@ window.OCEAN_ANIMALS = [
   "family": "Clupeidae",
   "ns": 885,
   "wikiEn": "https://en.wikipedia.org/wiki/European_sprat",
+  "top": {
+   "text": "Een parasitair kreeftje kan zich in zijn ogen boren en hem blind maken.",
+   "url": "https://en.wikipedia.org/wiki/European_sprat",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -20083,6 +21498,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scophthalmidae",
   "ns": 479,
   "wikiEn": "https://en.wikipedia.org/wiki/Turbot",
+  "top": {
+   "text": "Eén vrouwtje legt 10 tot 15 miljoen eieren.",
+   "url": "https://nl.wikipedia.org/wiki/Tarbot",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -20156,6 +21576,11 @@ window.OCEAN_ANIMALS = [
   "family": "Soleidae",
   "ns": 1998,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_sole",
+  "top": {
+   "text": "Een tong wordt geboren met aan elke kant een oog; al snel schuift één oog naar de andere kant.",
+   "url": "https://nl.wikipedia.org/wiki/Tong_%28vis%29",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -20229,6 +21654,11 @@ window.OCEAN_ANIMALS = [
   "family": "Aulostomidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Aulostomus_maculatus",
+  "top": {
+   "text": "Hij verstopt zich achter een grote plantenetende vis en zwemt ongemerkt mee, tot hij kan toeslaan.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/aulostomus-maculatus/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -20302,6 +21732,11 @@ window.OCEAN_ANIMALS = [
   "family": "Exocoetidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Exocoetus_volitans",
+  "top": {
+   "text": "Hij komt los met zo'n 65 kilometer per uur en kan ongeveer 12 seconden boven het water zweven.",
+   "url": "https://nl.wikipedia.org/wiki/Tweevleugelige_vliegende_vis",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -20375,6 +21810,11 @@ window.OCEAN_ANIMALS = [
   "family": "Anoplogastridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Anoplogaster_cornuta",
+  "top": {
+   "text": "In verhouding tot zijn lijf heeft hij de grootste tanden van alle zeedieren.",
+   "url": "https://animaldiversity.org/accounts/Anoplogaster_cornuta/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -20448,6 +21888,11 @@ window.OCEAN_ANIMALS = [
   "family": "Dactylopteridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Flying_gurnard",
+  "top": {
+   "text": "Zijn grote borstvinnen hebben felblauwe, lichtgevende randjes.",
+   "url": "https://en.wikipedia.org/wiki/Flying_gurnard",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -20521,6 +21966,11 @@ window.OCEAN_ANIMALS = [
   "family": "Siganidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Foxface_rabbitfish",
+  "top": {
+   "text": "Zijn rugvin heeft giftige stekels, met gif dat lijkt op dat van de steenvis.",
+   "url": "https://en.wikipedia.org/wiki/Foxface_rabbitfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -20594,6 +22044,11 @@ window.OCEAN_ANIMALS = [
   "family": "Microdesmidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Nemateleotris_magnifica",
+  "top": {
+   "text": "Zijn lange rugvin lijkt op de veer van een dartpijl; bij gevaar schiet hij er als een pijl vandoor in de bodem.",
+   "url": "https://nl.wikipedia.org/wiki/Vuurpijlvis",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -20667,6 +22122,11 @@ window.OCEAN_ANIMALS = [
   "family": "Syngnathidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_seadragon",
+  "top": {
+   "text": "Het vrouwtje legt zo'n 250 robijnrode eitjes op de staart van het mannetje, elk in een eigen bloedrijk kuiltje.",
+   "url": "https://animaldiversity.org/accounts/Phyllopteryx_taeniolatus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -20713,6 +22173,11 @@ window.OCEAN_ANIMALS = [
   "order": "Gadiformes",
   "family": "Gadidae",
   "ns": 6957,
+  "top": {
+   "text": "Levend zijn zijn flanken zilverkleurig; zodra hij dood is, worden ze wit.",
+   "url": "https://nl.wikipedia.org/wiki/Wijting",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -20786,6 +22251,11 @@ window.OCEAN_ANIMALS = [
   "family": "Acanthuridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Acanthurus_leucosternon",
+  "top": {
+   "text": "Aan hoe fel zijn blauw is, kun je zien of hij gezond is.",
+   "url": "https://en.wikipedia.org/wiki/Acanthurus_leucosternon",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -20859,6 +22329,11 @@ window.OCEAN_ANIMALS = [
   "family": "Tetraodontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/White-spotted_puffer",
+  "top": {
+   "text": "Kogelvissen blazen zich bij gevaar op door razendsnel veel water te slikken, tot ze een paar keer zo groot zijn.",
+   "url": "https://www.nationalgeographic.com/animals/fish/facts/pufferfish",
+   "by": "National Geographic"
+  },
   "curated": true
  },
  {
@@ -20932,6 +22407,11 @@ window.OCEAN_ANIMALS = [
   "family": "Scombridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Albacore",
+  "top": {
+   "text": "Hij is de enige tonijn die als 'witte tonijn' verkocht mag worden.",
+   "url": "https://en.wikipedia.org/wiki/Albacore",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -21005,6 +22485,11 @@ window.OCEAN_ANIMALS = [
   "family": "Antennariidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Warty_frogfish",
+  "top": {
+   "text": "Als het koraal om hem heen verbleekt, kan hij in een paar weken helemaal wit worden om op te blijven gaan in de omgeving.",
+   "url": "https://en.wikipedia.org/wiki/Warty_frogfish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -21052,6 +22537,11 @@ window.OCEAN_ANIMALS = [
   "family": "Ammodytidae",
   "ns": 636,
   "wikiEn": "https://en.wikipedia.org/wiki/Lesser_sand_eel",
+  "top": {
+   "text": "Hij is het lievelingseten van papegaaiduikers; zijn er minder zandspieringen, dan gaat het slechter met de zeevogels.",
+   "url": "https://www.wildlifetrusts.org/wildlife-explorer/marine/fish-including-sharks-skates-and-rays/sand-eel",
+   "by": "The Wildlife Trusts"
+  },
   "curated": true
  },
  {
@@ -21125,6 +22615,11 @@ window.OCEAN_ANIMALS = [
   "family": "Lophiidae",
   "ns": 1420,
   "wikiEn": "https://en.wikipedia.org/wiki/Lophius_piscatorius",
+  "top": {
+   "text": "Zijn tanden klappen naar binnen: een prooi glijdt er makkelijk in, maar kan er niet meer uit.",
+   "url": "https://en.wikipedia.org/wiki/Lophius_piscatorius",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -21198,6 +22693,11 @@ window.OCEAN_ANIMALS = [
   "family": "Petromyzontidae",
   "ns": 52,
   "wikiEn": "https://en.wikipedia.org/wiki/Sea_lamprey",
+  "top": {
+   "text": "Hij zuigt zich vast aan andere vissen en drinkt hun bloed; via kanalen kwam hij in de Grote Meren van Amerika terecht.",
+   "url": "https://en.wikipedia.org/wiki/Sea_lamprey",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -21271,6 +22771,11 @@ window.OCEAN_ANIMALS = [
   "family": "Gasterosteidae",
   "ns": 56,
   "wikiEn": "https://en.wikipedia.org/wiki/Spinachia_spinachia",
+  "top": {
+   "text": "Hij is de grootste stekelbaars, met veertien tot zestien stekels op zijn rug.",
+   "url": "https://en.wikipedia.org/wiki/Spinachia_spinachia",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -21344,6 +22849,11 @@ window.OCEAN_ANIMALS = [
   "family": "Anarhichadidae",
   "ns": 516,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_wolffish",
+  "top": {
+   "text": "Het mannetje bewaakt de eieren 3 tot 9 maanden, tot ze uitkomen.",
+   "url": "https://oceana.org/marine-life/atlantic-wolffish/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -21417,6 +22927,11 @@ window.OCEAN_ANIMALS = [
   "family": "Zeidae",
   "ns": 29,
   "wikiEn": "https://en.wikipedia.org/wiki/John_Dory",
+  "top": {
+   "text": "Zijn lijf is zo plat dat je hem van voren bijna niet ziet.",
+   "url": "https://en.wikipedia.org/wiki/John_Dory",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -21477,6 +22992,11 @@ window.OCEAN_ANIMALS = [
   "family": "Xiphiidae",
   "ns": 123,
   "wikiEn": "https://en.wikipedia.org/wiki/Swordfish",
+  "top": {
+   "text": "Hij heeft een eigen 'hersenverwarming': een bundel weefsel bij zijn oog houdt zijn hersenen en ogen warm in het koude diepe water.",
+   "url": "https://www.floridamuseum.ufl.edu/discover-fish/species-profiles/xiphias-gladius/",
+   "by": "Florida Museum"
+  },
   "curated": true
  },
  {
@@ -21550,6 +23070,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pomacentridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Clark%27s_anemonefish",
+  "top": {
+   "text": "Hij is de minst kieskeurige anemoonvis: hij woont in minstens tien verschillende soorten anemonen.",
+   "url": "https://animaldiversity.org/accounts/Amphiprion_clarkii/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -21623,6 +23148,11 @@ window.OCEAN_ANIMALS = [
   "family": "Gobiidae",
   "ns": 47,
   "wikiEn": "https://en.wikipedia.org/wiki/Black_goby",
+  "top": {
+   "text": "In de paartijd wordt het mannetje bijna helemaal zwart.",
+   "url": "https://en.wikipedia.org/wiki/Black_goby",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -21696,6 +23226,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pharidae",
   "ns": 8149,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_jackknife_clam",
+  "top": {
+   "text": "Strooi een beetje zout bij zijn hol en hij komt vanzelf naar boven.",
+   "url": "https://en.wikipedia.org/wiki/Atlantic_jackknife_clam",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -21769,6 +23304,11 @@ window.OCEAN_ANIMALS = [
   "family": "Sepiolidae",
   "ns": 567,
   "wikiEn": "https://en.wikipedia.org/wiki/Sepiola_atlantica",
+  "top": {
+   "text": "Deze inktvis is maar 2 tot 5 centimeter lang, en 's zomers zie je hem in de Oosterschelde.",
+   "url": "https://nl.wikipedia.org/wiki/Atlantische_dwerginktvis",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -21842,6 +23382,11 @@ window.OCEAN_ANIMALS = [
   "family": "Architeuthidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Giant_squid",
+  "top": {
+   "text": "Zijn ogen kunnen zo groot zijn als een mensenhoofd.",
+   "url": "https://animaldiversity.org/accounts/Architeuthis_dux/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -21915,6 +23460,11 @@ window.OCEAN_ANIMALS = [
   "family": "Facelinidae",
   "ns": 149,
   "wikiEn": "https://en.wikipedia.org/wiki/Facelina_bostoniensis",
+  "top": {
+   "text": "Deze naaktslak eet soms andere naaktslakken op.",
+   "url": "https://en.wikipedia.org/wiki/Facelina_bostoniensis",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -21988,6 +23538,11 @@ window.OCEAN_ANIMALS = [
   "family": "Aplysiidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/California_sea_hare",
+  "top": {
+   "text": "Hij heeft de grootste zenuwcellen van het dierenrijk; daardoor bestuderen wetenschappers hem om te begrijpen hoe leren werkt.",
+   "url": "https://animaldiversity.org/accounts/Aplysia_californica/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -22061,6 +23616,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cardiidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Giant_clam",
+  "top": {
+   "text": "Ondanks de verhalen over 'killerschelpen' is er nooit iemand echt door een doopvontschelp vastgegrepen en verdronken.",
+   "url": "https://animaldiversity.org/accounts/Tridacna_gigas/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -22134,6 +23694,11 @@ window.OCEAN_ANIMALS = [
   "family": "Octopodidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_octopus",
+  "top": {
+   "text": "Hij geldt als het slimste ongewervelde dier, en neemt in een oogwenk de kleur, het patroon en zelfs de structuur van zijn omgeving aan.",
+   "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/common-octopus",
+   "by": "National Geographic"
+  },
   "curated": true
  },
  {
@@ -22207,6 +23772,11 @@ window.OCEAN_ANIMALS = [
   "family": "Aplysiidae",
   "ns": 147,
   "wikiEn": "https://en.wikipedia.org/wiki/Aplysia_punctata",
+  "top": {
+   "text": "Zijn kleur komt van de wieren die hij eet, en zo is hij meteen gecamoufleerd.",
+   "url": "https://en.wikipedia.org/wiki/Aplysia_punctata",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -22280,6 +23850,11 @@ window.OCEAN_ANIMALS = [
   "family": "Littorinidae",
   "ns": 2535,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_periwinkle",
+  "top": {
+   "text": "Zijn raspende tong heeft rij na rij van zeven tandjes.",
+   "url": "https://en.wikipedia.org/wiki/Common_periwinkle",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -22327,6 +23902,11 @@ window.OCEAN_ANIMALS = [
   "family": "Ostreidae",
   "ns": 3298,
   "wikiEn": "https://en.wikipedia.org/wiki/Ostrea_edulis",
+  "top": {
+   "text": "Een oester kan van geslacht wisselen, onder andere als de watertemperatuur verandert.",
+   "url": "https://en.wikipedia.org/wiki/Ostrea_edulis",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -22400,6 +23980,11 @@ window.OCEAN_ANIMALS = [
   "family": "Loliginidae",
   "ns": 924,
   "wikiEn": "https://en.wikipedia.org/wiki/European_squid",
+  "top": {
+   "text": "Elk voorjaar trekt hij van Portugal via Frankrijk de Noordzee in, om daar in mei en juni te paaien.",
+   "url": "https://en.wikipedia.org/wiki/European_squid",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -22473,6 +24058,11 @@ window.OCEAN_ANIMALS = [
   "family": "Patellidae",
   "ns": 1849,
   "wikiEn": "https://en.wikipedia.org/wiki/Patella_vulgata",
+  "top": {
+   "text": "Zijn tandjes zijn gemaakt van het sterkste natuurlijke materiaal dat we kennen.",
+   "url": "https://en.wikipedia.org/wiki/Patella_vulgata",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -22546,6 +24136,11 @@ window.OCEAN_ANIMALS = [
   "family": "Charoniidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Charonia_tritonis",
+  "top": {
+   "text": "Hij is een van de weinige dieren die de koraalvretende doornenkroon opeten, en zijn schelp wordt als trompet gebruikt.",
+   "url": "https://en.wikipedia.org/wiki/Charonia_tritonis",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -22619,6 +24214,11 @@ window.OCEAN_ANIMALS = [
   "family": "Clionidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Clione_limacina",
+  "top": {
+   "text": "Met twee 'vleugeltjes' fladdert hij door het water, daarom heet hij zee-engel; hij kan een jaar zonder eten.",
+   "url": "https://en.wikipedia.org/wiki/Clione_limacina",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -22692,6 +24292,11 @@ window.OCEAN_ANIMALS = [
   "family": "Sepiidae",
   "ns": 5543,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_cuttlefish",
+  "top": {
+   "text": "Al in zijn ei kan hij van kleur veranderen.",
+   "url": "https://en.wikipedia.org/wiki/Common_cuttlefish",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -22765,6 +24370,11 @@ window.OCEAN_ANIMALS = [
   "family": "Haliotidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Green_ormer",
+  "top": {
+   "text": "Hij is zo gewild dat hij leidde tot de eerste arrestatie onder water ter wereld.",
+   "url": "https://en.wikipedia.org/wiki/Green_ormer",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -22838,6 +24448,11 @@ window.OCEAN_ANIMALS = [
   "family": "Octopodidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Greater_blue-ringed_octopus",
+  "top": {
+   "text": "Als hij boos wordt, lichten zijn blauwe ringen fel op: een waarschuwing dat hij dodelijk giftig is.",
+   "url": "https://animaldiversity.org/accounts/Hapalochlaena_lunulata/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -22898,6 +24513,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pectinidae",
   "ns": 298,
   "wikiEn": "https://en.wikipedia.org/wiki/Pecten_maximus",
+  "top": {
+   "text": "Langs de rand van zijn mantel zitten 30 tot 36 blauwe of groene oogjes.",
+   "url": "https://en.wikipedia.org/wiki/Pecten_maximus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -22971,6 +24591,11 @@ window.OCEAN_ANIMALS = [
   "family": "Ommastrephidae",
   "ns": 125,
   "wikiEn": "https://en.wikipedia.org/wiki/European_flying_squid",
+  "top": {
+   "text": "Hij is gevangen op 4595 meter diepte, en soms stranden er grote aantallen op de Nederlandse kust.",
+   "url": "https://en.wikipedia.org/wiki/European_flying_squid",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -23043,6 +24668,11 @@ window.OCEAN_ANIMALS = [
   "order": "Nudibranchia",
   "family": "Tritoniidae",
   "ns": 184,
+  "top": {
+   "text": "Deze naaktslak eet alleen dodemansduim, een zacht koraal.",
+   "url": "https://nl.wikipedia.org/wiki/Grote_tritonia",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -23116,6 +24746,11 @@ window.OCEAN_ANIMALS = [
   "family": "Ostreidae",
   "ns": 2025,
   "wikiEn": "https://en.wikipedia.org/wiki/Pacific_oyster",
+  "top": {
+   "text": "Eén volwassen oester kan per dag bijna 190 liter zeewater schoonfilteren.",
+   "url": "https://www.fisheries.noaa.gov/species/pacific-oyster",
+   "by": "NOAA Fisheries"
+  },
   "curated": true
  },
  {
@@ -23189,6 +24824,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cardiidae",
   "ns": 8933,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_cockle",
+  "top": {
+   "text": "Over kokkels gaat het lied 'Molly Malone', het onofficiële volkslied van Dublin.",
+   "url": "https://en.wikipedia.org/wiki/Common_cockle",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -23262,6 +24902,11 @@ window.OCEAN_ANIMALS = [
   "family": "Cranchiidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Colossal_squid",
+  "top": {
+   "text": "Hij is het grootste ongewervelde dier ter wereld, en er is pas één keer een levende in zijn natuurlijke omgeving gezien.",
+   "url": "https://oceana.org/marine-life/colossal-squid/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -23335,6 +24980,11 @@ window.OCEAN_ANIMALS = [
   "family": "Mytilidae",
   "ns": 10905,
   "wikiEn": "https://en.wikipedia.org/wiki/Blue_mussel",
+  "top": {
+   "text": "Een groot vrouwtje kan wel 40 miljoen eitjes maken.",
+   "url": "https://animaldiversity.org/accounts/Mytilus_edulis/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -23408,6 +25058,11 @@ window.OCEAN_ANIMALS = [
   "family": "Calyptraeidae",
   "ns": 4425,
   "wikiEn": "https://en.wikipedia.org/wiki/Crepidula_fornicata",
+  "top": {
+   "text": "Ze leven op een stapeltje: onderaan de oudste vrouwtjes, bovenaan de jonge mannetjes die later vrouwtje worden.",
+   "url": "https://en.wikipedia.org/wiki/Crepidula_fornicata",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -23455,6 +25110,11 @@ window.OCEAN_ANIMALS = [
   "family": "Tellinidae",
   "ns": 6049,
   "wikiEn": "https://en.wikipedia.org/wiki/Limecola_balthica",
+  "top": {
+   "text": "Hij overleeft in water dat maar een tiende zo zout is als de zee, en leefde zelfs in de Zuiderzee.",
+   "url": "https://en.wikipedia.org/wiki/Limecola_balthica",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -23515,6 +25175,11 @@ window.OCEAN_ANIMALS = [
   "family": "Arcticidae",
   "ns": 2286,
   "wikiEn": "https://en.wikipedia.org/wiki/Arctica_islandica",
+  "top": {
+   "text": "Een noordkromp bleek 507 jaar oud: het oudste dier waarvan de leeftijd precies bekend is.",
+   "url": "https://en.wikipedia.org/wiki/Arctica_islandica",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -23588,6 +25253,11 @@ window.OCEAN_ANIMALS = [
   "family": "Teredinidae",
   "ns": 87,
   "wikiEn": "https://en.wikipedia.org/wiki/Teredo_navalis",
+  "top": {
+   "text": "Alleen al in de baai van San Francisco richt dit 'wormpje' jaarlijks voor 200 miljoen dollar schade aan.",
+   "url": "https://animaldiversity.org/accounts/Teredo_navalis/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -23661,6 +25331,11 @@ window.OCEAN_ANIMALS = [
   "family": "Flabellinidae",
   "ns": 407,
   "wikiEn": "https://en.wikipedia.org/wiki/Edmundsella_pedata",
+  "top": {
+   "text": "Deze helemaal roze-paarse naaktslak werd in 1999 voor het eerst in Nederland gevonden, in de Oosterschelde.",
+   "url": "https://nl.wikipedia.org/wiki/Paarse_waaierslak",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -23734,6 +25409,11 @@ window.OCEAN_ANIMALS = [
   "family": "Epitoniidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Janthina_janthina",
+  "top": {
+   "text": "Hij drijft ondersteboven aan het wateroppervlak op een vlotje van slijmbellen.",
+   "url": "https://en.wikipedia.org/wiki/Janthina_janthina",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -23807,6 +25487,11 @@ window.OCEAN_ANIMALS = [
   "family": "Muricidae",
   "ns": 1659,
   "wikiEn": "https://en.wikipedia.org/wiki/Dog_whelk",
+  "top": {
+   "text": "Hij boort een gaatje in een schelpdier, spuit er verteringssap in en zuigt de 'soep' op.",
+   "url": "https://en.wikipedia.org/wiki/Dog_whelk",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -23867,6 +25552,11 @@ window.OCEAN_ANIMALS = [
   "family": "Acanthochitonidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Gumboot_chiton",
+  "top": {
+   "text": "Zijn tandjes bevatten magnetiet, een ijzermineraal, zodat ze hard genoeg zijn om algen van rotsen te schrapen.",
+   "url": "https://en.wikipedia.org/wiki/Gumboot_chiton",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -23927,6 +25617,11 @@ window.OCEAN_ANIMALS = [
   "family": "Enteroctopodidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Giant_Pacific_octopus",
+  "top": {
+   "text": "Hij is het enige ongewervelde dier waarvan bekend is dat het leert door anderen na te doen.",
+   "url": "https://animaldiversity.org/accounts/Enteroctopus_dofleini/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -24000,6 +25695,11 @@ window.OCEAN_ANIMALS = [
   "family": "Hexabranchidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Spanish_dancer",
+  "top": {
+   "text": "Soms liften er garnaaltjes op zijn rug mee, die eten wat er aan hem blijft plakken.",
+   "url": "https://oceana.org/marine-life/spanish-dancer/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -24073,6 +25773,11 @@ window.OCEAN_ANIMALS = [
   "family": "Myidae",
   "ns": 3550,
   "wikiEn": "https://en.wikipedia.org/wiki/Soft-shell_clam",
+  "top": {
+   "text": "De Vikingen hebben hem waarschijnlijk vanuit Amerika naar Europa meegenomen.",
+   "url": "https://nl.wikipedia.org/wiki/Strandgaper",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -24133,6 +25838,11 @@ window.OCEAN_ANIMALS = [
   "family": "Vampyroteuthidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Vampire_squid",
+  "top": {
+   "text": "Bij gevaar stoot hij een lichtgevende wolk uit die tot 9,5 minuten blijft gloeien.",
+   "url": "https://animaldiversity.org/accounts/Vampyroteuthis_infernalis/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -24205,6 +25915,11 @@ window.OCEAN_ANIMALS = [
   "order": "Neogastropoda",
   "family": "Muricidae",
   "ns": 0,
+  "top": {
+   "text": "In het Engels heet hij 'Venus comb': de kam van Venus.",
+   "url": "https://en.wikipedia.org/wiki/Venus_comb_murex",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -24265,6 +25980,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pectinidae",
   "ns": 2013,
   "wikiEn": "https://en.wikipedia.org/wiki/Queen_scallop",
+  "top": {
+   "text": "Door zijn schelp hard dicht te klappen zwemt hij weg.",
+   "url": "https://nl.wikipedia.org/wiki/Wijde_mantel",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -24337,6 +26057,11 @@ window.OCEAN_ANIMALS = [
   "order": "Nudibranchia",
   "family": "Polyceridae",
   "ns": 228,
+  "top": {
+   "text": "Deze witte naaktslak met oranje vlekjes eet mosdiertjes en legt zijn eieren in een platte spiraal.",
+   "url": "https://nl.wikipedia.org/wiki/Wrattige_mosdierslak",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -24397,6 +26122,11 @@ window.OCEAN_ANIMALS = [
   "family": "Buccinidae",
   "ns": 6720,
   "wikiEn": "https://en.wikipedia.org/wiki/Buccinum_undatum",
+  "top": {
+   "text": "Van de duizend eitjes in een eikapsel groeien er maar zo'n tien uit; de rest dient als voedsel voor hun broertjes en zusjes.",
+   "url": "https://animaldiversity.org/accounts/Buccinum_undatum/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -24470,6 +26200,11 @@ window.OCEAN_ANIMALS = [
   "family": "Spheniscidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin",
+  "top": {
+   "text": "Op het ijs glijden ze soms op hun buik, als een slee.",
+   "url": "https://animaldiversity.org/accounts/Pygoscelis_adeliae/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -24543,6 +26278,11 @@ window.OCEAN_ANIMALS = [
   "family": "Alcidae",
   "ns": 79306,
   "wikiEn": "https://en.wikipedia.org/wiki/Razorbill",
+  "top": {
+   "text": "Een alk die in 1967 werd geringd, leefde nog minstens 41 jaar.",
+   "url": "https://en.wikipedia.org/wiki/Razorbill",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -24616,6 +26356,11 @@ window.OCEAN_ANIMALS = [
   "family": "Fregatidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Magnificent_frigatebird",
+  "top": {
+   "text": "Hij is een van de weinige vogels die gewoon een orkaan kan uitzitten in de lucht.",
+   "url": "https://animaldiversity.org/accounts/Fregata_magnificens/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -24689,6 +26434,11 @@ window.OCEAN_ANIMALS = [
   "family": "Sulidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Blue-footed_booby",
+  "top": {
+   "text": "Hoe blauwer de voeten, hoe aantrekkelijker: mannetjes zorgen beter voor de eieren van vrouwtjes met felle voeten.",
+   "url": "https://en.wikipedia.org/wiki/Blue-footed_booby",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -24762,6 +26512,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pelecanidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Brown_pelican",
+  "top": {
+   "text": "Zijn keelzak kan 11 liter water bevatten: drie keer zoveel als in zijn maag past.",
+   "url": "https://animaldiversity.org/accounts/Pelecanus_occidentalis/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -24835,6 +26590,11 @@ window.OCEAN_ANIMALS = [
   "family": "Laridae",
   "ns": 245159,
   "wikiEn": "https://en.wikipedia.org/wiki/Black-legged_kittiwake",
+  "top": {
+   "text": "Ondanks zijn Engelse naam 'zwartpootmeeuw' kunnen zijn poten ook oranje of rood zijn.",
+   "url": "https://animaldiversity.org/accounts/Rissa_tridactyla/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -24908,6 +26668,11 @@ window.OCEAN_ANIMALS = [
   "family": "Spheniscidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Little_penguin",
+  "top": {
+   "text": "Jaarlijks komen 500.000 toeristen kijken hoe ze op Phillip Island in optocht uit zee naar hun nest lopen.",
+   "url": "https://animaldiversity.org/accounts/Eudyptula_minor/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -24981,6 +26746,11 @@ window.OCEAN_ANIMALS = [
   "family": "Anatidae",
   "ns": 168306,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_eider",
+  "top": {
+   "text": "Van zijn zachte donsveren worden luxe dekbedden gemaakt; het dons wordt pas verzameld als de kuikens het nest uit zijn.",
+   "url": "https://nl.wikipedia.org/wiki/Eider_%28vogel%29",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -25054,6 +26824,11 @@ window.OCEAN_ANIMALS = [
   "family": "Spheniscidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Gentoo_penguin",
+  "top": {
+   "text": "Een mannetje kan een vrouwtje voor zich winnen door haar een mooi steentje voor het nest te geven.",
+   "url": "https://en.wikipedia.org/wiki/Gentoo_penguin",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -25127,6 +26902,11 @@ window.OCEAN_ANIMALS = [
   "family": "Spheniscidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Galapagos_penguin",
+  "top": {
+   "text": "Hij is de enige pinguïn die ten noorden van de evenaar leeft.",
+   "url": "https://en.wikipedia.org/wiki/Galapagos_penguin",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -25200,6 +26980,11 @@ window.OCEAN_ANIMALS = [
   "family": "Spheniscidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Yellow-eyed_penguin",
+  "top": {
+   "text": "Hij is de grootste pinguïn die niet op Antarctica leeft.",
+   "url": "https://animaldiversity.org/accounts/Megadyptes_antipodes/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -25273,6 +27058,11 @@ window.OCEAN_ANIMALS = [
   "family": "Procellariidae",
   "ns": 6410,
   "wikiEn": "https://en.wikipedia.org/wiki/Sooty_shearwater",
+  "top": {
+   "text": "Vogels uit Nieuw-Zeeland vliegen tot 74.000 kilometer per jaar, tot Japan, Alaska en Californië.",
+   "url": "https://en.wikipedia.org/wiki/Sooty_shearwater",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -25346,6 +27136,11 @@ window.OCEAN_ANIMALS = [
   "family": "Diomedeidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Snowy_albatross",
+  "top": {
+   "text": "Hij heeft de grootste spanwijdte van alle vogels; een vogel met de bijnaam 'Grandma' werd ruim 60 jaar oud.",
+   "url": "https://animaldiversity.org/accounts/Diomedea_exulans/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -25419,6 +27214,11 @@ window.OCEAN_ANIMALS = [
   "family": "Stercorariidae",
   "ns": 30620,
   "wikiEn": "https://en.wikipedia.org/wiki/Great_skua",
+  "top": {
+   "text": "Hij grijpt een jan-van-gent in de lucht bij de vleugel, zodat die in zee valt en zijn vis afgeeft.",
+   "url": "https://en.wikipedia.org/wiki/Great_skua",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -25492,6 +27292,11 @@ window.OCEAN_ANIMALS = [
   "family": "Laridae",
   "ns": 176380,
   "wikiEn": "https://en.wikipedia.org/wiki/Great_black-backed_gull",
+  "top": {
+   "text": "Hij is de grootste meeuw ter wereld, en jaagt eerder als een roofvogel dan als een meeuw.",
+   "url": "https://en.wikipedia.org/wiki/Great_black-backed_gull",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -25565,6 +27370,11 @@ window.OCEAN_ANIMALS = [
   "family": "Laridae",
   "ns": 83288,
   "wikiEn": "https://en.wikipedia.org/wiki/Sandwich_tern",
+  "top": {
+   "text": "Slim: hij broedt vlak naast agressievere sterns, die de vijanden voor hem wegjagen.",
+   "url": "https://en.wikipedia.org/wiki/Sandwich_tern",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -25638,6 +27448,11 @@ window.OCEAN_ANIMALS = [
   "family": "Spheniscidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Humboldt_penguin",
+  "top": {
+   "text": "Komt er een mens te dichtbij, dan heeft hij tot een half uur nodig om zijn hartslag weer te laten zakken.",
+   "url": "https://en.wikipedia.org/wiki/Humboldt_penguin",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -25711,6 +27526,11 @@ window.OCEAN_ANIMALS = [
   "family": "Sulidae",
   "ns": 265669,
   "wikiEn": "https://en.wikipedia.org/wiki/Northern_gannet",
+  "top": {
+   "text": "Hij duikt met bijna 100 kilometer per uur de zee in, en zijn neusgaten zitten binnen in zijn snavel zodat er geen water in komt.",
+   "url": "https://nl.wikipedia.org/wiki/Jan-van-gent",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -25784,6 +27604,11 @@ window.OCEAN_ANIMALS = [
   "family": "Spheniscidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Emperor_penguin",
+  "top": {
+   "text": "Hij duikt tot 564 meter diep, dieper dan elke andere vogel, en blijft meer dan 20 minuten onder water.",
+   "url": "https://www.nationalgeographic.com/animals/birds/facts/emperor-penguin",
+   "by": "National Geographic"
+  },
   "curated": true
  },
  {
@@ -25831,6 +27656,11 @@ window.OCEAN_ANIMALS = [
   "family": "Alcidae",
   "ns": 13263,
   "wikiEn": "https://en.wikipedia.org/wiki/Little_auk",
+  "top": {
+   "text": "Na stormen in 2007 vlogen er op één dag bijna 29.000 langs de Engelse kust.",
+   "url": "https://en.wikipedia.org/wiki/Little_auk",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -25904,6 +27734,11 @@ window.OCEAN_ANIMALS = [
   "family": "Spheniscidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/King_penguin",
+  "top": {
+   "text": "Hij is een van maar twee pinguïnsoorten die helemaal geen nest bouwen.",
+   "url": "https://animaldiversity.org/accounts/Aptenodytes_patagonicus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -25977,6 +27812,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phalacrocoracidae",
   "ns": 55418,
   "wikiEn": "https://en.wikipedia.org/wiki/European_shag",
+  "top": {
+   "text": "Voor het duiken springt hij eerst een stukje uit het water, voor extra vaart.",
+   "url": "https://en.wikipedia.org/wiki/European_shag",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -26050,6 +27890,11 @@ window.OCEAN_ANIMALS = [
   "family": "Alcidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Tufted_puffin",
+  "top": {
+   "text": "Zijn snavel is zo sterk dat hij door een mensenvinger tot op het bot kan bijten.",
+   "url": "https://animaldiversity.org/accounts/Fratercula_cirrhata/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -26123,6 +27968,11 @@ window.OCEAN_ANIMALS = [
   "family": "Diomedeidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Laysan_albatross",
+  "top": {
+   "text": "Albatros Wisdom is de oudst bekende wilde vogel ter wereld: meer dan 70 jaar oud.",
+   "url": "https://en.wikipedia.org/wiki/Laysan_albatross",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -26196,6 +28046,11 @@ window.OCEAN_ANIMALS = [
   "family": "Spheniscidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Macaroni_penguin",
+  "top": {
+   "text": "Hun reusachtige kolonies stinken zo erg dat je ze 8 tot 10 kilometer verderop op zee nog ruikt.",
+   "url": "https://animaldiversity.org/accounts/Eudyptes_chrysolophus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -26269,6 +28124,11 @@ window.OCEAN_ANIMALS = [
   "family": "Spheniscidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Magellanic_penguin",
+  "top": {
+   "text": "Na het broeden zwemmen ze naar het noorden; sommige leggen zo'n 6400 kilometer af.",
+   "url": "https://www.nationalgeographic.com/animals/birds/facts/magellanic-penguin",
+   "by": "National Geographic"
+  },
   "curated": true
  },
  {
@@ -26342,6 +28202,11 @@ window.OCEAN_ANIMALS = [
   "family": "Sulidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Masked_booby",
+  "top": {
+   "text": "Het eerste kuiken dat uitkomt, schopt zijn broertje of zusje uit het nest.",
+   "url": "https://animaldiversity.org/accounts/Sula_dactylatra/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -26415,6 +28280,11 @@ window.OCEAN_ANIMALS = [
   "family": "Procellariidae",
   "ns": 7385,
   "wikiEn": "https://en.wikipedia.org/wiki/Manx_shearwater",
+  "top": {
+   "text": "Een vogel van 50 jaar heeft alleen al op trektocht waarschijnlijk meer dan een miljoen kilometer gevlogen.",
+   "url": "https://en.wikipedia.org/wiki/Manx_shearwater",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -26488,6 +28358,11 @@ window.OCEAN_ANIMALS = [
   "family": "Laridae",
   "ns": 22307,
   "wikiEn": "https://en.wikipedia.org/wiki/Arctic_tern",
+  "top": {
+   "text": "Hij maakt de langste trektocht van alle dieren: soms meer dan 80.000 kilometer per jaar, van de Noordpool naar de Zuidpool en terug.",
+   "url": "https://oceana.org/marine-life/arctic-tern/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -26561,6 +28436,11 @@ window.OCEAN_ANIMALS = [
   "family": "Procellariidae",
   "ns": 352857,
   "wikiEn": "https://en.wikipedia.org/wiki/Northern_fulmar",
+  "top": {
+   "text": "Zelfs kuikens spuwen al stinkende maagolie naar indringers; die olie plakt de veren van roofvogels aan elkaar.",
+   "url": "https://en.wikipedia.org/wiki/Northern_fulmar",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -26634,6 +28514,11 @@ window.OCEAN_ANIMALS = [
   "family": "Alcidae",
   "ns": 51129,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_puffin",
+  "top": {
+   "text": "Hij houdt gevangen visjes vast met zijn tong en snavel, terwijl hij er nog meer vangt.",
+   "url": "https://en.wikipedia.org/wiki/Atlantic_puffin",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -26707,6 +28592,11 @@ window.OCEAN_ANIMALS = [
   "family": "Sulidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Red-footed_booby",
+  "top": {
+   "text": "Met zijn grote ogen jaagt hij 's nachts op inktvissen.",
+   "url": "https://animaldiversity.org/accounts/Sula_sula/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -26780,6 +28670,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phaethontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Red-billed_tropicbird",
+  "top": {
+   "text": "Hij stond per ongeluk op het Bermudaanse biljet van 50 dollar, terwijl hij daar niet eens voorkomt.",
+   "url": "https://en.wikipedia.org/wiki/Red-billed_tropicbird",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -26853,6 +28748,11 @@ window.OCEAN_ANIMALS = [
   "family": "Spheniscidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Chinstrap_penguin",
+  "top": {
+   "text": "Hij doet meer dan 10.000 'microdutjes' van 4 seconden per dag, en komt zo toch aan zo'n 11 uur slaap.",
+   "url": "https://en.wikipedia.org/wiki/Chinstrap_penguin",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -26913,6 +28813,11 @@ window.OCEAN_ANIMALS = [
   "family": "Hydrobatidae",
   "ns": 5407,
   "wikiEn": "https://en.wikipedia.org/wiki/European_storm_petrel",
+  "top": {
+   "text": "Anders dan de meeste vogels heeft hij een goede reukzin, en onderzoekers vinden zijn kolonies aan de muffe geur.",
+   "url": "https://en.wikipedia.org/wiki/European_storm_petrel",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -26986,6 +28891,11 @@ window.OCEAN_ANIMALS = [
   "family": "Laridae",
   "ns": 55051,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_tern",
+  "top": {
+   "text": "Hij herkent mensen en valt bekende mensen feller aan dan vreemden.",
+   "url": "https://en.wikipedia.org/wiki/Common_tern",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -27059,6 +28969,11 @@ window.OCEAN_ANIMALS = [
   "family": "Diomedeidae",
   "ns": 1401,
   "wikiEn": "https://en.wikipedia.org/wiki/Black-browed_albatross",
+  "top": {
+   "text": "Albatros 'Albert' leeft in Noord-Schotland, ver van zijn thuis op het zuidelijk halfrond.",
+   "url": "https://en.wikipedia.org/wiki/Black-browed_albatross",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -27132,6 +29047,11 @@ window.OCEAN_ANIMALS = [
   "family": "Spheniscidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Western_rockhopper_penguin",
+  "top": {
+   "text": "Hij springt van rots naar rots, waar andere pinguïns glijden of klauteren: vandaar 'rotsspringer'.",
+   "url": "https://oceana.org/marine-life/southern-rockhopper-penguin/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -27205,6 +29125,11 @@ window.OCEAN_ANIMALS = [
   "family": "Hydrobatidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Wilson%27s_storm_petrel",
+  "top": {
+   "text": "Met zo'n 40 gram is hij het kleinste warmbloedige dier dat bij Antarctica broedt.",
+   "url": "https://en.wikipedia.org/wiki/Wilson%27s_storm_petrel",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -27278,6 +29203,11 @@ window.OCEAN_ANIMALS = [
   "family": "Alcidae",
   "ns": 350740,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_murre",
+  "top": {
+   "text": "Het jong springt van de klif voordat het kan vliegen, en fladdert soms wel 450 meter naar beneden naar zee.",
+   "url": "https://oceana.org/marine-life/common-murre/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -27351,6 +29281,11 @@ window.OCEAN_ANIMALS = [
   "family": "Laridae",
   "ns": 365333,
   "wikiEn": "https://en.wikipedia.org/wiki/European_herring_gull",
+  "top": {
+   "text": "Hij trappelt met zijn poten op de grond om wormen naar boven te lokken.",
+   "url": "https://en.wikipedia.org/wiki/European_herring_gull",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -27424,6 +29359,11 @@ window.OCEAN_ANIMALS = [
   "family": "Procellariidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Southern_giant_petrel",
+  "top": {
+   "text": "Bij deze 'gieren van de zee' jagen de vrouwtjes vaker op levende prooi, terwijl mannetjes liever aas eten.",
+   "url": "https://oceana.org/marine-life/southern-giant-petrel/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -27497,6 +29437,11 @@ window.OCEAN_ANIMALS = [
   "family": "Alcidae",
   "ns": 15880,
   "wikiEn": "https://en.wikipedia.org/wiki/Black_guillemot",
+  "top": {
+   "text": "Hij brengt zijn kuikens steeds maar één visje tegelijk.",
+   "url": "https://en.wikipedia.org/wiki/Black_guillemot",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -27570,6 +29515,11 @@ window.OCEAN_ANIMALS = [
   "family": "Spheniscidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/African_penguin",
+  "top": {
+   "text": "Elke pinguïn heeft een eigen patroon van zwarte stippen op de borst, als een vingerafdruk.",
+   "url": "https://en.wikipedia.org/wiki/African_penguin",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -27643,6 +29593,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_spotted_dolphin",
+  "top": {
+   "text": "Ze worden zonder vlekken geboren; de vlekken komen er pas met de jaren bij.",
+   "url": "https://en.wikipedia.org/wiki/Atlantic_spotted_dolphin",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -27716,6 +29671,11 @@ window.OCEAN_ANIMALS = [
   "family": "Otariidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Australian_sea_lion",
+  "top": {
+   "text": "Bij noodweer trekken deze zeeleeuwen landinwaarts, tot wel 9,4 kilometer van de zee!",
+   "url": "https://animaldiversity.org/accounts/Neophoca_cinerea/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -27789,6 +29749,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocidae",
   "ns": 12,
   "wikiEn": "https://en.wikipedia.org/wiki/Bearded_seal",
+  "top": {
+   "text": "Zijn onderwatertrillers kunnen 3 minuten duren en zijn tot 19 kilometer ver te horen.",
+   "url": "https://www.fisheries.noaa.gov/species/bearded-seal",
+   "by": "NOAA Fisheries"
+  },
   "curated": true
  },
  {
@@ -27862,6 +29827,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Ribbon_seal",
+  "top": {
+   "text": "Hij heeft vier witte ringen op een donkere vacht, alsof hij in een lint gewikkeld is.",
+   "url": "https://en.wikipedia.org/wiki/Ribbon_seal",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -27935,6 +29905,11 @@ window.OCEAN_ANIMALS = [
   "family": "Balaenopteridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Blue_whale",
+  "top": {
+   "text": "Hij is het grootste dier dat ooit op aarde heeft geleefd, groter dan elke dinosaurus.",
+   "url": "https://oceana.org/marine-life/blue-whale/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -28008,6 +29983,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocoenidae",
   "ns": 55902,
   "wikiEn": "https://en.wikipedia.org/wiki/Harbour_porpoise",
+  "top": {
+   "text": "Hij is geen vis en ook niet bruin: vroeger heette alles in zee 'vis' en alle grauwe kleuren 'bruin'.",
+   "url": "https://nl.wikipedia.org/wiki/Bruinvis",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -28081,6 +30061,11 @@ window.OCEAN_ANIMALS = [
   "family": "Balaenopteridae",
   "ns": 1072,
   "wikiEn": "https://en.wikipedia.org/wiki/Humpback_whale",
+  "top": {
+   "text": "Zijn borstvinnen zijn de langste ledematen in het dierenrijk: tot 5,5 meter.",
+   "url": "https://en.wikipedia.org/wiki/Humpback_whale",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -28141,6 +30126,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocoenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Vaquita",
+  "top": {
+   "text": "Door de donkere kringen rond zijn ogen heet hij ook wel 'de panda van de zee'; het is de kleinste walvisachtige ter wereld.",
+   "url": "https://oceana.org/marine-life/vaquita/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -28214,6 +30204,11 @@ window.OCEAN_ANIMALS = [
   "family": "Otariidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/California_sea_lion",
+  "top": {
+   "text": "Zeeleeuw Ronan kon met haar kop precies op de maat van muziek meebewegen, iets wat men alleen van mensen en papegaaien kende.",
+   "url": "https://en.wikipedia.org/wiki/California_sea_lion",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -28287,6 +30282,11 @@ window.OCEAN_ANIMALS = [
   "family": "Trichechidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/West_Indian_manatee",
+  "top": {
+   "text": "Zijn kiezen schuiven als een lopende band naar voren en vallen er dan uit; achteraan groeien steeds nieuwe.",
+   "url": "https://en.wikipedia.org/wiki/West_Indian_manatee",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -28360,6 +30360,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Indo-Pacific_humpback_dolphin",
+  "top": {
+   "text": "Zijn roze kleur komt niet van pigment, maar van bloedvaten vlak onder zijn huid.",
+   "url": "https://en.wikipedia.org/wiki/Indo-Pacific_humpback_dolphin",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -28433,6 +30438,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocoenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Dall%27s_porpoise",
+  "top": {
+   "text": "Hij is de snelste kleine walvisachtige: hij haalt over korte afstand zo'n 55 kilometer per uur.",
+   "url": "https://www.fisheries.noaa.gov/species/dalls-porpoise",
+   "by": "NOAA Fisheries"
+  },
   "curated": true
  },
  {
@@ -28506,6 +30516,11 @@ window.OCEAN_ANIMALS = [
   "family": "Dugongidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Dugong",
+  "top": {
+   "text": "Zijn naam komt van het Maleise 'duyung': zeemeermin. Doejongs zouden de mythe van zeemeerminnen hebben geïnspireerd.",
+   "url": "https://nl.wikipedia.org/wiki/Doejong",
+   "by": "Wikipedia"
+  },
   "curated": true
  },
  {
@@ -28579,6 +30594,11 @@ window.OCEAN_ANIMALS = [
   "family": "Hyperoodontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Cuvier%27s_beaked_whale",
+  "top": {
+   "text": "Hij is duikkampioen onder de zoogdieren: tot bijna 3000 meter diep, en hij hield eens 222 minuten zijn adem in.",
+   "url": "https://www.fisheries.noaa.gov/species/cuviers-beaked-whale",
+   "by": "NOAA Fisheries"
+  },
   "curated": true
  },
  {
@@ -28652,6 +30672,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Dusky_dolphin",
+  "top": {
+   "text": "Jonge dolfijnen leren de sprongen in een vaste volgorde: eerst plonsen, de ingewikkelde salto's pas als laatste.",
+   "url": "https://en.wikipedia.org/wiki/Dusky_dolphin",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -28725,6 +30750,11 @@ window.OCEAN_ANIMALS = [
   "family": "Kogiidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Pygmy_sperm_whale",
+  "top": {
+   "text": "Bij schrik spuit hij een rode wolk uit, net als een inktvis.",
+   "url": "https://en.wikipedia.org/wiki/Pygmy_sperm_whale",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -28798,6 +30828,11 @@ window.OCEAN_ANIMALS = [
   "family": "Balaenopteridae",
   "ns": 2195,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_minke_whale",
+  "top": {
+   "text": "Als orka's hem achtervolgen, zwemt hij ze in open water gewoon voorbij.",
+   "url": "https://en.wikipedia.org/wiki/Common_minke_whale",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -28871,6 +30906,11 @@ window.OCEAN_ANIMALS = [
   "family": "Balaenopteridae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Balaenoptera_edeni",
+  "top": {
+   "text": "Een mysterieus geluid uit de Marianen, de 'biotwang', bleek in 2024 van deze walvis te komen.",
+   "url": "https://en.wikipedia.org/wiki/Balaenoptera_edeni",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -28944,6 +30984,11 @@ window.OCEAN_ANIMALS = [
   "family": "Otariidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_sea_lion",
+  "top": {
+   "text": "Een moeder herkent het blafje van haar pup tussen dertig andere blaffende zeeleeuwen.",
+   "url": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_sea_lion",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -29017,6 +31062,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 66,
   "wikiEn": "https://en.wikipedia.org/wiki/Striped_dolphin",
+  "top": {
+   "text": "Hij springt tot 6 meter hoog en draait daarbij soms wild met zijn staart rond: 'roto-tailing'.",
+   "url": "https://www.fisheries.noaa.gov/species/striped-dolphin",
+   "by": "NOAA Fisheries"
+  },
   "curated": true
  },
  {
@@ -29090,6 +31140,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 274,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_dolphin",
+  "top": {
+   "text": "Om te slapen sluit hij afwisselend het ene oog en dan het andere, telkens 5 tot 10 minuten.",
+   "url": "https://animaldiversity.org/accounts/Delphinus_delphis/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -29163,6 +31218,11 @@ window.OCEAN_ANIMALS = [
   "family": "Hyperoodontidae",
   "ns": 45,
   "wikiEn": "https://en.wikipedia.org/wiki/Sowerby%27s_beaked_whale",
+  "top": {
+   "text": "Zijn naam 'bidens' betekent 'twee tanden': volwassen mannetjes hebben er maar twee die je kunt zien.",
+   "url": "https://www.fisheries.noaa.gov/species/sowerbys-beaked-whale",
+   "by": "NOAA Fisheries"
+  },
   "curated": true
  },
  {
@@ -29236,6 +31296,11 @@ window.OCEAN_ANIMALS = [
   "family": "Balaenopteridae",
   "ns": 192,
   "wikiEn": "https://en.wikipedia.org/wiki/Fin_whale",
+  "top": {
+   "text": "Zijn liederen zijn zo krachtig dat ze kilometers diep in de zeebodem doordringen; aardwetenschappers gebruiken ze om de bodem te onderzoeken.",
+   "url": "https://en.wikipedia.org/wiki/Fin_whale",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -29309,6 +31374,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocidae",
   "ns": 34073,
   "wikiEn": "https://en.wikipedia.org/wiki/Harbor_seal",
+  "top": {
+   "text": "Een zeehond genaamd Hoover kon menselijke woorden nadoen, iets wat bij geen enkel ander zoogdier is gezien.",
+   "url": "https://en.wikipedia.org/wiki/Harbor_seal",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -29382,6 +31452,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 95,
   "wikiEn": "https://en.wikipedia.org/wiki/Risso%27s_dolphin",
+  "top": {
+   "text": "Dolfijn Pelorus Jack begeleidde van 1888 tot 1912 schepen door een zeestraat in Nieuw-Zeeland.",
+   "url": "https://en.wikipedia.org/wiki/Risso%27s_dolphin",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -29455,6 +31530,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 253,
   "wikiEn": "https://en.wikipedia.org/wiki/Long-finned_pilot_whale",
+  "top": {
+   "text": "Hij heeft meer hersencellen in zijn hersenschors dan welk zoogdier ook: bijna twee keer zoveel als mensen.",
+   "url": "https://en.wikipedia.org/wiki/Long-finned_pilot_whale",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -29528,6 +31608,11 @@ window.OCEAN_ANIMALS = [
   "family": "Eschrichtiidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Gray_whale",
+  "top": {
+   "text": "Hij maakt een van de langste jaarlijkse trektochten van alle zoogdieren: tot ruim 22.000 kilometer.",
+   "url": "https://animaldiversity.org/accounts/Eschrichtius_robustus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -29601,6 +31686,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocidae",
   "ns": 54493,
   "wikiEn": "https://en.wikipedia.org/wiki/Grey_seal",
+  "top": {
+   "text": "Wilde grijze zeehonden blijken uit zichzelf te 'klappen' met hun voorvinnen.",
+   "url": "https://en.wikipedia.org/wiki/Grey_seal",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -29674,6 +31764,11 @@ window.OCEAN_ANIMALS = [
   "family": "Balaenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Bowhead_whale",
+  "top": {
+   "text": "In sommige van deze walvissen zijn oude harpoenpunten van ivoor en steen gevonden; ze kunnen wel 200 jaar oud worden.",
+   "url": "https://animaldiversity.org/accounts/Balaena_mysticetus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -29747,6 +31842,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Hector%27s_dolphin",
+  "top": {
+   "text": "Hij is een van de kleinste dolfijnen ter wereld en leeft alleen in Nieuw-Zeeland.",
+   "url": "https://www.fisheries.noaa.gov/species/hectors-dolphin",
+   "by": "NOAA Fisheries"
+  },
   "curated": true
  },
  {
@@ -29820,6 +31920,11 @@ window.OCEAN_ANIMALS = [
   "family": "Ursidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Polar_bear",
+  "top": {
+   "text": "IJsberen vormen soms vaste 'vriendschappen' en reizen, rusten en spelen dan samen.",
+   "url": "https://en.wikipedia.org/wiki/Polar_bear",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -29893,6 +31998,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocoenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Indo-Pacific_finless_porpoise",
+  "top": {
+   "text": "Hij heeft geen rugvin maar een bobbelige rugrichel, waarop zijn jong kan meeliften.",
+   "url": "https://animaldiversity.org/accounts/Neophocaena_phocaenoides/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -29966,6 +32076,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Short-finned_pilot_whale",
+  "top": {
+   "text": "Hij heet 'de cheeta van de diepzee': hij jaagt met een razendsnelle sprint op grote inktvissen.",
+   "url": "https://www.fisheries.noaa.gov/species/short-finned-pilot-whale",
+   "by": "NOAA Fisheries"
+  },
   "curated": true
  },
  {
@@ -30039,6 +32154,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Irrawaddy_dolphin",
+  "top": {
+   "text": "Bij het samen vissen met mensen duikt hij diep zodra het net is uitgeworpen, en woelt hij het water rond het net op.",
+   "url": "https://animaldiversity.org/accounts/Orcaella_brevirostris/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -30112,6 +32232,11 @@ window.OCEAN_ANIMALS = [
   "family": "Otariidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Arctocephalus_pusillus",
+  "top": {
+   "text": "Een groot mannetje is gezien terwijl hij vijf blauwe haaien doodde.",
+   "url": "https://en.wikipedia.org/wiki/Arctocephalus_pusillus",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -30185,6 +32310,11 @@ window.OCEAN_ANIMALS = [
   "family": "Otariidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Antarctic_fur_seal",
+  "top": {
+   "text": "Mannetjes hebben de langste snorharen van alle zeehondachtigen: tot 45 centimeter.",
+   "url": "https://animaldiversity.org/accounts/Arctocephalus_gazella/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -30258,6 +32388,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocidae",
   "ns": 36,
   "wikiEn": "https://en.wikipedia.org/wiki/Hooded_seal",
+  "top": {
+   "text": "Het mannetje kan een 'muts' op zijn kop opblazen, en zelfs zijn neustussenschot als een ballon.",
+   "url": "https://en.wikipedia.org/wiki/Hooded_seal",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -30331,6 +32466,11 @@ window.OCEAN_ANIMALS = [
   "family": "Kogiidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Dwarf_sperm_whale",
+  "top": {
+   "text": "Bij gevaar spuit hij een wolk roodbruine vloeistof uit die op chocoladesiroop lijkt.",
+   "url": "https://en.wikipedia.org/wiki/Dwarf_sperm_whale",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -30404,6 +32544,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Commerson%27s_dolphin",
+  "top": {
+   "text": "Met zijn zwart-witte tekening lijkt hij op een mini-orka.",
+   "url": "https://en.wikipedia.org/wiki/Commerson%27s_dolphin",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -30477,6 +32622,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Crabeater_seal",
+  "top": {
+   "text": "Hij is waarschijnlijk de snelste zeehond op het land: tot 25 kilometer per uur.",
+   "url": "https://animaldiversity.org/accounts/Lobodon_carcinophaga/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -30550,6 +32700,11 @@ window.OCEAN_ANIMALS = [
   "family": "Mustelidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Marine_otter",
+  "top": {
+   "text": "Hij is een van de kleinste zeezoogdieren ter wereld: maar 1 meter lang.",
+   "url": "https://oceana.org/marine-life/marine-otter/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -30623,6 +32778,11 @@ window.OCEAN_ANIMALS = [
   "family": "Pontoporiidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/La_Plata_dolphin",
+  "top": {
+   "text": "Hij heeft naar verhouding de langste snavel van alle walvisachtigen.",
+   "url": "https://en.wikipedia.org/wiki/La_Plata_dolphin",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -30696,6 +32856,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Spinner_dolphin",
+  "top": {
+   "text": "Hij draait in één sprong tot zeven keer om zijn as.",
+   "url": "https://oceana.org/marine-life/spinner-dolphin/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -30769,6 +32934,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Spotted_seal",
+  "top": {
+   "text": "In groepen gromt, blaft, kreunt en brult hij.",
+   "url": "https://en.wikipedia.org/wiki/Spotted_seal",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -30842,6 +33012,11 @@ window.OCEAN_ANIMALS = [
   "family": "Otariidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/South_American_sea_lion",
+  "top": {
+   "text": "Hij profiteert slim van dolfijnen: als die vis bijeen drijven, pikt hij zijn deel mee.",
+   "url": "https://en.wikipedia.org/wiki/South_American_sea_lion",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -30889,6 +33064,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Mediterranean_monk_seal",
+  "top": {
+   "text": "In 2014 sliep er een urenlang op een druk stadsstrand in Pula, Kroatië, tussen de badgasten.",
+   "url": "https://en.wikipedia.org/wiki/Mediterranean_monk_seal",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -30962,6 +33142,11 @@ window.OCEAN_ANIMALS = [
   "family": "Monodontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Narwhal",
+  "top": {
+   "text": "Zijn 'hoorn' is eigenlijk een uitgegroeide hoektand van bijna 3 meter.",
+   "url": "https://oceana.org/marine-life/narwhal/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -31035,6 +33220,11 @@ window.OCEAN_ANIMALS = [
   "family": "Otariidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/New_Zealand_sea_lion",
+  "top": {
+   "text": "Het is de enige zeeleeuw die ver landinwaarts trekt, tot in de bossen!",
+   "url": "https://en.wikipedia.org/wiki/New_Zealand_sea_lion",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -31108,6 +33298,11 @@ window.OCEAN_ANIMALS = [
   "family": "Hyperoodontidae",
   "ns": 22,
   "wikiEn": "https://en.wikipedia.org/wiki/Northern_bottlenose_whale",
+  "top": {
+   "text": "Hij kan tot 130 minuten onder water blijven.",
+   "url": "https://en.wikipedia.org/wiki/Northern_bottlenose_whale",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -31181,6 +33376,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Northern_right_whale_dolphin",
+  "top": {
+   "text": "Ze reizen soms in groepen van wel 3000 dolfijnen, en springen meer dan 6 meter ver.",
+   "url": "https://www.fisheries.noaa.gov/species/northern-right-whale-dolphin",
+   "by": "NOAA Fisheries"
+  },
   "curated": true
  },
  {
@@ -31254,6 +33454,11 @@ window.OCEAN_ANIMALS = [
   "family": "Otariidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Northern_fur_seal",
+  "top": {
+   "text": "Op gladde rotsen is hij sneller dan een mens, en hij klimt bijna loodrechte kliffen op.",
+   "url": "https://www.fisheries.noaa.gov/species/northern-fur-seal",
+   "by": "NOAA Fisheries"
+  },
   "curated": true
  },
  {
@@ -31327,6 +33532,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Northern_elephant_seal",
+  "top": {
+   "text": "Op trektocht duikt hij maandenlang dag en nacht achter elkaar, zonder te stoppen om te rusten of te slapen.",
+   "url": "https://animaldiversity.org/accounts/Mirounga_angustirostris/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -31400,6 +33610,11 @@ window.OCEAN_ANIMALS = [
   "family": "Balaenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/North_Atlantic_right_whale",
+  "top": {
+   "text": "Zijn ademwolk heeft de vorm van een hart.",
+   "url": "https://en.wikipedia.org/wiki/North_Atlantic_right_whale",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -31473,6 +33688,11 @@ window.OCEAN_ANIMALS = [
   "family": "Balaenopteridae",
   "ns": 171,
   "wikiEn": "https://en.wikipedia.org/wiki/Sei_whale",
+  "top": {
+   "text": "Hij is een van de snelste walvissen: tot zo'n 50 kilometer per uur.",
+   "url": "https://animaldiversity.org/accounts/Balaenoptera_borealis/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -31546,6 +33766,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 268,
   "wikiEn": "https://en.wikipedia.org/wiki/Orca",
+  "top": {
+   "text": "Orka's hebben 'cultuur': elke groep heeft eigen jachttrucs en geluiden die ze doorgeven aan hun jongen.",
+   "url": "https://en.wikipedia.org/wiki/Orca",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -31619,6 +33844,11 @@ window.OCEAN_ANIMALS = [
   "family": "Physeteridae",
   "ns": 255,
   "wikiEn": "https://en.wikipedia.org/wiki/Sperm_whale",
+  "top": {
+   "text": "Hij heeft het grootste brein van alle dieren die ooit op aarde hebben geleefd.",
+   "url": "https://www.nationalgeographic.com/animals/mammals/facts/sperm-whale",
+   "by": "National Geographic"
+  },
   "curated": true
  },
  {
@@ -31692,6 +33922,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Ringed_seal",
+  "top": {
+   "text": "Het vrouwtje graaft een hol in de sneeuw boven een ademgat in het ijs: alleen ringelrobben doen dat.",
+   "url": "https://animaldiversity.org/accounts/Pusa_hispida/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -31765,6 +34000,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Ross_seal",
+  "top": {
+   "text": "Zijn naam betekent 'oog-rob': zijn ogen zijn 7 centimeter groot.",
+   "url": "https://animaldiversity.org/accounts/Ommatophoca_rossii/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -31838,6 +34078,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Rough-toothed_dolphin",
+  "top": {
+   "text": "Zijn tanden zijn ruw door smalle richeltjes; daar dankt hij zijn Engelse naam 'rough-toothed' aan.",
+   "url": "https://en.wikipedia.org/wiki/Rough-toothed_dolphin",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -31911,6 +34156,11 @@ window.OCEAN_ANIMALS = [
   "family": "Otariidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Steller_sea_lion",
+  "top": {
+   "text": "Hij is de grootste zeeleeuw ter wereld, en duikt tot 400 meter diep.",
+   "url": "https://animaldiversity.org/accounts/Eumetopias_jubatus/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -31984,6 +34234,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 736,
   "wikiEn": "https://en.wikipedia.org/wiki/Common_bottlenose_dolphin",
+  "top": {
+   "text": "Hij heeft het langste sociale geheugen van alle dieren: hij herkent het fluitje van een vriend na meer dan 20 jaar.",
+   "url": "https://en.wikipedia.org/wiki/Common_bottlenose_dolphin",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -32057,6 +34312,11 @@ window.OCEAN_ANIMALS = [
   "family": "Odobenidae",
   "ns": 45,
   "wikiEn": "https://en.wikipedia.org/wiki/Walrus",
+  "top": {
+   "text": "Met zijn slagtanden hakt hij zich door 20 centimeter dik ijs.",
+   "url": "https://oceana.org/marine-life/walrus/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -32130,6 +34390,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Weddell_seal",
+  "top": {
+   "text": "Onder het ijs knaagt hij met zijn hoektanden ademgaten in dun ijs.",
+   "url": "https://animaldiversity.org/accounts/Leptonychotes_weddellii/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -32203,6 +34468,11 @@ window.OCEAN_ANIMALS = [
   "family": "Trichechidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/African_manatee",
+  "top": {
+   "text": "Bij de Serer in Senegal is hij heilig: volgens hun scheppingsverhaal bewaakt hij de geheimen van de toekomst.",
+   "url": "https://en.wikipedia.org/wiki/African_manatee",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -32276,6 +34546,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 263,
   "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_white-sided_dolphin",
+  "top": {
+   "text": "Achter zijn rugvin heeft hij een witte tot lichtgele vlek die je bij geen andere dolfijn ziet.",
+   "url": "https://en.wikipedia.org/wiki/Atlantic_white-sided_dolphin",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -32349,6 +34624,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 3098,
   "wikiEn": "https://en.wikipedia.org/wiki/White-beaked_dolphin",
+  "top": {
+   "text": "Zijn rechterflipper is vaak sterker dan zijn linker: hij is misschien 'rechtshandig'!",
+   "url": "https://en.wikipedia.org/wiki/White-beaked_dolphin",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -32422,6 +34702,11 @@ window.OCEAN_ANIMALS = [
   "family": "Monodontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Beluga_whale",
+  "top": {
+   "text": "Zijn roep klinkt als vogelgezang, daarom heet hij ook wel 'de kanarie van de zee'.",
+   "url": "https://en.wikipedia.org/wiki/Beluga_whale",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -32495,6 +34780,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocidae",
   "ns": 13,
   "wikiEn": "https://en.wikipedia.org/wiki/Harp_seal",
+  "top": {
+   "text": "Een geboorte kan maar 15 seconden duren.",
+   "url": "https://en.wikipedia.org/wiki/Harp_seal",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -32568,6 +34858,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Leopard_seal",
+  "top": {
+   "text": "Hij is de enige zeehond die op warmbloedige prooien jaagt, zoals andere zeehonden.",
+   "url": "https://www.nationalgeographic.com/animals/mammals/facts/leopard-seal",
+   "by": "National Geographic"
+  },
   "curated": true
  },
  {
@@ -32641,6 +34936,11 @@ window.OCEAN_ANIMALS = [
   "family": "Mustelidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Sea_otter",
+  "top": {
+   "text": "Onder zijn oksels zitten huidzakken waarin hij een steen als gereedschap bewaart, zodat hij zijn handen vrij heeft om te eten.",
+   "url": "https://animaldiversity.org/accounts/Enhydra_lutris/",
+   "by": "Animal Diversity Web"
+  },
   "curated": true
  },
  {
@@ -32714,6 +35014,11 @@ window.OCEAN_ANIMALS = [
   "family": "Phocidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Southern_elephant_seal",
+  "top": {
+   "text": "Een pasgeboren pup weegt 40 kilo, en is na een maand al zo'n 220 kilo.",
+   "url": "https://oceana.org/marine-life/southern-elephant-seal/",
+   "by": "Oceana"
+  },
   "curated": true
  },
  {
@@ -32787,6 +35092,11 @@ window.OCEAN_ANIMALS = [
   "family": "Balaenidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Southern_right_whale",
+  "top": {
+   "text": "Hij doet aan 'staartzeilen': hij steekt zijn staart rechtop in de wind en laat zich meevoeren.",
+   "url": "https://en.wikipedia.org/wiki/Southern_right_whale",
+   "by": "Engelse Wikipedia"
+  },
   "curated": true
  },
  {
@@ -32860,6 +35170,11 @@ window.OCEAN_ANIMALS = [
   "family": "Hyperoodontidae",
   "ns": 0,
   "wikiEn": "https://en.wikipedia.org/wiki/Baird%27s_beaked_whale",
+  "top": {
+   "text": "Mannetjes kunnen 84 jaar oud worden, en één keer werd een duik van 82 minuten gemeten.",
+   "url": "https://www.fisheries.noaa.gov/species/bairds-beaked-whale",
+   "by": "NOAA Fisheries"
+  },
   "curated": true
  },
  {
@@ -32933,6 +35248,11 @@ window.OCEAN_ANIMALS = [
   "family": "Delphinidae",
   "ns": 26,
   "wikiEn": "https://en.wikipedia.org/wiki/False_killer_whale",
+  "top": {
+   "text": "Bij de jacht werken ze samen en delen ze hun vangst met de rest van de groep.",
+   "url": "https://oceana.org/marine-life/false-killer-whale/",
+   "by": "Oceana"
+  },
   "curated": true
  }
 ];

@@ -21,6 +21,7 @@ def main():
     s = open(os.path.join(ROOT, "data.js"), encoding="utf-8").read()
     animals = json.loads(s[s.index("=") + 1:s.index("window.OCEAN_META")].rstrip().rstrip(";"))
     sci_by_id = {a["id"]: a["sci"] for a in animals}
+    wiki_by_id = {a["id"]: a["wiki"] for a in animals}
 
     fun = {}
     for path in sorted(glob.glob(os.path.join(HERE, "fun", "batch_*.json"))):
@@ -37,9 +38,25 @@ def main():
         else:
             c.pop("wikiEn", None)
 
+    # Eén uitgelicht topfeitje per dier, met eigen bron (vaak buiten Wikipedia)
+    for top_path in sorted(glob.glob(os.path.join(HERE, "fun", "top_*.json"))):
+        with open(top_path, encoding="utf-8") as f:
+            for aid, top in json.load(f).items():
+                c = curated.setdefault(aid, {})
+                # korte notatie: "en"/"nl" = het Wikipedia-artikel van dit dier
+                if top["url"] == "en":
+                    en = c.get("wikiEn")
+                    if not en and en_titles.get(sci_by_id[aid]):
+                        en = "https://en.wikipedia.org/wiki/" + urllib.parse.quote(en_titles[sci_by_id[aid]].replace(" ", "_"))
+                    top = dict(top, url=en, by="Engelse Wikipedia")
+                elif top["url"] == "nl":
+                    top = dict(top, url=wiki_by_id[aid], by="Wikipedia")
+                c["top"] = top
+
     with open(curated_path, "w", encoding="utf-8") as f:
         json.dump(curated, f, ensure_ascii=False, indent=1)
-    print(f"{len(fun)} dieren bijgewerkt, {sum('wikiEn' in c for c in curated.values())} met Engelse bron")
+    print(f"{len(fun)} dieren bijgewerkt, {sum('wikiEn' in c for c in curated.values())} met Engelse bron, "
+          f"{sum('top' in c for c in curated.values())} met topfeitje")
 
 
 if __name__ == "__main__":
