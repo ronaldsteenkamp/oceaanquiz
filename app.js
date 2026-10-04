@@ -464,7 +464,7 @@
 
   const mediaKey = url => new URL(url, location.href).pathname.split("/").slice(-2).join("/");
   async function countCached() {
-    const have = new Set((await (await caches.open("oq-media")).keys()).map(r => mediaKey(r.url)));
+    const have = new Set((await (await caches.open("oq-media-2")).keys()).map(r => mediaKey(r.url)));
     return MEDIA_URLS.filter(u => have.has(u)).length;
   }
 
@@ -483,7 +483,7 @@
   async function downloadAll() {
     if (offline.busy) return;
     offline.busy = true;
-    const cache = await caches.open("oq-media");
+    const cache = await caches.open("oq-media-2");
     const have = new Set((await cache.keys()).map(r => mediaKey(r.url)));
     const todo = MEDIA_URLS.filter(u => !have.has(u));
     offline.done = MEDIA_URLS.length - todo.length;
@@ -1019,7 +1019,10 @@
       <section class="info-sec">
         <h4>${icon("bulb")} Wist je dat?</h4>
         <p>${esc(a.intro)}</p>${facts}
-        <a class="more-link" href="${esc(a.wiki)}" target="_blank" rel="noopener">Lees verder op Wikipedia ${icon("external")}</a>
+        <div class="more-links">
+          <a class="more-link" href="${esc(a.wiki)}" target="_blank" rel="noopener">Lees verder op Wikipedia ${icon("external")}</a>
+          ${a.wikiEn ? `<a class="more-link" href="${esc(a.wikiEn)}" target="_blank" rel="noopener">Bron: Engelse Wikipedia ${icon("external")}</a>` : ""}
+        </div>
       </section>
       <section class="info-sec">
         <h4>${icon("map")} Waar komt dit dier voor?</h4>
@@ -1128,7 +1131,7 @@
           <section class="about-card">
             <h2>Hoe het werkt</h2>
             <ul class="about-list">
-              <li><b>Feitjes</b>: per dier gekozen en herschreven uit de Nederlandstalige Wikipedia (${curated} dieren met handmatig nagelopen feitjes). Elk feitje is terug te vinden in het Wikipedia-artikel.</li>
+              <li><b>Feitjes</b>: per dier uitgezocht in de Nederlandse en Engelse Wikipedia en in eigen woorden herschreven (${curated} dieren met handmatig nagelopen feitjes). Elk feitje is terug te vinden in het gelinkte Wikipedia-artikel.</li>
               <li><b>Foto's</b>: ${fmt(photos.length)} foto's, waarvan ${fmt(inat)} van iNaturalist en ${fmt(photos.length - inat)} van Wikimedia Commons. Alleen foto's met een open licentie; maker en licentie staan bij elke foto.</li>
               <li><b>Kaarten</b>: waarnemingen uit GBIF, de wereldwijde database met miljoenen waarnemingen van dieren.</li>
               <li><b>Oefenen</b>: werkt met herhaling op afstand. Een dier dat je goed hebt, komt pas na 1, 3, 7, 14 en 30 dagen terug; een fout dier meteen weer.</li>

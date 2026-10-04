@@ -63,9 +63,19 @@ def make_thumb(animal_id, img_rel):
     return rel
 
 
+_picks_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "photo_picks.json")
+PICKS = json.load(open(_picks_path, encoding="utf-8")) if os.path.exists(_picks_path) else {}
+
+
 def photos_for(a):
     """-> lijst foto's [{img, size, credit}], hoofdfoto eerst."""
-    main = {"img": a["img"], "size": a["imgSize"], "credit": a["credit"]}
+    if a["id"] in PICKS:  # met de hand gekozen (hele dier, natuurlijke omgeving): zie apply_picks.py
+        out = []
+        for p in PICKS[a["id"]]["photos"]:
+            with Image.open(os.path.join(ROOT, p["img"])) as im:
+                out.append({"img": p["img"], "size": list(im.size), "credit": p["credit"]})
+        return out
+    main ={"img": a["img"], "size": a["imgSize"], "credit": a["credit"]}
     with INAT_LOCK:
         alts = inat_alternatives(a["sci"])
     main_id = a["credit"]["url"].rsplit("/", 1)[-1]

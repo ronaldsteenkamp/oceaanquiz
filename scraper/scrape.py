@@ -394,6 +394,8 @@ def main():
                 a["facts"] = c["facts"]
                 if c.get("intro"):
                     a["intro"] = c["intro"]
+                if c.get("wikiEn"):
+                    a["wikiEn"] = c["wikiEn"]
                 a["curated"] = True
         print(f"Geredigeerde feitjes: {sum(1 for a in animals if a.get('curated'))}/{len(animals)}")
 

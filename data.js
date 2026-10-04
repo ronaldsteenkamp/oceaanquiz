@@ -7,9 +7,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De adelaarsrog of molenrog is een vissensoort uit de familie van de adelaarsroggen.",
   "facts": [
-   "Zijn ogen staan op vlezige steeltjes aan weerszijden van de kop.",
-   "In zijn bek zitten zeven rijen platte maalkiezen, en aan zijn lange staart zit een giftige stekel.",
-   "Hij is een uitstekende zwemmer en kan hoog uit het water springen om aan vijanden te ontsnappen."
+   "In plaats van tanden heeft hij een mozaïek van platte plaatjes waarmee hij schelpen kraakt.",
+   "Zijn ogen staan op vlezige steeltjes.",
+   "Hij kan hoog uit het water springen om vijanden te ontvluchten."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Adelaarsrog",
   "img": "images/myliobatis-aquila.webp",
@@ -43,12 +43,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/myliobatis-aquila-2.webp",
     "size": [
      1100,
-     734
+     825
     ],
     "credit": {
-     "by": "Michael Bommerer",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/401887273",
+     "by": "Le Gallais",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/445722347",
      "source": "iNaturalist"
     }
    },
@@ -61,7 +61,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Michael Bommerer",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/379496874",
+     "url": "https://www.inaturalist.org/photos/432023597",
      "source": "iNaturalist"
     }
    }
@@ -70,6 +70,7 @@ window.OCEAN_ANIMALS = [
   "order": "Myliobatiformes",
   "family": "Myliobatidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_eagle_ray",
   "curated": true
  },
  {
@@ -79,9 +80,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De Australische varkenskophaai is een vis uit de familie van stierkophaaien en behoort derhalve tot de orde van varkenshaaien.",
   "facts": [
-   "Door de donkere strepen op zijn rug en flanken lijkt het alsof hij een harnas draagt.",
-   "Hij eet zeesterren en zeekomkommers, die hij met zijn maalkiezen van de bodem haalt.",
-   "De vrouwtjes leggen grote eieren in een spiraalvormig omhulsel."
+   "Jonge haaien van deze soort hebben elk een eigen karakter, net als mensen.",
+   "Ze kunnen leren dat een lichtje of geluid 'eten!' betekent, en kunnen zelfs hoeveelheden tellen.",
+   "Zijn voortanden zijn scherp en zijn achtertanden plat: twee soorten gebit in één bek."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Australische_varkenskophaai",
   "img": "images/heterodontus-portusjacksoni.webp",
@@ -118,9 +119,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "J. Martin Crossley",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/114294633",
+     "by": "Peter",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/10813605",
      "source": "iNaturalist"
     }
    },
@@ -128,12 +129,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/heterodontus-portusjacksoni-3.webp",
     "size": [
      1100,
-     723
+     721
     ],
     "credit": {
-     "by": "Marine Explorer (Dr John Turnbull)",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/5895958",
+     "by": "stephencoutts",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/10570862",
      "source": "iNaturalist"
     }
    }
@@ -142,6 +143,7 @@ window.OCEAN_ANIMALS = [
   "order": "Heterodontiformes",
   "family": "Heterodontidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Port_Jackson_shark",
   "curated": true
  },
  {
@@ -151,9 +153,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De blauwe haai, ook wel grote blauwe haai genoemd, is een haai uit de familie van de requiemhaaien, de familie die verantwoordelijk is voor de meeste aanvallen op mensen.",
   "facts": [
-   "Zijn rug is donkerblauw en wordt naar de zijkanten toe lichter.",
-   "Een vrouwtje kan in één keer 25 tot 100 jongen krijgen.",
-   "Blauwe haaien leggen enorme afstanden af, bijvoorbeeld van Noord- naar Zuid-Amerika."
+   "Hij kan bijna helemaal rondom kijken: zijn blik bestrijkt 360 graden in verticale richting.",
+   "Hij voelt de piepkleine elektrische velden van andere dieren.",
+   "Een vrouwtje kan 25 tot 100 jongen tegelijk krijgen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Blauwe_haai",
   "img": "images/prionace-glauca.webp",
@@ -187,12 +189,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/prionace-glauca-2.webp",
     "size": [
      1100,
-     733
+     837
     ],
     "credit": {
-     "by": "Mark Conlin/NMFS",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/12399009",
+     "by": "Rino",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/66663464",
      "source": "iNaturalist"
     }
    },
@@ -200,12 +202,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/prionace-glauca-3.webp",
     "size": [
      1100,
-     736
+     825
     ],
     "credit": {
-     "by": "Marion Kraschl",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/92126694",
+     "by": "Callum Evans",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/113180820",
      "source": "iNaturalist"
     }
    }
@@ -214,6 +216,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Carcharhinidae",
   "ns": 182,
+  "wikiEn": "https://en.wikipedia.org/wiki/Blue_shark",
   "curated": true
  },
  {
@@ -223,9 +226,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De blauwgespikkelde pijlstaartrog is een rog uit de familie Dasyatidae.",
   "facts": [
-   "Zijn groenige lijf zit vol felblauwe vlekjes.",
-   "Hij is niet agressief, maar in het nauw gedreven kan hij steken met de giftige angel op zijn staart.",
-   "Om te ademen zuigt hij water naar binnen via openingen vlak achter zijn ogen."
+   "Hij heeft neonblauwe stippen op een gele huid en felgele ogen.",
+   "Overdag verstopt hij zich in grotten of wrakken, vaak met alleen zijn staart naar buiten.",
+   "Anders dan veel roggen graaft hij zich zelden in."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Blauwgespikkelde_pijlstaartrog",
   "img": "images/taeniura-lymma.webp",
@@ -264,7 +267,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Luis P. B.",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/469525805",
+     "url": "https://www.inaturalist.org/photos/511341493",
      "source": "iNaturalist"
     }
    },
@@ -272,12 +275,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/taeniura-lymma-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "DZIVULA GUBE",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/415728350",
+     "url": "https://www.inaturalist.org/photos/245496765",
      "source": "iNaturalist"
     }
    }
@@ -286,6 +289,7 @@ window.OCEAN_ANIMALS = [
   "order": "Myliobatiformes",
   "family": "Dasyatidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Bluespotted_ribbontail_ray",
   "curated": true
  },
  {
@@ -295,9 +299,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De blonde rog is een rog uit de familie Rajidae.",
   "facts": [
-   "Zijn lichtbruine rug zit vol zwarte en een paar witte vlekjes.",
-   "Hij leeft op zandbodems, ook in de Noordzee.",
-   "Langs de Nederlandse kust is hij zeldzaam: alle vijf bekende vangsten waren bij Texel."
+   "Brachyura betekent 'korte staart' in het Oudgrieks.",
+   "Hij heeft de vorm van een vlieger.",
+   "Hij kan zo'n 15 jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Blonde_rog",
   "img": "images/raja-brachyura.webp",
@@ -331,12 +335,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/raja-brachyura-2.webp",
     "size": [
      1100,
-     825
+     734
     ],
     "credit": {
-     "by": "Dennis Rabeling",
+     "by": "Xaime Beiro",
      "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/128652319",
+     "url": "https://www.inaturalist.org/photos/573503234",
      "source": "iNaturalist"
     }
    },
@@ -349,7 +353,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Luis P. B.",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/349125618",
+     "url": "https://www.inaturalist.org/photos/349125687",
      "source": "iNaturalist"
     }
    }
@@ -358,6 +362,7 @@ window.OCEAN_ANIMALS = [
   "order": "Rajiformes",
   "family": "Rajidae",
   "ns": 772,
+  "wikiEn": "https://en.wikipedia.org/wiki/Blonde_ray",
   "curated": true
  },
  {
@@ -367,20 +372,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De bruinbandbamboehaai is een bamboehaai uit de familie van epaulethaaien en bamboehaaien.",
   "facts": [
-   "Hij wordt maximaal ongeveer 105 centimeter lang.",
-   "Hij eet vooral garnalen, inktvissen en kleine visjes.",
-   "Het vrouwtje maakt haar eieren vast aan stenen of koraal."
+   "Hij kan tot 12 uur buiten het water overleven!",
+   "Hij is de held van de Maleisische tekenfilm 'SeeFood', waarin hij op het land kan ademen.",
+   "Jonge haaien zijn gestreept, volwassen dieren niet."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Bruinbandbamboehaai",
   "img": "images/chiloscyllium-punctatum.webp",
   "imgSize": [
    1400,
-   914
+   1050
   ],
   "credit": {
-   "by": "Tony Shih",
-   "license": "CC-BY-ND",
-   "url": "https://www.inaturalist.org/photos/86552786",
+   "by": "Harry Rosenthal",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/240425984",
    "source": "iNaturalist"
   },
   "obs": 1477,
@@ -390,7 +395,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/chiloscyllium-punctatum.webp",
     "size": [
      1400,
-     914
+     1050
+    ],
+    "credit": {
+     "by": "Harry Rosenthal",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/240425984",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/chiloscyllium-punctatum-2.webp",
+    "size": [
+     1100,
+     718
     ],
     "credit": {
      "by": "Tony Shih",
@@ -400,28 +418,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/chiloscyllium-punctatum-2.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Tsu Soo Tan",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/16551893",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/chiloscyllium-punctatum-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "John Turnbull",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/124242457",
+     "by": "Francois Libert",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/354268870",
      "source": "iNaturalist"
     }
    }
@@ -430,6 +435,7 @@ window.OCEAN_ANIMALS = [
   "order": "Orectolobiformes",
   "family": "Hemiscylliidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Brownbanded_bamboo_shark",
   "curated": true
  },
  {
@@ -439,20 +445,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De Californische stierkophaai of hoornhaai is een vis uit de familie van de stierkophaaien en behoort derhalve tot de orde van varkenshaaien.",
   "facts": [
-   "Hij heeft een 'varkenssnuit' en achter in zijn bek grote, platte tanden.",
-   "Met die tanden vermorzelt hij zeekomkommers en kreeftachtigen.",
-   "Zijn spiraalvormige eikapsels zitten zo ingewikkeld in elkaar dat ze stevig klem blijven zitten tussen de stenen."
+   "Hij kan zijn bovenkaak in 20 milliseconden naar voren schieten en als beitel gebruiken om vastzittende prooi los te wrikken.",
+   "Een verloren tand is binnen 4 weken vervangen.",
+   "Duikers maken soms sieraden van de stekels op zijn rugvinnen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Californische_stierkophaai",
   "img": "images/heterodontus-francisci.webp",
   "imgSize": [
-   1200,
-   800
+   1400,
+   1050
   ],
   "credit": {
-   "by": "Chad King / SIMoN NOAA",
-   "license": "PD",
-   "url": "https://www.inaturalist.org/photos/89423513",
+   "by": "Jeremy_Jodoin",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/562995436",
    "source": "iNaturalist"
   },
   "obs": 184260,
@@ -461,13 +467,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/heterodontus-francisci.webp",
     "size": [
-     1200,
-     800
+     1400,
+     1050
     ],
     "credit": {
-     "by": "Chad King / SIMoN NOAA",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/89423513",
+     "by": "Jeremy_Jodoin",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/562995436",
      "source": "iNaturalist"
     }
    },
@@ -475,12 +481,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/heterodontus-francisci-2.webp",
     "size": [
      1100,
-     704
+     825
     ],
     "credit": {
-     "by": "Michael Bear",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/13685261",
+     "by": "Melissa Foo",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/182207847",
      "source": "iNaturalist"
     }
    },
@@ -488,12 +494,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/heterodontus-francisci-3.webp",
     "size": [
      1100,
-     734
+     716
     ],
     "credit": {
-     "by": "Steven Sennikoff",
+     "by": "Charlotte Seid",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/10549739",
+     "url": "https://www.inaturalist.org/photos/342636054",
      "source": "iNaturalist"
     }
    }
@@ -502,6 +508,7 @@ window.OCEAN_ANIMALS = [
   "order": "Heterodontiformes",
   "family": "Heterodontidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Horn_shark",
   "curated": true
  },
  {
@@ -511,9 +518,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De citroenhaai is een vis uit de familie van roofhaaien, orde grondhaaien.",
   "facts": [
-   "Hij kan 3,4 meter lang en ruim 185 kilo zwaar worden.",
-   "Hij jaagt vooral 's nachts, en eet zelfs koffervissen, roggen en zeevogels.",
-   "Vrouwtjes krijgen om het jaar 4 tot 17 jongen, in warme, ondiepe lagunes."
+   "Zijn gele kleur is een perfecte camouflage boven de zandbodem.",
+   "Zijn hersenen zijn naar verhouding zo groot als die van een vogel of zoogdier: hij leert van soortgenoten en sluit 'vriendschappen'.",
+   "De oudste citroenhaai in gevangenschap werd 40 jaar."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Citroenhaai",
   "img": "images/negaprion-brevirostris.webp",
@@ -560,12 +567,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/negaprion-brevirostris-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Kevin Bryant",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/122352964",
+     "by": "Jen",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/415586815",
      "source": "iNaturalist"
     }
    }
@@ -574,6 +581,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Carcharhinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Lemon_shark",
   "curated": true
  },
  {
@@ -583,9 +591,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De doornhaai, ook wel speerhaai, spoorhaai of stekelhaai, is een haai uit de familie van de doornhaaien en behoort tot de orde van doornhaaiachtigen.",
   "facts": [
-   "Hij dankt zijn naam aan de stekels voor zijn rugvinnen, waarmee hij pijnlijk kan prikken.",
-   "Een doornhaai kan 75 jaar oud worden.",
-   "Hij leeft op de zeebodem, van vlak onder het wateroppervlak tot bijna 1,5 kilometer diep."
+   "Hij heeft een van de langste zwangerschappen van alle dieren: 18 tot 24 maanden.",
+   "Hij jaagt in groepen van soms wel duizenden haaien.",
+   "Gevangen kromt hij zijn rug om je te prikken met licht giftige stekels."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Doornhaai",
   "img": "images/squalus-acanthias.webp",
@@ -646,6 +654,7 @@ window.OCEAN_ANIMALS = [
   "order": "Squaliformes",
   "family": "Squalidae",
   "ns": 1266,
+  "wikiEn": "https://en.wikipedia.org/wiki/Spiny_dogfish",
   "curated": true
  },
  {
@@ -655,20 +664,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De epaulethaai is een vis uit de familie van epaulethaaien en bamboehaaien, orde bakerhaaien.",
   "facts": [
-   "Achter elke borstvin heeft hij een grote zwarte vlek, als een epaulet op een uniform.",
-   "Hij 'loopt' over de bodem met zijn gespierde buik- en borstvinnen.",
-   "Hij kan zelfs korte stukjes over het droge kruipen."
+   "Hij 'loopt' over de bodem met zijn vinnen en kan zelfs korte stukjes over het droge kruipen.",
+   "Hij overleeft een uur helemaal zonder zuurstof door delen van zijn hersenen 'uit te zetten'.",
+   "Zijn grote zwarte 'epauletten' zijn misschien nep-ogen om vijanden af te leiden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Epaulethaai",
   "img": "images/hemiscyllium-ocellatum.webp",
   "imgSize": [
    1400,
-   933
+   802
   ],
   "credit": {
-   "by": "coenobita",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/14942342",
+   "by": "Lucy Rowlands",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/437158067",
    "source": "iNaturalist"
   },
   "obs": 603,
@@ -678,12 +687,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/hemiscyllium-ocellatum.webp",
     "size": [
      1400,
-     933
+     802
     ],
     "credit": {
-     "by": "coenobita",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/14942342",
+     "by": "Lucy Rowlands",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/437158067",
      "source": "iNaturalist"
     }
    },
@@ -691,12 +700,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/hemiscyllium-ocellatum-2.webp",
     "size": [
      1100,
-     702
+     628
     ],
     "credit": {
-     "by": "Peter",
+     "by": "Lucy Rowlands",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/9236391",
+     "url": "https://www.inaturalist.org/photos/437158083",
      "source": "iNaturalist"
     }
    },
@@ -704,12 +713,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/hemiscyllium-ocellatum-3.webp",
     "size": [
      1100,
-     760
+     825
     ],
     "credit": {
-     "by": "Peter",
+     "by": "Dr Melissa Staines",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/9236406",
+     "url": "https://www.inaturalist.org/photos/423592468",
      "source": "iNaturalist"
     }
    }
@@ -718,6 +727,7 @@ window.OCEAN_ANIMALS = [
   "order": "Orectolobiformes",
   "family": "Hemiscylliidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Epaulette_shark",
   "curated": true
  },
  {
@@ -727,20 +737,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De franjebakerhaai of franjewobbegong is een vis uit de familie van de wobbegongs en behoort derhalve tot de orde van bakerhaaien.",
   "facts": [
-   "Hij wordt maximaal ongeveer 1,25 meter lang.",
-   "Hij leeft in ondiep water, tot zo'n 40 meter diep, in de Grote en Indische Oceaan.",
-   "Hij lijkt rustig, maar kan een mens flink verwonden."
+   "Hij zwaait met zijn staart, die dan op een klein visje lijkt, om prooien te lokken.",
+   "Zijn franje en mozaïekpatroon maken hem bijna onzichtbaar op het rif.",
+   "Overdag ligt hij met opgekrulde staart in een grot."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Franjebakerhaai",
   "img": "images/eucrossorhinus-dasypogon.webp",
   "imgSize": [
-   1000,
-   664
+   1400,
+   933
   ],
   "credit": {
-   "by": "Nigel Marsh",
+   "by": "Poseidon’s Adventure",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/56129530",
+   "url": "https://www.inaturalist.org/photos/608668260",
    "source": "iNaturalist"
   },
   "obs": 672,
@@ -748,6 +758,32 @@ window.OCEAN_ANIMALS = [
   "photos": [
    {
     "img": "images/eucrossorhinus-dasypogon.webp",
+    "size": [
+     1400,
+     933
+    ],
+    "credit": {
+     "by": "Poseidon’s Adventure",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/608668260",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/eucrossorhinus-dasypogon-2.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "J. Martin Crossley",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/271340444",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/eucrossorhinus-dasypogon-3.webp",
     "size": [
      1000,
      664
@@ -758,38 +794,13 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/56129530",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/eucrossorhinus-dasypogon-2.webp",
-    "size": [
-     1100,
-     826
-    ],
-    "credit": {
-     "by": "J. Martin Crossley",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/121328682",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/eucrossorhinus-dasypogon-3.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Franco Colnago",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/68788960",
-     "source": "iNaturalist"
-    }
    }
   ],
   "thumb": "thumbs/eucrossorhinus-dasypogon.webp",
   "order": "Orectolobiformes",
   "family": "Orectolobidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Tasselled_wobbegong",
   "curated": true
  },
  {
@@ -799,9 +810,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De franjehaai is een primitieve haai uit de familie Chlamydoselachidae.",
   "facts": [
-   "Zijn naam komt van de franje aan zijn zes kieuwspleten.",
-   "Met zijn lange, palingachtige lijf lijkt hij totaal niet op bekende haaien.",
-   "Hij leeft meestal tussen 120 en 1280 meter diep en wordt maar zelden gezien."
+   "Hij heet een 'levend fossiel': hij ziet er al miljoenen jaren bijna hetzelfde uit.",
+   "Zijn bek zit vol 300 naaldscherpe tandjes met drie punten.",
+   "Een zwangerschap kan wel 3,5 jaar duren."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Franjehaai",
   "img": "images/chlamydoselachus-anguineus.webp",
@@ -862,6 +873,7 @@ window.OCEAN_ANIMALS = [
   "order": "Hexanchiformes",
   "family": "Chlamydoselachidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Frilled_shark",
   "curated": true
  },
  {
@@ -871,20 +883,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De geelbruine verpleegstershaai is een verpleegsterhaai die leeft in tropische en warme gematigde zeeën.",
   "facts": [
-   "Hij kan meer dan drie meter lang worden.",
-   "Al in de baarmoeder eten de oudste jongen andere eieren en embryo's op.",
-   "Pas na 15 tot 20 jaar is hij volwassen genoeg om jongen te krijgen."
+   "Hij is zo rustig dat duikers hem vaak mogen aanraken.",
+   "Hij kan langzaam van kleur veranderen om op zijn omgeving te lijken.",
+   "In 1986 werd een albino van deze soort gevangen: de grootste albinohaai ooit."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Geelbruine_verpleegsterhaai",
   "img": "images/nebrius-ferrugineus.webp",
   "imgSize": [
    1400,
-   933
+   1050
   ],
   "credit": {
-   "by": "Daniel Benák",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/229382183",
+   "by": "Rafi Amar",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/333103541",
    "source": "iNaturalist"
   },
   "obs": 1786,
@@ -894,12 +906,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/nebrius-ferrugineus.webp",
     "size": [
      1400,
-     933
+     1050
     ],
     "credit": {
-     "by": "Daniel Benák",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/229382183",
+     "by": "Rafi Amar",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/333103541",
      "source": "iNaturalist"
     }
    },
@@ -907,12 +919,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/nebrius-ferrugineus-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Frank Krasovec",
+     "by": "Dave Suszcynsky",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/423160707",
+     "url": "https://www.inaturalist.org/photos/93289418",
      "source": "iNaturalist"
     }
    },
@@ -923,9 +935,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Luis P. B.",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/238097100",
+     "by": "Daniel Benák",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/229382183",
      "source": "iNaturalist"
     }
    }
@@ -934,6 +946,7 @@ window.OCEAN_ANIMALS = [
   "order": "Orectolobiformes",
   "family": "Ginglymostomatidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Tawny_nurse_shark",
   "curated": true
  },
  {
@@ -943,9 +956,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De gemarmerde sidderrog is een soort uit het geslacht en de familie van de sidderroggen.",
   "facts": [
-   "Hij kan stroomstoten tot 200 volt geven om prooien te verlammen of zich te verdedigen.",
-   "Hij ligt meestal verstopt onder zand of modder, met alleen zijn ogen erboven.",
-   "Langs de Nederlandse kust is hij zeldzaam; in 2013 werd er een gevangen bij de Maasvlakte."
+   "Hij geeft stroomstoten van 70 tot 80 volt.",
+   "Pasgeboren jongen kunnen meteen al met elektriciteit jagen.",
+   "Hij springt op zijn prooi en vuurt daarbij honderden stroomstootjes af."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gemarmerde_sidderrog",
   "img": "images/torpedo-marmorata.webp",
@@ -984,7 +997,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Dennis Rabeling",
      "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/257780747",
+     "url": "https://www.inaturalist.org/photos/661486960",
      "source": "iNaturalist"
     }
    },
@@ -992,12 +1005,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/torpedo-marmorata-3.webp",
     "size": [
      1100,
-     733
+     707
     ],
     "credit": {
-     "by": "Pascal GIRARD",
+     "by": "eduardmarques",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/215151342",
+     "url": "https://www.inaturalist.org/photos/172997484",
      "source": "iNaturalist"
     }
    }
@@ -1006,6 +1019,7 @@ window.OCEAN_ANIMALS = [
   "order": "Torpediniformes",
   "family": "Torpedinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Marbled_electric_ray",
   "curated": true
  },
  {
@@ -1015,20 +1029,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De geschulpte hamerhaai of Lewins hamerhaai is een vis uit de familie van hamerhaaien, orde roofhaaien, die voorkomt in de Grote, Atlantische en Indische Oceaan.",
   "facts": [
-   "Je ziet hem vaak langs steile koraalwanden.",
-   "Hij zwemt vaak in grote scholen.",
-   "Hij duikt tot zo'n 275 meter diep."
+   "Zijn ogen en neusgaten zitten aan de uiteinden van zijn 'hamer'.",
+   "Hij heeft een groot brein en is sociaal slim.",
+   "Hij zwemt in scholen van soms honderden haaien."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Geschulpte_hamerhaai",
   "img": "images/sphyrna-lewini.webp",
   "imgSize": [
    1400,
-   788
+   933
   ],
   "credit": {
-   "by": "Kris Mikael Krister",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/86555463",
+   "by": "Simon Pierce",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/224059254",
    "source": "iNaturalist"
   },
   "obs": 28980,
@@ -1038,12 +1052,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sphyrna-lewini.webp",
     "size": [
      1400,
-     788
+     933
     ],
     "credit": {
-     "by": "Kris Mikael Krister",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/86555463",
+     "by": "Simon Pierce",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/224059254",
      "source": "iNaturalist"
     }
    },
@@ -1054,9 +1068,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Etienne Guitton",
+     "by": "Nicholas Hess",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/342963923",
+     "url": "https://www.inaturalist.org/photos/126759764",
      "source": "iNaturalist"
     }
    },
@@ -1064,12 +1078,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sphyrna-lewini-3.webp",
     "size": [
      1100,
-     619
+     825
     ],
     "credit": {
-     "by": "Proveedores INVEMAR",
+     "by": "Albert Kang",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/112960165",
+     "url": "https://www.inaturalist.org/photos/142108380",
      "source": "iNaturalist"
     }
    }
@@ -1078,6 +1092,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Sphyrnidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Scalloped_hammerhead",
   "curated": true
  },
  {
@@ -1087,9 +1102,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De gevlekte adelaarsrog is een rog uit de familie Aetobatidae.",
   "facts": [
-   "Zijn 'vleugels' kunnen samen 3 meter breed zijn.",
-   "De zwaarste ooit gewogen exemplaar woog 230 kilo.",
-   "Hij eet onder andere garnalen, oesters en octopussen."
+   "Hij springt soms zo hoog uit het water dat hij in boten belandt!",
+   "Hij heeft 2 tot 6 giftige stekels aan zijn lange staart.",
+   "Hij is nieuwsgierig: soms zwemt hij langzamer om bij een snorkelaar te blijven."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gevlekte_adelaarsrog",
   "img": "images/aetobatus-narinari.webp",
@@ -1123,12 +1138,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/aetobatus-narinari-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Luke Foster",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/186470122",
+     "by": "Phil's 1stPix",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/55196027",
      "source": "iNaturalist"
     }
    },
@@ -1136,12 +1151,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/aetobatus-narinari-3.webp",
     "size": [
      1100,
-     733
+     658
     ],
     "credit": {
-     "by": "Luke Foster",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/186469999",
+     "by": "Julian Jimenez",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/255477917",
      "source": "iNaturalist"
     }
    }
@@ -1150,6 +1165,7 @@ window.OCEAN_ANIMALS = [
   "order": "Myliobatiformes",
   "family": "Myliobatidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Spotted_eagle_ray",
   "curated": true
  },
  {
@@ -1160,7 +1176,7 @@ window.OCEAN_ANIMALS = [
   "intro": "De gevlekte bakerhaai of Australische tapijthaai is een vis uit de familie der wobbegongs, orde van bakerhaaien.",
   "facts": [
    "Rond zijn snuit zitten flapjes die op zeewier lijken en prooien aantrekken.",
-   "Hij jaagt niet actief, maar wacht op de bodem tot er een prooi langskomt.",
+   "Hij heeft O-vormige vlekken over zijn hele lijf.",
    "Kreeftjes en inktvissen zwemmen soms recht zijn open bek in."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gevlekte_bakerhaai",
@@ -1195,25 +1211,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/orectolobus-maculatus-2.webp",
     "size": [
      1100,
-     901
+     825
     ],
     "credit": {
-     "by": "Peter",
+     "by": "Henrick Michael",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/14050990",
+     "url": "https://www.inaturalist.org/photos/57628834",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/orectolobus-maculatus-3.webp",
     "size": [
-     1100,
-     825
+     1000,
+     757
     ],
     "credit": {
-     "by": "ihunter",
+     "by": "Ian Banks",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/21838026",
+     "url": "https://www.inaturalist.org/photos/10940007",
      "source": "iNaturalist"
     }
    }
@@ -1222,6 +1238,7 @@ window.OCEAN_ANIMALS = [
   "order": "Orectolobiformes",
   "family": "Orectolobidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Spotted_wobbegong",
   "curated": true
  },
  {
@@ -1231,9 +1248,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De Gevlekte draakvis is een vis uit de familie kortneusdraakvissen.",
   "facts": [
-   "Hij heeft geen schubben, maar een gladde, glibberige huid.",
-   "Tussen zijn ogen zit een intrekbaar knotsje, dat waarschijnlijk een rol speelt bij het versieren.",
-   "Zijn eieren zitten verpakt in een lang, spoelvormig kapsel."
+   "Hij dankt zijn Engelse naam 'ratfish' aan zijn spitse rattenstaart.",
+   "Zijn grote smaragdgroene ogen weerkaatsen licht, net als kattenogen.",
+   "Zijn tanden zijn platen die nooit vervangen worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gevlekte_draakvis",
   "img": "images/hydrolagus-colliei.webp",
@@ -1267,12 +1284,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/hydrolagus-colliei-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Stosh Morency",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/8049778",
+     "by": "Josh Houston",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/187212310",
      "source": "iNaturalist"
     }
    },
@@ -1280,12 +1297,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/hydrolagus-colliei-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Stosh Morency",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/8049780",
+     "by": "hewittdoesit",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/607577689",
      "source": "iNaturalist"
     }
    }
@@ -1294,6 +1311,7 @@ window.OCEAN_ANIMALS = [
   "order": "Chimaeriformes",
   "family": "Chimaeridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Spotted_ratfish",
   "curated": true
  },
  {
@@ -1303,20 +1321,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De gevlekte gladde haai, ook wel gevlekte toonhaai, is een haai uit de familie van de gladde haaien.",
   "facts": [
-   "Hij komt voor in de zuidelijke Noordzee, ook voor de Nederlandse kust.",
-   "Onderzoek liet zien dat hij vrij algemeen is voor de kust van Zeeland.",
-   "In 2018 werd er een gezien voor de kust van Terschelling."
+   "Hij komt voor in de zuidelijke Noordzee en is vrij algemeen voor de kust van Zeeland.",
+   "In 2018 werd er een gezien voor de kust van Terschelling.",
+   "Hij heeft geen scherpe tanden, maar rijtjes vlakke tandjes."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gevlekte_gladde_haai",
   "img": "images/mustelus-asterias.webp",
   "imgSize": [
    1400,
-   788
+   538
   ],
   "credit": {
-   "by": "Michael Bakker Paiva",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/9364596",
+   "by": "Andy Drumm",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/76343484",
    "source": "iNaturalist"
   },
   "obs": 35347,
@@ -1326,12 +1344,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/mustelus-asterias.webp",
     "size": [
      1400,
-     788
+     538
     ],
     "credit": {
-     "by": "Michael Bakker Paiva",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/9364596",
+     "by": "Andy Drumm",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/76343484",
      "source": "iNaturalist"
     }
    },
@@ -1347,25 +1365,13 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/9364592",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/mustelus-asterias-3.webp",
-    "size": [
-     1100,
-     699
-    ],
-    "credit": {
-     "by": "Pieter Verbeek",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/383891518",
-     "source": "iNaturalist"
-    }
    }
   ],
   "thumb": "thumbs/mustelus-asterias.webp",
   "order": "Carcharhiniformes",
   "family": "Triakidae",
   "ns": 809,
+  "wikiEn": "https://en.wikipedia.org/wiki/Starry_smooth-hound",
   "curated": true
  },
  {
@@ -1375,9 +1381,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De gevlekte rog of gladde rog is een rog uit de familie Rajidae.",
   "facts": [
+   "Het is een van de kleinste roggen.",
    "Zijn bruine rug zit vol zwarte stippen, die soms ringen vormen.",
-   "Hij leeft op zandbodems, ook in de Noordzee.",
-   "Hij komt voor van 28 tot wel 530 meter diep."
+   "Hij leeft op zandbodems, ook in de Noordzee."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gevlekte_rog",
   "img": "images/raja-montagui.webp",
@@ -1411,25 +1417,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/raja-montagui-2.webp",
     "size": [
      1100,
-     825
+     981
     ],
     "credit": {
-     "by": "justindefever",
+     "by": "Giosue Reale",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/51203268",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/raja-montagui-3.webp",
-    "size": [
-     1100,
-     733
-    ],
-    "credit": {
-     "by": "justindefever",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/51105626",
+     "url": "https://www.inaturalist.org/photos/689056705",
      "source": "iNaturalist"
     }
    }
@@ -1438,6 +1431,7 @@ window.OCEAN_ANIMALS = [
   "order": "Rajiformes",
   "family": "Rajidae",
   "ns": 2484,
+  "wikiEn": "https://en.wikipedia.org/wiki/Spotted_ray",
   "curated": true
  },
  {
@@ -1446,7 +1440,11 @@ window.OCEAN_ANIMALS = [
   "sci": "Torpedo torpedo",
   "cat": "Haaien & roggen",
   "intro": "De gevlekte sidderrog is een vissensoort uit de familie van de sidderroggen.",
-  "facts": [],
+  "facts": [
+   "Hij heeft meestal vijf felblauwe vlekken op zijn rug, als ogen.",
+   "Hij geeft stroomstoten tot 200 volt.",
+   "Een pasgeboren rogje geeft al 4 volt, na vier maanden al 26 volt."
+  ],
   "wiki": "https://nl.wikipedia.org/wiki/Gevlekte_sidderrog",
   "img": "images/torpedo-torpedo.webp",
   "imgSize": [
@@ -1479,7 +1477,9 @@ window.OCEAN_ANIMALS = [
   "thumb": "thumbs/torpedo-torpedo.webp",
   "order": "Torpediniformes",
   "family": "Torpedinidae",
-  "ns": 0
+  "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_torpedo",
+  "curated": true
  },
  {
   "id": "notorynchus-cepedianus",
@@ -1488,20 +1488,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De gevlekte zevenkieuwshaai is een haai uit de familie van de koehaaien.",
   "facts": [
-   "Hij heeft zeven kieuwspleten, terwijl de meeste haaien er vijf hebben.",
-   "Met zijn veelpuntige tanden eet hij vissen, andere haaien en zelfs zeehonden.",
-   "Hij wordt ongeveer drie meter lang."
+   "Met zeven kieuwspleten staat hij in het Guinness Book of Records: de meeste kieuwspleten van alle haaien.",
+   "Haaien uit de Jura-tijd, 200 tot 145 miljoen jaar geleden, hadden ook al zeven kieuwen.",
+   "Hij eet soms zelfs soortgenoten."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gevlekte_zevenkieuwshaai",
   "img": "images/notorynchus-cepedianus.webp",
   "imgSize": [
    1400,
-   882
+   930
   ],
   "credit": {
-   "by": "Erik Schlögl",
+   "by": "marciariederer",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/93739798",
+   "url": "https://www.inaturalist.org/photos/80164457",
    "source": "iNaturalist"
   },
   "obs": 97827,
@@ -1511,7 +1511,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/notorynchus-cepedianus.webp",
     "size": [
      1400,
-     882
+     930
+    ],
+    "credit": {
+     "by": "marciariederer",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/80164457",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/notorynchus-cepedianus-2.webp",
+    "size": [
+     1100,
+     693
     ],
     "credit": {
      "by": "Erik Schlögl",
@@ -1521,28 +1534,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/notorynchus-cepedianus-2.webp",
-    "size": [
-     1024,
-     768
-    ],
-    "credit": {
-     "by": "Derek Keats",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/117605",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/notorynchus-cepedianus-3.webp",
     "size": [
      1100,
-     825
+     619
     ],
     "credit": {
-     "by": "Bradley Rasmussen",
+     "by": "Andrea Glockner-Fagetti",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/211278038",
+     "url": "https://www.inaturalist.org/photos/109795713",
      "source": "iNaturalist"
     }
    }
@@ -1551,6 +1551,7 @@ window.OCEAN_ANIMALS = [
   "order": "Hexanchiformes",
   "family": "Hexanchidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Broadnose_sevengill_shark",
   "curated": true
  },
  {
@@ -1560,9 +1561,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De gewone draakvis of zeerat is een vis uit de familie van kortneusdraakvissen.",
   "facts": [
-   "Hij leeft meestal tussen 300 en 500 meter diep.",
-   "Olie uit zijn lever wordt gebruikt in voedingssupplementen.",
-   "Zelf wordt hij niet als eetbaar gezien."
+   "Door zijn grote ogen en tandplaten lijkt zijn kop op die van een konijn: in het Engels heet hij 'rabbit fish'.",
+   "Zijn rugstekel is licht giftig.",
+   "Over zijn kop lopen marmerwitte strepen alle kanten op."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_draakvis",
   "img": "images/chimaera-monstrosa.webp",
@@ -1596,12 +1597,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/chimaera-monstrosa-2.webp",
     "size": [
      1100,
-     733
+     734
     ],
     "credit": {
-     "by": "Viktor V. Grøtan",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/12499686",
+     "by": "Vebjørn Karlsen",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/120995015",
      "source": "iNaturalist"
     }
    },
@@ -1614,7 +1615,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Viktor V. Grøtan",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/100578153",
+     "url": "https://www.inaturalist.org/photos/12499686",
      "source": "iNaturalist"
     }
    }
@@ -1623,6 +1624,7 @@ window.OCEAN_ANIMALS = [
   "order": "Chimaeriformes",
   "family": "Chimaeridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Rabbit_fish",
   "curated": true
  },
  {
@@ -1632,8 +1634,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De gewone pijlstaartrog is een rog uit de familie van de pijlstaartroggen.",
   "facts": [
-   "Op zijn staart zit een gekartelde, giftige stekel.",
-   "Hij leeft ook in de zuidelijke Noordzee.",
+   "De Romeinse schrijver Plinius beweerde dat zijn stekel bomen kon doden en ijzer kon laten roesten.",
+   "Een Griekse dichter dacht zelfs dat zijn gif steen kon oplossen.",
    "Zeeuwse vissers maakten vroeger een huismiddeltje tegen reuma van zijn lever."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_pijlstaartrog",
@@ -1668,12 +1670,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dasyatis-pastinaca-2.webp",
     "size": [
      1100,
-     734
+     619
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "Falk Viczian Solarboot-Projekte gGmbH",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/274254427",
+     "url": "https://www.inaturalist.org/photos/176076547",
      "source": "iNaturalist"
     }
    },
@@ -1681,12 +1683,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dasyatis-pastinaca-3.webp",
     "size": [
      1100,
-     736
+     735
     ],
     "credit": {
-     "by": "Thomas Menut",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/255784083",
+     "by": "shahar chaikin",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/238739504",
      "source": "iNaturalist"
     }
    }
@@ -1695,6 +1697,7 @@ window.OCEAN_ANIMALS = [
   "order": "Myliobatiformes",
   "family": "Dasyatidae",
   "ns": 9,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_stingray",
   "curated": true
  },
  {
@@ -1704,9 +1707,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De gewone zaaghaai is een vis uit de familie van zaaghaaien en behoort tot de orde van zaaghaaien.",
   "facts": [
-   "Hij wordt maximaal ongeveer 1,37 meter lang.",
-   "Hij kan 15 jaar oud worden.",
-   "Per worp krijgt hij 3 tot 22 jongen, veel voor een zaaghaai."
+   "Zijn 'zaag' is tot 30% van zijn hele lijf.",
+   "Bij de geboorte liggen de tanden van de zaag plat, zodat de moeder geen pijn heeft.",
+   "Hij woelt met zijn zaag de bodem om en slaat prooien."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_zaaghaai",
   "img": "images/pristiophorus-cirratus.webp",
@@ -1767,6 +1770,7 @@ window.OCEAN_ANIMALS = [
   "order": "Pristiophoriformes",
   "family": "Pristiophoridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Longnose_sawshark",
   "curated": true
  },
  {
@@ -1776,9 +1780,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De gewone zaagvis is een zaagvis uit de familie Pristidae.",
   "facts": [
-   "Hij leeft in zee, maar zwemt soms tot 750 kilometer de Amazone op.",
-   "Ondanks zijn naam is hij allesbehalve gewoon: in de Middellandse Zee is hij uitgestorven.",
-   "Hij plant zich langzaam voort en is daardoor kwetsbaar voor visserij."
+   "Hij kan achteruit zwemmen, 'klimmen' met zijn borstvinnen en hoog uit het water springen.",
+   "In zoet water kan hij rozerood kleuren.",
+   "Vrouwtjes keren waarschijnlijk terug naar hun geboorteplek om zelf jongen te krijgen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_zaagvis",
   "img": "images/pristis-pristis.webp",
@@ -1815,22 +1819,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Jonathan (Jon) Armbruster",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/105134195",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/pristis-pristis-3.webp",
-    "size": [
-     839,
-     408
-    ],
-    "credit": {
-     "by": "Bob Mackenzie",
+     "by": "Michael Verdirame",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/411679191",
+     "url": "https://www.inaturalist.org/photos/342552677",
      "source": "iNaturalist"
     }
    }
@@ -1839,6 +1830,7 @@ window.OCEAN_ANIMALS = [
   "order": "Rhinopristiformes",
   "family": "Pristidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Largetooth_sawfish",
   "curated": true
  },
  {
@@ -1848,20 +1840,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De gladde hamerhaai of gewone hamerhaai is een vis uit de familie van de hamerhaaien, en de orde van de roofhaaien, die voorkomt in de Grote, Atlantische en Indische Oceaan.",
   "facts": [
-   "Hij kan 5 meter lang en 400 kilo zwaar worden, al is hij meestal zo'n 3 meter.",
-   "Zijn ogen en neusgaten zitten aan de uiteinden van zijn hamervormige kop.",
-   "De grote afstand tussen de neusgaten helpt hem misschien om beter te ruiken."
+   "In één exemplaar zaten 95 giftige stekels van pijlstaartroggen rond zijn bek: hij eet ze gewoon.",
+   "'s Zomers trekt hij soms in scholen van duizenden haaien richting de polen.",
+   "Na de grote hamerhaai is hij de grootste hamerhaai."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gladde_hamerhaai",
   "img": "images/sphyrna-zygaena.webp",
   "imgSize": [
-   1400,
-   933
+   1334,
+   750
   ],
   "credit": {
-   "by": "Clinton Duffy",
+   "by": "Ben Knight",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/59372298",
+   "url": "https://www.inaturalist.org/photos/133867631",
    "source": "iNaturalist"
   },
   "obs": 4052,
@@ -1870,13 +1862,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/sphyrna-zygaena.webp",
     "size": [
-     1400,
-     933
+     1334,
+     750
     ],
     "credit": {
-     "by": "Clinton Duffy",
+     "by": "Ben Knight",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/59372298",
+     "url": "https://www.inaturalist.org/photos/133867631",
      "source": "iNaturalist"
     }
    },
@@ -1884,25 +1876,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/sphyrna-zygaena-2.webp",
     "size": [
      1100,
-     825
+     619
     ],
     "credit": {
-     "by": "Gonzalo Mucientes Sandoval",
+     "by": "Saxon Nelson-Milton",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/28759126",
+     "url": "https://www.inaturalist.org/photos/251917723",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/sphyrna-zygaena-3.webp",
     "size": [
-     883,
-     353
+     1100,
+     867
     ],
     "credit": {
      "by": "Clinton Duffy",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/4244308",
+     "url": "https://www.inaturalist.org/photos/29601611",
      "source": "iNaturalist"
     }
    }
@@ -1911,6 +1903,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Sphyrnidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Smooth_hammerhead",
   "curated": true
  },
  {
@@ -1920,9 +1913,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De grauwe haai is een vis uit de familie van de koehaaien.",
   "facts": [
-   "Hij heeft zes kieuwspleten en kamvormige, gezaagde tanden.",
-   "Hij jaagt op roggen, inktvissen en zelfs zeehonden.",
-   "Hij leeft tot wel 2000 meter diep."
+   "Zijn ogen zijn fluorescerend blauwgroen.",
+   "Hij drijft makkelijk en sluipt zo van onderen geruisloos op prooien af.",
+   "Een vrouwtje kan 22 tot 108 jongen tegelijk krijgen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grauwe_haai",
   "img": "images/hexanchus-griseus.webp",
@@ -1956,25 +1949,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/hexanchus-griseus-2.webp",
     "size": [
      1100,
-     721
+     938
     ],
     "credit": {
      "by": "Sara Thiebaud",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/94498219",
+     "url": "https://www.inaturalist.org/photos/94498001",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/hexanchus-griseus-3.webp",
     "size": [
-     1100,
-     655
+     1024,
+     570
     ],
     "credit": {
-     "by": "Ignacio Contreras",
+     "by": "canaryrockfish",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/165015767",
+     "url": "https://www.inaturalist.org/photos/152128366",
      "source": "iNaturalist"
     }
    }
@@ -1983,6 +1976,7 @@ window.OCEAN_ANIMALS = [
   "order": "Hexanchiformes",
   "family": "Hexanchidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Bluntnose_sixgill_shark",
   "curated": true
  },
  {
@@ -1992,9 +1986,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De grijze rifhaai is een haai uit de familie van de requiemhaaien.",
   "facts": [
-   "Zijn staartvin heeft een opvallende zwarte rand.",
-   "Bij gevaar neemt hij een dreighouding aan: kop omlaag, rug gekromd en lijf in een S-vorm.",
-   "Hij is nieuwsgierig en zwemt vaak op duikers af."
+   "Bij gevaar doet hij een dreigdans: kop omlaag, rug krom, lijf in een S-vorm.",
+   "Eén haai viel zelfs een onderzoeksduikboot aan en beet er een propeller af.",
+   "Overdag hangt hij in groepjes bij de rand van het rif; 's avonds gaat iedereen apart jagen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grijze_rifhaai",
   "img": "images/carcharhinus-amblyrhynchos.webp",
@@ -2027,13 +2021,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/carcharhinus-amblyrhynchos-2.webp",
     "size": [
-     1100,
-     826
+     1024,
+     627
     ],
     "credit": {
-     "by": "J. Martin Crossley",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/652073353",
+     "by": "Mark Rosenstein",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/550043",
      "source": "iNaturalist"
     }
    },
@@ -2046,7 +2040,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Luis P. B.",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/668839239",
+     "url": "https://www.inaturalist.org/photos/243516612",
      "source": "iNaturalist"
     }
    }
@@ -2055,6 +2049,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Carcharhinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Grey_reef_shark",
   "curated": true
  },
  {
@@ -2064,9 +2059,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De Groenlandse haai is een kraakbeenvis uit de familie Somniosidae en de orde van de doornhaaiachtigen.",
   "facts": [
-   "Hij kan wel 500 jaar oud worden: het langst levende gewervelde dier op aarde.",
-   "Waarschijnlijk wordt hij zo oud doordat hij in ijskoud, diep water leeft.",
-   "Rauw is zijn vlees giftig; op IJsland laten ze het weken fermenteren voordat het eetbaar is."
+   "Hij is het langst levende gewervelde dier: zo'n 272 tot 510 jaar!",
+   "Een Groenlandse haai die nu leeft, kan al geboren zijn voordat Rembrandt schilderde.",
+   "Veel van deze haaien zijn bijna blind door parasieten op hun ogen; ze vinden hun weg met reuk."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Groenlandse_haai",
   "img": "images/somniosus-microcephalus.webp",
@@ -2127,6 +2122,7 @@ window.OCEAN_ANIMALS = [
   "order": "Squaliformes",
   "family": "Somniosidae",
   "ns": 8,
+  "wikiEn": "https://en.wikipedia.org/wiki/Greenland_shark",
   "curated": true
  },
  {
@@ -2136,8 +2132,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De grootoogrog is een rog uit de familie Rajidae.",
   "facts": [
-   "Op elke borstvin heeft hij een grote zwarte vlek met een gele rand, die op een oog lijkt.",
-   "Hij leeft van 20 tot 500 meter diep.",
+   "Op elke borstvin heeft hij een grote zwarte vlek met gele rand, als een oog.",
+   "Een vrouwtje legt tot 100 eikapsels per jaar.",
    "Langs de Nederlandse kust is hij zeer zeldzaam."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grootoogrog",
@@ -2147,9 +2143,9 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "Carmen B. de los Santos",
-   "license": "CC-BY-NC-SA",
-   "url": "https://www.inaturalist.org/photos/29769070",
+   "by": "Cathy Hollingdale",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/476556032",
    "source": "iNaturalist"
   },
   "obs": 58577,
@@ -2162,9 +2158,9 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "Carmen B. de los Santos",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/29769070",
+     "by": "Cathy Hollingdale",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/476556032",
      "source": "iNaturalist"
     }
    },
@@ -2175,22 +2171,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Carmen B. de los Santos",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/29769147",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/leucoraja-naevus-3.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "A Rocha Portugal",
+     "by": "Cathy Hollingdale",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/150057043",
+     "url": "https://www.inaturalist.org/photos/476556067",
      "source": "iNaturalist"
     }
    }
@@ -2199,6 +2182,7 @@ window.OCEAN_ANIMALS = [
   "order": "Rajiformes",
   "family": "Rajidae",
   "ns": 1081,
+  "wikiEn": "https://en.wikipedia.org/wiki/Leucoraja_naevus",
   "curated": true
  },
  {
@@ -2208,20 +2192,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De grote hamerhaai is een vis uit de familie van hamerhaaien, orde roofhaaien, die voorkomt in de Grote, Atlantische en Indische Oceaan.",
   "facts": [
-   "Hij kan 6 meter lang worden.",
-   "Met zijn brede 'hamer' drukt hij stekelroggen, zijn lievelingsprooi, tegen de zandbodem.",
-   "Zintuigen op zijn kop vangen elektrische signalen op van prooien die onder het zand verstopt liggen."
+   "Hij zwaait met zijn kop over de bodem als een metaaldetector, op zoek naar ingegraven roggen.",
+   "Eén grote hamerhaai had 96 rog-stekels rond zijn bek, en had er geen last van.",
+   "Fossiele tanden laten zien dat zijn voorouders jonge megalodons aten."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grote_hamerhaai",
   "img": "images/sphyrna-mokarran.webp",
   "imgSize": [
    1400,
-   931
+   934
   ],
   "credit": {
-   "by": "Jake Mohan",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/86554863",
+   "by": "Ingo Rogalla",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/506159263",
    "source": "iNaturalist"
   },
   "obs": 27519,
@@ -2231,12 +2215,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sphyrna-mokarran.webp",
     "size": [
      1400,
-     931
+     934
     ],
     "credit": {
-     "by": "Jake Mohan",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/86554863",
+     "by": "Ingo Rogalla",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/506159263",
      "source": "iNaturalist"
     }
    },
@@ -2247,9 +2231,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Christa Rohrbach",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/12399599",
+     "by": "Katherine Watkinson",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/622664416",
      "source": "iNaturalist"
     }
    },
@@ -2257,12 +2241,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sphyrna-mokarran-3.webp",
     "size": [
      1100,
-     814
+     732
     ],
     "credit": {
-     "by": "martinmoscovich",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/84670814",
+     "by": "Jake Mohan",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/86554863",
      "source": "iNaturalist"
     }
    }
@@ -2271,6 +2255,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Sphyrnidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Great_hammerhead",
   "curated": true
  },
  {
@@ -2280,9 +2265,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De haringhaai of neushaai is een haai uit de familie van Haringhaaien.",
   "facts": [
-   "Hij heeft grote zwarte ogen en een spitse, kegelvormige snuit.",
-   "Hij jaagt op scholen vissen, andere haaien en pijlinktvissen.",
-   "Hij krijgt weinig jongen, waardoor hij maar langzaam herstelt van overbevissing."
+   "Hij vertoont soms gedrag dat op spelen lijkt.",
+   "Hij kan zijn hersenen en ogen opwarmen ten opzichte van het koude water.",
+   "Hij duikt van het oppervlak tot de bodem en weer terug, misschien om geuren op te pikken."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Haringhaai",
   "img": "images/lamna-nasus.webp",
@@ -2343,6 +2328,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lamniformes",
   "family": "Lamnidae",
   "ns": 45,
+  "wikiEn": "https://en.wikipedia.org/wiki/Porbeagle",
   "curated": true
  },
  {
@@ -2352,9 +2338,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De hondshaai is een kleine haaiensoort uit de familie van de kathaaien.",
   "facts": [
-   "Anders dan de meeste grote haaien legt hij eieren, in zeewiervelden.",
-   "De jongen komen pas na 9 tot 11 maanden uit het ei.",
-   "Hij is vooral in de schemering en 's nachts actief."
+   "Zijn huid is zo ruw dat hij vroeger werd gebruikt in plaats van puimsteen.",
+   "Jonge haaitjes houden een prooi vast tegen hun stekelige staarthuid en scheuren er hapjes af.",
+   "De jongen komen pas na 9 tot 11 maanden uit het ei."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Hondshaai",
   "img": "images/scyliorhinus-canicula.webp",
@@ -2388,12 +2374,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/scyliorhinus-canicula-2.webp",
     "size": [
      1100,
-     736
+     749
     ],
     "credit": {
-     "by": "tamsynmann",
+     "by": "Ana Santos",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/11193664",
+     "url": "https://www.inaturalist.org/photos/431068837",
      "source": "iNaturalist"
     }
    },
@@ -2404,9 +2390,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Pierre Corbrion",
+     "by": "Ana Santos",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/52206355",
+     "url": "https://www.inaturalist.org/photos/431068031",
      "source": "iNaturalist"
     }
    }
@@ -2415,6 +2401,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Scyliorhinidae",
   "ns": 6198,
+  "wikiEn": "https://en.wikipedia.org/wiki/Small-spotted_catshark",
   "curated": true
  },
  {
@@ -2424,9 +2411,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De kaphamerhaai is een vis uit de familie van de hamerhaaien en de orde van de roofhaaien, die voorkomt in de Grote en Atlantische Oceaan.",
   "facts": [
-   "Sinds 2018 geldt hij officieel als alleseter, omdat hij ook op zeegras kan overleven.",
-   "Tot de helft van zijn maaginhoud kan uit zeegras bestaan.",
-   "Hij wordt maximaal ongeveer 1,5 meter lang."
+   "Hij eet ook planten: tot de helft van zijn maaginhoud kan zeegras zijn.",
+   "Hij heeft de kleinste 'hamer' van alle hamerhaaien.",
+   "Zijn zwangerschap duurt maar 4,5 tot 5 maanden: een van de kortste van alle haaien."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kaphamerhaai",
   "img": "images/sphyrna-tiburo.webp",
@@ -2435,9 +2422,9 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "Will Pittenger",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/251717685",
+   "by": "Alistair D. Dove",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/265028966",
    "source": "iNaturalist"
   },
   "obs": 21114,
@@ -2450,9 +2437,9 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "Will Pittenger",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/251717685",
+     "by": "Alistair D. Dove",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/265028966",
      "source": "iNaturalist"
     }
    },
@@ -2460,12 +2447,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sphyrna-tiburo-2.webp",
     "size": [
      1100,
-     830
+     825
     ],
     "credit": {
-     "by": "Jacob Jones",
+     "by": "Alistair D. Dove",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/111331360",
+     "url": "https://www.inaturalist.org/photos/265028998",
      "source": "iNaturalist"
     }
    }
@@ -2474,6 +2461,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Sphyrnidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Bonnethead",
   "curated": true
  },
  {
@@ -2483,20 +2471,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De kathaai behoort tot de familie van de kathaaien.",
   "facts": [
-   "Hij kan enorm ver zwemmen: haaien gemerkt in de Noordzee werden teruggevonden bij de Canarische Eilanden.",
-   "Met elektrische zintuigen spoort hij prooien op die in de bodem zitten.",
-   "Hij eet ook dode vissen en afval."
+   "Haaien gemerkt in de Noordzee werden teruggevonden bij de Canarische Eilanden.",
+   "Overdag verstopt hij zich in gaten in de rotsen.",
+   "Eén jonge haai wisselde in 168 dagen vijf keer van schuilplek, steeds een paar dagen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kathaai",
   "img": "images/scyliorhinus-stellaris.webp",
   "imgSize": [
    1400,
-   934
+   761
   ],
   "credit": {
-   "by": "Daniel Benák",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/224300307",
+   "by": "zachaframa",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/208222080",
    "source": "iNaturalist"
   },
   "obs": 17816,
@@ -2506,12 +2494,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/scyliorhinus-stellaris.webp",
     "size": [
      1400,
-     934
+     761
     ],
     "credit": {
-     "by": "Daniel Benák",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/224300307",
+     "by": "zachaframa",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/208222080",
      "source": "iNaturalist"
     }
    },
@@ -2519,12 +2507,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/scyliorhinus-stellaris-2.webp",
     "size": [
      1100,
-     825
+     734
     ],
     "credit": {
-     "by": "Hispalois",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/553134621",
+     "by": "Daniel Benák",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/224300307",
      "source": "iNaturalist"
     }
    },
@@ -2535,9 +2523,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Bernard Picton",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/67740351",
+     "by": "Anna Kellagher",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/528539030",
      "source": "iNaturalist"
     }
    }
@@ -2546,6 +2534,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Scyliorhinidae",
   "ns": 70,
+  "wikiEn": "https://en.wikipedia.org/wiki/Nursehound",
   "curated": true
  },
  {
@@ -2555,9 +2544,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De kleintandzaagvis of westelijke zaagvis is een vis uit de orde Rhinopristiformes.",
   "facts": [
-   "Zijn 'zaag' heeft aan elke kant 24 tot 32 tanden.",
-   "Ondanks zijn gevaarlijke uiterlijk is hij zelden agressief.",
-   "De jongen worden geboren met een beschermend vliesje om hun zaagje."
+   "De 'tanden' op zijn zaag zijn geen echte tanden, maar speciale schubben.",
+   "Zijn zaag zit vol zintuigen die de elektrische velden van prooien voelen.",
+   "Met één klap in een school vis kan hij er meteen een paar raken."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kleintandzaagvis",
   "img": "images/pristis-pectinata.webp",
@@ -2591,12 +2580,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pristis-pectinata-2.webp",
     "size": [
      1100,
-     825
+     619
     ],
     "credit": {
-     "by": "swamphiker",
+     "by": "plawrynpx",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/34275214",
+     "url": "https://www.inaturalist.org/photos/407149066",
      "source": "iNaturalist"
     }
    },
@@ -2604,12 +2593,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pristis-pectinata-3.webp",
     "size": [
      1100,
-     734
+     637
     ],
     "credit": {
-     "by": "FWC Fish and Wildlife Research Institute",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/106327134",
+     "by": "plawrynpx",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/407149092",
      "source": "iNaturalist"
     }
    }
@@ -2618,6 +2607,7 @@ window.OCEAN_ANIMALS = [
   "order": "Rhinopristiformes",
   "family": "Pristidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Smalltooth_sawfish",
   "curated": true
  },
  {
@@ -2627,9 +2617,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De koboldhaai is een diepzeehaai die verspreid leeft en waarvan heel weinig bekend is.",
   "facts": [
-   "Hij heeft een lange platte snuit met daaronder een roze kaak die naar voren schiet.",
-   "Zijn snuit zit vol zintuigen die de elektrische velden van prooien opvangen.",
-   "Door zijn slappe lijf en kleine vinnen is hij waarschijnlijk een trage zwemmer."
+   "Hij is roze doordat je zijn bloedvaten door zijn huid ziet.",
+   "Zijn kaak schiet naar voren als een katapult om prooien te grijpen.",
+   "Hij heet een 'levend fossiel', de laatste van een oeroude familie."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Koboldhaai",
   "img": "images/mitsukurina-owstoni.webp",
@@ -2690,6 +2680,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lamniformes",
   "family": "Mitsukurinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Goblin_shark",
   "curated": true
  },
  {
@@ -2699,9 +2690,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De koekjessnijder is een vis uit de familie van de valse doornhaaien en behoort derhalve tot de orde van doornhaaiachtigen.",
   "facts": [
-   "Hij zuigt zich vast aan een groter dier en bijt er een rond stukje vlees uit, als een koekjesvorm.",
-   "Zelfs orka's en andere haaien zijn zijn slachtoffer.",
-   "Zijn buik geeft licht, waarschijnlijk om prooien te lokken."
+   "Hij bijt ronde hapjes uit veel grotere dieren, als een koekjesvorm.",
+   "Zijn onderbuik geeft licht, behalve een donkere band die van onderen op een visje lijkt: een lokaas.",
+   "Hij verliest in zijn leven zo'n 15 complete rijen ondertanden: ruim 450 tanden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Koekjessnijder",
   "img": "images/isistius-brasiliensis.webp",
@@ -2762,6 +2753,7 @@ window.OCEAN_ANIMALS = [
   "order": "Squaliformes",
   "family": "Dalatiidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Cookiecutter_shark",
   "curated": true
  },
  {
@@ -2771,20 +2763,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De kortvinmakreelhaai, makohaai of mako is een vis uit de familie Lamnidae en behoort derhalve tot de orde van makreelhaaien.",
   "facts": [
-   "Hij is een van de weinige warmbloedige vissen.",
-   "Hij jaagt op snelle prooien zoals makrelen en tonijnen.",
-   "Tijdens een achtervolging kan hij metershoog uit het water springen."
+   "Hij is de snelste haai ter wereld.",
+   "Hij heeft de sterkste beet die ooit bij een haai is gemeten.",
+   "Hij heeft naar verhouding een van de grootste hersenen van alle haaien."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kortvinmakreelhaai",
   "img": "images/isurus-oxyrinchus.webp",
   "imgSize": [
-   1400,
-   933
+   1318,
+   989
   ],
   "credit": {
-   "by": "出羽雀台",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/732287708",
+   "by": "Fábio Olmos",
+   "license": "CC-BY",
+   "url": "https://www.inaturalist.org/photos/74638241",
    "source": "iNaturalist"
   },
   "obs": 60050,
@@ -2793,13 +2785,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/isurus-oxyrinchus.webp",
     "size": [
-     1400,
-     933
+     1318,
+     989
     ],
     "credit": {
-     "by": "出羽雀台",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/732287708",
+     "by": "Fábio Olmos",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/74638241",
      "source": "iNaturalist"
     }
    },
@@ -2810,22 +2802,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Fábio Olmos",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/74638241",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/isurus-oxyrinchus-3.webp",
-    "size": [
-     960,
-     960
-    ],
-    "credit": {
-     "by": "biodiversitygr",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/30369448",
+     "by": "James Bailey",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/31404082",
      "source": "iNaturalist"
     }
    }
@@ -2834,6 +2813,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lamniformes",
   "family": "Lamnidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Shortfin_mako_shark",
   "curated": true
  },
  {
@@ -2843,20 +2823,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De langvinmakreelhaai is een vis uit de familie van de haringhaaien en behoort derhalve tot de orde van makreelhaaien.",
   "facts": [
-   "Hij kan ruim 4 meter lang worden.",
-   "Hij leeft in warme zeeën, van het wateroppervlak tot zo'n 200 meter diep.",
-   "Hij kan een mens flink verwonden."
+   "Hij wordt aangetrokken door lichtstaafjes: hij jaagt waarschijnlijk op zicht.",
+   "Zijn buitenste ondertanden steken duidelijk uit zijn bek.",
+   "Er zijn nog nooit aanvallen op mensen door hem bekend."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Langvinmakreelhaai",
   "img": "images/isurus-paucus.webp",
   "imgSize": [
    1400,
-   1050
+   1026
   ],
   "credit": {
-   "by": "Gonzalo Mucientes Sandoval",
+   "by": "Julie Mellinger",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/28758924",
+   "url": "https://www.inaturalist.org/photos/480229341",
    "source": "iNaturalist"
   },
   "obs": 961,
@@ -2866,12 +2846,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/isurus-paucus.webp",
     "size": [
      1400,
-     1050
+     1026
     ],
     "credit": {
-     "by": "Gonzalo Mucientes Sandoval",
+     "by": "Julie Mellinger",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/28758924",
+     "url": "https://www.inaturalist.org/photos/480229341",
      "source": "iNaturalist"
     }
    },
@@ -2884,20 +2864,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Gonzalo Mucientes Sandoval",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/21764995",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/isurus-paucus-3.webp",
-    "size": [
-     1100,
-     733
-    ],
-    "credit": {
-     "by": "Gonzalo Mucientes Sandoval",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/20133210",
+     "url": "https://www.inaturalist.org/photos/20693857",
      "source": "iNaturalist"
     }
    }
@@ -2906,6 +2873,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lamniformes",
   "family": "Lamnidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Longfin_mako_shark",
   "curated": true
  },
  {
@@ -2916,8 +2884,8 @@ window.OCEAN_ANIMALS = [
   "intro": "De oceanische witpunthaai of ook wel kortweg witpunthaai is een haai uit het geslacht Carcharhinus, de familie Carcharhinidae.",
   "facts": [
    "Je herkent hem aan zijn lange vinnen met afgeronde witte punten.",
-   "Hij zwemt dag en nacht langzaam vlak onder het wateroppervlak, met zijn borstvinnen wijd gespreid.",
-   "In de Tweede Wereldoorlog was hij een groot gevaar voor schipbreukelingen midden op zee."
+   "In de Tweede Wereldoorlog was hij een groot gevaar voor schipbreukelingen midden op zee.",
+   "Hij leeft in warm open water, ver weg van de kust."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Oceanische_witpunthaai",
   "img": "images/carcharhinus-longimanus.webp",
@@ -2951,12 +2919,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/carcharhinus-longimanus-2.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Alexander Vasenin",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/70683500",
+     "by": "Rafi Amar",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/207625236",
      "source": "iNaturalist"
     }
    },
@@ -2964,12 +2932,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/carcharhinus-longimanus-3.webp",
     "size": [
      1100,
-     733
+     767
     ],
     "credit": {
-     "by": "Peterkoelbl",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/60554251",
+     "by": "tjscubaadventures",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/623299410",
      "source": "iNaturalist"
     }
    }
@@ -2978,6 +2946,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Carcharhinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Oceanic_whitetip_shark",
   "curated": true
  },
  {
@@ -2987,20 +2956,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De pelagische voshaai is een haaiensoort uit de familie van de Alopiidae.",
   "facts": [
-   "De bovenste helft van zijn staartvin is enorm verlengd.",
-   "Hij is de kleinste van de drie voshaaien, gemiddeld zo'n drie meter.",
-   "Zelfs experts verwarren hem vaak met de gewone voshaai; het verschil zit in donkere vlekken bij de borstvinnen."
+   "Hij slaat prooien met zijn enorme staart, als een zweep.",
+   "Jongen worden heel groot geboren: tot 43% van de lengte van hun moeder.",
+   "Hij laat zich schoonmaken door poetsvisjes, vooral bij zijn staart."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Pelagische_voshaai",
   "img": "images/alopias-pelagicus.webp",
   "imgSize": [
    1400,
-   932
+   788
   ],
   "credit": {
-   "by": "Klaus Stiefel",
+   "by": "Albert Kang",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/70679970",
+   "url": "https://www.inaturalist.org/photos/456403682",
    "source": "iNaturalist"
   },
   "obs": 881,
@@ -3010,7 +2979,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/alopias-pelagicus.webp",
     "size": [
      1400,
-     932
+     788
+    ],
+    "credit": {
+     "by": "Albert Kang",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/456403682",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/alopias-pelagicus-2.webp",
+    "size": [
+     1100,
+     732
     ],
     "credit": {
      "by": "Klaus Stiefel",
@@ -3020,28 +3002,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/alopias-pelagicus-2.webp",
-    "size": [
-     1100,
-     672
-    ],
-    "credit": {
-     "by": "Tony Strazzari",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/19459157",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/alopias-pelagicus-3.webp",
     "size": [
      1100,
-     654
+     618
     ],
     "credit": {
-     "by": "Tony Strazzari",
+     "by": "Albert Kang",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/19459489",
+     "url": "https://www.inaturalist.org/photos/462430262",
      "source": "iNaturalist"
     }
    }
@@ -3050,6 +3019,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lamniformes",
   "family": "Alopiidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Pelagic_thresher",
   "curated": true
  },
  {
@@ -3059,9 +3029,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De reuzenbekhaai of grootbekhaai was een van de grootste en vreemdste vondsten uit de diepzee sinds jaren.",
   "facts": [
-   "De binnenkant van zijn bek geeft licht, wat kleine diertjes naar binnen lokt.",
-   "Ondanks zijn formaat eet hij plankton en kleine diertjes, net als de walvishaai.",
-   "De eerste werd pas in 1976 gevonden, bij het ophalen van het anker van een onderzoeksschip bij Hawaï."
+   "Hij is zo zeldzaam dat er pas in 2022 voor het eerst twee tegelijk op camera kwamen.",
+   "Zijn bovenlip is zilverwit en valt op als zijn bek open is: misschien lokt dat plankton.",
+   "Mensen verwarren hem soms met een jonge orka."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Reuzenbekhaai",
   "img": "images/megachasma-pelagios.webp",
@@ -3122,6 +3092,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lamniformes",
   "family": "Megachasmidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Megamouth_shark",
   "curated": true
  },
  {
@@ -3131,20 +3102,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De reuzenhaai is de op een na grootste levende vis, na de walvishaai.",
   "facts": [
-   "Hij is de op één na grootste vis ter wereld, na de walvishaai.",
-   "Hij zeeft plankton uit het water met zijn kieuwen en is ongevaarlijk voor mensen.",
-   "Rond de jaarwisseling van 2022 op 2023 spoelden binnen een maand twee reuzenhaaien aan in Nederland, onder andere bij Domburg."
+   "Hij heeft naar verhouding het kleinste brein van alle haaien.",
+   "Ondanks zijn formaat kan hij helemaal uit het water springen.",
+   "Hij is ongevaarlijk en zwemt soms rondjes om duikers."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Reuzenhaai",
   "img": "images/cetorhinus-maximus.webp",
   "imgSize": [
    1400,
-   788
+   696
   ],
   "credit": {
-   "by": "Fábio Olmos",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/73724669",
+   "by": "azure27014",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/133393157",
    "source": "iNaturalist"
   },
   "obs": 39541,
@@ -3154,12 +3125,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cetorhinus-maximus.webp",
     "size": [
      1400,
-     788
+     696
     ],
     "credit": {
-     "by": "Fábio Olmos",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/73724669",
+     "by": "azure27014",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/133393157",
      "source": "iNaturalist"
     }
    },
@@ -3167,12 +3138,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cetorhinus-maximus-2.webp",
     "size": [
      1100,
-     619
+     825
     ],
     "credit": {
-     "by": "candelarias",
+     "by": "bev435",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/397666140",
+     "url": "https://www.inaturalist.org/photos/204610077",
      "source": "iNaturalist"
     }
    },
@@ -3180,12 +3151,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cetorhinus-maximus-3.webp",
     "size": [
      1100,
-     825
+     619
     ],
     "credit": {
-     "by": "Björn Källström",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/102474853",
+     "by": "Fábio Olmos",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/73724669",
      "source": "iNaturalist"
     }
    }
@@ -3194,6 +3165,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lamniformes",
   "family": "Cetorhinidae",
   "ns": 236,
+  "wikiEn": "https://en.wikipedia.org/wiki/Basking_shark",
   "curated": true
  },
  {
@@ -3203,9 +3175,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De reuzenmanta is de grootste bekende rog en behoort tot de kraakbeenvissen en de familie Mobulidae.",
   "facts": [
-   "Met een spanwijdte tot 7 meter is hij de grootste rog ter wereld.",
-   "Manta's zijn erg slim, al weten onderzoekers nog niet of ze zich bewust zijn van zichzelf.",
-   "Een jong is bij de geboorte al 1,2 meter breed."
+   "Hij heeft het grootste brein van alle vissen: 5 tot 10 keer zo groot als dat van een walvishaai.",
+   "Hij is misschien een van de weinige dieren die zichzelf herkent in een spiegel.",
+   "Met een spanwijdte tot 7 meter is hij de grootste rog ter wereld."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Reuzenmanta",
   "img": "images/mobula-birostris.webp",
@@ -3242,9 +3214,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Elias Levy",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/87122115",
+     "by": "Simon Pierce",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/532957950",
      "source": "iNaturalist"
     }
    },
@@ -3252,12 +3224,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/mobula-birostris-3.webp",
     "size": [
      1100,
-     733
+     600
     ],
     "credit": {
-     "by": "Anna Flam",
+     "by": "mantawatch_newzealand",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/103323686",
+     "url": "https://www.inaturalist.org/photos/34483741",
      "source": "iNaturalist"
     }
    }
@@ -3266,6 +3238,7 @@ window.OCEAN_ANIMALS = [
   "order": "Myliobatiformes",
   "family": "Myliobatidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Giant_oceanic_manta_ray",
   "curated": true
  },
  {
@@ -3275,20 +3248,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De Rhina ancylostoma is een zoutwatervis uit de familie Rhinidae.",
   "facts": [
-   "Hij kan 2,7 meter lang en 135 kilo zwaar worden.",
-   "De jongen komen al in de moeder uit het ei en worden zo'n 45 centimeter lang geboren.",
-   "In gevangenschap kan hij lang leven en zelfs jongen krijgen."
+   "Op zijn kop en 'schouders' zitten richels met stekels, als een harnas.",
+   "Met zijn platte tandrijen kraakt hij schelpen en krabben.",
+   "Jonge dieren zijn veel feller gekleurd dan volwassen exemplaren."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Rhina_ancylostoma",
   "img": "images/rhina-ancylostoma.webp",
   "imgSize": [
    1400,
-   933
+   918
   ],
   "credit": {
-   "by": "Jim Capaldi",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/258830414",
+   "by": "hectorbara",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/56750358",
    "source": "iNaturalist"
   },
   "obs": 349,
@@ -3298,12 +3271,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/rhina-ancylostoma.webp",
     "size": [
      1400,
-     933
+     918
     ],
     "credit": {
-     "by": "Jim Capaldi",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/258830414",
+     "by": "hectorbara",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/56750358",
      "source": "iNaturalist"
     }
    },
@@ -3311,25 +3284,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/rhina-ancylostoma-2.webp",
     "size": [
      1100,
-     721
+     663
     ],
     "credit": {
-     "by": "Brian Gratwicke",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/258830417",
+     "by": "hectorbara",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/56750359",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/rhina-ancylostoma-3.webp",
     "size": [
-     1000,
-     750
+     1100,
+     733
     ],
     "credit": {
-     "by": "Rhina_ancylostoma.jpg",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/194480975",
+     "by": "brendonh",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/425429653",
      "source": "iNaturalist"
     }
    }
@@ -3338,6 +3311,7 @@ window.OCEAN_ANIMALS = [
   "order": "Rhinopristiformes",
   "family": "Rhinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Rhina_ancylostoma",
   "curated": true
  },
  {
@@ -3347,9 +3321,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De ronde pijlstaartrog is een vissensoort uit de familie van de Urotrygonidae.",
   "facts": [
-   "Zijn platte lijf is bijna perfect rond.",
-   "Halverwege zijn korte staart zit een gifstekel.",
-   "Strandgangers die op hem trappen krijgen een pijnlijke, maar geen dodelijke steek."
+   "Zijn gifstekel valt elk jaar af en groeit opnieuw aan.",
+   "Vrouwtjes zenden een klein elektrisch signaal uit achter hun ogen om mannetjes te lokken.",
+   "Hij verzamelt zich graag bij het warme koelwater van elektriciteitscentrales."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Ronde_pijlstaartrog",
   "img": "images/urobatis-halleri.webp",
@@ -3383,12 +3357,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/urobatis-halleri-2.webp",
     "size": [
      1100,
-     743
+     786
     ],
     "credit": {
-     "by": "Alex Bairstow",
+     "by": "Frank Krasovec",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/6256962",
+     "url": "https://www.inaturalist.org/photos/607717815",
      "source": "iNaturalist"
     }
    },
@@ -3396,12 +3370,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/urobatis-halleri-3.webp",
     "size": [
      1100,
-     825
+     734
     ],
     "credit": {
-     "by": "argyl1",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/24623902",
+     "by": "no rights reserved",
+     "license": "CC0",
+     "url": "https://www.inaturalist.org/photos/212679355",
      "source": "iNaturalist"
     }
    }
@@ -3410,6 +3384,7 @@ window.OCEAN_ANIMALS = [
   "order": "Myliobatiformes",
   "family": "Urolophidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Round_stingray",
   "curated": true
  },
  {
@@ -3419,21 +3394,21 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De ruwe haai, ook wel Australische haai of steenhaai genoemd, is een haai uit de familie van de gladde haaien.",
   "facts": [
-   "Hij leeft ook in de zuidelijke Noordzee.",
-   "Tot de jaren zestig werd hij regelmatig langs de Nederlandse kust gevangen, daarna steeds minder.",
+   "Zijn lievelingsprooi is barracuda, en dat al minstens 50 miljoen jaar: een fossiele voorouder had er een in zijn maag.",
+   "In één worp kunnen jongen van verschillende vaders zitten.",
    "In 2015 vingen garnalenvissers in de Waddenzee pasgeboren ruwe haaien: hij komt terug!"
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Ruwe_haai",
   "img": "images/galeorhinus-galeus.webp",
   "imgSize": [
    1400,
-   369
+   934
   ],
   "credit": {
-   "by": "onbekend",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File:Galeorhinus_galeus.jpg",
-   "source": "Wikimedia Commons"
+   "by": "Kirby Morejohn",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/712355612",
+   "source": "iNaturalist"
   },
   "obs": 192691,
   "map": "maps/galeorhinus-galeus.webp",
@@ -3442,13 +3417,13 @@ window.OCEAN_ANIMALS = [
     "img": "images/galeorhinus-galeus.webp",
     "size": [
      1400,
-     369
+     934
     ],
     "credit": {
-     "by": "onbekend",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Galeorhinus_galeus.jpg",
-     "source": "Wikimedia Commons"
+     "by": "Kirby Morejohn",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/712355612",
+     "source": "iNaturalist"
     }
    },
    {
@@ -3458,9 +3433,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Clinton Duffy",
+     "by": "tarnh",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/4244534",
+     "url": "https://www.inaturalist.org/photos/332800312",
      "source": "iNaturalist"
     }
    },
@@ -3473,7 +3448,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "tarnh",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/332800312",
+     "url": "https://www.inaturalist.org/photos/332800341",
      "source": "iNaturalist"
     }
    }
@@ -3482,6 +3457,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Triakidae",
   "ns": 374,
+  "wikiEn": "https://en.wikipedia.org/wiki/School_shark",
   "curated": true
  },
  {
@@ -3491,9 +3467,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De spookhaai is een vis uit de familie van doodskopvissen of ploegneusdraakvissen en behoort tot de orde van draakvissen.",
   "facts": [
-   "Hij leeft bij Zuid-Australië en Nieuw-Zeeland, op 200 tot 500 meter diepte.",
-   "Hij kan 1,25 meter lang worden, al zijn mannetjes meestal maar 65 centimeter.",
-   "Ondanks zijn naam hoort hij bij de draakvissen."
+   "Ondanks zijn naam is hij geen haai, maar familie ervan.",
+   "Hij ziet kleuren met drie soorten kleurcellen, net als mensen.",
+   "Hij heeft het kleinste DNA van alle kraakbeenvissen: een derde van dat van de mens."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Spookhaai",
   "img": "images/callorhinchus-milii.webp",
@@ -3527,6 +3503,19 @@ window.OCEAN_ANIMALS = [
     "img": "images/callorhinchus-milii-2.webp",
     "size": [
      1100,
+     824
+    ],
+    "credit": {
+     "by": "Micah V",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/345957314",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/callorhinchus-milii-3.webp",
+    "size": [
+     1100,
      614
     ],
     "credit": {
@@ -3535,25 +3524,13 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/151574480",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/callorhinchus-milii-3.webp",
-    "size": [
-     1100,
-     733
-    ],
-    "credit": {
-     "by": "Giverny",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/4921506",
-     "source": "iNaturalist"
-    }
    }
   ],
   "thumb": "thumbs/callorhinchus-milii.webp",
   "order": "Chimaeriformes",
   "family": "Callorhinchidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Australian_ghostshark",
   "curated": true
  },
  {
@@ -3563,8 +3540,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De stekelrog of gewone rog is een rog uit de familie Rajidae.",
   "facts": [
-   "Hij heeft stekels op zijn rug, zijn staart en zelfs zijn buik.",
-   "Dankzij zijn camouflage is hij op de zeebodem bijna onzichtbaar.",
+   "Een vrouwtje legt tot 170 eikapsels per jaar.",
+   "Volwassen dieren hebben stekels met knoopvormige voetjes, 'gespen' genoemd.",
    "Zijn zwarte eikapsels spoelen aan op Nederlandse en Belgische stranden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Stekelrog",
@@ -3599,12 +3576,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/raja-clavata-2.webp",
     "size": [
      1100,
-     825
+     921
     ],
     "credit": {
-     "by": "tamsynmann",
+     "by": "Giosue Reale",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/10254851",
+     "url": "https://www.inaturalist.org/photos/607275872",
      "source": "iNaturalist"
     }
    },
@@ -3615,9 +3592,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Sylvain Le Bris",
+     "by": "seasynergy",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/228508792",
+     "url": "https://www.inaturalist.org/photos/417041184",
      "source": "iNaturalist"
     }
    }
@@ -3626,6 +3603,7 @@ window.OCEAN_ANIMALS = [
   "order": "Rajiformes",
   "family": "Rajidae",
   "ns": 6571,
+  "wikiEn": "https://en.wikipedia.org/wiki/Thornback_ray",
   "curated": true
  },
  {
@@ -3635,20 +3613,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De stierhaai, Atlantische grondhaai of Zambezihaai is een haai uit de familie der requiemhaaien.",
   "facts": [
-   "Hij zwemt grote rivieren op en is zelfs 3700 kilometer de Amazone op gezien.",
-   "Hij kan zich zelfs voortplanten in zoet water.",
-   "Hij eet geen mensenvlees; als hij bijt, ziet hij een mens waarschijnlijk aan voor een prooi."
+   "Hij zwemt rivieren op: tot ver in de Mississippi en zelfs tot Bagdad in de Tigris.",
+   "Zijn nieren laten hem schakelen tussen zout en zoet water.",
+   "De jongen worden in zoet water geboren en trekken pas later de zee in."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Stierhaai",
   "img": "images/carcharhinus-leucas.webp",
   "imgSize": [
    1400,
-   486
+   934
   ],
   "credit": {
-   "by": "James-LaFontaine",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/438498979",
+   "by": "Ewout Knoester",
+   "license": "CC-BY-SA",
+   "url": "https://www.inaturalist.org/photos/168237268",
    "source": "iNaturalist"
   },
   "obs": 155141,
@@ -3658,25 +3636,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/carcharhinus-leucas.webp",
     "size": [
      1400,
-     486
+     934
     ],
     "credit": {
-     "by": "James-LaFontaine",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/438498979",
+     "by": "Ewout Knoester",
+     "license": "CC-BY-SA",
+     "url": "https://www.inaturalist.org/photos/168237268",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/carcharhinus-leucas-2.webp",
     "size": [
-     1100,
-     619
+     1000,
+     730
     ],
     "credit": {
-     "by": "andreidive",
+     "by": "Ian Banks",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/189918447",
+     "url": "https://www.inaturalist.org/photos/10939590",
      "source": "iNaturalist"
     }
    },
@@ -3684,12 +3662,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/carcharhinus-leucas-3.webp",
     "size": [
      1100,
-     650
+     733
     ],
     "credit": {
-     "by": "Fernando Olea",
+     "by": "Pablo A. Arias Cid",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/33980695",
+     "url": "https://www.inaturalist.org/photos/323478792",
      "source": "iNaturalist"
     }
    }
@@ -3698,6 +3676,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Carcharhinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Bull_shark",
   "curated": true
  },
  {
@@ -3707,9 +3686,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De tijgerhaai is een grote haaiensoort die zijn naam dankt aan zijn gestreepte rug en flanken.",
   "facts": [
-   "Hij dankt zijn naam aan de strepen op zijn rug en flanken.",
-   "Hij jaagt meestal 's nachts en eet bijna elk dier dat in zijn buurt komt.",
-   "Een vrouwtje kan in één keer 10 tot 80 jongen krijgen."
+   "Zijn tanden hebben een zijwaartse punt, gemaakt om door harde prooien te snijden.",
+   "Zijn enige natuurlijke vijand is de orka.",
+   "Van boven gezien gaat zijn donkere rug op in het diepe water: camouflage."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Tijgerhaai",
   "img": "images/galeocerdo-cuvier.webp",
@@ -3743,12 +3722,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/galeocerdo-cuvier-2.webp",
     "size": [
      1100,
-     770
+     730
     ],
     "credit": {
-     "by": "Albert Kang",
+     "by": "Malcolm Francis",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/82134704",
+     "url": "https://www.inaturalist.org/photos/503721722",
      "source": "iNaturalist"
     }
    },
@@ -3759,9 +3738,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Papahānaumokuākea Marine National Monument",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/518048346",
+     "by": "Susanne Spindler",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/156505743",
      "source": "iNaturalist"
     }
    }
@@ -3770,6 +3749,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Carcharhinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Tiger_shark",
   "curated": true
  },
  {
@@ -3815,12 +3795,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/mustelus-mustelus-2.webp",
     "size": [
      1100,
-     825
+     618
     ],
     "credit": {
-     "by": "lukecocksedge",
+     "by": "martim_zk",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/64223544",
+     "url": "https://www.inaturalist.org/photos/116518655",
      "source": "iNaturalist"
     }
    },
@@ -3828,12 +3808,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/mustelus-mustelus-3.webp",
     "size": [
      1100,
-     825
+     883
     ],
     "credit": {
-     "by": "Louis van Wyk",
+     "by": "Giosue Reale",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/178580994",
+     "url": "https://www.inaturalist.org/photos/607274688",
      "source": "iNaturalist"
     }
    }
@@ -3851,9 +3831,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De verpleegsterhaai of voedsterhaai is een haai van ongeveer 3 meter lang.",
   "facts": [
-   "Met baarddraden bij zijn bek speurt hij naar voedsel in de bodem.",
-   "Overdag rust hij vaak in groepen van wel 40 haaien.",
-   "Hij zuigt zijn prooi in één keer naar binnen."
+   "Hij zuigt zijn prooi naar binnen met een van de sterkste zuigkrachten van alle waterdieren.",
+   "Te grote prooien zuigt hij in en spuugt hij weer uit, tot ze klein genoeg zijn.",
+   "Overdag rust hij vaak in groepen van wel 40 haaien."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Verpleegsterhaai",
   "img": "images/ginglymostoma-cirratum.webp",
@@ -3886,26 +3866,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/ginglymostoma-cirratum-2.webp",
     "size": [
-     1024,
-     768
+     1100,
+     963
     ],
     "credit": {
-     "by": "Gary Rinaldi",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/95362085",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/ginglymostoma-cirratum-3.webp",
-    "size": [
-     960,
-     640
-    ],
-    "credit": {
-     "by": "Pauline Walsh Jacobson",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/179498581",
+     "by": "CONANP_Reserva de la Biosfera Banco Chinchorro",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/439764980",
      "source": "iNaturalist"
     }
    }
@@ -3914,6 +3881,7 @@ window.OCEAN_ANIMALS = [
   "order": "Orectolobiformes",
   "family": "Ginglymostomatidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Nurse_shark",
   "curated": true
  },
  {
@@ -3923,8 +3891,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De vleet is een vis uit de familie Rajidae die voorkomt in het noordoosten en het oosten van de Atlantische Oceaan en in de Middellandse Zee.",
   "facts": [
-   "Hij kan 2,85 meter lang worden, maar is gemiddeld zo'n meter.",
-   "Vroeger kwam hij veel voor rond de Britse Eilanden.",
+   "Hij kan 50 tot 100 jaar oud worden.",
+   "Pas rond zijn elfde is hij volwassen.",
    "Door de visserij is hij vrijwel verdwenen uit het Kanaal en de zuidelijke Noordzee."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Vleet_%28vis%29",
@@ -3973,6 +3941,7 @@ window.OCEAN_ANIMALS = [
   "order": "Rajiformes",
   "family": "Rajidae",
   "ns": 168,
+  "wikiEn": "https://en.wikipedia.org/wiki/Blue_skate",
   "curated": true
  },
  {
@@ -3982,9 +3951,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De voshaai of gewone voshaai Alopias vulpinus is een haai uit de familie van de voshaaien, Alopiidae, orde van de makreelhaaien.",
   "facts": [
-   "Bijna de helft van zijn lengte is staart.",
-   "Met die lange staart drijft hij scholen vis bij elkaar en slaat hij erop in.",
-   "Hij kan grote sprongen boven het water maken."
+   "Bijna de helft van zijn lengte is staart; die gebruikt hij als zweep om vis te verdoven.",
+   "In 1865 zag iemand hoe een voshaai een zeevogel met zijn staart sloeg en opat.",
+   "Het verhaal dat hij met zwaardvissen samenwerkt om walvissen aan te vallen, is een fabel."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Voshaai",
   "img": "images/alopias-vulpinus.webp",
@@ -4018,25 +3987,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/alopias-vulpinus-2.webp",
     "size": [
      1100,
-     825
+     979
     ],
     "credit": {
-     "by": "Clinton Duffy",
+     "by": "allenbryan",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/340690800",
+     "url": "https://www.inaturalist.org/photos/232237938",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/alopias-vulpinus-3.webp",
     "size": [
-     1044,
-     720
+     1100,
+     734
     ],
     "credit": {
-     "by": "tjcarmo",
+     "by": "charm",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/87238814",
+     "url": "https://www.inaturalist.org/photos/23056144",
      "source": "iNaturalist"
     }
    }
@@ -4045,6 +4014,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lamniformes",
   "family": "Alopiidae",
   "ns": 37,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_thresher",
   "curated": true
  },
  {
@@ -4054,9 +4024,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De walvishaai is de grootste bestaande kraakbeenvis.",
   "facts": [
-   "Hij is de grootste vis ter wereld en kan 18 meter lang worden.",
-   "Zijn vlekkenpatroon is uniek, net als een vingerafdruk.",
-   "Hij zwemt langzaam, hooguit zo'n 5 kilometer per uur."
+   "Hij is het grootste dier op aarde dat geen walvis is.",
+   "Hij kan zijn ogen diep in zijn kop terugtrekken om ze te beschermen.",
+   "Een zwangere walvishaai, 'Rio Lady', zwom in 150 dagen 7772 kilometer."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Walvishaai",
   "img": "images/rhincodon-typus.webp",
@@ -4090,25 +4060,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/rhincodon-typus-2.webp",
     "size": [
      1100,
-     733
+     731
     ],
     "credit": {
-     "by": "Zac Wolf",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/335706911",
+     "by": "Erik Schlögl",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/11193947",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/rhincodon-typus-3.webp",
     "size": [
-     1100,
-     733
+     1024,
+     768
     ],
     "credit": {
-     "by": "Bert Klangpremchitt",
+     "by": "Carmelo López Abad",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/151593991",
+     "url": "https://www.inaturalist.org/photos/581460",
      "source": "iNaturalist"
     }
    }
@@ -4117,6 +4087,7 @@ window.OCEAN_ANIMALS = [
   "order": "Orectolobiformes",
   "family": "Rhincodontidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Whale_shark",
   "curated": true
  },
  {
@@ -4126,9 +4097,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "Rhynchobatus djiddensis is een rog uit de familie Rhinidae.",
   "facts": [
-   "Hij kan 3,1 meter lang en zo'n 230 kilo zwaar worden.",
-   "Hij eet schelpdieren, krabben, kreeften, inktvis en kleine visjes.",
-   "Hij wordt zwaar bevist, onder meer voor zijn vinnen."
+   "Hij hoort bij een groep die al meer dan 400 miljoen jaar bestaat.",
+   "Kraakbeenvissen zoals hij hebben misschien het beste afweersysteem van het dierenrijk.",
+   "Hij heeft grote zwarte oogvlekken op zijn borstvinnen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Rhynchobatus_djiddensis",
   "img": "images/rhynchobatus-djiddensis.webp",
@@ -4162,12 +4133,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/rhynchobatus-djiddensis-2.webp",
     "size": [
      1100,
-     747
+     619
     ],
     "credit": {
-     "by": "Simon Attwood",
+     "by": "gracie_mertes_",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/194845889",
+     "url": "https://www.inaturalist.org/photos/625284219",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/rhynchobatus-djiddensis-3.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "jenz15",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/42391876",
      "source": "iNaturalist"
     }
    }
@@ -4176,6 +4160,7 @@ window.OCEAN_ANIMALS = [
   "order": "Rhinopristiformes",
   "family": "Rhinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Giant_guitarfish",
   "curated": true
  },
  {
@@ -4185,9 +4170,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De witpuntrifhaai is een vis uit de familie van de roofhaaien, orde grondhaaien, die voorkomt in de Grote en Indische Oceaan.",
   "facts": [
-   "Hij zwemt met slangachtige bewegingen.",
-   "Met zijn soepele lijf kruipt hij diep in spleten van het koraalrif om prooi te vangen.",
-   "Overdag ligt hij vaak met andere witpuntrifhaaien te rusten op de bodem of in grotten."
+   "Anders dan zijn familieleden hoeft hij niet te blijven zwemmen om te ademen: hij kan stil op de bodem liggen.",
+   "Elke haai heeft een eigen vlekkenpatroon.",
+   "Hij raakt niet in een eetrazernij, ook niet in een groep."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Witpuntrifhaai",
   "img": "images/triaenodon-obesus.webp",
@@ -4221,12 +4206,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/triaenodon-obesus-2.webp",
     "size": [
      1100,
-     733
+     619
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "burkh4rt",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/672224307",
+     "url": "https://www.inaturalist.org/photos/458974810",
      "source": "iNaturalist"
     }
    },
@@ -4234,12 +4219,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/triaenodon-obesus-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Craig Fujii",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/29230134",
+     "by": "Tahn Miller",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/519673754",
      "source": "iNaturalist"
     }
    }
@@ -4248,6 +4233,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Carcharhinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Whitetip_reef_shark",
   "curated": true
  },
  {
@@ -4257,9 +4243,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De witte haai, ook wel mensenhaai, is de grootste roofvis ter wereld en de enige nog levende soort uit het geslacht Carcharodon.",
   "facts": [
-   "Hij is de grootste roofvis ter wereld.",
-   "Hij kan wel 70 jaar oud worden.",
-   "Bij het jagen op robben schiet hij met zo'n 40 kilometer per uur omhoog en breekt hij door het wateroppervlak."
+   "Hij heeft zo'n 300 tanden op een 'lopende band': achterste tanden schuiven naar voren als er een uitvalt.",
+   "Hij ziet waarschijnlijk geen kleuren; een surfer lijkt van onderen op een zeehond.",
+   "Hij is gedeeltelijk warmbloedig."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Witte_haai",
   "img": "images/carcharodon-carcharias.webp",
@@ -4293,25 +4279,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/carcharodon-carcharias-2.webp",
     "size": [
      1100,
-     825
+     619
     ],
     "credit": {
-     "by": "Susanne Spindler",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/150546290",
+     "by": "eyrelab",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/350234853",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/carcharodon-carcharias-3.webp",
     "size": [
-     1100,
-     648
+     1037,
+     600
     ],
     "credit": {
-     "by": "stephencoutts",
+     "by": "Royle Safaris",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/10571121",
+     "url": "https://www.inaturalist.org/photos/289280793",
      "source": "iNaturalist"
     }
    }
@@ -4320,6 +4306,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lamniformes",
   "family": "Lamnidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Great_white_shark",
   "curated": true
  },
  {
@@ -4329,20 +4316,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De zandtijgerhaai of zandhaai is een vis uit de familie van de tijgerhaaien en behoort tot de orde van makreelhaaien.",
   "facts": [
-   "Hij heeft een enorme bek met een rafelig uitziend gebit.",
-   "In de baarmoeder eten de jongen hun broertjes en zusjes op.",
-   "Na zo'n 9 maanden wordt er een jonge haai geboren."
+   "Hij is de enige haai die lucht hapt aan het oppervlak, zodat hij stil kan blijven zweven.",
+   "In de baarmoeder eet het sterkste jong al zijn broertjes en zusjes op.",
+   "Ondanks zijn enge tanden is hij rustig: er is nooit een dodelijk ongeluk bekend."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zandtijgerhaai",
   "img": "images/carcharias-taurus.webp",
   "imgSize": [
-   1400,
-   1050
+   1200,
+   800
   ],
   "credit": {
-   "by": "Ventus55",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/597220264",
+   "by": "Rafi Amar",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/155103165",
    "source": "iNaturalist"
   },
   "obs": 7534,
@@ -4351,13 +4338,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/carcharias-taurus.webp",
     "size": [
-     1400,
-     1050
+     1200,
+     800
     ],
     "credit": {
-     "by": "Ventus55",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/597220264",
+     "by": "Rafi Amar",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/155103165",
      "source": "iNaturalist"
     }
    },
@@ -4368,9 +4355,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "Frank Krasovec",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/537445728",
+     "url": "https://www.inaturalist.org/photos/414569891",
      "source": "iNaturalist"
     }
    },
@@ -4378,12 +4365,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/carcharias-taurus-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "mattdowse",
+     "by": "divercraig",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/217881232",
+     "url": "https://www.inaturalist.org/photos/248156041",
      "source": "iNaturalist"
     }
    }
@@ -4392,6 +4379,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lamniformes",
   "family": "Odontaspididae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sand_tiger_shark",
   "curated": true
  },
  {
@@ -4401,9 +4389,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De zebrahaai is een vis uit de familie van de zebrahaaien, orde bakerhaaien, die voorkomt in de Grote en Indische Oceaan in een tropisch klimaat.",
   "facts": [
-   "Hij leeft op de bodem in ondiep water, tot zo'n 63 meter diep.",
-   "Zijn eikapsels zijn zo'n 17 centimeter lang.",
-   "Jonge zebrahaaien hebben een langere staart dan volwassen dieren."
+   "Jonge zebrahaaien zijn gestreept, volwassen dieren gevlekt: vandaar de naam.",
+   "Op duikplekken eten ze uit de hand van duikers en laten ze zich aanraken.",
+   "Hij kan 25 tot 30 jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zebrahaai",
   "img": "images/stegostoma-fasciatum.webp",
@@ -4437,12 +4425,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/stegostoma-fasciatum-2.webp",
     "size": [
      1100,
-     734
+     733
     ],
     "credit": {
-     "by": "Simon Pierce",
+     "by": "Pauline Fey",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/125113158",
+     "url": "https://www.inaturalist.org/photos/207305884",
      "source": "iNaturalist"
     }
    },
@@ -4450,12 +4438,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/stegostoma-fasciatum-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "divercraig",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/675226971",
+     "url": "https://www.inaturalist.org/photos/270699319",
      "source": "iNaturalist"
     }
    }
@@ -4464,6 +4452,7 @@ window.OCEAN_ANIMALS = [
   "order": "Orectolobiformes",
   "family": "Stegostomatidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Zebra_shark",
   "curated": true
  },
  {
@@ -4473,9 +4462,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De zee-engel is een vis uit de familie van zee-engelen en behoort derhalve tot de orde van de zee-engelen.",
   "facts": [
-   "Hij heeft bijnamen als paddehaai en schoorhaai.",
-   "Hij ligt verstopt onder zand of modder en overvalt zijn prooi vanuit een hinderlaag.",
-   "Door visserij is hij sterk achteruitgegaan."
+   "Aristoteles wist al dat hij een haai is, ook al lijkt hij op een rog.",
+   "De Romeinen gebruikten zijn ruwe huid om hout en ivoor te polijsten.",
+   "Hij ligt overdag ingegraven, met alleen zijn ogen erboven."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zee-engel",
   "img": "images/squatina-squatina.webp",
@@ -4512,9 +4501,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Susanne Spindler",
+     "by": "Dennis Rabeling",
      "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/165998110",
+     "url": "https://www.inaturalist.org/photos/357004202",
      "source": "iNaturalist"
     }
    },
@@ -4525,9 +4514,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Susanne Spindler",
+     "by": "Dennis Rabeling",
      "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/148709523",
+     "url": "https://www.inaturalist.org/photos/410987723",
      "source": "iNaturalist"
     }
    }
@@ -4536,6 +4525,7 @@ window.OCEAN_ANIMALS = [
   "order": "Squatiniformes",
   "family": "Squatinidae",
   "ns": 9,
+  "wikiEn": "https://en.wikipedia.org/wiki/Squatina_squatina",
   "curated": true
  },
  {
@@ -4545,9 +4535,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De zijdehaai, ook wel kanhaai, is een haai uit de familie van de requiemhaaien.",
   "facts": [
-   "Hij komt over de hele wereld voor in tropische zeeën.",
-   "Je kunt hem bijvoorbeeld tegenkomen bij Aruba en Curaçao.",
-   "Hij leeft ook in de Rode Zee en bij Hawaï."
+   "In groepen drijven ze scholen vis tot een bal en eten ze die helemaal op.",
+   "Geluiden van spartelende vissen trekken hem aan van honderden meters ver.",
+   "Hij is nieuwsgierig en zwemt soms steeds weer dicht naar duikers toe."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zijdehaai",
   "img": "images/carcharhinus-falciformis.webp",
@@ -4581,12 +4571,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/carcharhinus-falciformis-2.webp",
     "size": [
      1100,
-     725
+     733
     ],
     "credit": {
-     "by": "Amanda Flannery",
+     "by": "Frank Krasovec",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/13304894",
+     "url": "https://www.inaturalist.org/photos/416966185",
      "source": "iNaturalist"
     }
    },
@@ -4594,12 +4584,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/carcharhinus-falciformis-3.webp",
     "size": [
      1100,
-     734
+     824
     ],
     "credit": {
-     "by": "Programa Marino del Golfo de California",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/33852125",
+     "by": "María Rodríguez-Salinas",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/313162787",
      "source": "iNaturalist"
     }
    }
@@ -4608,6 +4598,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Carcharhinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Silky_shark",
   "curated": true
  },
  {
@@ -4617,9 +4608,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De zwartpunthaai, niet te verwarren met de zwartpuntrifhaai, is een grote grijskleurige haai met zwarte punten op de vinnen.",
   "facts": [
-   "Zijn wetenschappelijke naam limbatus ('omrand') verwijst naar de zwarte punten van zijn vinnen.",
-   "Hij kan uit het water springen en om zijn as draaien voor hij terugvalt.",
-   "Bij Australië ontdekten onderzoekers kruisingen tussen deze haai en een verwante soort."
+   "Hij springt draaiend uit het water terwijl hij een school vis aanvalt.",
+   "Vrouwtjes kunnen zonder mannetje zwanger worden: dat is in een aquarium gezien.",
+   "Zijn naam limbatus ('omrand') verwijst naar de zwarte punten van zijn vinnen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zwartpunthaai",
   "img": "images/carcharhinus-limbatus.webp",
@@ -4653,12 +4644,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/carcharhinus-limbatus-2.webp",
     "size": [
      1100,
-     733
+     734
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "Simon Pierce",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/247619383",
+     "url": "https://www.inaturalist.org/photos/225162527",
      "source": "iNaturalist"
     }
    },
@@ -4666,12 +4657,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/carcharhinus-limbatus-3.webp",
     "size": [
      1100,
-     733
+     734
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "Simon Pierce",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/247619703",
+     "url": "https://www.inaturalist.org/photos/297698611",
      "source": "iNaturalist"
     }
    }
@@ -4680,6 +4671,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Carcharhinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Blacktip_shark",
   "curated": true
  },
  {
@@ -4689,21 +4681,21 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De Zwartpuntrifhaai is een haai uit de familie van de Requiemhaaien, die tot de orde van de Grondhaaien behoort.",
   "facts": [
-   "Hij leeft meestal in ondiep water, vaak maar een paar meter diep.",
-   "Hij wordt maximaal ongeveer 1,6 meter lang.",
-   "Je ziet hem vaak bij koraalriffen en de zandvlakten ernaast."
+   "Hij zwemt vaak zo ondiep dat zijn rugvin boven water uitsteekt.",
+   "Hij is verlegen en moeilijk te benaderen.",
+   "Hij komt af op getik van metaal onder water en op de geur van vis."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zwartpuntrifhaai",
   "img": "images/carcharhinus-melanopterus.webp",
   "imgSize": [
    1400,
-   934
+   1030
   ],
   "credit": {
-   "by": "Luc Viatour",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Carcharhinus_melanopterus_Luc_Viatour.jpg",
-   "source": "Wikimedia Commons"
+   "by": "Poseidon’s Adventure",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/608947383",
+   "source": "iNaturalist"
   },
   "obs": 228161,
   "map": "maps/carcharhinus-melanopterus.webp",
@@ -4712,20 +4704,7 @@ window.OCEAN_ANIMALS = [
     "img": "images/carcharhinus-melanopterus.webp",
     "size": [
      1400,
-     934
-    ],
-    "credit": {
-     "by": "Luc Viatour",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Carcharhinus_melanopterus_Luc_Viatour.jpg",
-     "source": "Wikimedia Commons"
-    }
-   },
-   {
-    "img": "images/carcharhinus-melanopterus-2.webp",
-    "size": [
-     1100,
-     809
+     1030
     ],
     "credit": {
      "by": "Poseidon’s Adventure",
@@ -4735,15 +4714,28 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
+    "img": "images/carcharhinus-melanopterus-2.webp",
+    "size": [
+     1100,
+     619
+    ],
+    "credit": {
+     "by": "Luis Thiem",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/567823175",
+     "source": "iNaturalist"
+    }
+   },
+   {
     "img": "images/carcharhinus-melanopterus-3.webp",
     "size": [
      1100,
-     733
+     663
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "Michael Kelly",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/675226740",
+     "url": "https://www.inaturalist.org/photos/561231110",
      "source": "iNaturalist"
     }
    }
@@ -4752,6 +4744,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Carcharhinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Blacktip_reef_shark",
   "curated": true
  },
  {
@@ -4761,20 +4754,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Haaien & roggen",
   "intro": "De zwelhaai is een vissensoort uit de familie van de kathaaien.",
   "facts": [
-   "Bij gevaar pompt hij zich vol met water of lucht, zodat hij veel groter lijkt.",
-   "Zo kan hij zich ook klem zetten in een rotsspleet.",
-   "'s Nachts overvalt hij slapende vissen."
+   "Bij gevaar slikt hij water en wordt hij twee keer zo groot.",
+   "Hij is sociaal: zwelhaaien slapen vaak naast of zelfs bovenop elkaar.",
+   "Hij heeft grote gouden ogen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zwelhaai",
   "img": "images/cephaloscyllium-ventriosum.webp",
   "imgSize": [
-   1328,
-   491
+   1400,
+   933
   ],
   "credit": {
-   "by": "Sparks",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/522715832",
+   "by": "Lauren Martin",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/203213370",
    "source": "iNaturalist"
   },
   "obs": 153317,
@@ -4783,13 +4776,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/cephaloscyllium-ventriosum.webp",
     "size": [
-     1328,
-     491
+     1400,
+     933
     ],
     "credit": {
-     "by": "Sparks",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/522715832",
+     "by": "Lauren Martin",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/203213370",
      "source": "iNaturalist"
     }
    },
@@ -4797,12 +4790,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cephaloscyllium-ventriosum-2.webp",
     "size": [
      1100,
-     700
+     733
     ],
     "credit": {
      "by": "Lauren Martin",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/250014202",
+     "url": "https://www.inaturalist.org/photos/292312799",
      "source": "iNaturalist"
     }
    },
@@ -4810,12 +4803,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cephaloscyllium-ventriosum-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Efrain Chavez",
+     "by": "Lauren Martin",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/175640860",
+     "url": "https://www.inaturalist.org/photos/277274065",
      "source": "iNaturalist"
     }
    }
@@ -4824,6 +4817,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carcharhiniformes",
   "family": "Scyliorhinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Swell_shark",
   "curated": true
  },
  {
@@ -4833,20 +4827,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "Homarus americanus is een kreeftensoort uit de familie Nephropidae.",
   "facts": [
-   "Hij leeft langs de kust van Canada en de Verenigde Staten.",
-   "Hij is nauw verwant aan de Europese zeekreeft.",
-   "Hij geldt als een lekkernij."
+   "Hij is de zwaarste kreeftachtige ter wereld.",
+   "Met twee 'neuzen' ruikt hij uit welke richting een geur komt, zoals wij geluid horen.",
+   "Maar 6% van de kreeften die een fuik in gaan, wordt echt gevangen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Homarus_americanus",
   "img": "images/homarus-americanus.webp",
   "imgSize": [
    1400,
-   1050
+   927
   ],
   "credit": {
-   "by": "Roger Rittmaster",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/75691769",
+   "by": "Bob Semple",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/31318271",
    "source": "iNaturalist"
   },
   "obs": 934399,
@@ -4856,12 +4850,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/homarus-americanus.webp",
     "size": [
      1400,
-     1050
+     927
     ],
     "credit": {
-     "by": "Roger Rittmaster",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/75691769",
+     "by": "Bob Semple",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/31318271",
      "source": "iNaturalist"
     }
    },
@@ -4872,9 +4866,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Lara Gibson",
+     "by": "Roger Rittmaster",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/47062265",
+     "url": "https://www.inaturalist.org/photos/75691769",
      "source": "iNaturalist"
     }
    },
@@ -4882,12 +4876,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/homarus-americanus-3.webp",
     "size": [
      1100,
-     825
+     880
     ],
     "credit": {
-     "by": "alicia penney",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/4672168",
+     "by": "Alex Shure",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/345361088",
      "source": "iNaturalist"
     }
    }
@@ -4896,6 +4890,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Nephropidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/American_lobster",
   "curated": true
  },
  {
@@ -4905,20 +4900,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De Atlantische degenkrab is een geleedpotig dier dat behoort tot de familie van de degenkrabben.",
   "facts": [
-   "Ondanks zijn naam is hij meer familie van spinnen dan van krabben.",
-   "Zijn bloed is blauw.",
-   "Dat bloed wordt al sinds de jaren tachtig gebruikt om medicijnen en vaccins te testen."
+   "Hij heeft negen ogen.",
+   "Hij lijkt al heel lang bijna niet veranderd: hij hoort bij een van de oudste groepen zeedieren.",
+   "Zijn blauwe bloed wordt gebruikt om medicijnen te testen; na een bloedafname is het binnen een week weer aangevuld."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Atlantische_degenkrab",
   "img": "images/limulus-polyphemus.webp",
   "imgSize": [
    1400,
-   933
+   1050
   ],
   "credit": {
-   "by": "Meghan Cassidy",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/1104162",
+   "by": "Fen Levy-O'Malley",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/242357854",
    "source": "iNaturalist"
   },
   "obs": 39035,
@@ -4928,12 +4923,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/limulus-polyphemus.webp",
     "size": [
      1400,
-     933
+     1050
     ],
     "credit": {
-     "by": "Meghan Cassidy",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/1104162",
+     "by": "Fen Levy-O'Malley",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/242357854",
      "source": "iNaturalist"
     }
    },
@@ -4944,22 +4939,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "John Beetham",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/4753306",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/limulus-polyphemus-3.webp",
-    "size": [
-     1100,
-     824
-    ],
-    "credit": {
-     "by": "Hans Hillewaert",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/186273927",
+     "by": "Max McCarthy",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/197479787",
      "source": "iNaturalist"
     }
    }
@@ -4968,6 +4950,7 @@ window.OCEAN_ANIMALS = [
   "order": "Xiphosurida",
   "family": "Limulidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_horseshoe_crab",
   "curated": true
  },
  {
@@ -4977,9 +4960,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De blauwe zwemkrab is een krab uit de familie Portunidae, ook wel zwemkrabben genoemd.",
   "facts": [
-   "Hij overleeft in zoet, brak én zout water, van -3 tot 35 graden.",
-   "Hij is een alleseter.",
-   "In de Po-delta in Italië eet hij de vongole-schelpen op; vissers vangen er dagelijks zo'n 100 kilo van deze krabben."
+   "Een levende blauwe zwemkrab wordt pas bij het koken feloranjerood: dan valt het blauwe kleureiwit uit elkaar.",
+   "Mannetjes en vrouwtjes herken je aan de vorm van het achterlijf, het 'schortje'.",
+   "Hij overleeft in zoet, brak én zout water, van -3 tot 35 graden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Blauwe_zwemkrab",
   "img": "images/callinectes-sapidus.webp",
@@ -5013,12 +4996,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/callinectes-sapidus-2.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Le Gallais",
+     "by": "Alex Shure",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/712582980",
+     "url": "https://www.inaturalist.org/photos/175905385",
      "source": "iNaturalist"
     }
    },
@@ -5031,7 +5014,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Alex Shure",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/175905385",
+     "url": "https://www.inaturalist.org/photos/175905387",
      "source": "iNaturalist"
     }
    }
@@ -5040,6 +5023,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Portunidae",
   "ns": 11,
+  "wikiEn": "https://en.wikipedia.org/wiki/Callinectes_sapidus",
   "curated": true
  },
  {
@@ -5049,20 +5033,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De bonte galathea is een kreeftachtige uit de familie Galatheidae.",
   "facts": [
-   "Hij wordt meestal zo'n 6 centimeter, maar kan 15 centimeter lang worden.",
-   "Hij komt voor in de Noordzee.",
-   "Hij leeft ook in de Middellandse Zee."
+   "Het is de grootste springkreeft van het noordoosten van de Atlantische Oceaan.",
+   "Je herkent hem meteen aan de dwarse blauwe strepen over zijn lijf.",
+   "Hij wordt meestal zo'n 6 centimeter, maar kan 15 centimeter lang worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Bonte_galathea",
   "img": "images/galathea-strigosa.webp",
   "imgSize": [
    1400,
-   1054
+   990
   ],
   "credit": {
-   "by": "Sylvain Le Bris",
+   "by": "Emil B",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/180350143",
+   "url": "https://www.inaturalist.org/photos/594638533",
    "source": "iNaturalist"
   },
   "obs": 9086,
@@ -5072,12 +5056,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/galathea-strigosa.webp",
     "size": [
      1400,
-     1054
+     990
     ],
     "credit": {
-     "by": "Sylvain Le Bris",
+     "by": "Emil B",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/180350143",
+     "url": "https://www.inaturalist.org/photos/594638533",
      "source": "iNaturalist"
     }
    },
@@ -5085,12 +5069,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/galathea-strigosa-2.webp",
     "size": [
      1100,
-     733
+     778
     ],
     "credit": {
-     "by": "josepvilanova",
+     "by": "Emil B",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/101116757",
+     "url": "https://www.inaturalist.org/photos/383853746",
      "source": "iNaturalist"
     }
    },
@@ -5098,12 +5082,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/galathea-strigosa-3.webp",
     "size": [
      1100,
-     825
+     828
     ],
     "credit": {
-     "by": "sandra_bracun",
+     "by": "Sylvain Le Bris",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/299112639",
+     "url": "https://www.inaturalist.org/photos/180350143",
      "source": "iNaturalist"
     }
    }
@@ -5112,6 +5096,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Galatheidae",
   "ns": 261,
+  "wikiEn": "https://en.wikipedia.org/wiki/Galathea_strigosa",
   "curated": true
  },
  {
@@ -5121,20 +5106,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De Europese zeekreeft of noordzeekreeft is een tienpotige kreeftachtige uit de familie van de zeekreeften.",
   "facts": [
-   "Een levende kreeft is blauwzwart, geen rood.",
-   "Pas bij het koken komt de rode kleurstof vrij.",
-   "Hij jaagt op wormen, zee-egels en schelpdieren."
+   "Een levende kreeft is blauw; 'kreeftrood' wordt hij pas in de pan.",
+   "Van elke 20.000 larven haalt naar schatting maar één het tot op de zeebodem.",
+   "Vrouwtjes met eitjes onder hun staart worden 'berried' genoemd: alsof ze vol besjes hangen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Europese_zeekreeft",
   "img": "images/homarus-gammarus.webp",
   "imgSize": [
    1400,
-   1049
+   1050
   ],
   "credit": {
-   "by": "Klaus Kevin Kristensen",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/100731551",
+   "by": "Dennis Rabeling",
+   "license": "CC-BY-NC-ND",
+   "url": "https://www.inaturalist.org/photos/590418869",
    "source": "iNaturalist"
   },
   "obs": 18028,
@@ -5144,7 +5129,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/homarus-gammarus.webp",
     "size": [
      1400,
-     1049
+     1050
+    ],
+    "credit": {
+     "by": "Dennis Rabeling",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/590418869",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/homarus-gammarus-2.webp",
+    "size": [
+     1100,
+     824
     ],
     "credit": {
      "by": "Klaus Kevin Kristensen",
@@ -5154,28 +5152,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/homarus-gammarus-2.webp",
-    "size": [
-     1100,
-     736
-    ],
-    "credit": {
-     "by": "Bernard Picton",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/70181073",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/homarus-gammarus-3.webp",
     "size": [
      1100,
-     736
+     825
     ],
     "credit": {
-     "by": "Bernard Picton",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/70181041",
+     "by": "Frédéric ANDRE",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/315045344",
      "source": "iNaturalist"
     }
    }
@@ -5184,6 +5169,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Nephropidae",
   "ns": 2324,
+  "wikiEn": "https://en.wikipedia.org/wiki/Homarus_gammarus",
   "curated": true
  },
  {
@@ -5193,20 +5179,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De fluwelen zwemkrab is een kreeftachtige uit de orde van tienpotigen.",
   "facts": [
-   "Hij is bruin met zwart, geel en blauw.",
-   "Aan de Nederlandse en Belgische kust is hij zeldzaam.",
-   "In open zee is hij juist vrij algemeen."
+   "Hij heet ook wel 'duivelskrab', vanwege zijn agressieve gedrag en felrode ogen.",
+   "Aan de Nederlandse en Belgische kust is hij zeldzaam, in open zee juist vrij algemeen.",
+   "Schotland is de grootste visser van deze krab in Europa."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Fluwelen_zwemkrab",
   "img": "images/necora-puber.webp",
   "imgSize": [
    1400,
-   933
+   1050
   ],
   "credit": {
-   "by": "Ondřej Radosta",
+   "by": "floris_heemskerk",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/179506331",
+   "url": "https://www.inaturalist.org/photos/439118717",
    "source": "iNaturalist"
   },
   "obs": 85918,
@@ -5216,25 +5202,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/necora-puber.webp",
     "size": [
      1400,
-     933
+     1050
     ],
     "credit": {
-     "by": "Ondřej Radosta",
+     "by": "floris_heemskerk",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/179506331",
+     "url": "https://www.inaturalist.org/photos/439118717",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/necora-puber-2.webp",
     "size": [
-     800,
-     600
+     1100,
+     619
     ],
     "credit": {
-     "by": "IES MANUEL GARCÍA BARROS A ESTRADA- PONTEVEDRA",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/353938",
+     "by": "Lynn Biscop",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/304093349",
      "source": "iNaturalist"
     }
    },
@@ -5247,7 +5233,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Stefan",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/6668159",
+     "url": "https://www.inaturalist.org/photos/57537179",
      "source": "iNaturalist"
     }
    }
@@ -5256,6 +5242,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Polybiidae",
   "ns": 3405,
+  "wikiEn": "https://en.wikipedia.org/wiki/Velvet_crab",
   "curated": true
  },
  {
@@ -5265,20 +5252,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De gewone garnaal of grijze garnaal is een garnaal uit de familie Crangonidae.",
   "facts": [
-   "Hij kan van kleur veranderen om op de bodem te lijken.",
-   "Overdag graaft hij zich in, met alleen zijn ogen en voelsprieten erboven.",
+   "Overdag graaft hij zich in het zand in, met alleen zijn voelsprieten erboven, om vogels en vissen te ontlopen.",
+   "Hij kan zijn zandkleur aanpassen aan de bodem.",
    "De meeste Hollandse garnalen worden met de hand gepeld in landen als Marokko."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_garnaal",
   "img": "images/crangon-crangon.webp",
   "imgSize": [
-   1400,
-   982
+   1200,
+   799
   ],
   "credit": {
-   "by": "no rights reserved",
-   "license": "CC0",
-   "url": "https://www.inaturalist.org/photos/219744861",
+   "by": "Gintautas Steiblys",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/95251323",
    "source": "iNaturalist"
   },
   "obs": 497741,
@@ -5287,13 +5274,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/crangon-crangon.webp",
     "size": [
-     1400,
-     982
+     1200,
+     799
     ],
     "credit": {
-     "by": "no rights reserved",
-     "license": "CC0",
-     "url": "https://www.inaturalist.org/photos/219744861",
+     "by": "Gintautas Steiblys",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/95251323",
      "source": "iNaturalist"
     }
    },
@@ -5304,9 +5291,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Stefan",
+     "by": "petersc",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/12599003",
+     "url": "https://www.inaturalist.org/photos/89621979",
      "source": "iNaturalist"
     }
    },
@@ -5314,12 +5301,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/crangon-crangon-3.webp",
     "size": [
      1100,
-     825
+     778
     ],
     "credit": {
-     "by": "Frédéric ANDRE",
+     "by": "Emil B",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/700869524",
+     "url": "https://www.inaturalist.org/photos/334545580",
      "source": "iNaturalist"
     }
    }
@@ -5328,6 +5315,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Crangonidae",
   "ns": 1881,
+  "wikiEn": "https://en.wikipedia.org/wiki/Crangon_crangon",
   "curated": true
  },
  {
@@ -5337,20 +5325,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De gewone heremietkreeft is een kreeftachtige uit de orde van de tienpotigen.",
   "facts": [
-   "Hij heeft een zacht achterlijf en woont daarom in een lege schelp.",
-   "Als zijn schelp te klein wordt, verhuist hij naar een grotere.",
-   "Vaak woont er een zeeanemoon bovenop zijn schelp."
+   "Hij heeft een zacht achterlijf en woont daarom in een lege schelp; wordt die te klein, dan verhuist hij.",
+   "Vaak groeit er een zeeanemoon bovenop zijn schelp.",
+   "Hij eet bijna alles: dode resten, en als het moet filtert hij voedsel uit het water."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_heremietkreeft",
   "img": "images/pagurus-bernhardus.webp",
   "imgSize": [
    1400,
-   1050
+   1149
   ],
   "credit": {
-   "by": "Stefan",
+   "by": "Bianca Bahlert",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/6221181",
+   "url": "https://www.inaturalist.org/photos/338831366",
    "source": "iNaturalist"
   },
   "obs": 99809,
@@ -5360,12 +5348,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pagurus-bernhardus.webp",
     "size": [
      1400,
-     1050
+     1149
     ],
     "credit": {
-     "by": "Stefan",
+     "by": "Bianca Bahlert",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/6221181",
+     "url": "https://www.inaturalist.org/photos/338831366",
      "source": "iNaturalist"
     }
    },
@@ -5373,12 +5361,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pagurus-bernhardus-2.webp",
     "size": [
      1100,
-     825
+     734
     ],
     "credit": {
-     "by": "Stefan",
+     "by": "poulpe-van-palmes",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/13213119",
+     "url": "https://www.inaturalist.org/photos/502218883",
      "source": "iNaturalist"
     }
    },
@@ -5386,12 +5374,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pagurus-bernhardus-3.webp",
     "size": [
      1100,
-     825
+     782
     ],
     "credit": {
-     "by": "tamsynmann",
+     "by": "lucane",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/12306650",
+     "url": "https://www.inaturalist.org/photos/446246346",
      "source": "iNaturalist"
     }
    }
@@ -5400,6 +5388,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Paguridae",
   "ns": 4736,
+  "wikiEn": "https://en.wikipedia.org/wiki/Pagurus_bernhardus",
   "curated": true
  },
  {
@@ -5409,9 +5398,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De gewone spinkrab is een krab uit de familie Oregoniidae, die vrij algemeen is voor de Belgische en de Nederlandse kust.",
   "facts": [
-   "Hij is vrij algemeen voor de Nederlandse en Belgische kust.",
+   "In 1986 werden er twee gevangen bij Antarctica, waarschijnlijk meegelift met mensen.",
    "Zijn ogen staan op steeltjes die hij kan inklappen.",
-   "Hij eet vooral algen en weekdieren."
+   "Hij is vrij algemeen voor de Nederlandse en Belgische kust."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_spinkrab",
   "img": "images/hyas-araneus.webp",
@@ -5445,12 +5434,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/hyas-araneus-2.webp",
     "size": [
      1100,
-     734
+     866
     ],
     "credit": {
-     "by": "Klaus Kevin Kristensen",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/116686229",
+     "by": "Bianca Bahlert",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/361646093",
      "source": "iNaturalist"
     }
    },
@@ -5458,12 +5447,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/hyas-araneus-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Raphael Forns",
+     "by": "Bianca Bahlert",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/457160781",
+     "url": "https://www.inaturalist.org/photos/361646377",
      "source": "iNaturalist"
     }
    }
@@ -5472,6 +5461,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Oregoniidae",
   "ns": 722,
+  "wikiEn": "https://en.wikipedia.org/wiki/Great_spider_crab",
   "curated": true
  },
  {
@@ -5481,20 +5471,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De gewone zeepok is een zeepokkensoort uit de familie Archaeobalanidae.",
   "facts": [
-   "Hij kan bij laagwater zonder problemen negen uur droog liggen.",
-   "Zijn huisje bestaat uit zes kalkplaten.",
-   "Hij is bestand tegen vrieskou."
+   "Een zeepok heeft geen ogen, maar merkt wel verschil tussen licht en donker en trekt zich terug bij gevaar.",
+   "Zijn larven kunnen wekenlang ingevroren in zee-ijs overleven.",
+   "Hij is tweeslachtig, maar kan zichzelf niet bevruchten."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_zeepok",
   "img": "images/semibalanus-balanoides.webp",
   "imgSize": [
    1400,
-   1050
+   825
   ],
   "credit": {
-   "by": "no rights reserved",
-   "license": "CC0",
-   "url": "https://www.inaturalist.org/photos/41373988",
+   "by": "Aleksandr Berdnikov",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/131167930",
    "source": "iNaturalist"
   },
   "obs": 30947,
@@ -5504,12 +5494,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/semibalanus-balanoides.webp",
     "size": [
      1400,
-     1050
+     825
     ],
     "credit": {
-     "by": "no rights reserved",
-     "license": "CC0",
-     "url": "https://www.inaturalist.org/photos/41373988",
+     "by": "Aleksandr Berdnikov",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/131167930",
      "source": "iNaturalist"
     }
    },
@@ -5520,9 +5510,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "no rights reserved",
-     "license": "CC0",
-     "url": "https://www.inaturalist.org/photos/126643313",
+     "by": "Jacques Ranger",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/561079354",
      "source": "iNaturalist"
     }
    },
@@ -5533,9 +5523,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Sequoia Janirella Wrens",
+     "by": "mkkennedy",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/48592424",
+     "url": "https://www.inaturalist.org/photos/171417092",
      "source": "iNaturalist"
     }
    }
@@ -5544,6 +5534,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sessilia",
   "family": "Archaeobalanidae",
   "ns": 1350,
+  "wikiEn": "https://en.wikipedia.org/wiki/Semibalanus_balanoides",
   "curated": true
  },
  {
@@ -5554,8 +5545,8 @@ window.OCEAN_ANIMALS = [
   "intro": "De gezaagde steurgarnaal is een kreeftachtige uit de orde tienpotigen en is een bekende garnalensoort.",
   "facts": [
    "Zijn voelsprieten zijn anderhalf keer zo lang als zijn lijf.",
-   "Met die voelsprieten merkt hij gevaar op.",
-   "Hij leeft boven rotsachtige bodems langs de Atlantische kust."
+   "Soms heeft hij een bult op zijn schild: daar zit dan een parasitaire pissebed onder.",
+   "Hij kan geluid horen, en wordt zo'n 3 tot 5 jaar oud."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gezaagde_steurgarnaal",
   "img": "images/palaemon-serratus.webp",
@@ -5589,12 +5580,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/palaemon-serratus-2.webp",
     "size": [
      1100,
-     734
+     825
     ],
     "credit": {
-     "by": "josepvilanova",
+     "by": "Daniel Rodrigues",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/59252509",
+     "url": "https://www.inaturalist.org/photos/112336555",
      "source": "iNaturalist"
     }
    },
@@ -5616,6 +5607,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Palaemonidae",
   "ns": 825,
+  "wikiEn": "https://en.wikipedia.org/wiki/Palaemon_serratus",
   "curated": true
  },
  {
@@ -5625,20 +5617,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De grote of gewone eendenmossel is een eendenmosselensoort uit de familie Lepadidae.",
   "facts": [
-   "Hij hecht zich vast aan voorwerpen die in zee drijven.",
-   "Hij filtert algen uit het water.",
-   "Hij komt voor langs de hele West- en Zuid-Europese kust."
+   "Hij hecht zich vast aan alles wat in zee drijft.",
+   "Hij is ooit gevonden op een krokodil: de eerste keer dat dat werd vastgesteld.",
+   "Hij is tweeslachtig en plant zich al voort als hij zo'n 2,5 centimeter lang is."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grote_eendenmossel",
   "img": "images/lepas-anatifera.webp",
   "imgSize": [
-   1400,
-   1050
+   1000,
+   750
   ],
   "credit": {
-   "by": "Jacqui Geux",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/8560014",
+   "by": "tangatawhenua",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/22973918",
    "source": "iNaturalist"
   },
   "obs": 5554,
@@ -5647,13 +5639,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/lepas-anatifera.webp",
     "size": [
-     1400,
-     1050
+     1000,
+     750
     ],
     "credit": {
-     "by": "Jacqui Geux",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/8560014",
+     "by": "tangatawhenua",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/22973918",
      "source": "iNaturalist"
     }
    },
@@ -5664,9 +5656,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Lawrence Haselmaier",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/151185667",
+     "by": "Jacqui Geux",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/8560014",
      "source": "iNaturalist"
     }
    },
@@ -5674,12 +5666,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lepas-anatifera-3.webp",
     "size": [
      1100,
-     825
+     826
     ],
     "credit": {
-     "by": "Ken",
+     "by": "Lawrence Haselmaier",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/56133255",
+     "url": "https://www.inaturalist.org/photos/151186201",
      "source": "iNaturalist"
     }
    }
@@ -5688,6 +5680,7 @@ window.OCEAN_ANIMALS = [
   "order": "Pedunculata",
   "family": "Lepadidae",
   "ns": 329,
+  "wikiEn": "https://en.wikipedia.org/wiki/Lepas_anatifera",
   "curated": true
  },
  {
@@ -5697,9 +5690,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De grote spinkrab is een kreeftachtige uit de familie spinkrabben.",
   "facts": [
-   "Hij camoufleert zich actief door poliepen, sponsjes en wier op zijn schild te plakken.",
-   "Het is een traag dier dat leeft van de getijdenzone tot 200 meter diep.",
-   "Hij eet vooral algen, weekdieren en kleine kreeftachtigen."
+   "Hij camoufleert zich door poliepen, sponsjes en wier op zijn schild te plakken.",
+   "In de herfst trekt hij soms maandenlang over de zeebodem.",
+   "'s Zomers zit hij op rotsriffen van maar zo'n 4 meter diep."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grote_spinkrab",
   "img": "images/maja-squinado.webp",
@@ -5733,12 +5726,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/maja-squinado-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "Roberto Pillon",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/204130766",
+     "url": "https://www.inaturalist.org/photos/177255466",
      "source": "iNaturalist"
     }
    },
@@ -5749,9 +5742,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Luis P. B.",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/204130925",
+     "by": "Daniel Benák",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/224282015",
      "source": "iNaturalist"
     }
    }
@@ -5760,6 +5753,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Majidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Maja_squinado",
   "curated": true
  },
  {
@@ -5769,20 +5763,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "Het harig porseleinkrabbetje is een tienpotigensoort uit de familie van de Porcellanidae.",
   "facts": [
-   "Hij is maar zo'n 15 millimeter groot en helemaal harig.",
    "Zijn laatste paar poten is verstopt, waardoor het lijkt alsof hij maar drie paar looppoten heeft.",
+   "Hij is maar zo'n 15 millimeter groot en helemaal harig.",
    "Met scherpe klauwtjes houdt hij zich vast aan de onderkant van rotsen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Harig_porseleinkrabbetje",
   "img": "images/porcellana-platycheles.webp",
   "imgSize": [
    1400,
-   933
+   1050
   ],
   "credit": {
-   "by": "Ondřej Radosta",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/179506447",
+   "by": "Vsevolod Rudyi",
+   "license": "CC-BY",
+   "url": "https://www.inaturalist.org/photos/658673818",
    "source": "iNaturalist"
   },
   "obs": 10565,
@@ -5792,12 +5786,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/porcellana-platycheles.webp",
     "size": [
      1400,
-     933
+     1050
     ],
     "credit": {
-     "by": "Ondřej Radosta",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/179506447",
+     "by": "Vsevolod Rudyi",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/658673818",
      "source": "iNaturalist"
     }
    },
@@ -5818,12 +5812,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/porcellana-platycheles-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Calum McLennan",
+     "by": "Glenn Biscop",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/332650967",
+     "url": "https://www.inaturalist.org/photos/79329838",
      "source": "iNaturalist"
     }
    }
@@ -5832,6 +5826,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Porcellanidae",
   "ns": 193,
+  "wikiEn": "https://en.wikipedia.org/wiki/Porcellana_platycheles",
   "curated": true
  },
  {
@@ -5841,9 +5836,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De havenpissebed is een onder water levende pissebeddensoort uit de familie Ligiidae.",
   "facts": [
-   "Hij heeft grote ogen die lijken op de facetogen van insecten.",
+   "Zijn grote ogen bestaan uit meer dan 40 facetjes, net als bij insecten.",
    "Hij leeft op de grens van land en zee: op rotskusten, kadepalen en in havens.",
-   "Hij eet planten en dode resten."
+   "Hij is waarschijnlijk als verstekeling in schepen naar Amerika en de Azoren meegereisd."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Havenpissebed",
   "img": "images/ligia-oceanica.webp",
@@ -5877,12 +5872,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/ligia-oceanica-2.webp",
     "size": [
      1100,
-     735
+     825
     ],
     "credit": {
-     "by": "Mark Robinson",
+     "by": "Donald Davesne",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/8893",
+     "url": "https://www.inaturalist.org/photos/166956968",
      "source": "iNaturalist"
     }
    },
@@ -5890,12 +5885,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/ligia-oceanica-3.webp",
     "size": [
      1100,
-     619
+     649
     ],
     "credit": {
-     "by": "franciscodocampo",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/85281103",
+     "by": "lucane",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/668312100",
      "source": "iNaturalist"
     }
    }
@@ -5904,6 +5899,7 @@ window.OCEAN_ANIMALS = [
   "order": "Isopoda",
   "family": "Ligiidae",
   "ns": 671,
+  "wikiEn": "https://en.wikipedia.org/wiki/Ligia_oceanica",
   "curated": true
  },
  {
@@ -5913,20 +5909,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De helmkrab is een krab uit de familie Corystidae, die langs de Nederlandse en Belgische kust vrij algemeen wordt aangetroffen.",
   "facts": [
-   "Hij is vrij algemeen langs de Nederlandse en Belgische kust.",
-   "Hij leeft ingegraven in het zand, met alleen zijn voelsprieten erboven.",
-   "Zijn twee lange voelsprieten vormen samen een snorkel om door te ademen."
+   "In het Engels heet hij 'masked crab': het patroon op zijn schild lijkt op een mensengezicht.",
+   "Zijn twee lange voelsprieten vormen samen een snorkel, zodat hij ingegraven in het zand kan ademen.",
+   "Bij mannetjes zijn de scharen veel langer dan het lijf."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Helmkrab",
   "img": "images/corystes-cassivelaunus.webp",
   "imgSize": [
    1400,
-   931
+   937
   ],
   "credit": {
    "by": "Bernard Picton",
    "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/70177025",
+   "url": "https://www.inaturalist.org/photos/70176855",
    "source": "iNaturalist"
   },
   "obs": 57915,
@@ -5936,12 +5932,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/corystes-cassivelaunus.webp",
     "size": [
      1400,
-     931
+     937
     ],
     "credit": {
      "by": "Bernard Picton",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/70177025",
+     "url": "https://www.inaturalist.org/photos/70176855",
      "source": "iNaturalist"
     }
    },
@@ -5949,12 +5945,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/corystes-cassivelaunus-2.webp",
     "size": [
      1100,
-     825
+     734
     ],
     "credit": {
-     "by": "Bernard Picton",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/8433765",
+     "by": "Thomas Menut",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/338184118",
      "source": "iNaturalist"
     }
    },
@@ -5962,12 +5958,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/corystes-cassivelaunus-3.webp",
     "size": [
      1100,
-     734
+     732
     ],
     "credit": {
      "by": "Bernard Picton",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/70176616",
+     "url": "https://www.inaturalist.org/photos/70177025",
      "source": "iNaturalist"
     }
    }
@@ -5976,6 +5972,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Corystidae",
   "ns": 2263,
+  "wikiEn": "https://en.wikipedia.org/wiki/Corystes",
   "curated": true
  },
  {
@@ -5985,9 +5982,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De Japanse reuzenkrab is een krab uit de familie Inachidae, ook wel spinkrabben genoemd.",
   "facts": [
-   "Met gestrekte voorpoten kan hij wel 4 meter breed zijn.",
-   "Hij leeft 200 tot 300 meter diep voor de kust van Japan.",
-   "Ondanks zijn eng uiterlijk is hij niet agressief tegen mensen."
+   "Geen enkel geleedpotig dier heeft een grotere spanwijdte van de poten: tot wel 4 meter.",
+   "Ondanks zijn enge uiterlijk staat hij bekend als een zachtaardig dier.",
+   "Een vrouwtje legt tot 1,5 miljoen eitjes per seizoen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Japanse_reuzenkrab",
   "img": "images/macrocheira-kaempferi.webp",
@@ -6048,6 +6045,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Macrocheiridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Japanese_spider_crab",
   "curated": true
  },
  {
@@ -6057,9 +6055,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De kokoskrab, palmendief of klapperdief is een kreeftachtige die behoort tot de heremietkreeften.",
   "facts": [
-   "Hij is de grootste kreeftachtige die op het land leeft, tot 4 kilo zwaar.",
+   "Hij is het grootste ongewervelde dier dat op het land leeft, tot ruim 4 kilo zwaar.",
    "Met zijn scharen kan hij gewichten tot 28 kilo optillen.",
-   "Hij kan meer dan 50 jaar oud worden."
+   "Op sommige eilanden geloofde men dat voorouders terugkeren in de vorm van een kokoskrab."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kokoskrab",
   "img": "images/birgus-latro.webp",
@@ -6093,12 +6091,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/birgus-latro-2.webp",
     "size": [
      1100,
-     825
+     734
     ],
     "credit": {
-     "by": "Mike Burnett",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/432077682",
+     "by": "rick_franks",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/338515170",
      "source": "iNaturalist"
     }
    },
@@ -6106,12 +6104,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/birgus-latro-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Mike Burnett",
+     "by": "John Barkla",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/432080833",
+     "url": "https://www.inaturalist.org/photos/50101419",
      "source": "iNaturalist"
     }
    }
@@ -6120,6 +6118,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Coenobitidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Coconut_crab",
   "curated": true
  },
  {
@@ -6129,20 +6128,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De noordzeekrab is een kreeftachtige uit de orde van de tienpotigen.",
   "facts": [
-   "De punten van zijn scharen zijn zwart.",
-   "Je herkent hem aan de inkepingen langs de rand van zijn schild.",
-   "Hij leeft aan rotskusten tot zo'n 100 meter diep, ook in de Noordzee."
+   "De rand van zijn schild lijkt op de geschulpte korst van een taart.",
+   "Zijn grootste vijand is de octopus, die hem zelfs in de vangkorven van vissers aanvalt.",
+   "De punten van zijn scharen zijn zwart."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Noordzeekrab",
   "img": "images/cancer-pagurus.webp",
   "imgSize": [
    1400,
-   1050
+   990
   ],
   "credit": {
-   "by": "Donald Davesne",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/167440024",
+   "by": "Emil B",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/84662306",
    "source": "iNaturalist"
   },
   "obs": 139344,
@@ -6152,12 +6151,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cancer-pagurus.webp",
     "size": [
      1400,
-     1050
+     990
     ],
     "credit": {
-     "by": "Donald Davesne",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/167440024",
+     "by": "Emil B",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/84662306",
      "source": "iNaturalist"
     }
    },
@@ -6165,25 +6164,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cancer-pagurus-2.webp",
     "size": [
      1100,
-     716
+     825
     ],
     "credit": {
-     "by": "Natural  England",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/184526117",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/cancer-pagurus-3.webp",
-    "size": [
-     1100,
-     728
-    ],
-    "credit": {
-     "by": "Keith DP Wilson",
+     "by": "donald313",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/184526122",
+     "url": "https://www.inaturalist.org/photos/121791190",
      "source": "iNaturalist"
     }
    }
@@ -6192,6 +6178,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Cancridae",
   "ns": 7511,
+  "wikiEn": "https://en.wikipedia.org/wiki/Cancer_pagurus",
   "curated": true
  },
  {
@@ -6201,8 +6188,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "Noors kreeftje of Noorse kreeft, ook wel langoustine of scampo genoemd, is een kreeftachtige uit de orde van tienpotigen.",
   "facts": [
-   "In de winkel heet hij langoustine.",
-   "Hij is oranje met donkere, niervormige ogen.",
+   "In de winkel en op het menu heet hij langoustine of scampi.",
+   "Hij zit vrijwel altijd in of bij zijn hol en komt alleen naar buiten om te eten of te paren.",
    "Bij een verse langoustine zijn de ogen pikzwart en glimt het pantser."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Noors_kreeftje",
@@ -6237,12 +6224,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/nephrops-norvegicus-2.webp",
     "size": [
      1100,
-     778
+     825
     ],
     "credit": {
      "by": "Emil B",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/334545567",
+     "url": "https://www.inaturalist.org/photos/60024273",
      "source": "iNaturalist"
     }
    },
@@ -6250,12 +6237,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/nephrops-norvegicus-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Cathy Hollingdale",
+     "by": "owains",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/476486996",
+     "url": "https://www.inaturalist.org/photos/666288413",
      "source": "iNaturalist"
     }
    }
@@ -6264,6 +6251,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Nephropidae",
   "ns": 233,
+  "wikiEn": "https://en.wikipedia.org/wiki/Nephrops_norvegicus",
   "curated": true
  },
  {
@@ -6273,20 +6261,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De pacifische poetsgarnaal is een garnaal uit de familie van de Hippolytidae.",
   "facts": [
-   "Hij leeft van parasieten die hij van vissen af eet.",
    "Hij stond model voor Jacques in de film Finding Nemo.",
-   "Hij komt voor in de Rode Zee en de warme delen van de Grote en Indische Oceaan."
+   "Hij poetst vissen schoon door parasieten en dode huid van ze af te eten.",
+   "Hij is eerst mannetje en wordt daarna man én vrouw tegelijk."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Pacifische_poetsgarnaal",
   "img": "images/lysmata-amboinensis.webp",
   "imgSize": [
-   1400,
-   1050
+   1161,
+   923
   ],
   "credit": {
-   "by": "KKPCW",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/58465202",
+   "by": "momaz",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/689497116",
    "source": "iNaturalist"
   },
   "obs": 499,
@@ -6295,26 +6283,26 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/lysmata-amboinensis.webp",
     "size": [
-     1400,
-     1050
+     1161,
+     923
     ],
     "credit": {
-     "by": "KKPCW",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/58465202",
+     "by": "momaz",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/689497116",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/lysmata-amboinensis-2.webp",
     "size": [
-     1024,
-     769
+     1100,
+     872
     ],
     "credit": {
-     "by": "Chris Moody",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/58465204",
+     "by": "momaz",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/689497117",
      "source": "iNaturalist"
     }
    },
@@ -6325,9 +6313,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Joel Abroad",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/58465203",
+     "by": "Zack",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/2403612",
      "source": "iNaturalist"
     }
    }
@@ -6336,6 +6324,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Lysmatidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Lysmata_amboinensis",
   "curated": true
  },
  {
@@ -6345,20 +6334,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De reuzenpissebed is een van de bijna twintig soorten van pissebedden uit het geslacht Bathynomus.",
   "facts": [
-   "Hij is de grootste pissebed ter wereld.",
-   "Hij leeft op de bodem van tropische zeeën, 300 tot 2100 meter diep.",
+   "Hij is de grootste pissebed ter wereld; het grootste bevestigde exemplaar was zo'n 50 centimeter.",
+   "Zijn ogen hebben meer dan 4000 facetjes en lijken op te lichten als er licht op valt.",
    "Toen hij in 1879 werd ontdekt, dacht men nog dat er in de diepzee geen leven was."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Reuzenpissebed",
   "img": "images/bathynomus-giganteus.webp",
   "imgSize": [
    1400,
-   933
+   788
   ],
   "credit": {
-   "by": "Laika ac from USA",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/16689812",
+   "by": "NOAA Photo Library",
+   "license": "CC-BY",
+   "url": "https://www.inaturalist.org/photos/84976820",
    "source": "iNaturalist"
   },
   "obs": 1507,
@@ -6368,12 +6357,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/bathynomus-giganteus.webp",
     "size": [
      1400,
-     933
+     788
     ],
     "credit": {
-     "by": "Laika ac from USA",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/16689812",
+     "by": "NOAA Photo Library",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/84976820",
      "source": "iNaturalist"
     }
    },
@@ -6381,12 +6370,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/bathynomus-giganteus-2.webp",
     "size": [
      1100,
-     731
+     733
     ],
     "credit": {
-     "by": "Corbari L.",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/95821670",
+     "by": "Barna Takats",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/482605121",
      "source": "iNaturalist"
     }
    },
@@ -6394,12 +6383,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/bathynomus-giganteus-3.webp",
     "size": [
      1100,
-     619
+     733
     ],
     "credit": {
-     "by": "NOAA Ocean Exploration & Research",
+     "by": "Laika ac from USA",
      "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/84976819",
+     "url": "https://www.inaturalist.org/photos/16689812",
      "source": "iNaturalist"
     }
    }
@@ -6408,6 +6397,7 @@ window.OCEAN_ANIMALS = [
   "order": "Isopoda",
   "family": "Cirolanidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Bathynomus_giganteus",
   "curated": true
  },
  {
@@ -6417,20 +6407,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De rode koningskrab is een koudwaterschaaldier, oorspronkelijk afkomstig uit de Beringzee.",
   "facts": [
+   "Hij is genoemd naar de kleur die hij krijgt als hij gekookt wordt; levend is hij eerder bordeauxrood.",
    "Met gespreide poten kan hij bijna 2 meter breed zijn.",
-   "Rauw is hij crèmewit met bruin; pas bij het koken wordt hij rood.",
    "Russische onderzoekers zetten hem in de jaren zestig uit in de Barentszzee."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Rode_koningskrab",
   "img": "images/paralithodes-camtschaticus.webp",
   "imgSize": [
    1400,
-   1400
+   1051
   ],
   "credit": {
-   "by": "no rights reserved",
-   "license": "CC0",
-   "url": "https://www.inaturalist.org/photos/88776171",
+   "by": "swiftsoutdoors",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/450385184",
    "source": "iNaturalist"
   },
   "obs": 12210,
@@ -6440,25 +6430,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/paralithodes-camtschaticus.webp",
     "size": [
      1400,
-     1400
+     1051
     ],
     "credit": {
-     "by": "no rights reserved",
-     "license": "CC0",
-     "url": "https://www.inaturalist.org/photos/88776171",
+     "by": "swiftsoutdoors",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/450385184",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/paralithodes-camtschaticus-2.webp",
     "size": [
-     1100,
-     825
+     1024,
+     768
     ],
     "credit": {
-     "by": "krkzv",
+     "by": "aaronbaldwin",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/34814900",
+     "url": "https://www.inaturalist.org/photos/11876967",
      "source": "iNaturalist"
     }
    },
@@ -6466,12 +6456,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/paralithodes-camtschaticus-3.webp",
     "size": [
      1100,
-     619
+     825
     ],
     "credit": {
-     "by": "Natalia Merkulyeva",
+     "by": "aaronbaldwin",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/361059473",
+     "url": "https://www.inaturalist.org/photos/11876979",
      "source": "iNaturalist"
     }
    }
@@ -6480,6 +6470,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Lithodidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Red_king_crab",
   "curated": true
  },
  {
@@ -6489,20 +6480,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "De strandkrab is een kreeftachtige uit de orde tienpotigen.",
   "facts": [
-   "Hij loopt, zoals de meeste krabben, zijwaarts.",
-   "Overdag graaft hij zich in; 's nachts is hij actief.",
-   "Vanuit Europa heeft hij zich als exoot over de hele wereld verspreid."
+   "Strandkrabben die hun vervelling uitstellen, kleuren rood in plaats van groen.",
+   "Een vrouwtje kan meer dan 400.000 eitjes produceren.",
+   "Een Amerikaanse stokerij bracht in 2022 een bourbon uit die met deze krab is gemaakt."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Strandkrab",
   "img": "images/carcinus-maenas.webp",
   "imgSize": [
    1400,
-   1026
+   933
   ],
   "credit": {
-   "by": "Sandy Rae",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/84022721",
+   "by": "Poul Erik Rasmussen",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/14174609",
    "source": "iNaturalist"
   },
   "obs": 273109,
@@ -6512,7 +6503,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/carcinus-maenas.webp",
     "size": [
      1400,
-     1026
+     933
+    ],
+    "credit": {
+     "by": "Poul Erik Rasmussen",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/14174609",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/carcinus-maenas-2.webp",
+    "size": [
+     1100,
+     806
     ],
     "credit": {
      "by": "Sandy Rae",
@@ -6522,28 +6526,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/carcinus-maenas-2.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Klaus Kevin Kristensen",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/76908604",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/carcinus-maenas-3.webp",
     "size": [
      1100,
-     825
+     735
     ],
     "credit": {
-     "by": "Bex Goreham",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/330901450",
+     "by": "Benoît Segerer",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/164795017",
      "source": "iNaturalist"
     }
    }
@@ -6552,6 +6543,7 @@ window.OCEAN_ANIMALS = [
   "order": "Decapoda",
   "family": "Carcinidae",
   "ns": 12349,
+  "wikiEn": "https://en.wikipedia.org/wiki/Carcinus_maenas",
   "curated": true
  },
  {
@@ -6561,20 +6553,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kreeftachtigen & co",
   "intro": "Het wandelend geraamte is een vlokreeftensoort uit de familie spookkreeftjes.",
   "facts": [
-   "Het is een dun, doorzichtig kreeftje van ongeveer 2 centimeter.",
+   "Het is een dun, doorzichtig kreeftje van ongeveer 2 centimeter: een wandelend geraamte.",
    "Met haakjes aan zijn achterpoten houdt hij zich vast aan wier of sponzen.",
    "Met zijn grote scharen vist hij plankton uit het water."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Wandelend_geraamte",
   "img": "images/caprella-linearis.webp",
   "imgSize": [
-   499,
-   379
+   1400,
+   1050
   ],
   "credit": {
-   "by": "Adriana Radulovici",
-   "license": "CC-BY-NC-SA",
-   "url": "https://www.inaturalist.org/photos/652505",
+   "by": "Vsevolod Rudyi",
+   "license": "CC-BY",
+   "url": "https://www.inaturalist.org/photos/619956565",
    "source": "iNaturalist"
   },
   "obs": 2871,
@@ -6583,13 +6575,39 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/caprella-linearis.webp",
     "size": [
-     499,
-     379
+     1400,
+     1050
     ],
     "credit": {
-     "by": "Adriana Radulovici",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/652505",
+     "by": "Vsevolod Rudyi",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/619956565",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/caprella-linearis-2.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "cescgv",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/328181281",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/caprella-linearis-3.webp",
+    "size": [
+     1100,
+     733
+    ],
+    "credit": {
+     "by": "Pat Webster @underwaterpat",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/569591114",
      "source": "iNaturalist"
     }
    }
@@ -6607,9 +6625,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Kwallen & koralen",
   "intro": "De Australische zeewesp is een kubuskwal uit de familie Chirodropidae.",
   "facts": [
-   "Hij is een van de giftigste dieren ter wereld.",
-   "Eén zeewesp heeft genoeg gif om 60 mensen te doden.",
-   "Na een steek kan iemand binnen drie minuten overlijden."
+   "Eén zeewesp heeft genoeg gif om 60 volwassen mensen te doden.",
+   "Hij heeft 24 ogen, verdeeld over vier groepjes, maar geen centraal zenuwstelsel.",
+   "Hij is de grootste van alle kubuskwallen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Australische_zeewesp",
   "img": "images/chironex-fleckeri.webp",
@@ -6638,12 +6656,26 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/157640089",
      "source": "iNaturalist"
     }
+   },
+   {
+    "img": "images/chironex-fleckeri-2.webp",
+    "size": [
+     1100,
+     733
+    ],
+    "credit": {
+     "by": "Cemone Hedges",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/171281337",
+     "source": "iNaturalist"
+    }
    }
   ],
   "thumb": "thumbs/chironex-fleckeri.webp",
   "order": "Chirodropida",
   "family": "Chirodropidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Chironex_fleckeri",
   "curated": true
  },
  {
@@ -6653,7 +6685,7 @@ window.OCEAN_ANIMALS = [
   "cat": "Kwallen & koralen",
   "intro": "Het bezaantje is een hydroïdpoliep uit de familie Porpitidae.",
   "facts": [
-   "Hij heeft een driehoekig 'zeiltje' en laat zich door de wind over zee blazen.",
+   "Hij heeft een stijf 'zeiltje' en laat zich door de wind over zee blazen.",
    "Het is geen echte kwal, maar een kolonie van poliepjes.",
    "Na stormen spoelen ze soms met duizenden tegelijk aan."
   ],
@@ -6661,12 +6693,12 @@ window.OCEAN_ANIMALS = [
   "img": "images/velella-velella.webp",
   "imgSize": [
    1400,
-   972
+   933
   ],
   "credit": {
-   "by": "Niki Hubbard",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/94738913",
+   "by": "João Pedro Silva",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/100386027",
    "source": "iNaturalist"
   },
   "obs": 20683,
@@ -6676,12 +6708,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/velella-velella.webp",
     "size": [
      1400,
-     972
+     933
     ],
     "credit": {
-     "by": "Niki Hubbard",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/94738913",
+     "by": "João Pedro Silva",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/100386027",
      "source": "iNaturalist"
     }
    },
@@ -6689,12 +6721,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/velella-velella-2.webp",
     "size": [
      1100,
-     728
+     764
     ],
     "credit": {
-     "by": "Sherri Barras",
+     "by": "Niki Hubbard",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/112102094",
+     "url": "https://www.inaturalist.org/photos/94738913",
      "source": "iNaturalist"
     }
    },
@@ -6705,9 +6737,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Bettina Walter",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/179473940",
+     "by": "Luca Davenport-Thomas",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/251677201",
      "source": "iNaturalist"
     }
    }
@@ -6716,6 +6748,7 @@ window.OCEAN_ANIMALS = [
   "order": "Anthoathecata",
   "family": "Porpitidae",
   "ns": 29,
+  "wikiEn": "https://en.wikipedia.org/wiki/Velella_velella",
   "curated": true
  },
  {
@@ -6725,9 +6758,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Kwallen & koralen",
   "intro": "De blauwe haarkwal is een kwal uit de klasse Scyphozoa, die vaak aanspoelt op de Nederlandse stranden.",
   "facts": [
+   "Aan de kleur van zijn hoed zie je hoe oud hij is: jong is hij bleek, volwassen paarsblauw.",
    "Hij spoelt vaak aan op Nederlandse stranden.",
-   "Zijn kleur loopt van bleekgeel tot blauw.",
-   "Hij kan slecht tegen harde oppervlakken, waardoor hij moeilijk in een aquarium te houden is."
+   "Met zijn netelcellen vangt hij prooi én weert hij vijanden af."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Blauwe_haarkwal",
   "img": "images/cyanea-lamarckii.webp",
@@ -6756,12 +6789,39 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/405040502",
      "source": "iNaturalist"
     }
+   },
+   {
+    "img": "images/cyanea-lamarckii-2.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "Vsevolod Rudyi",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/552716189",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/cyanea-lamarckii-3.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "Pierre Corbrion",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/659479098",
+     "source": "iNaturalist"
+    }
    }
   ],
   "thumb": "thumbs/cyanea-lamarckii.webp",
   "order": "Semaeostomeae",
   "family": "Cyaneidae",
   "ns": 2458,
+  "wikiEn": "https://en.wikipedia.org/wiki/Blue_jellyfish",
   "curated": true
  },
  {
@@ -6771,9 +6831,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Kwallen & koralen",
   "intro": "Bloedkoraal is een koraalsoort uit de Middellandse Zee.",
   "facts": [
-   "De Romeinen geloofden dat bloedkoraal beschermde tegen het boze oog.",
-   "Hij leeft van 2 tot 280 meter diep in de Middellandse Zee.",
-   "Met zijn tentakels vangt hij zelf plankton uit het water."
+   "Volgens de Griekse mythe ontstond rood koraal uit het bloed van Medusa's afgehakte hoofd.",
+   "De Romeinen dachten dat koraal kinderen beschermde en ziektes aanwees door van kleur te veranderen.",
+   "In Italië werd het tot in de 20e eeuw gedragen tegen het boze oog."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Bloedkoraal",
   "img": "images/corallium-rubrum.webp",
@@ -6807,12 +6867,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/corallium-rubrum-2.webp",
     "size": [
      1100,
-     1010
+     825
     ],
     "credit": {
-     "by": "Bernat Garrigós",
+     "by": "fabri",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/78276765",
+     "url": "https://www.inaturalist.org/photos/27108528",
      "source": "iNaturalist"
     }
    },
@@ -6820,12 +6880,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/corallium-rubrum-3.webp",
     "size": [
      1100,
-     825
+     867
     ],
     "credit": {
-     "by": "luismartinezartola",
+     "by": "Frédéric ANDRE",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/95834580",
+     "url": "https://www.inaturalist.org/photos/238481471",
      "source": "iNaturalist"
     }
    }
@@ -6834,6 +6894,7 @@ window.OCEAN_ANIMALS = [
   "order": "Scleralcyonacea",
   "family": "Coralliidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Precious_coral",
   "curated": true
  },
  {
@@ -6843,20 +6904,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kwallen & koralen",
   "intro": "De bloemkoolkwal, ook wel zeepaddenstoel genoemd, is een schijfkwal die voorkomt in de Middellandse Zee, de Zwarte Zee, de Atlantische Oceaan en de Noordzee.",
   "facts": [
-   "Hij heeft geen tentakels en prikt dus niet.",
-   "Hij kan 30 tot 60 centimeter breed worden.",
-   "In 2019 werd bij Engeland een exemplaar van naar schatting 1,5 meter gefilmd."
+   "Hij kan 25 kilo wegen en is de grootste kwal van Britse en Ierse wateren.",
+   "In 2019 werd bij Engeland een exemplaar van naar schatting 1,5 meter gefilmd.",
+   "Hij heeft geen tentakels; zijn gif is mild en niet gevaarlijk voor mensen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Bloemkoolkwal",
   "img": "images/rhizostoma-pulmo.webp",
   "imgSize": [
    1400,
-   865
+   933
   ],
   "credit": {
-   "by": "Gianni Del Bufalo bygdb",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/292750240",
+   "by": "xavi salvador costa",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/189393640",
    "source": "iNaturalist"
   },
   "obs": 57294,
@@ -6866,12 +6927,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/rhizostoma-pulmo.webp",
     "size": [
      1400,
-     865
+     933
     ],
     "credit": {
-     "by": "Gianni Del Bufalo bygdb",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/292750240",
+     "by": "xavi salvador costa",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/189393640",
      "source": "iNaturalist"
     }
    },
@@ -6879,12 +6940,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/rhizostoma-pulmo-2.webp",
     "size": [
      1100,
-     828
+     825
     ],
     "credit": {
-     "by": "katunchik",
+     "by": "Jennie Pistevos",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/58146118",
+     "url": "https://www.inaturalist.org/photos/416296926",
      "source": "iNaturalist"
     }
    },
@@ -6895,9 +6956,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Roberto Ghiglia",
+     "by": "Frédéric ANDRE",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/64427428",
+     "url": "https://www.inaturalist.org/photos/307000146",
      "source": "iNaturalist"
     }
    }
@@ -6906,6 +6967,7 @@ window.OCEAN_ANIMALS = [
   "order": "Rhizostomeae",
   "family": "Rhizostomatidae",
   "ns": 5890,
+  "wikiEn": "https://en.wikipedia.org/wiki/Rhizostoma_pulmo",
   "curated": true
  },
  {
@@ -6915,21 +6977,21 @@ window.OCEAN_ANIMALS = [
   "cat": "Kwallen & koralen",
   "intro": "Dodemansduim of doomansduim is een zachte koraalsoort uit de familie lederkoralen.",
   "facts": [
-   "Het is een zacht koraal dat eruitziet als een paar dikke vingers.",
-   "Hij leeft in Nederland bijvoorbeeld in de Oosterschelde en op scheepswrakken in de Noordzee.",
-   "Na jaren van achteruitgang is hij sinds 2012 weer opgeleefd in de Oosterschelde."
+   "Het is een zacht koraal dat eruitziet als een paar dikke vingers: 'dodemansvingers' in het Engels.",
+   "Een kolonie kan twintig jaar oud worden.",
+   "Kolonies zijn bijna altijd óf mannelijk óf vrouwelijk."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Dodemansduim",
   "img": "images/alcyonium-digitatum.webp",
   "imgSize": [
    1400,
-   745
+   1121
   ],
   "credit": {
-   "by": "Haplochromis",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Tote_Meerhand_(Alcyonium_digitatum)_2.jpg",
-   "source": "Wikimedia Commons"
+   "by": "Ana Santos",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/209657053",
+   "source": "iNaturalist"
   },
   "obs": 51813,
   "map": "maps/alcyonium-digitatum.webp",
@@ -6938,13 +7000,13 @@ window.OCEAN_ANIMALS = [
     "img": "images/alcyonium-digitatum.webp",
     "size": [
      1400,
-     745
+     1121
     ],
     "credit": {
-     "by": "Haplochromis",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Tote_Meerhand_(Alcyonium_digitatum)_2.jpg",
-     "source": "Wikimedia Commons"
+     "by": "Ana Santos",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/209657053",
+     "source": "iNaturalist"
     }
    },
    {
@@ -6954,9 +7016,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Poul Erik Rasmussen",
+     "by": "sunhill",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/14435036",
+     "url": "https://www.inaturalist.org/photos/285613198",
      "source": "iNaturalist"
     }
    },
@@ -6964,12 +7026,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/alcyonium-digitatum-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Poul Erik Rasmussen",
+     "by": "Ana Santos",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/14435699",
+     "url": "https://www.inaturalist.org/photos/215549142",
      "source": "iNaturalist"
     }
    }
@@ -6978,6 +7040,7 @@ window.OCEAN_ANIMALS = [
   "order": "Malacalcyonacea",
   "family": "Alcyoniidae",
   "ns": 2596,
+  "wikiEn": "https://en.wikipedia.org/wiki/Alcyonium_digitatum",
   "curated": true
  },
  {
@@ -6988,8 +7051,8 @@ window.OCEAN_ANIMALS = [
   "intro": "De gele haarkwal of rode haarkwal is een vrij levende schijfkwal uit de familie Cyaneidae.",
   "facts": [
    "De grootste ooit had een hoed van 2,3 meter en tentakels van 37 meter.",
-   "Hij heeft honderden tentakels, verdeeld over acht groepen.",
-   "Ook aangespoeld op het strand kan hij nog lang prikken."
+   "In 2010 werden in de VS zo'n 150 strandgangers gestoken door de resten van één kapotte haarkwal.",
+   "Anders dan de meeste kwallen leeft hij helemaal alleen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gele_haarkwal",
   "img": "images/cyanea-capillata.webp",
@@ -7036,12 +7099,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cyanea-capillata-3.webp",
     "size": [
      1100,
-     825
+     734
     ],
     "credit": {
-     "by": "Stepan Markin",
+     "by": "Pat Webster @underwaterpat",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/533087048",
+     "url": "https://www.inaturalist.org/photos/731970732",
      "source": "iNaturalist"
     }
    }
@@ -7050,6 +7113,7 @@ window.OCEAN_ANIMALS = [
   "order": "Semaeostomeae",
   "family": "Cyaneidae",
   "ns": 320,
+  "wikiEn": "https://en.wikipedia.org/wiki/Lion%27s_mane_jellyfish",
   "curated": true
  },
  {
@@ -7059,9 +7123,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Kwallen & koralen",
   "intro": "De kompaskwal is een neteldier dat behoort tot de klasse van de schijfkwallen.",
   "facts": [
-   "Bij oostenwind spoelt hij soms massaal aan op de Noordzeekust.",
-   "Hij heeft 24 dunne tentakels, in acht groepjes van drie.",
-   "Zijn steek is pijnlijk; spoelen met zoet water maakt het juist erger."
+   "Hij is eerst mannetje en wordt later ook vrouwtje.",
+   "Hij heeft 24 dunne tentakels in acht groepjes van drie, met tussen elk groepje een lichtzintuig.",
+   "Spoelen met zoet water maakt zijn steek juist erger."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kompaskwal",
   "img": "images/chrysaora-hysoscella.webp",
@@ -7070,9 +7134,9 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "John Hepburn",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/215165228",
+   "by": "philwilkinson",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/350915708",
    "source": "iNaturalist"
   },
   "obs": 43226,
@@ -7085,9 +7149,9 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "John Hepburn",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/215165228",
+     "by": "philwilkinson",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/350915708",
      "source": "iNaturalist"
     }
    },
@@ -7098,9 +7162,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Sylvain Le Bris",
+     "by": "sikasitatunga",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/181434003",
+     "url": "https://www.inaturalist.org/photos/379843306",
      "source": "iNaturalist"
     }
    },
@@ -7111,9 +7175,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "philwilkinson",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/350915708",
+     "by": "John Hepburn",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/215165228",
      "source": "iNaturalist"
     }
    }
@@ -7122,6 +7186,7 @@ window.OCEAN_ANIMALS = [
   "order": "Semaeostomeae",
   "family": "Pelagiidae",
   "ns": 4093,
+  "wikiEn": "https://en.wikipedia.org/wiki/Chrysaora_hysoscella",
   "curated": true
  },
  {
@@ -7132,19 +7197,19 @@ window.OCEAN_ANIMALS = [
   "intro": "De oorkwal kan 10 tot 40 cm groot worden en behoort tot de schijfkwallen.",
   "facts": [
    "Je herkent hem aan de vier 'oren' in zijn hoed; soms zijn het er wel negen.",
-   "Zijn steek doet mensen geen pijn, omdat het gif mild is.",
-   "Jonge kwalletjes groeien als een stapeltje schijfjes op een poliep en laten één voor één los."
+   "Jonge kwalletjes groeien als een stapeltje schijfjes op een poliep en laten één voor één los.",
+   "Zijn poliepen kunnen maandenlang zonder eten."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Oorkwal",
   "img": "images/aurelia-aurita.webp",
   "imgSize": [
    1400,
-   1050
+   1068
   ],
   "credit": {
-   "by": "Floyd A. Reed",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/2915596",
+   "by": "Janine H.",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/492744529",
    "source": "iNaturalist"
   },
   "obs": 68801,
@@ -7154,12 +7219,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/aurelia-aurita.webp",
     "size": [
      1400,
-     1050
+     1068
     ],
     "credit": {
-     "by": "Floyd A. Reed",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/2915596",
+     "by": "Janine H.",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/492744529",
      "source": "iNaturalist"
     }
    },
@@ -7170,9 +7235,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "mfeaver",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/17663444",
+     "by": "Rita Jansen",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/64689886",
      "source": "iNaturalist"
     }
    },
@@ -7180,12 +7245,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/aurelia-aurita-3.webp",
     "size": [
      1100,
-     825
+     1038
     ],
     "credit": {
-     "by": "Micha Baum",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/44516705",
+     "by": "Bianca Bahlert",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/492583365",
      "source": "iNaturalist"
     }
    }
@@ -7194,6 +7259,7 @@ window.OCEAN_ANIMALS = [
   "order": "Semaeostomeae",
   "family": "Ulmaridae",
   "ns": 5504,
+  "wikiEn": "https://en.wikipedia.org/wiki/Aurelia_aurita",
   "curated": true
  },
  {
@@ -7203,9 +7269,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Kwallen & koralen",
   "intro": "De parelkwal of lichtende kwal behoort tot de familie Pelagiidae.",
   "facts": [
-   "Zijn naam betekent 'nachtlicht van de zee'.",
-   "Bij gevaar licht hij 's nachts roodpaars op.",
-   "Zijn neteldraden kunnen 3 meter lang worden en een steek is erg pijnlijk."
+   "Zijn naam betekent 'nachtlicht van de zee': hij licht 's nachts op.",
+   "Plinius de Oudere beschreef zijn licht al in het jaar 77.",
+   "Zelfs aangespoelde, net dode exemplaren kunnen nog steken; ook zijn hoed zit vol netelcellen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Parelkwal",
   "img": "images/pelagia-noctiluca.webp",
@@ -7239,12 +7305,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pelagia-noctiluca-2.webp",
     "size": [
      1100,
-     733
+     755
     ],
     "credit": {
-     "by": "josepvilanova",
+     "by": "Hunter Stevens",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/81668817",
+     "url": "https://www.inaturalist.org/photos/238041170",
      "source": "iNaturalist"
     }
    },
@@ -7252,12 +7318,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pelagia-noctiluca-3.webp",
     "size": [
      1100,
-     825
+     619
     ],
     "credit": {
-     "by": "Glenn Biscop",
+     "by": "Evita K",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/74167295",
+     "url": "https://www.inaturalist.org/photos/98497002",
      "source": "iNaturalist"
     }
    }
@@ -7266,6 +7332,7 @@ window.OCEAN_ANIMALS = [
   "order": "Semaeostomeae",
   "family": "Pelagiidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Pelagia_noctiluca",
   "curated": true
  },
  {
@@ -7275,9 +7342,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Kwallen & koralen",
   "intro": "De penneschaft is een hydroïdpoliep uit de familie Tubulariidae.",
   "facts": [
+   "Op Belgische scheepswrakken leven er tot 100.000 bij elkaar.",
    "Op een taaie, gele steel zit een roze tot rode poliep.",
-   "Hij wordt 10 tot 15 centimeter hoog.",
-   "In Nederland is hij algemeen in de Noordzee, in Zeeland en in het Waddengebied."
+   "Naaktslakken eten de poliepen op en laten alleen de steeltjes staan."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Penneschaft",
   "img": "images/tubularia-indivisa.webp",
@@ -7288,7 +7355,7 @@ window.OCEAN_ANIMALS = [
   "credit": {
    "by": "Vsevolod Rudyi",
    "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/275997380",
+   "url": "https://www.inaturalist.org/photos/275997303",
    "source": "iNaturalist"
   },
   "obs": 28441,
@@ -7303,7 +7370,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Vsevolod Rudyi",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/275997380",
+     "url": "https://www.inaturalist.org/photos/275997303",
      "source": "iNaturalist"
     }
    },
@@ -7316,20 +7383,20 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Vsevolod Rudyi",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/275997407",
+     "url": "https://www.inaturalist.org/photos/275997380",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/tubularia-indivisa-3.webp",
     "size": [
-     1024,
-     767
+     1100,
+     733
     ],
     "credit": {
-     "by": "Bernard Picton",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/1781293",
+     "by": "Tony Gilbert",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/621120655",
      "source": "iNaturalist"
     }
    }
@@ -7338,6 +7405,7 @@ window.OCEAN_ANIMALS = [
   "order": "Anthoathecata",
   "family": "Tubulariidae",
   "ns": 1473,
+  "wikiEn": "https://en.wikipedia.org/wiki/Tubularia_indivisa",
   "curated": true
  },
  {
@@ -7347,20 +7415,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Kwallen & koralen",
   "intro": "Het Portugees oorlogsschip is een staatkwal die voorkomt in de warmere zeeën.",
   "facts": [
-   "Het is geen echte kwal, maar een kolonie van samenwerkende poliepen.",
-   "Zijn tentakels kunnen 15 tot 50 meter lang worden.",
+   "Het is geen kwal, maar een kolonie van samenwerkende diertjes die samen als één dier werken.",
+   "Bij gevaar laat hij zijn drijfblaas leeglopen en duikt hij even onder.",
    "De lederschildpad eet hem op en is immuun voor zijn gif."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Portugees_oorlogsschip",
   "img": "images/physalia-physalis.webp",
   "imgSize": [
-   1367,
-   1400
+   1400,
+   885
   ],
   "credit": {
    "by": "Jan Ebr &amp; Ivana Ebrová",
    "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/544306293",
+   "url": "https://www.inaturalist.org/photos/183028065",
    "source": "iNaturalist"
   },
   "obs": 17304,
@@ -7369,21 +7437,8 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/physalia-physalis.webp",
     "size": [
-     1367,
-     1400
-    ],
-    "credit": {
-     "by": "Jan Ebr &amp; Ivana Ebrová",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/544306293",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/physalia-physalis-2.webp",
-    "size": [
-     1100,
-     695
+     1400,
+     885
     ],
     "credit": {
      "by": "Jan Ebr &amp; Ivana Ebrová",
@@ -7393,15 +7448,28 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
+    "img": "images/physalia-physalis-2.webp",
+    "size": [
+     1074,
+     1100
+    ],
+    "credit": {
+     "by": "Jan Ebr &amp; Ivana Ebrová",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/544306293",
+     "source": "iNaturalist"
+    }
+   },
+   {
     "img": "images/physalia-physalis-3.webp",
     "size": [
      1100,
-     805
+     716
     ],
     "credit": {
-     "by": "Sean Nash",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/49447",
+     "by": "zschmolka",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/65000254",
      "source": "iNaturalist"
     }
    }
@@ -7410,6 +7478,7 @@ window.OCEAN_ANIMALS = [
   "order": "Siphonophorae",
   "family": "Physaliidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Portuguese_man_o%27_war",
   "curated": true
  },
  {
@@ -7419,21 +7488,21 @@ window.OCEAN_ANIMALS = [
   "cat": "Kwallen & koralen",
   "intro": "De rode paardenanemoon is een zeeanemoon uit de familie Actiniidae.",
   "facts": [
-   "Hij heeft 192 puntige tentakels.",
-   "Bij laagwater zie je hem als rood bolletje op dijken en strekdammen.",
-   "Hij eet kleine visjes, krabbetjes en weekdieren."
+   "Onder zijn tentakels zitten felblauwe 'kraaltjes' vol netelcellen, waarmee hij vecht om zijn plekje.",
+   "Een Schotse anemoon genaamd 'Granny' werd in 1828 gevonden, leefde tot 1887 en kreeg honderden jongen.",
+   "Bij laagwater zie je hem als rood bolletje op dijken en strekdammen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Rode_paardenanemoon",
   "img": "images/actinia-equina.webp",
   "imgSize": [
    1400,
-   931
+   1050
   ],
   "credit": {
-   "by": "Esculapio",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Actinia_equina_0009.JPG",
-   "source": "Wikimedia Commons"
+   "by": "Donald Davesne",
+   "license": "CC-BY",
+   "url": "https://www.inaturalist.org/photos/451366476",
+   "source": "iNaturalist"
   },
   "obs": 27146,
   "map": "maps/actinia-equina.webp",
@@ -7442,7 +7511,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/actinia-equina.webp",
     "size": [
      1400,
-     931
+     1050
+    ],
+    "credit": {
+     "by": "Donald Davesne",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/451366476",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/actinia-equina-2.webp",
+    "size": [
+     1100,
+     732
     ],
     "credit": {
      "by": "Esculapio",
@@ -7452,28 +7534,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/actinia-equina-2.webp",
+    "img": "images/actinia-equina-3.webp",
     "size": [
      1100,
      825
     ],
     "credit": {
-     "by": "no rights reserved",
-     "license": "CC0",
-     "url": "https://www.inaturalist.org/photos/96249119",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/actinia-equina-3.webp",
-    "size": [
-     1100,
-     780
-    ],
-    "credit": {
-     "by": "Don Loarie",
+     "by": "Donald Davesne",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/53579247",
+     "url": "https://www.inaturalist.org/photos/451366369",
      "source": "iNaturalist"
     }
    }
@@ -7482,6 +7551,7 @@ window.OCEAN_ANIMALS = [
   "order": "Actiniaria",
   "family": "Actiniidae",
   "ns": 1489,
+  "wikiEn": "https://en.wikipedia.org/wiki/Beadlet_anemone",
   "curated": true
  },
  {
@@ -7491,9 +7561,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Kwallen & koralen",
   "intro": "De sierlijke slibanemoon is een zeeanemonensoort uit de familie Sagartiidae.",
   "facts": [
-   "Er bestaan vijf kleurvarianten, van wit tot oranje en roze.",
-   "Hij heeft maximaal ongeveer 200 tentakels.",
-   "Hij leeft langs de kust van Noordwest-Europa, tot 50 meter diep."
+   "Bij verstoring schiet hij witte draden uit zijn lijf en mond.",
+   "Hij kan zich in stukjes splitsen, waardoor er groepjes anemonen met precies dezelfde kleur ontstaan.",
+   "Er bestaan vijf kleurvarianten, van wit tot oranje en roze."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Sierlijke_slibanemoon",
   "img": "images/sagartia-elegans.webp",
@@ -7530,22 +7600,22 @@ window.OCEAN_ANIMALS = [
      731
     ],
     "credit": {
-     "by": "Ben Thompson",
+     "by": "Tony Gilbert",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/5747314",
+     "url": "https://www.inaturalist.org/photos/609967928",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/sagartia-elegans-3.webp",
     "size": [
-     1024,
-     683
+     1100,
+     825
     ],
     "credit": {
-     "by": "Tony Gilbert",
+     "by": "Daniel Rodrigues",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/432266344",
+     "url": "https://www.inaturalist.org/photos/120975161",
      "source": "iNaturalist"
     }
    }
@@ -7554,6 +7624,7 @@ window.OCEAN_ANIMALS = [
   "order": "Actiniaria",
   "family": "Sagartiidae",
   "ns": 1649,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sagartia_elegans",
   "curated": true
  },
  {
@@ -7564,19 +7635,19 @@ window.OCEAN_ANIMALS = [
   "intro": "De spiegeleikwal of wortelkwal is een kwallensoort die voorkomt in de Middellandse Zee.",
   "facts": [
    "Hij lijkt op een gebakken ei, vandaar zijn naam.",
-   "Anders dan de meeste kwallen kan hij zelf zijn richting bepalen.",
-   "Hij is giftig, maar niet gevaarlijk voor mensen."
+   "In zijn lijf wonen algjes die met zonlicht energie voor hem maken.",
+   "Anders dan de meeste kwallen kan hij zelf zijn richting bepalen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Spiegeleikwal",
   "img": "images/cotylorhiza-tuberculata.webp",
   "imgSize": [
    1400,
-   936
+   1050
   ],
   "credit": {
-   "by": "Marek Koszorek",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/245602105",
+   "by": "Stergios Vasilis",
+   "license": "CC-BY-NC-ND",
+   "url": "https://www.inaturalist.org/photos/91808416",
    "source": "iNaturalist"
   },
   "obs": 4589,
@@ -7586,12 +7657,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cotylorhiza-tuberculata.webp",
     "size": [
      1400,
-     936
+     1050
     ],
     "credit": {
-     "by": "Marek Koszorek",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/245602105",
+     "by": "Stergios Vasilis",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/91808416",
      "source": "iNaturalist"
     }
    },
@@ -7599,12 +7670,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cotylorhiza-tuberculata-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Thomas Menut",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/340816854",
+     "by": "Stergios Vasilis",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/91809267",
      "source": "iNaturalist"
     }
    },
@@ -7612,12 +7683,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cotylorhiza-tuberculata-3.webp",
     "size": [
      1100,
-     825
+     735
     ],
     "credit": {
-     "by": "Stergios Vasilis",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/91809472",
+     "by": "Marek Koszorek",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/245602105",
      "source": "iNaturalist"
     }
    }
@@ -7626,6 +7697,7 @@ window.OCEAN_ANIMALS = [
   "order": "Rhizostomeae",
   "family": "Cepheidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Cotylorhiza_tuberculata",
   "curated": true
  },
  {
@@ -7636,19 +7708,19 @@ window.OCEAN_ANIMALS = [
   "intro": "De wasroos is een zeeanemonensoort uit de familie Actiniidae.",
   "facts": [
    "Zijn groene kleur komt van een fluorescerend eiwit.",
-   "De groene variant heeft paarsroze puntjes aan de tentakels.",
-   "Hij trekt zijn tentakels bijna nooit in."
+   "Kleine diertjes schuilen tussen zijn giftige tentakels tegen vijanden.",
+   "Op Sardinië wordt hij gefrituurd in olijfolie gegeten."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Wasroos",
   "img": "images/anemonia-viridis.webp",
   "imgSize": [
    1400,
-   786
+   1050
   ],
   "credit": {
-   "by": "Gonzalo Mucientes Sandoval",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/21918473",
+   "by": "Yves Bas",
+   "license": "CC-BY",
+   "url": "https://www.inaturalist.org/photos/159646479",
    "source": "iNaturalist"
   },
   "obs": 29457,
@@ -7658,12 +7730,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/anemonia-viridis.webp",
     "size": [
      1400,
-     786
+     1050
     ],
     "credit": {
-     "by": "Gonzalo Mucientes Sandoval",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/21918473",
+     "by": "Yves Bas",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/159646479",
      "source": "iNaturalist"
     }
    },
@@ -7671,12 +7743,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/anemonia-viridis-2.webp",
     "size": [
      1100,
-     860
+     523
     ],
     "credit": {
-     "by": "neuseivissa",
+     "by": "Corrado Alessandrini",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/119522982",
+     "url": "https://www.inaturalist.org/photos/6046469",
      "source": "iNaturalist"
     }
    },
@@ -7684,12 +7756,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/anemonia-viridis-3.webp",
     "size": [
      1100,
-     908
+     825
     ],
     "credit": {
-     "by": "mnolito",
+     "by": "Daniel Rodrigues",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/3630027",
+     "url": "https://www.inaturalist.org/photos/45520555",
      "source": "iNaturalist"
     }
    }
@@ -7698,6 +7770,7 @@ window.OCEAN_ANIMALS = [
   "order": "Actiniaria",
   "family": "Actiniidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Snakelocks_anemone",
   "curated": true
  },
  {
@@ -7707,9 +7780,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Kwallen & koralen",
   "intro": "De zeeanjelier is een zeeanemonensoort uit de familie Metridiidae, die voorkomt in de Grote Oceaan en de Atlantische Oceaan.",
   "facts": [
+   "Drooggevallen hangt hij slap, als een natte handschoen met een druppel aan het puntje.",
    "Grote exemplaren hebben meer dan 1000 tentakels.",
-   "Hij is de grootste anemoon van Zeeland, zo'n 20 centimeter.",
-   "Drooggevallen hangt hij slap, als een natte handschoen."
+   "Hij kan zich in tweeën splitsen en zo twee anemonen worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zeeanjelier",
   "img": "images/metridium-senile.webp",
@@ -7746,9 +7819,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Donna Pomeroy",
+     "by": "María Bagur",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/2104415",
+     "url": "https://www.inaturalist.org/photos/154399582",
      "source": "iNaturalist"
     }
    },
@@ -7759,9 +7832,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Donna Pomeroy",
+     "by": "Janine H.",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/3627665",
+     "url": "https://www.inaturalist.org/photos/372921727",
      "source": "iNaturalist"
     }
    }
@@ -7770,6 +7843,7 @@ window.OCEAN_ANIMALS = [
   "order": "Actiniaria",
   "family": "Metridiidae",
   "ns": 395,
+  "wikiEn": "https://en.wikipedia.org/wiki/Metridium_senile",
   "curated": true
  },
  {
@@ -7779,7 +7853,7 @@ window.OCEAN_ANIMALS = [
   "cat": "Kwallen & koralen",
   "intro": "De zeedahlia is een zeeanemonensoort uit de familie Tealidae.",
   "facts": [
-   "Hij kan wit, geel, rood, blauw, paars of bruin zijn, vaak in combinaties.",
+   "Hij kan wit, geel, rood, blauw, paars of bruin zijn, vaak in combinaties; soms rood met groene vlekken.",
    "Aan de wratjes op zijn zuil blijven schelpstukjes en zand plakken.",
    "Hij verlamt kleine visjes en krabben met zijn netelcellen."
   ],
@@ -7815,12 +7889,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/urticina-felina-2.webp",
     "size": [
      1100,
-     825
+     998
     ],
     "credit": {
-     "by": "Asbjørn Hansen",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/72129",
+     "by": "Micha Baum",
+     "license": "CC-BY-SA",
+     "url": "https://www.inaturalist.org/photos/165596777",
      "source": "iNaturalist"
     }
    },
@@ -7831,9 +7905,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Asbjørn Hansen",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/72130",
+     "by": "Donald Davesne",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/451366236",
      "source": "iNaturalist"
     }
    }
@@ -7842,6 +7916,7 @@ window.OCEAN_ANIMALS = [
   "order": "Actiniaria",
   "family": "Actiniidae",
   "ns": 2793,
+  "wikiEn": "https://en.wikipedia.org/wiki/Dahlia_anemone",
   "curated": true
  },
  {
@@ -7851,20 +7926,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "De Amerikaanse langlob-ribkwal is een ribkwal uit de familie Bolinopsidae.",
   "facts": [
-   "Hij heeft acht ribben: vier korte en vier lange.",
-   "Hij is waarschijnlijk met het ballastwater van schepen naar Europa meegelift.",
-   "In de Zwarte Zee kon hij zich explosief vermenigvuldigen."
+   "Hij heeft alleen een anus op het moment dat hij moet poepen; daarna verdwijnt die weer.",
+   "Net als de 'onsterfelijke kwal' kan hij terugveranderen in een jongere levensfase.",
+   "Bij verstoring lichten zijn acht kamrijen blauwgroen op."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Amerikaanse_langlob-ribkwal",
   "img": "images/mnemiopsis-leidyi.webp",
   "imgSize": [
    1400,
-   935
+   934
   ],
   "credit": {
-   "by": "Klaus Kevin Kristensen",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/173832279",
+   "by": "Hubert Lagrange",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/700853326",
    "source": "iNaturalist"
   },
   "obs": 21398,
@@ -7874,12 +7949,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/mnemiopsis-leidyi.webp",
     "size": [
      1400,
-     935
+     934
     ],
     "credit": {
-     "by": "Klaus Kevin Kristensen",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/173832279",
+     "by": "Hubert Lagrange",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/700853326",
      "source": "iNaturalist"
     }
    },
@@ -7887,12 +7962,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/mnemiopsis-leidyi-2.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "theSigmaArts",
+     "by": "Hubert Lagrange",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/11908541",
+     "url": "https://www.inaturalist.org/photos/732501036",
      "source": "iNaturalist"
     }
    },
@@ -7900,12 +7975,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/mnemiopsis-leidyi-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Kent McFarland",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/255400",
+     "by": "Rita Jansen",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/134767627",
      "source": "iNaturalist"
     }
    }
@@ -7914,6 +7989,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lobata",
   "family": "Bolinopsidae",
   "ns": 811,
+  "wikiEn": "https://en.wikipedia.org/wiki/Mnemiopsis_leidyi",
   "curated": true
  },
  {
@@ -7923,8 +7999,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "De boorspons is een in zee levende sponssoort uit de familie Clionidae behorende tot de Demospongiae.",
   "facts": [
-   "Hij boort zich in kalksteen en lege schelpen.",
-   "Je ziet alleen kleine gaatjes van zo'n 5 millimeter; de rest van de spons zit binnenin.",
+   "Hij boort zich in kalksteen, lege schelpen en zelfs koraal.",
+   "Je ziet alleen kleine gaatjes; de rest van de spons zit verstopt in de steen.",
    "Sponzen die tegen elkaar aan groeien, kunnen samensmelten tot één spons."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Boorspons",
@@ -7959,12 +8035,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cliona-celata-2.webp",
     "size": [
      1100,
-     825
+     619
     ],
     "credit": {
-     "by": "Clinton Duffy",
+     "by": "larvalfishguy",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/17623868",
+     "url": "https://www.inaturalist.org/photos/309686758",
      "source": "iNaturalist"
     }
    },
@@ -7972,12 +8048,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cliona-celata-3.webp",
     "size": [
      1100,
-     825
+     708
     ],
     "credit": {
-     "by": "galargus",
+     "by": "Gonzalo Mucientes Sandoval",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/125329608",
+     "url": "https://www.inaturalist.org/photos/29235590",
      "source": "iNaturalist"
     }
    }
@@ -7986,6 +8062,7 @@ window.OCEAN_ANIMALS = [
   "order": "Clionaida",
   "family": "Clionaidae",
   "ns": 679,
+  "wikiEn": "https://en.wikipedia.org/wiki/Cliona_celata",
   "curated": true
  },
  {
@@ -7996,19 +8073,19 @@ window.OCEAN_ANIMALS = [
   "intro": "De bretelzakpijp is een zakpijpensoort uit de familie van de Clavelinidae.",
   "facts": [
    "Met zijn heldere lijf en gekleurde bandjes lijkt hij op een gloeilampje.",
-   "Door zijn doorzichtige mantel zie je zijn organen.",
+   "Door zijn doorzichtige mantel kun je zijn organen zien.",
    "Je kunt hem vinden in de haven van Burghsluis in de Oosterschelde."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Bretelzakpijp",
   "img": "images/clavelina-lepadiformis.webp",
   "imgSize": [
-   1050,
-   1400
+   1400,
+   1050
   ],
   "credit": {
-   "by": "luismartinezartola",
+   "by": "Stefan",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/136297932",
+   "url": "https://www.inaturalist.org/photos/6862102",
    "source": "iNaturalist"
   },
   "obs": 18657,
@@ -8017,13 +8094,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/clavelina-lepadiformis.webp",
     "size": [
-     1050,
-     1400
+     1400,
+     1050
     ],
     "credit": {
-     "by": "luismartinezartola",
+     "by": "Stefan",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/136297932",
+     "url": "https://www.inaturalist.org/photos/6862102",
      "source": "iNaturalist"
     }
    },
@@ -8031,12 +8108,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/clavelina-lepadiformis-2.webp",
     "size": [
      1100,
-     894
+     694
     ],
     "credit": {
-     "by": "luismartinezartola",
+     "by": "Virginie Zajdel",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/136298371",
+     "url": "https://www.inaturalist.org/photos/476026139",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/clavelina-lepadiformis-3.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "Henry Cooper",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/490149926",
      "source": "iNaturalist"
     }
    }
@@ -8054,20 +8144,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "De doorschijnende zakpijp is een zakpijpensoort uit de familie van de Cionidae.",
   "facts": [
-   "Hij is de meest voorkomende zakpijp van de Noordzee.",
    "Zijn Latijnse naam betekent 'pilaar van ingewanden'.",
-   "Hij zuigt water naar binnen en filtert er voedseldeeltjes uit."
+   "Hij is tweeslachtig, maar kan zichzelf niet bevruchten.",
+   "Zijn larven zwemmen tot 10 dagen rond en kunnen zo met ballastwater van schepen meereizen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Doorschijnende_zakpijp",
   "img": "images/ciona-intestinalis.webp",
   "imgSize": [
    1400,
-   935
+   933
   ],
   "credit": {
-   "by": "Bernard Picton",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/6979681",
+   "by": "Poul Erik Rasmussen",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/14581895",
    "source": "iNaturalist"
   },
   "obs": 24750,
@@ -8077,12 +8167,38 @@ window.OCEAN_ANIMALS = [
     "img": "images/ciona-intestinalis.webp",
     "size": [
      1400,
-     935
+     933
+    ],
+    "credit": {
+     "by": "Poul Erik Rasmussen",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/14581895",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/ciona-intestinalis-2.webp",
+    "size": [
+     1100,
+     735
     ],
     "credit": {
      "by": "Bernard Picton",
      "license": "CC-BY",
      "url": "https://www.inaturalist.org/photos/6979681",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/ciona-intestinalis-3.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "Tara McEvoy-Wilding",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/175647677",
      "source": "iNaturalist"
     }
    }
@@ -8091,6 +8207,7 @@ window.OCEAN_ANIMALS = [
   "order": "Phlebobranchia",
   "family": "Cionidae",
   "ns": 277,
+  "wikiEn": "https://en.wikipedia.org/wiki/Ciona_intestinalis",
   "curated": true
  },
  {
@@ -8100,20 +8217,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "De geschubde zeerups is een borstelworm uit de familie Polynoidae.",
   "facts": [
-   "Zijn rug is bedekt met twee rijen schilden die op vissenschubben lijken.",
-   "Hij wordt ongeveer 5 centimeter lang.",
-   "Hij komt ook in de Noordzee voor."
+   "Zijn rug is bedekt met twee rijen schubben die zwak oplichten in het donker.",
+   "Hij heeft twee paar ogen op zijn kop.",
+   "Op de zeebodem doet hij hetzelfde werk als pissebedden op het land."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Geschubde_zeerups",
   "img": "images/lepidonotus-squamatus.webp",
   "imgSize": [
    1400,
-   932
+   1050
   ],
   "credit": {
-   "by": "Christine Morrow",
+   "by": "Stepan Markin",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/159838483",
+   "url": "https://www.inaturalist.org/photos/410154353",
    "source": "iNaturalist"
   },
   "obs": 12574,
@@ -8123,12 +8240,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lepidonotus-squamatus.webp",
     "size": [
      1400,
-     932
+     1050
     ],
     "credit": {
-     "by": "Christine Morrow",
+     "by": "Stepan Markin",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/159838483",
+     "url": "https://www.inaturalist.org/photos/410154353",
      "source": "iNaturalist"
     }
    },
@@ -8136,12 +8253,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lepidonotus-squamatus-2.webp",
     "size": [
      1100,
-     825
+     856
     ],
     "credit": {
-     "by": "Yolanda Evans",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/529677665",
+     "by": "ipat",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/331758088",
      "source": "iNaturalist"
     }
    },
@@ -8149,12 +8266,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lepidonotus-squamatus-3.webp",
     "size": [
      1100,
-     825
+     734
     ],
     "credit": {
-     "by": "Stepan Markin",
+     "by": "Jovan Grollino",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/410154353",
+     "url": "https://www.inaturalist.org/photos/358339157",
      "source": "iNaturalist"
     }
    }
@@ -8163,6 +8280,7 @@ window.OCEAN_ANIMALS = [
   "order": "Phyllodocida",
   "family": "Polynoidae",
   "ns": 310,
+  "wikiEn": "https://en.wikipedia.org/wiki/Lepidonotus_squamatus",
   "curated": true
  },
  {
@@ -8172,20 +8290,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "De gestekelde of rode zandkokerworm is een borstelworm uit de familie Sabellariidae.",
   "facts": [
-   "Hij bouwt een kokertje van schelpgruis en zand, vastgeplakt met slijm.",
-   "Samen bouwen de wormen korsten van enkele meters breed.",
-   "Er kunnen wel 4000 wormen op één vierkante meter zitten."
+   "Hij bouwt een kokertje van schelpgruis en zand en kan het afsluiten met een deurtje van borstels.",
+   "Er kunnen wel 4000 wormen op één vierkante meter zitten.",
+   "Hij kan tot 9 jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gestekelde_zandkokerworm",
   "img": "images/sabellaria-spinulosa.webp",
   "imgSize": [
    1400,
-   933
+   1050
   ],
   "credit": {
-   "by": "Emanuele Santarelli",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/77992130",
+   "by": "miels13",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/53466446",
    "source": "iNaturalist"
   },
   "obs": 16336,
@@ -8195,12 +8313,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sabellaria-spinulosa.webp",
     "size": [
      1400,
-     933
+     1050
     ],
     "credit": {
-     "by": "Emanuele Santarelli",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/77992130",
+     "by": "miels13",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/53466446",
      "source": "iNaturalist"
     }
    },
@@ -8208,12 +8326,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/sabellaria-spinulosa-2.webp",
     "size": [
      1100,
+     725
+    ],
+    "credit": {
+     "by": "Rino",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/249550209",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/sabellaria-spinulosa-3.webp",
+    "size": [
+     1100,
      825
     ],
     "credit": {
-     "by": "miels13",
+     "by": "Frédéric ANDRE",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/53466446",
+     "url": "https://www.inaturalist.org/photos/211439403",
      "source": "iNaturalist"
     }
    }
@@ -8222,6 +8353,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sabellida",
   "family": "Sabellariidae",
   "ns": 1506,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sabellaria_spinulosa",
   "curated": true
  },
  {
@@ -8231,20 +8363,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "De gewone broodspons is een sponssoort in de taxonomische indeling van de gewone sponzen.",
   "facts": [
+   "Hij ziet er zo wisselend uit dat hij 56 keer als 'nieuwe soort' is beschreven.",
    "Boven water ruikt hij naar carbid.",
-   "Op lichte plekken is hij groen door algjes die in de spons leven.",
-   "Hij kan veel water opnemen."
+   "Op lichte plekken is hij groen door algjes die in de spons leven."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_broodspons",
   "img": "images/halichondria-panicea.webp",
   "imgSize": [
    1400,
-   931
+   941
   ],
   "credit": {
-   "by": "Bernard Picton",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/7233937",
+   "by": "craigpigott",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/57334520",
    "source": "iNaturalist"
   },
   "obs": 40459,
@@ -8254,12 +8386,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/halichondria-panicea.webp",
     "size": [
      1400,
-     931
+     941
     ],
     "credit": {
-     "by": "Bernard Picton",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/7233937",
+     "by": "craigpigott",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/57334520",
      "source": "iNaturalist"
     }
    },
@@ -8267,12 +8399,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/halichondria-panicea-2.webp",
     "size": [
      1100,
-     825
+     826
     ],
     "credit": {
-     "by": "Ian Manning",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/214935347",
+     "by": "Frédéric ANDRE",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/315039193",
      "source": "iNaturalist"
     }
    },
@@ -8280,12 +8412,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/halichondria-panicea-3.webp",
     "size": [
      1100,
-     825
+     732
     ],
     "credit": {
-     "by": "Glenn Biscop",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/228635303",
+     "by": "Bernard Picton",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/7233937",
      "source": "iNaturalist"
     }
    }
@@ -8294,6 +8426,7 @@ window.OCEAN_ANIMALS = [
   "order": "Suberitida",
   "family": "Halichondriidae",
   "ns": 1740,
+  "wikiEn": "https://en.wikipedia.org/wiki/Halichondria_panicea",
   "curated": true
  },
  {
@@ -8303,20 +8436,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "Het harig mosdiertje is een tot de mosdiertjes behorende soort uit de familie van de Electridae.",
   "facts": [
-   "Het is een kolonie van piepkleine diertjes van een halve millimeter.",
-   "De kolonies vormen stervormige vlekjes op zeewier.",
-   "Met een kroon van tentakels zeeft hij voedsel uit het water."
+   "Het is een kolonie van piepkleine diertjes van een halve millimeter, in stervormige vlekjes op zeewier.",
+   "De kolonie is man én vrouw, maar elk diertje afzonderlijk is óf mannetje óf vrouwtje.",
+   "Zijn larven gebruiken waarschijnlijk geur om een goede plek te kiezen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Harig_mosdiertje",
   "img": "images/electra-pilosa.webp",
   "imgSize": [
    1400,
-   1199
+   933
   ],
   "credit": {
-   "by": "Viktor V. Grøtan",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/10160203",
+   "by": "Bianca Bahlert",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/645381208",
    "source": "iNaturalist"
   },
   "obs": 30718,
@@ -8326,12 +8459,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/electra-pilosa.webp",
     "size": [
      1400,
-     1199
+     933
     ],
     "credit": {
-     "by": "Viktor V. Grøtan",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/10160203",
+     "by": "Bianca Bahlert",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/645381208",
      "source": "iNaturalist"
     }
    },
@@ -8339,12 +8472,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/electra-pilosa-2.webp",
     "size": [
      1100,
-     999
+     733
     ],
     "credit": {
-     "by": "Kim Falck",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/241674788",
+     "by": "ipat",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/129369200",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/electra-pilosa-3.webp",
+    "size": [
+     1100,
+     957
+    ],
+    "credit": {
+     "by": "ipat",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/425957589",
      "source": "iNaturalist"
     }
    }
@@ -8353,6 +8499,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cheilostomatida",
   "family": "Electridae",
   "ns": 2486,
+  "wikiEn": "https://en.wikipedia.org/wiki/Electra_pilosa",
   "curated": true
  },
  {
@@ -8364,7 +8511,7 @@ window.OCEAN_ANIMALS = [
   "facts": [
    "Zijn twee spiraalvormige tentakelkronen lijken op gekleurde kerstboompjes.",
    "De rest van de worm zit verstopt in het koraal.",
-   "Met gevoelige zintuigcellen op zijn tentakels merkt hij gevaar op."
+   "Het is een van de populairste fotomodellen onder duikers."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kerstboomworm",
   "img": "images/spirobranchus-giganteus.webp",
@@ -8397,13 +8544,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/spirobranchus-giganteus-2.webp",
     "size": [
-     1100,
-     868
+     1000,
+     667
     ],
     "credit": {
-     "by": "Roger Rittmaster",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/31729006",
+     "by": "terence zahner",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/30906390",
      "source": "iNaturalist"
     }
    },
@@ -8411,12 +8558,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/spirobranchus-giganteus-3.webp",
     "size": [
      1100,
-     825
+     820
     ],
     "credit": {
-     "by": "Alejandro Vega Zepeda",
+     "by": "Sylvain Le Bris",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/53206385",
+     "url": "https://www.inaturalist.org/photos/349881105",
      "source": "iNaturalist"
     }
    }
@@ -8425,6 +8572,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sabellida",
   "family": "Serpulidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Spirobranchus_giganteus",
   "curated": true
  },
  {
@@ -8434,9 +8582,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "Het lancetvisje is een schedellozensoort uit de familie Branchiostomatidae.",
   "facts": [
+   "Hij heeft maar één oog, voor op zijn zenuwstreng.",
    "Hij heeft geen ruggengraat, maar wel een stevige staaf (chorda) over zijn hele lijf.",
-   "Wetenschappers bestuderen hem om te begrijpen hoe gewervelde dieren zijn ontstaan.",
-   "Hij is zes tot acht centimeter lang en doorschijnend roze."
+   "Wetenschappers bestuderen hem om te begrijpen hoe gewervelde dieren zijn ontstaan."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Lancetvisje",
   "img": "images/branchiostoma-lanceolatum.webp",
@@ -8470,12 +8618,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/branchiostoma-lanceolatum-2.webp",
     "size": [
      1100,
-     825
+     619
     ],
     "credit": {
-     "by": "Valentin de Mazancourt",
+     "by": "Chris Isaacs",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/32925546",
+     "url": "https://www.inaturalist.org/photos/456159966",
      "source": "iNaturalist"
     }
    }
@@ -8484,6 +8632,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Branchiostomatidae",
   "ns": 1283,
+  "wikiEn": "https://en.wikipedia.org/wiki/Branchiostoma_lanceolatum",
   "curated": true
  },
  {
@@ -8493,20 +8642,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "De langste snoerworm is een snoerworm uit de familie Lineidae.",
   "facts": [
-   "Het langst bekende exemplaar mat meer dan 55 meter: een van de langste dieren ooit gemeten.",
-   "Die reuzenworm spoelde in 1864 aan in Schotland.",
-   "Hij vangt prooien met giftige monddelen die hij naar buiten kan schuiven."
+   "In 1864 spoelde er in Schotland een van meer dan 55 meter aan: langer dan de grootste haarkwal.",
+   "Hij kan zich ver uitrekken, dus zulke recordlengtes zijn met een korrel zout te nemen.",
+   "Zijn giftige slijm doodt krabben en kakkerlakken."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Langste_snoerworm",
   "img": "images/lineus-longissimus.webp",
   "imgSize": [
    1400,
-   928
+   1050
   ],
   "credit": {
-   "by": "Alfonso Herrera Bachiller",
-   "license": "CC-BY-NC-SA",
-   "url": "https://www.inaturalist.org/photos/3947849",
+   "by": "Raúl MT",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/537106162",
    "source": "iNaturalist"
   },
   "obs": 1930,
@@ -8516,25 +8665,38 @@ window.OCEAN_ANIMALS = [
     "img": "images/lineus-longissimus.webp",
     "size": [
      1400,
-     928
+     1050
     ],
     "credit": {
-     "by": "Alfonso Herrera Bachiller",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/3947849",
+     "by": "Raúl MT",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/537106162",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/lineus-longissimus-2.webp",
     "size": [
-     1024,
-     683
+     1100,
+     733
     ],
     "credit": {
-     "by": "João Pedro Silva",
+     "by": "Vsevolod Rudyi",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/92667501",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/lineus-longissimus-3.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "Ricardo Ferreiro Sanjurjo",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/3416823",
+     "url": "https://www.inaturalist.org/photos/707893082",
      "source": "iNaturalist"
     }
    }
@@ -8543,6 +8705,7 @@ window.OCEAN_ANIMALS = [
   "order": "Heteronemertea",
   "family": "Lineidae",
   "ns": 42,
+  "wikiEn": "https://en.wikipedia.org/wiki/Lineus_longissimus",
   "curated": true
  },
  {
@@ -8552,20 +8715,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "Het ledermosdiertje of fijne vliescelpoliep is een mosdiertjessoort uit de familie van de Membraniporidae.",
   "facts": [
-   "Kolonies vormen kantachtige witte korsten op bruinwier.",
-   "Elk diertje in de kolonie is maar een halve millimeter groot.",
+   "De diertjes in een kolonie wisselen vocht uit via gaatjes in hun muurtjes.",
+   "Een kolonie is eerst mannelijk en wordt later vrouwelijk.",
    "Tegen zeenaaktslakken maakt hij stekeltjes van chitine."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Ledermosdiertje",
   "img": "images/membranipora-membranacea.webp",
   "imgSize": [
    1400,
-   1106
+   1071
   ],
   "credit": {
    "by": "Zach Berghorst",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/184960456",
+   "url": "https://www.inaturalist.org/photos/184960474",
    "source": "iNaturalist"
   },
   "obs": 20166,
@@ -8575,12 +8738,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/membranipora-membranacea.webp",
     "size": [
      1400,
-     1106
+     1071
     ],
     "credit": {
      "by": "Zach Berghorst",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/184960456",
+     "url": "https://www.inaturalist.org/photos/184960474",
      "source": "iNaturalist"
     }
    },
@@ -8588,12 +8751,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/membranipora-membranacea-2.webp",
     "size": [
      1100,
-     1100
+     733
     ],
     "credit": {
-     "by": "juliamarkey",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/334909678",
+     "by": "no rights reserved",
+     "license": "CC0",
+     "url": "https://www.inaturalist.org/photos/230689457",
      "source": "iNaturalist"
     }
    },
@@ -8615,6 +8778,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cheilostomatida",
   "family": "Membraniporidae",
   "ns": 445,
+  "wikiEn": "https://en.wikipedia.org/wiki/Membranipora_membranacea",
   "curated": true
  },
  {
@@ -8624,20 +8788,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "De meloenkwal of mijterkwal is een soort in de taxonomische indeling van de ribkwallen.",
   "facts": [
-   "Hij heeft een ovaal lijf, een beetje als een meloen.",
-   "Hij eet plankton.",
-   "Hij komt voor bij de Nederlandse en Belgische kust en in de Waddenzee."
+   "Zijn kamrijen schitteren in regenboogkleuren door hun bouw, niet door kleurstof.",
+   "Zijn kamplaatjes kunnen licht geven.",
+   "Er wordt onderzocht of hij de invasieve Amerikaanse ribkwal in toom kan houden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Meloenkwal",
   "img": "images/beroe-cucumis.webp",
   "imgSize": [
    1400,
-   1050
+   930
   ],
   "credit": {
-   "by": "James Lynott",
-   "license": "CC-BY-ND",
-   "url": "https://www.inaturalist.org/photos/2664831",
+   "by": "james_chatfield14",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/218491416",
    "source": "iNaturalist"
   },
   "obs": 150669,
@@ -8647,12 +8811,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/beroe-cucumis.webp",
     "size": [
      1400,
-     1050
+     930
     ],
     "credit": {
-     "by": "James Lynott",
-     "license": "CC-BY-ND",
-     "url": "https://www.inaturalist.org/photos/2664831",
+     "by": "james_chatfield14",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/218491416",
      "source": "iNaturalist"
     }
    },
@@ -8663,9 +8827,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Peter Southwood",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/15733666",
+     "by": "James Lynott",
+     "license": "CC-BY-ND",
+     "url": "https://www.inaturalist.org/photos/2664831",
      "source": "iNaturalist"
     }
    },
@@ -8673,12 +8837,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/beroe-cucumis-3.webp",
     "size": [
      1100,
-     825
+     720
     ],
     "credit": {
-     "by": "Peter Southwood",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/15733673",
+     "by": "Bianca Bahlert",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/735825863",
      "source": "iNaturalist"
     }
    }
@@ -8687,6 +8851,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": null,
   "ns": 2216,
+  "wikiEn": "https://en.wikipedia.org/wiki/Beroe_cucumis",
   "curated": true
  },
  {
@@ -8696,20 +8861,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "De pauwenstaart-viltkokerworm ook wel pauwkokerworm of slijkkokerworm genoemd, is een borstelworm uit de familie Sabellidae.",
   "facts": [
-   "Hij wordt zo'n 20 centimeter lang.",
+   "Ook als een vis een groot stuk van zijn buis en lijf afbijt, groeit hij weer aan.",
    "Hij woont in een buis van aan elkaar gekitte zandkorrels.",
    "Alleen zijn tentakels steken uit de buis om plankton te vangen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Pauwenstaart-viltkokerworm",
   "img": "images/sabella-pavonina.webp",
   "imgSize": [
-   1280,
-   1280
+   1400,
+   1050
   ],
   "credit": {
-   "by": "Asbjørn Hansen",
-   "license": "CC-BY-NC-ND",
-   "url": "https://www.inaturalist.org/photos/665005",
+   "by": "Anna Kellagher",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/565066450",
    "source": "iNaturalist"
   },
   "obs": 22013,
@@ -8718,13 +8883,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/sabella-pavonina.webp",
     "size": [
-     1280,
-     1280
+     1400,
+     1050
     ],
     "credit": {
-     "by": "Asbjørn Hansen",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/665005",
+     "by": "Anna Kellagher",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/565066450",
      "source": "iNaturalist"
     }
    },
@@ -8732,12 +8897,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sabella-pavonina-2.webp",
     "size": [
      1100,
-     778
+     825
     ],
     "credit": {
-     "by": "Emil B",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/229453587",
+     "by": "Rory Wilson",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/738197567",
      "source": "iNaturalist"
     }
    },
@@ -8745,12 +8910,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sabella-pavonina-3.webp",
     "size": [
      1100,
-     734
+     778
     ],
     "credit": {
-     "by": "Poul Erik Rasmussen",
+     "by": "Emil B",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/14582619",
+     "url": "https://www.inaturalist.org/photos/393013024",
      "source": "iNaturalist"
     }
    }
@@ -8759,6 +8924,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sabellida",
   "family": "Sabellidae",
   "ns": 1222,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sabella_pavonina",
   "curated": true
  },
  {
@@ -8768,20 +8934,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "De reusachtige kokerworm is een kokerworm die bekendstaat als extremofiel.",
   "facts": [
-   "Hij leeft bij hete vulkanische bronnen op de bodem van de Grote Oceaan.",
    "Bacteriën in een speciaal orgaan maken voor hem voedsel uit zwavel.",
-   "Hij is de snelst groeiende ongewervelde en wordt in twee jaar 1,5 meter lang."
+   "Hij is de snelst groeiende ongewervelde en wordt in twee jaar 1,5 meter lang.",
+   "Zijn larven kunnen 100 tot 200 kilometer reizen naar een nieuwe hete bron."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Reusachtige_kokerworm",
   "img": "images/riftia-pachyptila.webp",
   "imgSize": [
-   1400,
-   933
+   1024,
+   709
   ],
   "credit": {
-   "by": "Matthew Bellemare",
+   "by": "NOAA Ocean Explorer",
    "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/179668766",
+   "url": "https://www.inaturalist.org/photos/18895",
    "source": "iNaturalist"
   },
   "obs": 974,
@@ -8790,13 +8956,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/riftia-pachyptila.webp",
     "size": [
-     1400,
-     933
+     1024,
+     709
     ],
     "credit": {
-     "by": "Matthew Bellemare",
+     "by": "NOAA Ocean Explorer",
      "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/179668766",
+     "url": "https://www.inaturalist.org/photos/18895",
      "source": "iNaturalist"
     }
    },
@@ -8831,6 +8997,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sabellida",
   "family": "Siboglinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Riftia_pachyptila",
   "curated": true
  },
  {
@@ -8840,9 +9007,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "De schelpkokerworm is een borstelworm uit de familie Terebellidae.",
   "facts": [
-   "Hij bouwt een kokertje van zand en schelpstukjes dat zo'n 5 centimeter boven de bodem uitsteekt.",
-   "Hij wordt ongeveer 30 centimeter lang en heeft tot 300 segmenten.",
-   "Met tentakels die uit zijn koker steken, vangt hij voedsel."
+   "Raakt zijn kokertje bedolven onder zand, dan bouwt hij het gewoon verder op.",
+   "Er kunnen duizenden per vierkante meter wonen; samen bouwen ze een soort rif.",
+   "Hij heeft veel oogvlekjes en rode kieuwen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Schelpkokerworm",
   "img": "images/lanice-conchilega.webp",
@@ -8875,13 +9042,26 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/lanice-conchilega-2.webp",
     "size": [
-     1024,
-     803
+     1100,
+     826
     ],
     "credit": {
-     "by": "François Roche",
+     "by": "Sylvain Le Bris",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/14216378",
+     "url": "https://www.inaturalist.org/photos/260384017",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/lanice-conchilega-3.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "Claire Brooks",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/550411271",
      "source": "iNaturalist"
     }
    }
@@ -8890,6 +9070,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Terebellidae",
   "ns": 8837,
+  "wikiEn": "https://en.wikipedia.org/wiki/Lanice_conchilega",
   "curated": true
  },
  {
@@ -8899,20 +9080,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "De paarse geleikorst, gesterde geleikorst of sterretje is een kolonievormende zakpijp uit de familie Styelidae.",
   "facts": [
-   "De diertjes zitten in sterretjes gerangschikt in een geleiachtige korst.",
-   "Zijn larven zien eruit als kikkervisjes.",
-   "Verschillende kolonies kunnen met elkaar versmelten tot één."
+   "Zakpijpen zoals hij zijn de naaste ongewervelde familie van de mens.",
+   "In het lab groeit er om de twee weken een nieuw diertje uit, terwijl het oude verdwijnt en wordt opgenomen.",
+   "Zijn larven zien eruit als kikkervisjes."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Sterretje_%28dier%29",
   "img": "images/botryllus-schlosseri.webp",
   "imgSize": [
    1400,
-   1051
+   935
   ],
   "credit": {
-   "by": "Julien Renoult",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/4146500",
+   "by": "kmelville",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/39839864",
    "source": "iNaturalist"
   },
   "obs": 23421,
@@ -8922,12 +9103,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/botryllus-schlosseri.webp",
     "size": [
      1400,
-     1051
+     935
     ],
     "credit": {
-     "by": "Julien Renoult",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/4146500",
+     "by": "kmelville",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/39839864",
      "source": "iNaturalist"
     }
    },
@@ -8935,12 +9116,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/botryllus-schlosseri-2.webp",
     "size": [
      1100,
-     735
+     825
     ],
     "credit": {
-     "by": "Matt Tank",
+     "by": "Donna Pomeroy",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/109457116",
+     "url": "https://www.inaturalist.org/photos/5206202",
      "source": "iNaturalist"
     }
    },
@@ -8948,12 +9129,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/botryllus-schlosseri-3.webp",
     "size": [
      1100,
-     735
+     797
     ],
     "credit": {
-     "by": "Matt Tank",
+     "by": "Warwick Moyse",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/334132793",
+     "url": "https://www.inaturalist.org/photos/79761909",
      "source": "iNaturalist"
     }
    }
@@ -8962,6 +9143,7 @@ window.OCEAN_ANIMALS = [
   "order": "Stolidobranchia",
   "family": "Styelidae",
   "ns": 644,
+  "wikiEn": "https://en.wikipedia.org/wiki/Botryllus_schlosseri",
   "curated": true
  },
  {
@@ -8971,20 +9153,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "De veelkleurige zeeduizendpoot is een borstelworm uit de familie Nereididae.",
   "facts": [
+   "Hij spint een slijmnetje bij de ingang van zijn gang om voedsel te vangen.",
    "Hij heeft vier ogen op zijn kop.",
-   "Hij leeft in zelfgegraven gangen in het wad.",
-   "Hij is een van de weinige dieren die aan 'tuinieren' doen."
+   "Als de paartijd nadert, verandert hij van bruin naar groen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Veelkleurige_zeeduizendpoot",
   "img": "images/hediste-diversicolor.webp",
   "imgSize": [
    1400,
-   1099
+   1108
   ],
   "credit": {
-   "by": "Eric A. Lazo-Wasem",
-   "license": "PD",
-   "url": "https://www.inaturalist.org/photos/176702923",
+   "by": "Światopelk Smoczyński",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/269612088",
    "source": "iNaturalist"
   },
   "obs": 86740,
@@ -8994,12 +9176,38 @@ window.OCEAN_ANIMALS = [
     "img": "images/hediste-diversicolor.webp",
     "size": [
      1400,
-     1099
+     1108
     ],
     "credit": {
-     "by": "Eric A. Lazo-Wasem",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/176702923",
+     "by": "Światopelk Smoczyński",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/269612088",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/hediste-diversicolor-2.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "Rita Jansen",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/125418238",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/hediste-diversicolor-3.webp",
+    "size": [
+     1100,
+     734
+    ],
+    "credit": {
+     "by": "Gerrit Öhm",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/116874143",
      "source": "iNaturalist"
     }
    }
@@ -9008,6 +9216,7 @@ window.OCEAN_ANIMALS = [
   "order": "Phyllodocida",
   "family": "Nereididae",
   "ns": 246,
+  "wikiEn": "https://en.wikipedia.org/wiki/Hediste_diversicolor",
   "curated": true
  },
  {
@@ -9017,9 +9226,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "Het venusmandje of kansspons behoort tot het phylum Porifera en de klasse Hexactinellidae.",
   "facts": [
-   "Zijn skelet van glasnaalden lijkt op een sierlijk traliewerk.",
-   "Hij leeft op de zeebodem, meestal dieper dan 500 meter.",
-   "Hij komt vooral voor bij de Filipijnen."
+   "In de spons woont vaak een garnalenpaartje dat zo groot wordt dat het er nooit meer uit kan.",
+   "Zijn skelet is van glas: zijn hechtdraden worden bestudeerd door glasvezel-onderzoekers.",
+   "Hij leeft op de zeebodem, meestal dieper dan 500 meter."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Venusmandje",
   "img": "images/euplectella-aspergillum.webp",
@@ -9053,12 +9262,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/euplectella-aspergillum-2.webp",
     "size": [
      1100,
-     825
+     619
     ],
     "credit": {
-     "by": "NOAA/Monterey Bay Aquarium Research Institute",
+     "by": "NOAA Photo Library",
      "license": "PD",
-     "url": "https://www.inaturalist.org/photos/239134053",
+     "url": "https://www.inaturalist.org/photos/239134059",
      "source": "iNaturalist"
     }
    },
@@ -9071,7 +9280,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "NOAA Photo Library",
      "license": "PD",
-     "url": "https://www.inaturalist.org/photos/239134059",
+     "url": "https://www.inaturalist.org/photos/239134090",
      "source": "iNaturalist"
     }
    }
@@ -9080,6 +9289,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lyssacinosida",
   "family": "Euplectellidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Venus%27_flower_basket",
   "curated": true
  },
  {
@@ -9090,8 +9300,8 @@ window.OCEAN_ANIMALS = [
   "intro": "De zeedruif is een ribkwal die vooral in noordelijke oceanen en zeeën voorkomt.",
   "facts": [
    "In het licht zie je regenboogkleuren over zijn lijf lopen.",
-   "Met twee lange, vertakte tentakels vangt hij plankton en zelfs soortgenoten.",
-   "Hij spoelt het hele jaar aan, maar vooral in lente en zomer."
+   "Zijn twee lange tentakels kan hij intrekken in schedes.",
+   "In de Noordzee zwemt hij elke dag op en neer, net als de roeipootkreeftjes die hij eet."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zeedruif_%28ribkwal%29",
   "img": "images/pleurobrachia-pileus.webp",
@@ -9100,9 +9310,9 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "Lara Gibson",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/10071028",
+   "by": "Hunter Stevens",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/122966640",
    "source": "iNaturalist"
   },
   "obs": 35563,
@@ -9115,9 +9325,9 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "Lara Gibson",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/10071028",
+     "by": "Hunter Stevens",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/122966640",
      "source": "iNaturalist"
     }
    },
@@ -9125,12 +9335,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pleurobrachia-pileus-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Vsevolod Rudyi",
+     "by": "Lara Gibson",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/90622270",
+     "url": "https://www.inaturalist.org/photos/10071028",
      "source": "iNaturalist"
     }
    },
@@ -9138,12 +9348,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pleurobrachia-pileus-3.webp",
     "size": [
      1100,
-     723
+     733
     ],
     "credit": {
-     "by": "Ron Ates",
+     "by": "Bianca Bahlert",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/11678368",
+     "url": "https://www.inaturalist.org/photos/645407546",
      "source": "iNaturalist"
     }
    }
@@ -9152,6 +9362,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cydippida",
   "family": "Pleurobrachiidae",
   "ns": 1094,
+  "wikiEn": "https://en.wikipedia.org/wiki/Pleurobrachia_pileus",
   "curated": true
  },
  {
@@ -9161,20 +9372,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "De zager of zeeduizendpoot is een borstelworm uit de familie Nereididae.",
   "facts": [
-   "Hij kan 90 centimeter lang worden.",
-   "Hij is donkergroen met een blauwe glans.",
-   "Hij leeft in gangen in de bodem, maar kan ook als een slang zwemmen."
+   "Hij kan 90 centimeter lang worden en heeft twee grote kaken als tangen.",
+   "Zijn gangen in de bodem kunnen een meter diep zijn.",
+   "In de Amerikaanse staat Maine werken meer dan 1000 mensen als zeeduizendpootgraver."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zeeduizendpoot",
   "img": "images/alitta-virens.webp",
   "imgSize": [
    1400,
-   933
+   990
   ],
   "credit": {
-   "by": "Poul Erik Rasmussen",
+   "by": "Emil B",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/14287845",
+   "url": "https://www.inaturalist.org/photos/127998502",
    "source": "iNaturalist"
   },
   "obs": 15410,
@@ -9184,12 +9395,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/alitta-virens.webp",
     "size": [
      1400,
-     933
+     990
     ],
     "credit": {
-     "by": "Poul Erik Rasmussen",
+     "by": "Emil B",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/14287845",
+     "url": "https://www.inaturalist.org/photos/127998502",
      "source": "iNaturalist"
     }
    },
@@ -9202,7 +9413,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Poul Erik Rasmussen",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/14345262",
+     "url": "https://www.inaturalist.org/photos/14287845",
      "source": "iNaturalist"
     }
    },
@@ -9210,12 +9421,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/alitta-virens-3.webp",
     "size": [
      1100,
-     733
+     823
     ],
     "credit": {
-     "by": "Poul Erik Rasmussen",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/14317431",
+     "by": "Micha Baum",
+     "license": "CC-BY-SA",
+     "url": "https://www.inaturalist.org/photos/124200090",
      "source": "iNaturalist"
     }
    }
@@ -9224,6 +9435,7 @@ window.OCEAN_ANIMALS = [
   "order": "Phyllodocida",
   "family": "Nereididae",
   "ns": 171,
+  "wikiEn": "https://en.wikipedia.org/wiki/Alitta_virens",
   "curated": true
  },
  {
@@ -9234,19 +9446,19 @@ window.OCEAN_ANIMALS = [
   "intro": "De zeemuis of fluwelen zeemuis is een in zee levende worm uit de klasse van de borstelwormen.",
   "facts": [
    "Zijn harige rug doet denken aan een muizenvacht.",
-   "Zijn borstels glanzen groen en blauw, door piepkleine kristallen net als bij opaal.",
+   "Zijn borstels zijn dieprood, maar flitsen groen en blauw als het licht er recht op valt.",
    "Hij eet andere borstelwormen, soms groter dan hijzelf."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zeemuis",
   "img": "images/aphrodita-aculeata.webp",
   "imgSize": [
    1400,
-   1050
+   933
   ],
   "credit": {
-   "by": "Nathan Jackson",
+   "by": "Poul Erik Rasmussen",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/551777805",
+   "url": "https://www.inaturalist.org/photos/14581919",
    "source": "iNaturalist"
   },
   "obs": 18384,
@@ -9256,12 +9468,38 @@ window.OCEAN_ANIMALS = [
     "img": "images/aphrodita-aculeata.webp",
     "size": [
      1400,
-     1050
+     933
     ],
     "credit": {
-     "by": "Nathan Jackson",
+     "by": "Poul Erik Rasmussen",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/551777805",
+     "url": "https://www.inaturalist.org/photos/14581919",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/aphrodita-aculeata-2.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "Maurice Maynard",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/187023651",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/aphrodita-aculeata-3.webp",
+    "size": [
+     1100,
+     571
+    ],
+    "credit": {
+     "by": "bethgranter",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/555094065",
      "source": "iNaturalist"
     }
    }
@@ -9270,6 +9508,7 @@ window.OCEAN_ANIMALS = [
   "order": "Phyllodocida",
   "family": "Aphroditidae",
   "ns": 1476,
+  "wikiEn": "https://en.wikipedia.org/wiki/Aphrodita_aculeata",
   "curated": true
  },
  {
@@ -9279,9 +9518,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Overige ongewervelden",
   "intro": "De wadpier, zeepier, leegloper of aasworm is een worm die leeft in een graafgang op kleiig zandige wadbodems die bij eb droogvallen.",
   "facts": [
-   "Hij woont in een U-vormige gang tot zo'n 30 centimeter diep in het wad.",
+   "Zijn bloed kan 156 zuurstofmoleculen vervoeren, tegen 4 bij mensen; het is veelbelovend bij orgaantransplantaties.",
    "De hoopjes zandslierten op het wad zijn zijn uitwerpselen.",
-   "Hij kan 40 centimeter lang worden."
+   "Hij woont in een U-vormige gang tot zo'n 30 centimeter diep."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zeepier",
   "img": "images/arenicola-marina.webp",
@@ -9315,12 +9554,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/arenicola-marina-2.webp",
     "size": [
      1100,
-     754
+     825
     ],
     "credit": {
-     "by": "Aimie",
+     "by": "thephoxinus",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/536611646",
+     "url": "https://www.inaturalist.org/photos/84902533",
      "source": "iNaturalist"
     }
    },
@@ -9328,12 +9567,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/arenicola-marina-3.webp",
     "size": [
      1100,
-     825
+     989
     ],
     "credit": {
-     "by": "Stepan Markin",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/536534850",
+     "by": "Micha Baum",
+     "license": "CC-BY-SA",
+     "url": "https://www.inaturalist.org/photos/375592949",
      "source": "iNaturalist"
     }
    }
@@ -9342,6 +9581,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Arenicolidae",
   "ns": 1557,
+  "wikiEn": "https://en.wikipedia.org/wiki/Blow_lugworm",
   "curated": true
  },
  {
@@ -9351,20 +9591,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Reptielen",
   "intro": "De dikkopschildpad of onechte karetschildpad is een schildpaddensoort uit de familie zeeschildpadden.",
   "facts": [
-   "Zijn rugschild is ongeveer 85 tot 100 centimeter lang.",
-   "In 1894 werd een levend vrouwtje gevonden in Ouddorp.",
-   "Het lawaai van motorboten kan hem verstoren."
+   "Hij kan meer dan tien uur onder water blijven.",
+   "Jonge schildpadden drijven met de stroming de hele Stille Oceaan over: een van de langste trektochten in zee.",
+   "Hij slaapt met zijn ogen stijf dicht."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Dikkopschildpad",
   "img": "images/caretta-caretta.webp",
   "imgSize": [
    1400,
-   933
+   1050
   ],
   "credit": {
-   "by": "Radu Teodoreanu",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/355273645",
+   "by": "Roberto Pillon",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/176774361",
    "source": "iNaturalist"
   },
   "obs": 229690,
@@ -9374,12 +9614,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/caretta-caretta.webp",
     "size": [
      1400,
-     933
+     1050
     ],
     "credit": {
-     "by": "Radu Teodoreanu",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/355273645",
+     "by": "Roberto Pillon",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/176774361",
      "source": "iNaturalist"
     }
    },
@@ -9392,7 +9632,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Roberto Pillon",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/176773263",
+     "url": "https://www.inaturalist.org/photos/176772725",
      "source": "iNaturalist"
     }
    },
@@ -9400,12 +9640,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/caretta-caretta-3.webp",
     "size": [
      1100,
-     619
+     733
     ],
     "credit": {
-     "by": "Falk Viczian Solarboot-Projekte gGmbH",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/228915339",
+     "by": "Radu Teodoreanu",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/355273645",
      "source": "iNaturalist"
     }
    }
@@ -9414,6 +9654,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Cheloniidae",
   "ns": 40,
+  "wikiEn": "https://en.wikipedia.org/wiki/Loggerhead_sea_turtle",
   "curated": true
  },
  {
@@ -9423,8 +9664,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Reptielen",
   "intro": "De gewone platstaart is een slang uit de familie koraalslangachtigen.",
   "facts": [
+   "Hij heeft een donkerblauwe bovenlip, vandaar zijn Engelse naam 'blue-lipped sea krait'.",
    "Zijn neusgaten hebben flapjes die het water buiten houden.",
-   "Zijn gif is heel sterk, maar hij spuit er zo weinig van in dat een beet zelden dodelijk is.",
    "Hij duikt tot 80 meter diep."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_platstaart",
@@ -9462,9 +9703,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "abujudy",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/98665938",
+     "by": "Susanne Spindler",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/153943493",
      "source": "iNaturalist"
     }
    },
@@ -9475,9 +9716,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Ivan Samra",
+     "by": "Amaury Durbano",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/57394762",
+     "url": "https://www.inaturalist.org/photos/354607300",
      "source": "iNaturalist"
     }
    }
@@ -9486,6 +9727,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Elapidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Blue-lipped_sea_krait",
   "curated": true
  },
  {
@@ -9495,9 +9737,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Reptielen",
   "intro": "De karetschildpad, ook wel echte karetschildpad genoemd, is een schildpad uit de familie van de zeeschildpadden.",
   "facts": [
-   "Hij kan tot 24 kilometer per uur zwemmen.",
-   "Eén vrouwtje legde in elf maanden 3600 kilometer af.",
-   "Minder dan 1 op de 1000 eieren groeit uit tot een volwassen schildpad."
+   "Hij eet giftige neteldieren, waardoor zijn vlees zelf giftig kan worden.",
+   "Zijn schild verandert een beetje van kleur met de watertemperatuur.",
+   "Al de oude Grieken en Romeinen maakten kammen en ringen van zijn schild."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Karetschildpad",
   "img": "images/eretmochelys-imbricata.webp",
@@ -9530,13 +9772,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/eretmochelys-imbricata-2.webp",
     "size": [
-     1024,
-     640
+     1100,
+     733
     ],
     "credit": {
-     "by": "NOAA",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/464186515",
+     "by": "Joni",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/629285478",
      "source": "iNaturalist"
     }
    },
@@ -9544,12 +9786,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/eretmochelys-imbricata-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "Captain Scott H. Sexton",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/243369264",
+     "url": "https://www.inaturalist.org/photos/102409397",
      "source": "iNaturalist"
     }
    }
@@ -9558,6 +9800,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Cheloniidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Hawksbill_sea_turtle",
   "curated": true
  },
  {
@@ -9567,7 +9810,7 @@ window.OCEAN_ANIMALS = [
   "cat": "Reptielen",
   "intro": "Kemps zeeschildpad is een schildpad die behoort tot de familie zeeschildpadden.",
   "facts": [
-   "Het is de kleinste én de meest bedreigde zeeschildpad ter wereld.",
+   "Het is de zeldzaamste, kleinste én meest bedreigde zeeschildpad.",
    "Anders dan de meeste zeeschildpadden leggen de vrouwtjes overdag hun eieren.",
    "In 2007 werd er een levend jong gevonden bij de pier van IJmuiden."
   ],
@@ -9575,12 +9818,12 @@ window.OCEAN_ANIMALS = [
   "img": "images/lepidochelys-kempii.webp",
   "imgSize": [
    1400,
-   937
+   878
   ],
   "credit": {
-   "by": "Zihao Wang",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/25865096",
+   "by": "randy6410",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/422850824",
    "source": "iNaturalist"
   },
   "obs": 7492,
@@ -9590,12 +9833,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lepidochelys-kempii.webp",
     "size": [
      1400,
-     937
+     878
     ],
     "credit": {
-     "by": "Zihao Wang",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/25865096",
+     "by": "randy6410",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/422850824",
      "source": "iNaturalist"
     }
    },
@@ -9603,12 +9846,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lepidochelys-kempii-2.webp",
     "size": [
      1100,
-     773
+     619
     ],
     "credit": {
-     "by": "Jon McIntyre",
+     "by": "Gaspar Capetillo Aguilar",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/135374890",
+     "url": "https://www.inaturalist.org/photos/175575513",
      "source": "iNaturalist"
     }
    },
@@ -9616,12 +9859,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lepidochelys-kempii-3.webp",
     "size": [
      1100,
-     825
+     824
     ],
     "credit": {
-     "by": "Diego Meneses",
+     "by": "Isaías Caamaño Rodríguez",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/348906377",
+     "url": "https://www.inaturalist.org/photos/268670645",
      "source": "iNaturalist"
     }
    }
@@ -9630,6 +9873,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Cheloniidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Kemp%27s_ridley_sea_turtle",
   "curated": true
  },
  {
@@ -9639,20 +9883,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Reptielen",
   "intro": "De lederschildpad is een schildpad die in zee leeft, en behoort tot de familie lederschildpadden.",
   "facts": [
-   "Hij is de grootste schildpad ter wereld en kan meer dan 900 kilo wegen.",
-   "Hij zwemt tot iets meer dan 35 kilometer per uur.",
-   "De temperatuur in het nest bepaalt of er jongens of meisjes uit de eieren komen."
+   "Hij is de grootste schildpad en het zwaarste reptiel na de krokodillen.",
+   "Hij duikt tot 1200 meter diep.",
+   "Eén lederschildpad joeg een haai na en viel daarna zelfs de boot met toekijkers aan."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Lederschildpad",
   "img": "images/dermochelys-coriacea.webp",
   "imgSize": [
    1400,
-   789
+   1050
   ],
   "credit": {
-   "by": "Bill Levine",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/32807091",
+   "by": "azure27014",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/247854737",
    "source": "iNaturalist"
   },
   "obs": 55717,
@@ -9662,12 +9906,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dermochelys-coriacea.webp",
     "size": [
      1400,
-     789
+     1050
     ],
     "credit": {
-     "by": "Bill Levine",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/32807091",
+     "by": "azure27014",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/247854737",
      "source": "iNaturalist"
     }
    },
@@ -9675,12 +9919,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dermochelys-coriacea-2.webp",
     "size": [
      1100,
-     825
+     734
     ],
     "credit": {
-     "by": "Pam Kleinsasser",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/23833432",
+     "by": "Jasmin O'Brien",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/413746602",
      "source": "iNaturalist"
     }
    },
@@ -9688,12 +9932,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dermochelys-coriacea-3.webp",
     "size": [
      1100,
-     831
+     734
     ],
     "credit": {
-     "by": "azure27014",
+     "by": "Nathan Pettigrew",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/337795652",
+     "url": "https://www.inaturalist.org/photos/618924524",
      "source": "iNaturalist"
     }
    }
@@ -9702,6 +9946,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Dermochelyidae",
   "ns": 53,
+  "wikiEn": "https://en.wikipedia.org/wiki/Leatherback_sea_turtle",
   "curated": true
  },
  {
@@ -9711,9 +9956,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Reptielen",
   "intro": "De platrugzeeschildpad is een schildpad uit de familie zeeschildpadden.",
   "facts": [
-   "Hij komt maar in een klein gebied voor, anders dan de meeste zeeschildpadden.",
-   "Alleen de lederschildpad legt grotere eieren.",
-   "Hij kan waarschijnlijk meer dan 100 jaar oud worden."
+   "Hij legt zijn eieren alleen op stranden in Australië.",
+   "Anders dan andere zeeschildpadden maakt hij geen lange tochten over de oceaan.",
+   "Alleen de lederschildpad legt grotere eieren."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Platrugzeeschildpad",
   "img": "images/natator-depressus.webp",
@@ -9747,12 +9992,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/natator-depressus-2.webp",
     "size": [
      1100,
-     733
+     734
     ],
     "credit": {
-     "by": "Owen Gale",
+     "by": "David White",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/340204528",
+     "url": "https://www.inaturalist.org/photos/548210606",
      "source": "iNaturalist"
     }
    },
@@ -9760,12 +10005,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/natator-depressus-3.webp",
     "size": [
      1100,
-     734
+     825
     ],
     "credit": {
-     "by": "glyall",
+     "by": "Tim Karnasuta",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/157124338",
+     "url": "https://www.inaturalist.org/photos/171155279",
      "source": "iNaturalist"
     }
    }
@@ -9774,6 +10019,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Cheloniidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Flatback_sea_turtle",
   "curated": true
  },
  {
@@ -9783,9 +10029,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Reptielen",
   "intro": "De ringslangplatstaart is een slang uit de familie koraalslangachtigen.",
   "facts": [
-   "Hij eet alleen vis, en dan bijna altijd palingachtigen.",
-   "Hij grijpt zijn prooi en spuit er gif in met zijn giftanden.",
-   "De meeste duiken niet dieper dan 20 meter."
+   "Hij jaagt samen met vissen: hij jaagt prooien uit spleten, de vissen vangen wat er wegvlucht.",
+   "Zijn staart lijkt op zijn kop, zodat vijanden niet weten welke kant ze moeten aanvallen.",
+   "Hij jaagt in zee, maar komt aan land om te verteren en eieren te leggen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Ringslangplatstaart",
   "img": "images/laticauda-colubrina.webp",
@@ -9819,12 +10065,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/laticauda-colubrina-2.webp",
     "size": [
      1100,
-     724
+     825
     ],
     "credit": {
-     "by": "Bernard DUPONT",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/404361251",
+     "by": "Lukas Phan-huy",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/297321266",
      "source": "iNaturalist"
     }
    },
@@ -9835,9 +10081,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Jeremy Loh",
+     "by": "Bird Explorers",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/631998064",
+     "url": "https://www.inaturalist.org/photos/74444534",
      "source": "iNaturalist"
     }
    }
@@ -9846,6 +10092,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Elapidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Yellow-lipped_sea_krait",
   "curated": true
  },
  {
@@ -9855,9 +10102,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Reptielen",
   "intro": "De samengedrukte zeeslang is een slang die behoort tot de familie koraalslangachtigen.",
   "facts": [
-   "Zijn rug is zwart en zijn buik felgeel.",
-   "Hij jaagt niet actief, maar drijft waar zeestromingen samenkomen en wacht op prooi.",
-   "Hij is de enige zeeslang die ook op open zee leeft."
+   "Hij is de enige zeeslang die Hawaï heeft bereikt.",
+   "Hij kan zuurstof opnemen via zijn huid.",
+   "Ondanks dat hij in zee leeft, drinkt hij alleen zoet water."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Samengedrukte_zeeslang",
   "img": "images/hydrophis-platurus.webp",
@@ -9891,12 +10138,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/hydrophis-platurus-2.webp",
     "size": [
      1100,
-     899
+     734
     ],
     "credit": {
-     "by": "Aloaiza",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/339304315",
+     "by": "Gert Jan Verspui",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/47827550",
      "source": "iNaturalist"
     }
    },
@@ -9904,12 +10151,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/hydrophis-platurus-3.webp",
     "size": [
      1100,
-     734
+     733
     ],
     "credit": {
-     "by": "Clara HS",
+     "by": "Pooja Pednekar",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/13800052",
+     "url": "https://www.inaturalist.org/photos/123422028",
      "source": "iNaturalist"
     }
    }
@@ -9918,6 +10165,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Elapidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Yellow-bellied_sea_snake",
   "curated": true
  },
  {
@@ -9928,8 +10176,8 @@ window.OCEAN_ANIMALS = [
   "intro": "De soepschildpad of groene zeeschildpad is een schildpad die behoort tot de familie van de zeeschildpadden.",
   "facts": [
    "Hij kan zo'n 2,5 uur zijn adem inhouden om te slapen.",
-   "Sommige zwemmen meer dan 1000 kilometer om hun eieren te leggen.",
-   "Pasgeboren jongen zijn zo'n 5 centimeter lang en wegen 25 gram."
+   "Met één explosieve uitademing ververst hij in een flits de lucht in zijn longen.",
+   "Hij ziet vooral violet tot geel goed."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Soepschildpad",
   "img": "images/chelonia-mydas.webp",
@@ -9966,9 +10214,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Andresvilla92",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/464187430",
+     "by": "Charlie Shuetrim",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/5158990",
      "source": "iNaturalist"
     }
    },
@@ -9979,9 +10227,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "Jean-Paul Cassez",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/675226735",
+     "url": "https://www.inaturalist.org/photos/114832372",
      "source": "iNaturalist"
     }
    }
@@ -9990,6 +10238,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Cheloniidae",
   "ns": 6,
+  "wikiEn": "https://en.wikipedia.org/wiki/Green_sea_turtle",
   "curated": true
  },
  {
@@ -9999,9 +10248,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Reptielen",
   "intro": "De warana of dwergschildpad is een schildpad die behoort tot de familie zeeschildpadden.",
   "facts": [
-   "Hij is een van de kleinere zeeschildpadden, met een schild van zo'n 70 centimeter.",
-   "Hij duikt tot 150 meter diep op zoek naar voedsel.",
-   "Zijn eieren komen na 50 tot 60 dagen uit."
+   "Vrouwtjes komen met honderdduizenden tegelijk aan land om eieren te leggen: een 'arribada'.",
+   "In 1991 legden langs de kust van India in één week meer dan 600.000 schildpadden eieren.",
+   "Zijn schild is olijfgroen en hartvormig."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Warana",
   "img": "images/lepidochelys-olivacea.webp",
@@ -10030,12 +10279,39 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/356024804",
      "source": "iNaturalist"
     }
+   },
+   {
+    "img": "images/lepidochelys-olivacea-2.webp",
+    "size": [
+     1100,
+     732
+    ],
+    "credit": {
+     "by": "Eric van den Berghe",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/66717372",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/lepidochelys-olivacea-3.webp",
+    "size": [
+     1100,
+     733
+    ],
+    "credit": {
+     "by": "Lucas Scott de Marcos",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/592437366",
+     "source": "iNaturalist"
+    }
    }
   ],
   "thumb": "thumbs/lepidochelys-olivacea.webp",
   "order": null,
   "family": "Cheloniidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Olive_ridley_sea_turtle",
   "curated": true
  },
  {
@@ -10045,9 +10321,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Reptielen",
   "intro": "De zeekrokodil is een krokodilachtige uit de familie echte krokodillen en de onderfamilie Crocodylinae.",
   "facts": [
-   "In 2006 werd in India een zeekrokodil van ongeveer 7 meter gevangen.",
-   "Oude mannetjes van meer dan zes meter wegen 1000 tot 1200 kilo.",
-   "Hij heeft 64 tot 68 tanden."
+   "Al jonge zeekrokodillen pakken prooien van bijna hun eigen gewicht, zoals geiten.",
+   "Jonge zeekrokodillen kunnen in één sprong helemaal uit het water springen om prooien van takken te grissen.",
+   "Hij kan zijn hartslag verlagen om langer onder water te blijven."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zeekrokodil",
   "img": "images/crocodylus-porosus.webp",
@@ -10084,9 +10360,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Bernard DUPONT",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/188080748",
+     "by": "Jafet Potenzo Lopes",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/464206935",
      "source": "iNaturalist"
     }
    },
@@ -10094,12 +10370,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/crocodylus-porosus-3.webp",
     "size": [
      1100,
-     734
+     659
     ],
     "credit": {
-     "by": "Julien Renoult",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/28434316",
+     "by": "Karim Imran",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/178025768",
      "source": "iNaturalist"
     }
    }
@@ -10108,6 +10384,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Crocodylidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Saltwater_crocodile",
   "curated": true
  },
  {
@@ -10117,9 +10394,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Reptielen",
   "intro": "De zeeleguaan, ook wel zeehagedis is een hagedis uit de familie leguanen.",
   "facts": [
-   "Hij duikt onder water om algen te eten.",
-   "Met zijn lange nagels haakt hij zich vast aan de rotsen in de branding.",
-   "Hij kan meestal een paar minuten onder water blijven, maar als het moet veel langer."
+   "Hij komt alleen voor op de Galapagoseilanden.",
+   "Hij kan tot een uur onder water blijven.",
+   "'s Nachts kruipen ze met tot 50 tegelijk tegen elkaar aan om warm te blijven."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zeeleguaan",
   "img": "images/amblyrhynchus-cristatus.webp",
@@ -10128,9 +10405,9 @@ window.OCEAN_ANIMALS = [
    933
   ],
   "credit": {
-   "by": "patrickc",
+   "by": "Shawn O'Donnell",
    "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/12462590",
+   "url": "https://www.inaturalist.org/photos/29325793",
    "source": "iNaturalist"
   },
   "obs": 9343,
@@ -10143,9 +10420,9 @@ window.OCEAN_ANIMALS = [
      933
     ],
     "credit": {
-     "by": "patrickc",
+     "by": "Shawn O'Donnell",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/12462590",
+     "url": "https://www.inaturalist.org/photos/29325793",
      "source": "iNaturalist"
     }
    },
@@ -10153,12 +10430,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/amblyrhynchus-cristatus-2.webp",
     "size": [
      1100,
-     825
+     824
     ],
     "credit": {
-     "by": "Shawn O'Donnell",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/29325122",
+     "by": "Justin Walker",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/205047040",
      "source": "iNaturalist"
     }
    },
@@ -10166,12 +10443,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/amblyrhynchus-cristatus-3.webp",
     "size": [
      1100,
-     733
+     734
     ],
     "credit": {
-     "by": "leekelai",
+     "by": "Simon Pierce",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/624423142",
+     "url": "https://www.inaturalist.org/photos/223675967",
      "source": "iNaturalist"
     }
    }
@@ -10180,6 +10457,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Iguanidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Marine_iguana",
   "curated": true
  },
  {
@@ -10189,20 +10467,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Stekelhuidigen",
   "intro": "De bloedrode zeester is een zeester uit de familie Echinasteridae.",
   "facts": [
-   "Hij dankt zijn naam aan zijn roodoranje tot rode kleur.",
-   "Zijn rug voelt aan als schuurpapier.",
-   "Hij leeft van de kust tot wel 2414 meter diep."
+   "Hij heeft geen hersenen en geen bloed: door zijn lijf stroomt water.",
+   "Zijn hart klopt maar zes keer per minuut.",
+   "Een afgebroken arm groeit gewoon weer aan."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Bloedrode_zeester",
   "img": "images/henricia-sanguinolenta.webp",
   "imgSize": [
    1400,
-   1050
+   1028
   ],
   "credit": {
-   "by": "Julien Renoult",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/46650214",
+   "by": "Jeff Goddard",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/95925208",
    "source": "iNaturalist"
   },
   "obs": 5135,
@@ -10212,12 +10490,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/henricia-sanguinolenta.webp",
     "size": [
      1400,
-     1050
+     1028
     ],
     "credit": {
-     "by": "Julien Renoult",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/46650214",
+     "by": "Jeff Goddard",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/95925208",
      "source": "iNaturalist"
     }
    },
@@ -10225,12 +10503,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/henricia-sanguinolenta-2.webp",
     "size": [
      1100,
-     735
+     825
     ],
     "credit": {
-     "by": "Lorri G.",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/20065957",
+     "by": "Julien Renoult",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/46650214",
      "source": "iNaturalist"
     }
    },
@@ -10241,9 +10519,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "hmw",
+     "by": "glenysg",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/9341685",
+     "url": "https://www.inaturalist.org/photos/123820500",
      "source": "iNaturalist"
     }
    }
@@ -10252,6 +10530,7 @@ window.OCEAN_ANIMALS = [
   "order": "Spinulosida",
   "family": "Echinasteridae",
   "ns": 231,
+  "wikiEn": "https://en.wikipedia.org/wiki/Henricia_sanguinolenta",
   "curated": true
  },
  {
@@ -10261,9 +10540,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Stekelhuidigen",
   "intro": "De brokkelster is een slangster uit de familie Ophiotrichidae.",
   "facts": [
+   "Op één vierkante meter zijn eens tweeduizend brokkelsterren geteld.",
    "Zijn Latijnse naam fragilis betekent breekbaar: zijn armen breken makkelijk af.",
-   "Hij slaat zijn soepele armen om stenen om zich voort te trekken.",
-   "Hij komt algemeen voor in de Noordzee."
+   "Hij kan wel tien jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Brokkelster",
   "img": "images/ophiothrix-fragilis.webp",
@@ -10272,9 +10551,9 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "Bernard Picton",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/6881712",
+   "by": "Pierre Corbrion",
+   "license": "CC-BY-NC-SA",
+   "url": "https://www.inaturalist.org/photos/581834472",
    "source": "iNaturalist"
   },
   "obs": 28870,
@@ -10287,9 +10566,9 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "Bernard Picton",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/6881712",
+     "by": "Pierre Corbrion",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/581834472",
      "source": "iNaturalist"
     }
    },
@@ -10297,12 +10576,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/ophiothrix-fragilis-2.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Stefan",
+     "by": "François-Xavier Taxil",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/13797447",
+     "url": "https://www.inaturalist.org/photos/370118239",
      "source": "iNaturalist"
     }
    },
@@ -10313,9 +10592,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Isaac Eckert",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/110520614",
+     "by": "Bernard Picton",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/6881712",
      "source": "iNaturalist"
     }
    }
@@ -10324,6 +10603,7 @@ window.OCEAN_ANIMALS = [
   "order": "Amphilepidida",
   "family": "Ophiotrichidae",
   "ns": 1088,
+  "wikiEn": "https://en.wikipedia.org/wiki/Ophiothrix_fragilis",
   "curated": true
  },
  {
@@ -10333,20 +10613,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Stekelhuidigen",
   "intro": "De diadeemzee-egel is een zee-egel uit de familie Diadematidae.",
   "facts": [
-   "Zijn giftige stekels kunnen 30 centimeter lang worden.",
-   "Duikers die erop stappen, kunnen gewond raken; de stekels kunnen soms zelfs een voet doorboren.",
-   "Afgebroken stekels kunnen wekenlang in de huid blijven zitten."
+   "De oranje ring rond zijn anus wordt vaak aangezien voor een oog.",
+   "Bij gevaar kan hij zich omdraaien en op zijn langste stekels 'wegrennen'.",
+   "Zijn holle, giftige stekels kunnen 30 centimeter lang worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Diadeemzee-egel",
   "img": "images/diadema-setosum.webp",
   "imgSize": [
    1400,
-   1085
+   1050
   ],
   "credit": {
-   "by": "Quartl",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/3698083",
+   "by": "Stergios Vasilis",
+   "license": "CC-BY-NC-ND",
+   "url": "https://www.inaturalist.org/photos/152675685",
    "source": "iNaturalist"
   },
   "obs": 5593,
@@ -10356,12 +10636,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/diadema-setosum.webp",
     "size": [
      1400,
-     1085
+     1050
     ],
     "credit": {
-     "by": "Quartl",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/3698083",
+     "by": "Stergios Vasilis",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/152675685",
      "source": "iNaturalist"
     }
    },
@@ -10374,7 +10654,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Stergios Vasilis",
      "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/152675731",
+     "url": "https://www.inaturalist.org/photos/152675604",
      "source": "iNaturalist"
     }
    },
@@ -10382,12 +10662,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/diadema-setosum-3.webp",
     "size": [
      1100,
-     825
+     809
     ],
     "credit": {
-     "by": "Roberto Pillon",
+     "by": "Simon Nicholas",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/405081967",
+     "url": "https://www.inaturalist.org/photos/444797931",
      "source": "iNaturalist"
     }
    }
@@ -10396,6 +10676,7 @@ window.OCEAN_ANIMALS = [
   "order": "Diadematoida",
   "family": "Diadematidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Diadema_setosum",
   "curated": true
  },
  {
@@ -10405,9 +10686,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Stekelhuidigen",
   "intro": "De doornenkroon is een zeester met doornachtige stekels die over het hele lichaam zijn verspreid.",
   "facts": [
-   "Hij heeft 12 tot 19 armen en kan 40 centimeter breed worden.",
-   "'s Nachts klimt hij op het rif en eet hij het koraal kaal.",
-   "Zijn stekels kunnen pijnlijke wonden veroorzaken."
+   "Hij heeft 12 tot 19 armen en kan hele koraalkolonies doden.",
+   "Duikers die hem bestrijden, halen er tot 120 per uur weg.",
+   "Een prik van zijn stekels doet urenlang pijn."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Doornenkroon_%28dier%29",
   "img": "images/acanthaster-planci.webp",
@@ -10416,9 +10697,9 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "Mahadi Mohammad",
+   "by": "scuba-dubn",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/11943164",
+   "url": "https://www.inaturalist.org/photos/474686323",
    "source": "iNaturalist"
   },
   "obs": 9601,
@@ -10431,9 +10712,9 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "Mahadi Mohammad",
+     "by": "scuba-dubn",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/11943164",
+     "url": "https://www.inaturalist.org/photos/474686323",
      "source": "iNaturalist"
     }
    },
@@ -10444,9 +10725,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Franco Colnago",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/60635728",
+     "by": "Nathan",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/525906136",
      "source": "iNaturalist"
     }
    },
@@ -10457,9 +10738,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Mahadi Mohammad",
+     "by": "wingwatcher48",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/11943121",
+     "url": "https://www.inaturalist.org/photos/262212455",
      "source": "iNaturalist"
     }
    }
@@ -10468,6 +10749,7 @@ window.OCEAN_ANIMALS = [
   "order": "Valvatida",
   "family": "Acanthasteridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Crown-of-thorns_starfish",
   "curated": true
  },
  {
@@ -10477,9 +10759,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Stekelhuidigen",
   "intro": "De eetbare zeeappel is een zee-egel uit de familie Echinidae.",
   "facts": [
-   "In sommige landen geldt hij als lekkernij.",
-   "Hij eet algen en mosdiertjes van de rotsen.",
-   "In de Noordzee komt hij overal voor waar de bodem hard is."
+   "Rond zijn mond zitten piepkleine tangetjes om zich te verdedigen.",
+   "Tussen zijn stekels wonen vaak een worm en een klein kreeftje mee.",
+   "In sommige landen geldt hij als lekkernij."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Eetbare_zeeappel",
   "img": "images/echinus-esculentus.webp",
@@ -10513,12 +10795,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/echinus-esculentus-2.webp",
     "size": [
      1100,
-     1062
+     734
     ],
     "credit": {
-     "by": "Nannie",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/19419196",
+     "by": "jimkarlstrom",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/295276774",
      "source": "iNaturalist"
     }
    },
@@ -10529,9 +10811,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Asbjørn Hansen",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/779337",
+     "by": "Anna Kellagher",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/479115443",
      "source": "iNaturalist"
     }
    }
@@ -10540,6 +10822,7 @@ window.OCEAN_ANIMALS = [
   "order": "Camarodonta",
   "family": "Echinidae",
   "ns": 1385,
+  "wikiEn": "https://en.wikipedia.org/wiki/Echinus_esculentus",
   "curated": true
  },
  {
@@ -10549,9 +10832,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Stekelhuidigen",
   "intro": "De zonnester of gestekelde zonnester is een zeester uit de familie Solasteridae.",
   "facts": [
+   "Hij eet geen schelpdieren, maar andere zeesterren, vooral de gewone zeester.",
    "Hij heeft meestal acht tot veertien armen.",
-   "Zijn rug heeft kringen van wit, roze, geel of donkerrood.",
-   "Hij eet geen schelpdieren, maar andere zeesterren, vooral de gewone zeester."
+   "Zijn rug heeft kringen van wit, roze, geel of donkerrood."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gestekelde_zonnester",
   "img": "images/crossaster-papposus.webp",
@@ -10585,25 +10868,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/crossaster-papposus-2.webp",
     "size": [
      1100,
-     721
+     825
     ],
     "credit": {
-     "by": "centre_decouverte_milieu_marin_pc",
+     "by": "hikeranddiver",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/10798695",
+     "url": "https://www.inaturalist.org/photos/126211532",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/crossaster-papposus-3.webp",
     "size": [
-     1024,
-     768
+     1100,
+     825
     ],
     "credit": {
-     "by": "KJ",
+     "by": "Daniella LoScerbo",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/126867584",
+     "url": "https://www.inaturalist.org/photos/609870068",
      "source": "iNaturalist"
     }
    }
@@ -10621,9 +10904,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Stekelhuidigen",
   "intro": "De gewone slangster is een slangster uit de familie Ophiuridae.",
   "facts": [
-   "Zijn vijf smalle armen kunnen 14 centimeter lang worden.",
-   "Hij leeft op zandbodems, tot zo'n 200 meter diep.",
-   "Als een arm afbreekt, groeit die weer aan."
+   "Als een arm afbreekt, groeit die weer aan.",
+   "Er zijn prachtig bewaarde fossielen van hem gevonden in Italië, van miljoenen jaren oud.",
+   "Zijn vijf smalle armen kunnen 14 centimeter lang worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_slangster",
   "img": "images/ophiura-ophiura.webp",
@@ -10657,12 +10940,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/ophiura-ophiura-2.webp",
     "size": [
      1100,
-     734
+     825
     ],
     "credit": {
-     "by": "Bernard Picton",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/23289880",
+     "by": "David Lyu",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/618289605",
      "source": "iNaturalist"
     }
    },
@@ -10673,9 +10956,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Gaël Covain",
+     "by": "poulpette",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/254043664",
+     "url": "https://www.inaturalist.org/photos/428555710",
      "source": "iNaturalist"
     }
    }
@@ -10684,6 +10967,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Ophiuridae",
   "ns": 4229,
+  "wikiEn": "https://en.wikipedia.org/wiki/Ophiura_ophiura",
   "curated": true
  },
  {
@@ -10693,9 +10977,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Stekelhuidigen",
   "intro": "De gewone zeekomkommer is een zeekomkommer uit de familie Holothuriidae.",
   "facts": [
-   "Hij komt voor langs de Atlantische kust van Europa en in het Kanaal.",
-   "Hij is eetbaar en wordt onder andere in de Portugese keuken gebruikt.",
-   "Ondanks zijn naam is hij geen groente, maar familie van zeesterren en zee-egels."
+   "Bij gevaar schiet hij kleverige witte draden uit zijn achterkant om vijanden in te verstrikken.",
+   "Ondanks zijn naam is hij geen groente, maar familie van zeesterren en zee-egels.",
+   "Hij is eetbaar en wordt onder andere in de Portugese keuken gebruikt."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_zeekomkommer",
   "img": "images/holothuria-forskali.webp",
@@ -10729,12 +11013,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/holothuria-forskali-2.webp",
     "size": [
      1100,
-     826
+     784
     ],
     "credit": {
-     "by": "Sylvain Le Bris",
+     "by": "Xavier Rufray",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/514676061",
+     "url": "https://www.inaturalist.org/photos/108891084",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/holothuria-forskali-3.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "Albertini maridom",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/40629725",
      "source": "iNaturalist"
     }
    }
@@ -10743,6 +11040,7 @@ window.OCEAN_ANIMALS = [
   "order": "Holothuriida",
   "family": "Holothuriidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Holothuria_forskali",
   "curated": true
  },
  {
@@ -10752,9 +11050,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Stekelhuidigen",
   "intro": "De gewone zeester is een algemene zeesterrensoort langs de kusten van de noordelijke Atlantische Oceaan en de Noordzee.",
   "facts": [
-   "Mosselen zijn zijn lievelingseten, tot ergernis van mosselkwekers.",
    "Hij duwt zijn maag naar binnen in een geopende schelp en verteert de mossel levend.",
-   "Zo'n gevecht met een mossel kan uren duren."
+   "Hij ruikt de zonnester, die zeesterren eet, en vlucht dan.",
+   "Een middelgrote zeester kan 2,5 miljoen eitjes maken."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_zeester",
   "img": "images/asterias-rubens.webp",
@@ -10788,12 +11086,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/asterias-rubens-2.webp",
     "size": [
      1100,
-     736
+     825
     ],
     "credit": {
-     "by": "Bernard Picton",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/111875141",
+     "by": "laserfisch",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/221396701",
      "source": "iNaturalist"
     }
    },
@@ -10801,12 +11099,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/asterias-rubens-3.webp",
     "size": [
      1100,
-     825
+     892
     ],
     "credit": {
-     "by": "Jamie O'Neill",
+     "by": "Katrin Simon",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/204078466",
+     "url": "https://www.inaturalist.org/photos/603639192",
      "source": "iNaturalist"
     }
    }
@@ -10815,6 +11113,7 @@ window.OCEAN_ANIMALS = [
   "order": "Forcipulatida",
   "family": "Asteriidae",
   "ns": 10442,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_starfish",
   "curated": true
  },
  {
@@ -10824,7 +11123,7 @@ window.OCEAN_ANIMALS = [
   "cat": "Stekelhuidigen",
   "intro": "De kamster of gewone kamster is een kamster uit de familie Astropectinidae.",
   "facts": [
-   "Hij komt voor langs de Nederlandse kust.",
+   "Laat in de middag en 's nachts gaat hij op jacht, vooral op schelpdieren.",
    "Zijn armen zijn stijf en recht, niet soepel zoals bij de gewone zeester.",
    "Vaak heeft hij paarse puntjes aan zijn armen."
   ],
@@ -10832,12 +11131,12 @@ window.OCEAN_ANIMALS = [
   "img": "images/astropecten-irregularis.webp",
   "imgSize": [
    1400,
-   1065
+   786
   ],
   "credit": {
-   "by": "Frédéric ANDRE",
+   "by": "Killian Marcel",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/299580782",
+   "url": "https://www.inaturalist.org/photos/364784615",
    "source": "iNaturalist"
   },
   "obs": 23064,
@@ -10847,7 +11146,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/astropecten-irregularis.webp",
     "size": [
      1400,
-     1065
+     786
+    ],
+    "credit": {
+     "by": "Killian Marcel",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/364784615",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/astropecten-irregularis-2.webp",
+    "size": [
+     1100,
+     837
     ],
     "credit": {
      "by": "Frédéric ANDRE",
@@ -10857,28 +11169,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/astropecten-irregularis-2.webp",
+    "img": "images/astropecten-irregularis-3.webp",
     "size": [
      1100,
-     778
+     826
     ],
     "credit": {
      "by": "Emil B",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/123195087",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/astropecten-irregularis-3.webp",
-    "size": [
-     1100,
-     824
-    ],
-    "credit": {
-     "by": "Frédéric ANDRE",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/408802836",
+     "url": "https://www.inaturalist.org/photos/289279918",
      "source": "iNaturalist"
     }
    }
@@ -10887,6 +11186,7 @@ window.OCEAN_ANIMALS = [
   "order": "Paxillosida",
   "family": "Astropectinidae",
   "ns": 2151,
+  "wikiEn": "https://en.wikipedia.org/wiki/Astropecten_irregularis",
   "curated": true
  },
  {
@@ -10896,20 +11196,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Stekelhuidigen",
   "intro": "De kleine zeeappel, ook wel gewone zeeappel, is een zee-egel uit de familie Parechinidae.",
   "facts": [
-   "Hij is groen, maar door zijn paarse stekelpunten lijkt hij vaak helemaal paars.",
-   "Hij verstopt zich tussen stenen van mossel- en oesterbanken.",
-   "Hij komt algemeen voor in de Noordzee."
+   "Verhuis je hem naar een andere diepte, dan houdt hij zijn oude kleur.",
+   "Een vrouwtje laat tot 2,5 miljoen eitjes los in het water.",
+   "Hij verstopt zich tussen stenen van mossel- en oesterbanken."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kleine_zeeappel",
   "img": "images/psammechinus-miliaris.webp",
   "imgSize": [
    1400,
-   933
+   991
   ],
   "credit": {
-   "by": "Poul Erik Rasmussen",
+   "by": "Nicolas Jouault",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/14418395",
+   "url": "https://www.inaturalist.org/photos/249421558",
    "source": "iNaturalist"
   },
   "obs": 23612,
@@ -10919,7 +11219,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/psammechinus-miliaris.webp",
     "size": [
      1400,
-     933
+     991
+    ],
+    "credit": {
+     "by": "Nicolas Jouault",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/249421558",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/psammechinus-miliaris-2.webp",
+    "size": [
+     1100,
+     733
     ],
     "credit": {
      "by": "Poul Erik Rasmussen",
@@ -10929,28 +11242,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/psammechinus-miliaris-2.webp",
-    "size": [
-     1100,
-     1055
-    ],
-    "credit": {
-     "by": "Ian Boyd",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/665022",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/psammechinus-miliaris-3.webp",
     "size": [
      1100,
-     620
+     734
     ],
     "credit": {
-     "by": "Paul G. Schrijvershof",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/111746133",
+     "by": "Klaus Kevin Kristensen",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/104965188",
      "source": "iNaturalist"
     }
    }
@@ -10959,6 +11259,7 @@ window.OCEAN_ANIMALS = [
   "order": "Camarodonta",
   "family": "Parechinidae",
   "ns": 2351,
+  "wikiEn": "https://en.wikipedia.org/wiki/Psammechinus_miliaris",
   "curated": true
  },
  {
@@ -10968,20 +11269,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Stekelhuidigen",
   "intro": "De paarse zee-egel is een zee-egel uit de familie Strongylocentrotidae, die voorkomt langs de westkust van Noord-Amerika.",
   "facts": [
-   "Zijn DNA lijkt verrassend veel op dat van de mens.",
-   "Hij kan licht zien met lichtgevoelige cellen, geholpen door zijn stekels.",
-   "Bij Californië groeide de populatie zo hard dat ze hele zeewierbossen kaalvraten."
+   "Hij deelt zo'n 7700 genen met de mens.",
+   "Veel van zijn genen dienen om de omgeving waar te nemen, verrassend voor een dier zonder kop.",
+   "Waar ze alles kaalvreten, blijft een kale 'zee-egelwoestijn' achter zonder zeewierbos."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Paarse_zee-egel",
   "img": "images/strongylocentrotus-purpuratus.webp",
   "imgSize": [
    1400,
-   1185
+   1050
   ],
   "credit": {
-   "by": "Jerry Kirkhart",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/60815629",
+   "by": "Robby Deans",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/40831338",
    "source": "iNaturalist"
   },
   "obs": 478379,
@@ -10991,12 +11292,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/strongylocentrotus-purpuratus.webp",
     "size": [
      1400,
-     1185
+     1050
     ],
     "credit": {
-     "by": "Jerry Kirkhart",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/60815629",
+     "by": "Robby Deans",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/40831338",
      "source": "iNaturalist"
     }
    },
@@ -11004,12 +11305,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/strongylocentrotus-purpuratus-2.webp",
     "size": [
      1100,
-     755
+     931
     ],
     "credit": {
-     "by": "Geneviève Reynolds",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/47373091",
+     "by": "Jerry Kirkhart",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/60815629",
      "source": "iNaturalist"
     }
    },
@@ -11020,9 +11321,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Robby Deans",
+     "by": "Alexis",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/40831338",
+     "url": "https://www.inaturalist.org/photos/318469861",
      "source": "iNaturalist"
     }
    }
@@ -11031,6 +11332,7 @@ window.OCEAN_ANIMALS = [
   "order": "Camarodonta",
   "family": "Strongylocentrotidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Strongylocentrotus_purpuratus",
   "curated": true
  },
  {
@@ -11040,9 +11342,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Stekelhuidigen",
   "intro": "De zeeklit, hartegel of hartvormige zeeklit, Echinocardium cordatum, is een zee-egel die ingegraven in het zand leeft.",
   "facts": [
-   "Hij leeft tot 20 centimeter diep ingegraven in het zand.",
-   "Via een buis naar het bodemoppervlak krijgt hij vers, zuurstofrijk water.",
-   "Zijn dunne skelet zit vol microscopische gaatjes, waardoor het licht maar toch sterk is."
+   "In het Engels heet hij 'zee-aardappel'.",
+   "Tussen zijn stekels houdt hij lucht vast, zodat hij ingegraven niet stikt.",
+   "Hij kan tien jaar of ouder worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zeeklit",
   "img": "images/echinocardium-cordatum.webp",
@@ -11051,9 +11353,9 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "Javier",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/112769837",
+   "by": "rowley12",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/632682469",
    "source": "iNaturalist"
   },
   "obs": 83356,
@@ -11066,9 +11368,9 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "Javier",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/112769837",
+     "by": "rowley12",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/632682469",
      "source": "iNaturalist"
     }
    },
@@ -11076,12 +11378,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/echinocardium-cordatum-2.webp",
     "size": [
      1100,
-     967
+     825
     ],
     "credit": {
-     "by": "John Sear",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/67236678",
+     "by": "Donald Davesne",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/456289942",
      "source": "iNaturalist"
     }
    },
@@ -11092,9 +11394,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Carol Page",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/62348463",
+     "by": "Javier",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/112769837",
      "source": "iNaturalist"
     }
    }
@@ -11103,6 +11405,7 @@ window.OCEAN_ANIMALS = [
   "order": "Spatangoida",
   "family": "Loveniidae",
   "ns": 7093,
+  "wikiEn": "https://en.wikipedia.org/wiki/Echinocardium_cordatum",
   "curated": true
  },
  {
@@ -11112,9 +11415,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Stekelhuidigen",
   "intro": "De Zonnebloemster is een zeester die voorkomt aan de westkust van Noord-Amerika.",
   "facts": [
-   "Volwassen dieren hebben 16 tot 24 armen.",
-   "Hij is snel voor een zeester: tot een meter per minuut.",
-   "Hij kan tot een meter breed worden."
+   "Hij is de zwaarste zeester die we kennen: zo'n 5 kilo.",
+   "Hij rent op 15.000 zuigvoetjes, tot een meter per minuut.",
+   "Wordt hij aangevallen, dan laat hij een arm los; die groeit binnen een paar weken terug."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zonnebloemster",
   "img": "images/pycnopodia-helianthoides.webp",
@@ -11148,12 +11451,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pycnopodia-helianthoides-2.webp",
     "size": [
      1100,
-     825
+     734
     ],
     "credit": {
-     "by": "jasmin_schuster",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/322301980",
+     "by": "Jen Strongin",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/404563812",
      "source": "iNaturalist"
     }
    },
@@ -11164,9 +11467,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Paul Norwood",
+     "by": "Nicholas Pollock",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/1922470",
+     "url": "https://www.inaturalist.org/photos/1572558",
      "source": "iNaturalist"
     }
    }
@@ -11175,6 +11478,7 @@ window.OCEAN_ANIMALS = [
   "order": "Forcipulatida",
   "family": "Asteriidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sunflower_sea_star",
   "curated": true
  },
  {
@@ -11184,9 +11488,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De ansjovis is een straalvinnige vis uit de familie van de ansjovissen.",
   "facts": [
-   "Hij zwemt in grote scholen langs de kust.",
-   "Hij komt ook voor in de Noordzee langs de Nederlandse kust en in Zeeland.",
-   "In Bergen op Zoom wordt al sinds minstens 1673 op ansjovis gevist met de traditionele weervisserij."
+   "Zijn bek is zo diep gespleten dat de mondhoek achter zijn oog ligt.",
+   "Hij kan leven in bijna zoet tot extra zout water.",
+   "In Bergen op Zoom wordt al sinds minstens 1673 op ansjovis gevist."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Ansjovis",
   "img": "images/engraulis-encrasicolus.webp",
@@ -11223,9 +11527,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Duarte Frade",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/1999480",
+     "by": "Dennis Rabeling",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/297192194",
      "source": "iNaturalist"
     }
    },
@@ -11233,12 +11537,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/engraulis-encrasicolus-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Duarte Frade",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/3474684",
+     "by": "Dennis Rabeling",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/203553589",
      "source": "iNaturalist"
     }
    }
@@ -11247,6 +11551,7 @@ window.OCEAN_ANIMALS = [
   "order": "Clupeiformes",
   "family": "Engraulidae",
   "ns": 519,
+  "wikiEn": "https://en.wikipedia.org/wiki/European_anchovy",
   "curated": true
  },
  {
@@ -11256,20 +11561,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De Atlantische of Europese zalm is een anadrome vis die als volwassen dier hoofdzakelijk in noordelijke zeeën en de Noord-Atlantische Oceaan leeft.",
   "facts": [
-   "Om te paaien zwemt hij de rivier op tot snelstromende bovenlopen.",
-   "Het vrouwtje graaft daar kuilen van zo'n 3 meter lang voor haar eieren.",
-   "Zijn eieren zijn groot voor een vis en komen pas na 70 tot 200 dagen uit."
+   "Anders dan Pacifische zalmen overleeft hij het paaien en kan hij het nog eens doen.",
+   "Waarschijnlijk vindt hij zijn geboorterivier op geur terug; maar 5% zwemt de verkeerde rivier op.",
+   "Het vrouwtje graaft in de rivier kuilen van zo'n 3 meter lang voor haar eieren."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Atlantische_zalm",
   "img": "images/salmo-salar.webp",
   "imgSize": [
    1400,
-   933
+   1050
   ],
   "credit": {
-   "by": "nicolás",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/165423232",
+   "by": "v_moss",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/555838239",
    "source": "iNaturalist"
   },
   "obs": 1435356,
@@ -11279,12 +11584,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/salmo-salar.webp",
     "size": [
      1400,
-     933
+     1050
     ],
     "credit": {
-     "by": "nicolás",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/165423232",
+     "by": "v_moss",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/555838239",
      "source": "iNaturalist"
     }
    },
@@ -11292,12 +11597,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/salmo-salar-2.webp",
     "size": [
      1100,
-     736
+     825
     ],
     "credit": {
-     "by": "Michael Yannick",
+     "by": "Tom Clenche",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/1024577",
+     "url": "https://www.inaturalist.org/photos/126517872",
      "source": "iNaturalist"
     }
    },
@@ -11310,7 +11615,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Tse Chung Yi",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/164531871",
+     "url": "https://www.inaturalist.org/photos/164023670",
      "source": "iNaturalist"
     }
    }
@@ -11319,6 +11624,7 @@ window.OCEAN_ANIMALS = [
   "order": "Salmoniformes",
   "family": "Salmonidae",
   "ns": 323,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_salmon",
   "curated": true
  },
  {
@@ -11329,8 +11635,8 @@ window.OCEAN_ANIMALS = [
   "intro": "De ballonegelvis of bruine egelvis is een straalvinnige vissensoort uit de familie van de egelvissen.",
   "facts": [
    "Bij gevaar slikt hij snel water in en zwelt hij op tot een stekelige bol.",
-   "Met zijn krachtige kaken en vergroeide tanden kraakt hij schelpdieren.",
-   "Hij wordt zo'n 30 centimeter lang."
+   "Zijn tanden zijn vergroeid tot een snavel, net als bij een papegaai.",
+   "Hoe ouder hij wordt, hoe minder zwarte stippen hij heeft."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Ballonegelvis",
   "img": "images/diodon-holocanthus.webp",
@@ -11364,12 +11670,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/diodon-holocanthus-2.webp",
     "size": [
      1100,
-     826
+     772
     ],
     "credit": {
-     "by": "Dan Schofield",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/253493654",
+     "by": "Marine Explorer (Dr John Turnbull)",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/6493337",
      "source": "iNaturalist"
     }
    },
@@ -11380,9 +11686,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Jane Kempler &amp; Andrew Goldby Freelance",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/477552059",
+     "by": "Alexandra Hoschke",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/77395506",
      "source": "iNaturalist"
     }
    }
@@ -11391,6 +11697,7 @@ window.OCEAN_ANIMALS = [
   "order": "Tetraodontiformes",
   "family": "Diodontidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Long-spine_porcupinefish",
   "curated": true
  },
  {
@@ -11401,20 +11708,20 @@ window.OCEAN_ANIMALS = [
   "intro": "De Berberse slijkspringer is een straalvinnige vissensoort uit de familie van de grondels.",
   "facts": [
    "Hij springt over modderbanken door zich af te zetten met zijn staart.",
-   "Met zijn buikvinnen kruipt hij over het slik.",
-   "Hij heeft een grote kop met uitpuilende ogen."
+   "Zijn ogen kunnen los van elkaar alle kanten op draaien en steken boven water uit als hij zwemt.",
+   "Onder zijn ogen zitten bakjes water om ze op het land vochtig te houden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Berberse_slijkspringer",
   "img": "images/periophthalmus-barbarus.webp",
   "imgSize": [
-   1400,
-   999
+   1024,
+   683
   ],
   "credit": {
-   "by": "Bjørn Christian Tørrissen",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:GambianMudskippers.jpg",
-   "source": "Wikimedia Commons"
+   "by": "Gregg Darling",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/465312815",
+   "source": "iNaturalist"
   },
   "obs": 1185,
   "map": "maps/periophthalmus-barbarus.webp",
@@ -11422,26 +11729,26 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/periophthalmus-barbarus.webp",
     "size": [
-     1400,
-     999
+     1024,
+     683
     ],
     "credit": {
-     "by": "Bjørn Christian Tørrissen",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:GambianMudskippers.jpg",
-     "source": "Wikimedia Commons"
+     "by": "Gregg Darling",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/465312815",
+     "source": "iNaturalist"
     }
    },
    {
     "img": "images/periophthalmus-barbarus-2.webp",
     "size": [
      1100,
-     733
+     786
     ],
     "credit": {
-     "by": "Julien Renoult",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/339686414",
+     "by": "Adedotun Ajibade",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/466030506",
      "source": "iNaturalist"
     }
    },
@@ -11449,12 +11756,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/periophthalmus-barbarus-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Thomas Ebner",
+     "by": "Tom Heijnen",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/65620325",
+     "url": "https://www.inaturalist.org/photos/455532205",
      "source": "iNaturalist"
     }
    }
@@ -11463,6 +11770,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Gobiidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_mudskipper",
   "curated": true
  },
  {
@@ -11472,9 +11780,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De blauwe mandarijnpitvis is een pitvis die behoort tot het geslacht Synchiropus.",
   "facts": [
-   "Zijn huid is bedekt met vies smakend slijm; zijn felle kleuren waarschuwen roofvissen.",
-   "Hij wordt maar zo'n 8 centimeter lang.",
-   "Hij is een populaire, maar heel moeilijk te houden aquariumvis."
+   "Hij is een van maar twee gewervelde dieren met echte blauwe kleurstof; bij alle andere is blauw een lichteffect.",
+   "In plaats van schubben heeft hij een laag vies smakend slijm; zijn felle kleuren waarschuwen roofvissen.",
+   "Hij wordt maar zo'n 6 tot 8 centimeter lang."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Blauwe_mandarijnpitvis",
   "img": "images/synchiropus-splendidus.webp",
@@ -11507,13 +11815,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/synchiropus-splendidus-2.webp",
     "size": [
-     1100,
-     733
+     1024,
+     683
     ],
     "credit": {
-     "by": "Dan Vaughan",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/66425739",
+     "by": "David R",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/31997673",
      "source": "iNaturalist"
     }
    },
@@ -11521,12 +11829,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/synchiropus-splendidus-3.webp",
     "size": [
      1100,
-     845
+     733
     ],
     "credit": {
-     "by": "Kelly Maxwell",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/67851533",
+     "by": "Klaus Stiefel",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/72211676",
      "source": "iNaturalist"
     }
    }
@@ -11535,6 +11843,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Callionymidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Synchiropus_splendidus",
   "curated": true
  },
  {
@@ -11544,20 +11853,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De blauwe marlijn is een straalvinnige vis uit de familie van zeilvissen, orde van baarsachtigen.",
   "facts": [
-   "Hij kan 4,3 meter lang en meer dan 900 kilo zwaar worden.",
-   "Met zo'n 90 kilometer per uur geldt hij als het snelste dier in het water.",
-   "Alleen orka's jagen weleens op hem."
+   "Met zijn snavel verdooft hij prooivissen en komt hij terug om ze op te eten.",
+   "Vrouwtjes kunnen vier keer zo zwaar worden als mannetjes.",
+   "Hij kan razendsnel van kleur veranderen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Blauwe_marlijn",
   "img": "images/makaira-nigricans.webp",
   "imgSize": [
    1400,
-   1020
+   934
   ],
   "credit": {
-   "by": "NOAA",
-   "license": "PD",
-   "url": "https://www.inaturalist.org/photos/92461852",
+   "by": "MARC MARTIN SOLA",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/593123052",
    "source": "iNaturalist"
   },
   "obs": 1840,
@@ -11567,38 +11876,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/makaira-nigricans.webp",
     "size": [
      1400,
-     1020
+     934
     ],
     "credit": {
-     "by": "NOAA",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/92461852",
+     "by": "MARC MARTIN SOLA",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/593123052",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/makaira-nigricans-2.webp",
     "size": [
-     848,
-     480
-    ],
-    "credit": {
-     "by": "Michel Frisch",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/107933864",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/makaira-nigricans-3.webp",
-    "size": [
      1100,
-     783
+     801
     ],
     "credit": {
-     "by": "Rafael de la Parra",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/55990088",
+     "by": "NOAA",
+     "license": "PD",
+     "url": "https://www.inaturalist.org/photos/92461852",
      "source": "iNaturalist"
     }
    }
@@ -11607,6 +11903,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Istiophoridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_blue_marlin",
   "curated": true
  },
  {
@@ -11616,8 +11913,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "Het blauwgroen juffertje is een straalvinnige vissensoort uit de familie van rifbaarzen en koraaljuffertjes.",
   "facts": [
-   "Hij leeft in scholen bij koraalriffen.",
-   "Hij wordt ongeveer 9 centimeter lang en eet plankton.",
+   "In de paartijd kleurt het mannetje geliger.",
+   "Het mannetje eet niet-uitgekomen eitjes op, zodat er geen ziektekiemen in de rest van het legsel komen.",
    "Het is een van de meest geïmporteerde aquariumvissen ter wereld."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Blauwgroen_juffertje",
@@ -11652,12 +11949,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/chromis-viridis-2.webp",
     "size": [
      1100,
-     932
+     825
     ],
     "credit": {
-     "by": "momaz",
+     "by": "mbp349",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/475506639",
+     "url": "https://www.inaturalist.org/photos/312485018",
      "source": "iNaturalist"
     }
    },
@@ -11665,12 +11962,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/chromis-viridis-3.webp",
     "size": [
      1100,
-     782
+     825
     ],
     "credit": {
-     "by": "Evan Hessels",
+     "by": "Marceau Coppée",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/592636325",
+     "url": "https://www.inaturalist.org/photos/476689894",
      "source": "iNaturalist"
     }
    }
@@ -11679,6 +11976,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Pomacentridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Chromis_viridis",
   "curated": true
  },
  {
@@ -11688,20 +11986,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De blauwvintonijn is een straalvinnige vis uit de orde van de baarsachtigen en de familie makrelen.",
   "facts": [
+   "In 1934 vochten zes mannen in Canada om beurten 62 uur lang met één tonijn.",
    "De zwaarste ooit gevangen woog 684 kilo.",
-   "Hij haalt topsnelheden van zo'n 72 kilometer per uur.",
-   "Hij kan meer dan 35 jaar oud worden."
+   "Hij heeft een van de hoogste hoeveelheden hemoglobine in zijn bloed van alle vissen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Blauwvintonijn",
   "img": "images/thunnus-thynnus.webp",
   "imgSize": [
-   1280,
-   960
+   1400,
+   1046
   ],
   "credit": {
-   "by": "José Antonio Gil Martínez",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/88446847",
+   "by": "Sylvain Le Bris",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/161933338",
    "source": "iNaturalist"
   },
   "obs": 14621,
@@ -11710,26 +12008,26 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/thunnus-thynnus.webp",
     "size": [
-     1280,
-     960
+     1400,
+     1046
     ],
     "credit": {
-     "by": "José Antonio Gil Martínez",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/88446847",
+     "by": "Sylvain Le Bris",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/161933338",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/thunnus-thynnus-2.webp",
     "size": [
-     1100,
-     553
+     1080,
+     864
     ],
     "credit": {
-     "by": "purcellt",
+     "by": "Tobias S. Radmer",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/102691134",
+     "url": "https://www.inaturalist.org/photos/580512539",
      "source": "iNaturalist"
     }
    },
@@ -11737,12 +12035,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/thunnus-thynnus-3.webp",
     "size": [
      1100,
-     781
+     733
     ],
     "credit": {
-     "by": "Laurel Amirault",
+     "by": "Cristiano Liuzzi",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/98028472",
+     "url": "https://www.inaturalist.org/photos/596083846",
      "source": "iNaturalist"
     }
    }
@@ -11751,6 +12049,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Scombridae",
   "ns": 29,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_bluefin_tuna",
   "curated": true
  },
  {
@@ -11767,13 +12066,13 @@ window.OCEAN_ANIMALS = [
   "wiki": "https://nl.wikipedia.org/wiki/Blobvis",
   "img": "images/psychrolutes-marcidus.webp",
   "imgSize": [
-   1400,
-   956
+   1000,
+   712
   ],
   "credit": {
-   "by": "Ken Graham",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/165573611",
+   "by": "Rachel Caauwe",
+   "license": "CC-BY-SA",
+   "url": "https://www.inaturalist.org/photos/17750801",
    "source": "iNaturalist"
   },
   "obs": 208,
@@ -11781,19 +12080,6 @@ window.OCEAN_ANIMALS = [
   "photos": [
    {
     "img": "images/psychrolutes-marcidus.webp",
-    "size": [
-     1400,
-     956
-    ],
-    "credit": {
-     "by": "Ken Graham",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/165573611",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/psychrolutes-marcidus-2.webp",
     "size": [
      1000,
      712
@@ -11806,15 +12092,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/psychrolutes-marcidus-3.webp",
+    "img": "images/psychrolutes-marcidus-2.webp",
     "size": [
-     1000,
-     395
+     1100,
+     751
     ],
     "credit": {
-     "by": "Alan Riverstone McCulloch (1885-1925)",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/785340",
+     "by": "Ken Graham",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/165573611",
      "source": "iNaturalist"
     }
    }
@@ -11832,9 +12118,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De bonito is een straalvinnige vis uit de familie van makrelen, orde van baarsachtigen.",
   "facts": [
-   "Zijn staalblauwe rug heeft donkere strepen.",
-   "Hij wordt gemiddeld zo'n 50 centimeter lang.",
-   "Hij leeft onder andere in de Middellandse Zee en de Zwarte Zee."
+   "Bij New York heet hij 'skipjack', omdat hij graag uit het water springt.",
+   "Zijn staalblauwe rug heeft schuine donkere strepen.",
+   "Hij reist in vrij grote scholen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Bonito_%28straalvinnige%29",
   "img": "images/sarda-sarda.webp",
@@ -11869,6 +12155,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Scombridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_bonito",
   "curated": true
  },
  {
@@ -11878,9 +12165,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De bot is een platvis die in de wateren van de Lage Landen inheems is.",
   "facts": [
-   "Hij lijkt op een schol, maar heeft een rij knobbeltjes langs zijn zijlijn.",
-   "Hij komt in zout, brak en zoet water voor en is in de Rijn tot in Bazel gevangen.",
-   "Hij eet vooral garnalen."
+   "Tijdens zijn groei schuift een oog naar de andere kant van zijn kop; bij zo'n 30% belandt het aan de linkerkant.",
+   "Hij kan van kleur veranderen om op de bodem te lijken.",
+   "Hij zwemt rivieren op en is in de Rijn zelfs tot in Bazel gevangen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Bot_%28dier%29",
   "img": "images/platichthys-flesus.webp",
@@ -11914,12 +12201,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/platichthys-flesus-2.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Pierre Corbrion",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/234882009",
+     "by": "Eric van den Berghe",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/167546425",
      "source": "iNaturalist"
     }
    },
@@ -11930,9 +12217,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Rita Jansen",
+     "by": "Pierre Corbrion",
      "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/162858322",
+     "url": "https://www.inaturalist.org/photos/234882009",
      "source": "iNaturalist"
     }
    }
@@ -11941,6 +12228,7 @@ window.OCEAN_ANIMALS = [
   "order": "Pleuronectiformes",
   "family": "Pleuronectidae",
   "ns": 2978,
+  "wikiEn": "https://en.wikipedia.org/wiki/European_flounder",
   "curated": true
  },
  {
@@ -11951,8 +12239,8 @@ window.OCEAN_ANIMALS = [
   "intro": "De botervis is een straalvinnige zeevis uit de orde van de baarsachtigen.",
   "facts": [
    "Hij dankt zijn naam aan zijn heel glibberige huid.",
-   "Langs zijn rugvin zitten negen tot dertien oogvlekken.",
-   "Hij leeft tussen zeewier en in rotspoeltjes."
+   "Bij eb blijft hij soms droog liggen onder stenen en wier, en kan dan lucht ademen.",
+   "Langs zijn rugvin zitten negen tot dertien oogvlekken."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Botervis",
   "img": "images/pholis-gunnellus.webp",
@@ -11986,12 +12274,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pholis-gunnellus-2.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Stefan",
+     "by": "Alex Shure",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/11399826",
+     "url": "https://www.inaturalist.org/photos/352575813",
      "source": "iNaturalist"
     }
    },
@@ -11999,12 +12287,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pholis-gunnellus-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Patrick Randall",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/3957421",
+     "by": "Calum McLennan",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/263661268",
      "source": "iNaturalist"
     }
    }
@@ -12013,6 +12301,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Pholidae",
   "ns": 1023,
+  "wikiEn": "https://en.wikipedia.org/wiki/Rock_gunnel",
   "curated": true
  },
  {
@@ -12022,21 +12311,21 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De bruine anemoonvis is een tropische zoutwatervis die voorkomt bij koraalriffen en in lagunes van de Indo-Australische Archipel.",
   "facts": [
-   "Alle anemoonvissen worden als mannetje geboren.",
-   "De vrouwtjes zijn veel groter dan de mannetjes.",
-   "Hij leeft samen met één bepaalde soort zeeanemoon."
+   "Alle anemoonvissen worden als mannetje geboren; sterft het vrouwtje, dan wordt het mannetje vrouwtje.",
+   "Bij gevaar kunnen de grijze strepen van het vrouwtje snel wit worden.",
+   "Het vrouwtje is een van de grootste anemoonvissen; de mannetjes zijn veel kleiner."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Bruine_anemoonvis",
   "img": "images/premnas-biaculeatus.webp",
   "imgSize": [
-   1400,
-   1120
+   1279,
+   960
   ],
   "credit": {
-   "by": "Nick Hobgood",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Spinecheek.jpg",
-   "source": "Wikimedia Commons"
+   "by": "Tsu Soo Tan",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/69927140",
+   "source": "iNaturalist"
   },
   "obs": 2048,
   "map": "maps/premnas-biaculeatus.webp",
@@ -12044,8 +12333,21 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/premnas-biaculeatus.webp",
     "size": [
-     1400,
-     1120
+     1279,
+     960
+    ],
+    "credit": {
+     "by": "Tsu Soo Tan",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/69927140",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/premnas-biaculeatus-2.webp",
+    "size": [
+     1100,
+     880
     ],
     "credit": {
      "by": "Nick Hobgood",
@@ -12055,28 +12357,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/premnas-biaculeatus-2.webp",
-    "size": [
-     1100,
-     721
-    ],
-    "credit": {
-     "by": "greyloch",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/77557469",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/premnas-biaculeatus-3.webp",
     "size": [
      1100,
-     723
+     825
     ],
     "credit": {
-     "by": "Barry Peters`",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/104915428",
+     "by": "Sarah Whyte",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/412795651",
      "source": "iNaturalist"
     }
    }
@@ -12085,6 +12374,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Pomacentridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Maroon_clownfish",
   "curated": true
  },
  {
@@ -12094,9 +12384,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De bruine tandbaars, uit het geslacht Epinephelus, komt vooral voor langs de rotsachtige kusten van de Middellandse Zee.",
   "facts": [
-   "Hij leeft vooral langs de rotskusten van de Middellandse Zee.",
+   "Alle exemplaren beginnen als vrouwtje; als ze groot en oud worden, veranderen ze in mannetjes.",
    "Omdat hij niet schuw is, was hij makkelijk te vangen.",
-   "Hij dreigde daardoor uit te sterven."
+   "Hij leeft vooral langs de rotskusten van de Middellandse Zee."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Bruine_tandbaars",
   "img": "images/epinephelus-marginatus.webp",
@@ -12129,13 +12419,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/epinephelus-marginatus-2.webp",
     "size": [
-     1024,
-     768
+     1100,
+     825
     ],
     "credit": {
-     "by": "Philippe Guillaume",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/429735",
+     "by": "Dennis Rabeling",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/413777738",
      "source": "iNaturalist"
     }
    },
@@ -12143,12 +12433,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/epinephelus-marginatus-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Susanne Spindler",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/166418597",
+     "by": "Jean-Paul Cassez",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/214657681",
      "source": "iNaturalist"
     }
    }
@@ -12157,6 +12447,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Serranidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Epinephelus_marginatus",
   "curated": true
  },
  {
@@ -12166,21 +12457,21 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De bultkoppapegaaivis is de grootste en behoedzaamste soort van de familie papegaaivissen.",
   "facts": [
-   "Hij is de grootste papegaaivis.",
-   "Soms gebruikt hij zijn bultige kop als stormram tegen het koraal.",
-   "Hij is erg voorzichtig en moeilijk te benaderen voor duikers."
+   "Mannetjes vechten door met hun kop tegen elkaar te rammen, met een harde klap.",
+   "'s Nachts slapen ze in groepen tussen koraal, in grotten en scheepswrakken.",
+   "Hij is de grootste papegaaivis."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Bultkoppapegaaivis",
   "img": "images/bolbometopon-muricatum.webp",
   "imgSize": [
    1400,
-   1050
+   933
   ],
   "credit": {
-   "by": "Rickard Zerpe",
-   "license": "CC BY 2.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Bumphead_parrotfish_(Bolbometopon_muricatum)_(49509140173).jpg",
-   "source": "Wikimedia Commons"
+   "by": "Jane Kempler &amp; Andrew Goldby Freelance",
+   "license": "CC-BY-NC-ND",
+   "url": "https://www.inaturalist.org/photos/477917086",
+   "source": "iNaturalist"
   },
   "obs": 1549,
   "map": "maps/bolbometopon-muricatum.webp",
@@ -12189,25 +12480,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/bolbometopon-muricatum.webp",
     "size": [
      1400,
-     1050
+     933
     ],
     "credit": {
-     "by": "Rickard Zerpe",
-     "license": "CC BY 2.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Bumphead_parrotfish_(Bolbometopon_muricatum)_(49509140173).jpg",
-     "source": "Wikimedia Commons"
+     "by": "Jane Kempler &amp; Andrew Goldby Freelance",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/477917086",
+     "source": "iNaturalist"
     }
    },
    {
     "img": "images/bolbometopon-muricatum-2.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Rickard Zerpe",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/96717561",
+     "by": "Jane Kempler &amp; Andrew Goldby Freelance",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/477917062",
      "source": "iNaturalist"
     }
    },
@@ -12215,12 +12506,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/bolbometopon-muricatum-3.webp",
     "size": [
      1100,
-     789
+     825
     ],
     "credit": {
-     "by": "desertnaturalist",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/40899956",
+     "by": "Albert Kang",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/85607007",
      "source": "iNaturalist"
     }
    }
@@ -12229,6 +12520,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Scaridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Green_humphead_parrotfish",
   "curated": true
  },
  {
@@ -12238,9 +12530,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De chinookzalm of quinnat, een beenvis is de grootste van de Pacifische zalmen.",
   "facts": [
-   "Hij is de grootste Pacifische zalm en kan 1,5 meter lang worden.",
-   "In de Yukon-rivier zwemmen sommige ruim 3000 kilometer stroomopwaarts.",
-   "Hij mijdt licht: overdag zwemt hij 60 tot 80 meter diep."
+   "In de Yukon-rivier zwemmen sommige ruim 3000 kilometer stroomopwaarts: de langste trek van alle zalmen.",
+   "Zijn botten verraden in wat voor water hij leefde, zoals jaarringen bij een boom.",
+   "Hij is de grootste Pacifische zalm en kan 1,5 meter lang worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Chinookzalm",
   "img": "images/oncorhynchus-tshawytscha.webp",
@@ -12274,25 +12566,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/oncorhynchus-tshawytscha-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Owen Strickland",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/42049410",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/oncorhynchus-tshawytscha-3.webp",
-    "size": [
-     1100,
-     733
-    ],
-    "credit": {
-     "by": "no rights reserved",
-     "license": "CC0",
-     "url": "https://www.inaturalist.org/photos/135072646",
+     "by": "Sarah Reid",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/593849852",
      "source": "iNaturalist"
     }
    }
@@ -12301,6 +12580,7 @@ window.OCEAN_ANIMALS = [
   "order": "Salmoniformes",
   "family": "Salmonidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Chinook_salmon",
   "curated": true
  },
  {
@@ -12310,9 +12590,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "Het dikkopje is een vis uit de familie van de grondels die in Europese kustwateren voorkomt, van de Oostzee tot in de Middellandse Zee.",
   "facts": [
-   "Het is een klein visje van 6 tot 10 centimeter.",
-   "Mannetjes hebben een donkere vlek met witte rand op hun rugvin.",
-   "Zijn DNA is per gebied aangepast aan het licht onder water, bijvoorbeeld troebel of juist blauw."
+   "Het mannetje bouwt een nest onder een schelp, die hij zo nodig omdraait.",
+   "Hij ligt goed gecamoufleerd stil op de bodem tot er een prooi langskomt.",
+   "Zijn DNA is per gebied aangepast aan het licht onder water."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Dikkopje_%28vis%29",
   "img": "images/pomatoschistus-minutus.webp",
@@ -12321,9 +12601,9 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "Julien Renoult",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/29298276",
+   "by": "Frédéric ANDRE",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/315040268",
    "source": "iNaturalist"
   },
   "obs": 49296,
@@ -12336,9 +12616,9 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "Julien Renoult",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/29298276",
+     "by": "Frédéric ANDRE",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/315040268",
      "source": "iNaturalist"
     }
    },
@@ -12359,12 +12639,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pomatoschistus-minutus-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Roberto Pillon",
+     "by": "Francois Libert",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/262817432",
+     "url": "https://www.inaturalist.org/photos/440420572",
      "source": "iNaturalist"
     }
    }
@@ -12373,6 +12653,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Gobiidae",
   "ns": 933,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sand_goby",
   "curated": true
  },
  {
@@ -12382,9 +12663,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De diklipharder is een vis die van oorsprong voorkomt in de wateren van de Benelux.",
   "facts": [
+   "Hij zwemt graag rond bij de uitlaten van elektriciteitscentrales en riolen.",
    "Zijn dikke bovenlip zit vol wratachtige bobbeltjes.",
-   "Hij kan 75 centimeter lang en 5 kilo zwaar worden.",
-   "Hij leeft in scholen langs de kust en in riviermondingen."
+   "'s Zomers trekt hij naar het noorden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Diklipharder",
   "img": "images/chelon-labrosus.webp",
@@ -12418,12 +12699,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/chelon-labrosus-2.webp",
     "size": [
      1100,
-     734
+     624
     ],
     "credit": {
-     "by": "Hubert Lagrange",
+     "by": "Luca Boscain",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/531386178",
+     "url": "https://www.inaturalist.org/photos/158973980",
      "source": "iNaturalist"
     }
    },
@@ -12431,12 +12712,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/chelon-labrosus-3.webp",
     "size": [
      1100,
-     759
+     619
     ],
     "credit": {
-     "by": "A Emmerson",
+     "by": "Raul Rancel Salazar",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/65719073",
+     "url": "https://www.inaturalist.org/photos/288988796",
      "source": "iNaturalist"
     }
    }
@@ -12445,6 +12726,7 @@ window.OCEAN_ANIMALS = [
   "order": "Mugiliformes",
   "family": "Mugilidae",
   "ns": 136,
+  "wikiEn": "https://en.wikipedia.org/wiki/Thicklip_grey_mullet",
   "curated": true
  },
  {
@@ -12454,20 +12736,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De donkere reuzentandbaars of ook wel reuzenbaars of reuzenzeebaars is de grootste beenvis van de koraalriffen.",
   "facts": [
-   "Hij is de grootste beenvis van de koraalriffen.",
-   "Hij heeft een enorme bek en eet zelfs kleine haaien en jonge zeeschildpadden.",
+   "Hij is de grootste beenvis van de koraalriffen en eet zelfs kleine haaien en jonge zeeschildpadden.",
+   "Hij is nieuwsgierig en zwemt vaak vlak naar duikers toe.",
    "Hij is het zeesymbool van de Australische deelstaat Queensland."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Donkere_reuzentandbaars",
   "img": "images/epinephelus-lanceolatus.webp",
   "imgSize": [
-   1400,
-   1050
+   1000,
+   656
   ],
   "credit": {
-   "by": "Ren",
+   "by": "Ian Banks",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/61313004",
+   "url": "https://www.inaturalist.org/photos/10939740",
    "source": "iNaturalist"
   },
   "obs": 793,
@@ -12476,13 +12758,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/epinephelus-lanceolatus.webp",
     "size": [
-     1400,
-     1050
+     1000,
+     656
     ],
     "credit": {
-     "by": "Ren",
+     "by": "Ian Banks",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/61313004",
+     "url": "https://www.inaturalist.org/photos/10939740",
      "source": "iNaturalist"
     }
    },
@@ -12493,22 +12775,22 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "sarah-sydneydives",
+     "by": "Ren",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/222422492",
+     "url": "https://www.inaturalist.org/photos/61313004",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/epinephelus-lanceolatus-3.webp",
     "size": [
-     1100,
-     661
+     1000,
+     733
     ],
     "credit": {
-     "by": "Alan Horstmann",
+     "by": "Ian Banks",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/16004355",
+     "url": "https://www.inaturalist.org/photos/10939491",
      "source": "iNaturalist"
     }
    }
@@ -12517,6 +12799,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Serranidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Giant_grouper",
   "curated": true
  },
  {
@@ -12526,9 +12809,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De driebandanemoonvis is een tropische zoutwatervis die voorkomt bij koraalriffen en boven zandgrond van 1 tot 18 meter diepte.",
   "facts": [
-   "Hij woont in een zeeanemoon en wordt niet geprikt dankzij een beschermende slijmlaag.",
-   "Hij verjaagt vlindervissen die de anemoon willen opeten.",
-   "Elke groep heeft één vrouwtje, dat alleen paart met het grootste mannetje."
+   "Hij wordt niet geprikt door zijn anemoon dankzij een beschermende slijmlaag.",
+   "Mogelijk lokt hij prooien naar de tentakels van zijn anemoon.",
+   "Hij wordt als mannetje geboren en kan later vrouwtje worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Driebandanemoonvis",
   "img": "images/amphiprion-ocellaris.webp",
@@ -12562,12 +12845,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/amphiprion-ocellaris-2.webp",
     "size": [
      1100,
-     726
+     766
     ],
     "credit": {
-     "by": "Ron Greer",
+     "by": "deblee5",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/50911909",
+     "url": "https://www.inaturalist.org/photos/370606798",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/amphiprion-ocellaris-3.webp",
+    "size": [
+     1100,
+     753
+    ],
+    "credit": {
+     "by": "Ying Wang",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/725640618",
      "source": "iNaturalist"
     }
    }
@@ -12576,6 +12872,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Pomacentridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Ocellaris_clownfish",
   "curated": true
  },
  {
@@ -12585,9 +12882,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De driedoornige stekelbaars is een kleine vis die inheems is in de gematigde zone van het noordelijk halfrond.",
   "facts": [
-   "In de broedtijd bouwt het mannetje een nestje en verdedigt hij zijn territorium.",
-   "Het mannetje waaiert met zijn vinnen zuurstofrijk water naar de eitjes.",
-   "Het vrouwtje kijkt na het leggen niet meer naar de eieren om."
+   "Mannetjes met een fellere rode kleur zijn beter in voedsel zoeken en hebben minder parasieten.",
+   "Samen zwemmen ze naar een roofvis toe om te kijken hoe gevaarlijk die is.",
+   "Het mannetje bouwt een nestje en waaiert zuurstofrijk water naar de eitjes."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Driedoornige_stekelbaars",
   "img": "images/gasterosteus-aculeatus.webp",
@@ -12596,9 +12893,9 @@ window.OCEAN_ANIMALS = [
    933
   ],
   "credit": {
-   "by": "Kasper Malmberg",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/68015773",
+   "by": "kisaland",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/506725995",
    "source": "iNaturalist"
   },
   "obs": 271943,
@@ -12611,9 +12908,9 @@ window.OCEAN_ANIMALS = [
      933
     ],
     "credit": {
-     "by": "Kasper Malmberg",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/68015773",
+     "by": "kisaland",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/506725995",
      "source": "iNaturalist"
     }
    },
@@ -12621,12 +12918,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/gasterosteus-aculeatus-2.webp",
     "size": [
      1100,
-     677
+     733
     ],
     "credit": {
-     "by": "André Giraldi",
+     "by": "kisaland",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/457330067",
+     "url": "https://www.inaturalist.org/photos/506726041",
      "source": "iNaturalist"
     }
    },
@@ -12634,12 +12931,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/gasterosteus-aculeatus-3.webp",
     "size": [
      1100,
-     824
+     825
     ],
     "credit": {
-     "by": "Mitchel Buckner",
+     "by": "Linda Pardy",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/501557757",
+     "url": "https://www.inaturalist.org/photos/21371846",
      "source": "iNaturalist"
     }
    }
@@ -12648,6 +12945,7 @@ window.OCEAN_ANIMALS = [
   "order": "Gasterosteiformes",
   "family": "Gasterosteidae",
   "ns": 1073,
+  "wikiEn": "https://en.wikipedia.org/wiki/Three-spined_stickleback",
   "curated": true
  },
  {
@@ -12659,18 +12957,18 @@ window.OCEAN_ANIMALS = [
   "facts": [
    "Hij zwemt in scholen van wel 50.000 vissen.",
    "Hij zoekt soms gezelschap van haaien, walvissen of drijvend wrakhout.",
-   "Hij kan twaalf jaar oud worden."
+   "In Japan heeft hij verschillende namen voor als hij naar het noorden of naar het zuiden trekt."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Echte_bonito",
   "img": "images/katsuwonus-pelamis.webp",
   "imgSize": [
    1400,
-   758
+   933
   ],
   "credit": {
-   "by": "Clinton Duffy",
+   "by": "cjp5826",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/31259311",
+   "url": "https://www.inaturalist.org/photos/668386712",
    "source": "iNaturalist"
   },
   "obs": 33070,
@@ -12680,12 +12978,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/katsuwonus-pelamis.webp",
     "size": [
      1400,
-     758
+     933
     ],
     "credit": {
-     "by": "Clinton Duffy",
+     "by": "cjp5826",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/31259311",
+     "url": "https://www.inaturalist.org/photos/668386712",
      "source": "iNaturalist"
     }
    },
@@ -12693,25 +12991,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/katsuwonus-pelamis-2.webp",
     "size": [
      1100,
-     521
+     734
     ],
     "credit": {
-     "by": "Thomas",
+     "by": "Scott Plume",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/13127781",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/katsuwonus-pelamis-3.webp",
-    "size": [
-     1100,
-     648
-    ],
-    "credit": {
-     "by": "Kevin Long",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/13975156",
+     "url": "https://www.inaturalist.org/photos/490499302",
      "source": "iNaturalist"
     }
    }
@@ -12720,6 +13005,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Scombridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Skipjack_tuna",
   "curated": true
  },
  {
@@ -12729,7 +13015,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De Europese sardine of sardien is een straalvinnige vis uit de familie van de haringen.",
   "facts": [
-   "De soort komt voor in het noordoostelijke en het oostelijke deel van de Atlantische Oceaan en in de Middellandse Zee."
+   "'s Nachts eet hij kreeftjes die dan naar het wateroppervlak komen.",
+   "Marokko, Portugal en Spanje vangen er het meest van.",
+   "Hij zwemt in scholen, vooral langs de kust."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Europese_sardine",
   "img": "images/sardina-pilchardus.webp",
@@ -12766,9 +13054,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Julien Renoult",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/5471736",
+     "by": "Dennis Rabeling",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/209034060",
      "source": "iNaturalist"
     }
    },
@@ -12776,12 +13064,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sardina-pilchardus-3.webp",
     "size": [
      1100,
-     825
+     826
     ],
     "credit": {
-     "by": "Julien Renoult",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/24182612",
+     "by": "indi84",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/305393199",
      "source": "iNaturalist"
     }
    }
@@ -12789,7 +13077,9 @@ window.OCEAN_ANIMALS = [
   "thumb": "thumbs/sardina-pilchardus.webp",
   "order": "Clupeiformes",
   "family": "Clupeidae",
-  "ns": 187
+  "ns": 187,
+  "wikiEn": "https://en.wikipedia.org/wiki/European_pilchard",
+  "curated": true
  },
  {
   "id": "acipenser-sturio",
@@ -12798,9 +13088,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De Europese steur, is een straalvinnige vis uit de familie van de steuren.",
   "facts": [
-   "Grote vrouwtjes worden 2,5 tot 3,5 meter lang.",
-   "Hij leeft in zee, maar plant zich voort in zoet water.",
-   "Vrouwtjes blijven vruchtbaar tot ze ongeveer veertig jaar oud zijn."
+   "Hij kan 100 jaar oud worden.",
+   "Hij is zo zeldzaam dat hij alleen nog in de Garonne in Frankrijk paait.",
+   "De laatste natuurlijke geboortes waren in 1994, van maar één ouderpaar."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Europese_steur",
   "img": "images/acipenser-sturio.webp",
@@ -12861,6 +13151,7 @@ window.OCEAN_ANIMALS = [
   "order": "Acipenseriformes",
   "family": "Acipenseridae",
   "ns": 34,
+  "wikiEn": "https://en.wikipedia.org/wiki/European_sea_sturgeon",
   "curated": true
  },
  {
@@ -12870,20 +13161,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De Europese zeebaars of zeebaars is een straalvinnige vis uit de familie van Moronidae en behoort tot de orde van baarsachtigen.",
   "facts": [
-   "Hij kan ruim een meter lang en 12 kilo zwaar worden.",
-   "Hij leeft zowel in zoet als in zout water.",
-   "In de zuidelijke Noordzee wordt hij 's zomers bij wrakken met de lijn gevangen."
+   "Grote exemplaren jagen vooral 's nachts.",
+   "Hij is de belangrijkste kweekvis van de Middellandse Zee; in Italië heet hij branzino.",
+   "Hij leeft zowel in zoet als in zout water."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Europese_zeebaars",
   "img": "images/dicentrarchus-labrax.webp",
   "imgSize": [
    1400,
-   933
+   1050
   ],
   "credit": {
-   "by": "Julien Renoult",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/177025102",
+   "by": "Dan Brown - Wild Discovery tours",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/580923497",
    "source": "iNaturalist"
   },
   "obs": 54558,
@@ -12893,12 +13184,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dicentrarchus-labrax.webp",
     "size": [
      1400,
-     933
+     1050
     ],
     "credit": {
-     "by": "Julien Renoult",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/177025102",
+     "by": "Dan Brown - Wild Discovery tours",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/580923497",
      "source": "iNaturalist"
     }
    },
@@ -12906,12 +13197,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dicentrarchus-labrax-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Emanuele Santarelli",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/90904863",
+     "by": "Donald Davesne",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/458297467",
      "source": "iNaturalist"
     }
    },
@@ -12919,12 +13210,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dicentrarchus-labrax-3.webp",
     "size": [
      1100,
-     733
+     734
     ],
     "credit": {
-     "by": "Julien Renoult",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/23145056",
+     "by": "Alison Mayor",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/567465162",
      "source": "iNaturalist"
     }
    }
@@ -12933,6 +13224,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Moronidae",
   "ns": 878,
+  "wikiEn": "https://en.wikipedia.org/wiki/European_seabass",
   "curated": true
  },
  {
@@ -12942,9 +13234,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De Franse keizersvis is een grote keizersvis uit de familie engel- of keizersvissen, die voorkomt in het westelijk deel van de Atlantische Oceaan, van Florida tot de Bahama's en Brazilië, de Golf van Mexico en Caribische Zee, inclusief de Antillen.",
   "facts": [
-   "Hij is zwart met goudomrande schubben.",
-   "Jonge vissen zijn zwart met gele strepen en poetsen andere vissen schoon.",
-   "Na een poetsbeurt tikt hij zijn klant aan met zijn borstvinnen."
+   "Jonge vissen poetsen andere vissen schoon, zelfs murenen.",
+   "Na een poetsbeurt tikt hij zijn klant aan met zijn borstvinnen.",
+   "Hij kan minstens 27 jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Franse_keizersvis",
   "img": "images/pomacanthus-paru.webp",
@@ -12978,12 +13270,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pomacanthus-paru-2.webp",
     "size": [
      1100,
-     733
+     824
     ],
     "credit": {
-     "by": "Brian Gratwicke",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/121221",
+     "by": "Brian Hofstetter",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/608289162",
      "source": "iNaturalist"
     }
    },
@@ -12991,12 +13283,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pomacanthus-paru-3.webp",
     "size": [
      1100,
-     732
+     825
     ],
     "credit": {
-     "by": "Paul Asman and Jill Lenoble",
+     "by": "Paul Prior",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/121219",
+     "url": "https://www.inaturalist.org/photos/61807393",
      "source": "iNaturalist"
     }
    }
@@ -13005,6 +13297,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Pomacanthidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/French_angelfish",
   "curated": true
  },
  {
@@ -13014,9 +13307,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De geelkopkaakvis is een straalvinnige vissensoort uit de familie van kaakvissen.",
   "facts": [
-   "Hij heeft een felgele kop en een doorschijnend lijf.",
    "Het mannetje broedt de eieren uit in zijn bek.",
-   "Als hij honger heeft, spuugt hij de eitjes even terug in zijn hol."
+   "Met zijn bek sjouwt hij zand, schelpjes en steentjes om zijn hol in te richten.",
+   "Komt er een andere vis te dichtbij, dan spert hij zijn bek wijd open."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Geelkopkaakvis",
   "img": "images/opistognathus-aurifrons.webp",
@@ -13055,20 +13348,20 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "terence zahner",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/30510260",
+     "url": "https://www.inaturalist.org/photos/150723039",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/opistognathus-aurifrons-3.webp",
     "size": [
-     999,
-     666
+     1100,
+     825
     ],
     "credit": {
-     "by": "terence zahner",
+     "by": "genevieve_21",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/31359643",
+     "url": "https://www.inaturalist.org/photos/239080672",
      "source": "iNaturalist"
     }
    }
@@ -13077,6 +13370,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Opistognathidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Yellowhead_jawfish",
   "curated": true
  },
  {
@@ -13086,20 +13380,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De geelvintonijn is een straalvinnige vis uit de familie van makrelen en behoort derhalve tot de orde van baarsachtigen.",
   "facts": [
-   "Je herkent hem aan zijn twee gele vinnen.",
-   "Hij steekt soms de hele Atlantische Oceaan over.",
-   "Hij is de op één na meest ingeblikte tonijnsoort."
+   "Grote exemplaren met lange sikkelvinnen werden eerst voor een aparte soort aangezien.",
+   "Een recordvangst uit 2012 leverde de visser een prijs van 1 miljoen dollar op.",
+   "Hij steekt soms de hele Atlantische Oceaan over."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Geelvintonijn",
   "img": "images/thunnus-albacares.webp",
   "imgSize": [
    1400,
-   748
+   983
   ],
   "credit": {
-   "by": "Almcglashan",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/207078977",
+   "by": "craigjhowe",
+   "license": "CC-BY-NC-ND",
+   "url": "https://www.inaturalist.org/photos/59012812",
    "source": "iNaturalist"
   },
   "obs": 176315,
@@ -13109,7 +13403,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/thunnus-albacares.webp",
     "size": [
      1400,
-     748
+     983
+    ],
+    "credit": {
+     "by": "craigjhowe",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/59012812",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/thunnus-albacares-2.webp",
+    "size": [
+     1100,
+     588
     ],
     "credit": {
      "by": "Almcglashan",
@@ -13119,28 +13426,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/thunnus-albacares-2.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "nmoorhatch",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/61729759",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/thunnus-albacares-3.webp",
     "size": [
-     1100,
-     733
+     1041,
+     689
     ],
     "credit": {
-     "by": "Clinton Duffy",
+     "by": "martinmoscovich",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/9723326",
+     "url": "https://www.inaturalist.org/photos/83053275",
      "source": "iNaturalist"
     }
    }
@@ -13149,6 +13443,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Scombridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Yellowfin_tuna",
   "curated": true
  },
  {
@@ -13158,9 +13453,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De geep, in de volksmond ook wel groengraat genoemd, is een straalvinnige vis uit de familie Belonidae.",
   "facts": [
-   "Zijn graten zijn blauwgroen.",
-   "Hij heeft opvallend lange, snavelachtige kaken.",
-   "In het voorjaar trekt hij de Noordzee in om in ondiep water te paaien."
+   "Zijn graten zijn groen; dat is onschadelijk, maar schrikt veel mensen af.",
+   "Aan de haak springt hij uit het water.",
+   "Hij komt elk voorjaar net vóór de makreel aan om te paaien."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Geep",
   "img": "images/belone-belone.webp",
@@ -13197,9 +13492,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Katerina Kalogerini",
+     "by": "Sarah Faulwetter",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/153323499",
+     "url": "https://www.inaturalist.org/photos/222165464",
      "source": "iNaturalist"
     }
    },
@@ -13207,12 +13502,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/belone-belone-3.webp",
     "size": [
      1100,
-     733
+     660
     ],
     "credit": {
-     "by": "giancarlo_torre",
+     "by": "Jofre",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/376094344",
+     "url": "https://www.inaturalist.org/photos/53083648",
      "source": "iNaturalist"
     }
    }
@@ -13221,6 +13516,7 @@ window.OCEAN_ANIMALS = [
   "order": "Beloniformes",
   "family": "Belonidae",
   "ns": 312,
+  "wikiEn": "https://en.wikipedia.org/wiki/Garfish",
   "curated": true
  },
  {
@@ -13232,7 +13528,7 @@ window.OCEAN_ANIMALS = [
   "facts": [
    "'s Nachts vervaagt zijn felgele kleur en krijgt hij een witte band.",
    "Bij zijn staart zit een scherp wit 'scalpel' waarmee hij kan uithalen.",
-   "Hij eet algen met zijn lange, snuitachtige bek."
+   "In het wild kan hij meer dan 40 jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gele_doktersvis",
   "img": "images/zebrasoma-flavescens.webp",
@@ -13266,25 +13562,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/zebrasoma-flavescens-2.webp",
     "size": [
      1100,
-     732
+     825
     ],
     "credit": {
-     "by": "David R",
+     "by": "rabbitlady101",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/180440894",
+     "url": "https://www.inaturalist.org/photos/677414100",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/zebrasoma-flavescens-3.webp",
     "size": [
-     1024,
-     819
+     1100,
+     723
     ],
     "credit": {
-     "by": "David R",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/8213899",
+     "by": "sea-kangaroo",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/407199180",
      "source": "iNaturalist"
     }
    }
@@ -13293,6 +13589,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Acanthuridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Yellow_tang",
   "curated": true
  },
  {
@@ -13302,9 +13599,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "Forcipiger flavissimus is een straalvinnige vissensoort uit de familie van de koraalvlinders.",
   "facts": [
-   "Hij heeft een lange, pincetachtige snuit.",
-   "Hij wordt vaak verward met een verwante soort die een nog langere snuit heeft.",
-   "Bij deze soort is het onderste deel van het oog wit."
+   "Hij maakt geluiden om zijn territorium af te bakenen.",
+   "Aan hoe lang en hard het geluid is, horen rivalen hoe groot hij is.",
+   "Hij heeft een lange, pincetachtige snuit."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Forcipiger_flavissimus",
   "img": "images/forcipiger-flavissimus.webp",
@@ -13338,12 +13635,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/forcipiger-flavissimus-2.webp",
     "size": [
      1100,
-     835
+     832
     ],
     "credit": {
-     "by": "John Sear",
+     "by": "Programa Marino del Golfo de California",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/64532564",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/forcipiger-flavissimus-3.webp",
+    "size": [
+     1100,
+     732
+    ],
+    "credit": {
+     "by": "David R",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/5332991",
+     "url": "https://www.inaturalist.org/photos/179575077",
      "source": "iNaturalist"
     }
    }
@@ -13352,6 +13662,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Chaetodontidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Yellow_longnose_butterflyfish",
   "curated": true
  },
  {
@@ -13360,18 +13671,22 @@ window.OCEAN_ANIMALS = [
   "sci": "Diodon hystrix",
   "cat": "Vissen",
   "intro": "De gestippelde egelvis is een straalvinnige vissensoort uit de familie van de egelvissen.",
-  "facts": [],
+  "facts": [
+   "Zijn grote bek is bijna nooit dicht.",
+   "Bij gevaar slikt hij water in, blaast hij zich op en zet hij zijn stekels overeind.",
+   "Hij is pas twee keer in de Middellandse Zee gezien: in 1963 en 2016."
+  ],
   "wiki": "https://nl.wikipedia.org/wiki/Gestippelde_egelvis",
   "img": "images/diodon-hystrix.webp",
   "imgSize": [
    1400,
-   934
+   1050
   ],
   "credit": {
-   "by": "Diego Delso",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Pez_erizo_moteado_(Diodon_hystrix),_islas_Ad_Dimaniyat,_Om%C3%A1n,_2024-08-13,_DD_104.jpg",
-   "source": "Wikimedia Commons"
+   "by": "caleidoskopable",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/591209956",
+   "source": "iNaturalist"
   },
   "obs": 29608,
   "map": "maps/diodon-hystrix.webp",
@@ -13380,7 +13695,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/diodon-hystrix.webp",
     "size": [
      1400,
-     934
+     1050
+    ],
+    "credit": {
+     "by": "caleidoskopable",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/591209956",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/diodon-hystrix-2.webp",
+    "size": [
+     1100,
+     734
     ],
     "credit": {
      "by": "Diego Delso",
@@ -13390,28 +13718,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/diodon-hystrix-2.webp",
-    "size": [
-     1100,
-     765
-    ],
-    "credit": {
-     "by": "Matteo Cassella",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/64070029",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/diodon-hystrix-3.webp",
     "size": [
-     960,
-     720
+     1100,
+     825
     ],
     "credit": {
-     "by": "Pauline Walsh Jacobson",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/320141124",
+     "by": "caleidoskopable",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/591209959",
      "source": "iNaturalist"
     }
    }
@@ -13419,7 +13734,9 @@ window.OCEAN_ANIMALS = [
   "thumb": "thumbs/diodon-hystrix.webp",
   "order": "Tetraodontiformes",
   "family": "Diodontidae",
-  "ns": 0
+  "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Spot-fin_porcupinefish",
+  "curated": true
  },
  {
   "id": "dendrochirus-zebra",
@@ -13427,7 +13744,11 @@ window.OCEAN_ANIMALS = [
   "sci": "Dendrochirus zebra",
   "cat": "Vissen",
   "intro": "Dendrochirus zebra is een straalvinnige vissensoort uit de familie van schorpioenvissen.",
-  "facts": [],
+  "facts": [
+   "Hij jaagt soms in groepjes van twee of drie.",
+   "Samen drijven ze prooien in een hoek met hun giftige rugstekels en uitgespreide vinnen.",
+   "Hij is traag en vredig, maar wel gevaarlijk."
+  ],
   "wiki": "https://nl.wikipedia.org/wiki/Gestreepte_dwergkoraalduivel",
   "img": "images/dendrochirus-zebra.webp",
   "imgSize": [
@@ -13460,12 +13781,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dendrochirus-zebra-2.webp",
     "size": [
      1000,
-     665
+     750
     ],
     "credit": {
-     "by": "zsispeo",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/90450043",
+     "by": "Sue Churchill",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/635732679",
      "source": "iNaturalist"
     }
    },
@@ -13473,12 +13794,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dendrochirus-zebra-3.webp",
     "size": [
      1100,
-     1100
+     825
     ],
     "credit": {
-     "by": "Nemo's great uncle",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/55944",
+     "by": "Dan Schofield",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/85618954",
      "source": "iNaturalist"
     }
    }
@@ -13486,7 +13807,9 @@ window.OCEAN_ANIMALS = [
   "thumb": "thumbs/dendrochirus-zebra.webp",
   "order": "Scorpaeniformes",
   "family": "Scorpaenidae",
-  "ns": 0
+  "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Dendrochirus_zebra",
+  "curated": true
  },
  {
   "id": "plotosus-lineatus",
@@ -13496,8 +13819,8 @@ window.OCEAN_ANIMALS = [
   "intro": "De gestreepte koraalmeerval is een straalvinnige vissensoort uit de familie van de koraalmeervallen.",
   "facts": [
    "Hij zwemt in dichte scholen ter bescherming tegen roofvissen.",
-   "Via het Suezkanaal is hij in de Middellandse Zee terechtgekomen.",
-   "Hij leeft bij koraalriffen en in riviermondingen."
+   "Zijn vinnen hebben giftige stekels; vissers worden vaak gestoken, maar er is nooit iemand aan overleden.",
+   "Via het Suezkanaal is hij in de Middellandse Zee terechtgekomen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gestreepte_koraalmeerval",
   "img": "images/plotosus-lineatus.webp",
@@ -13534,9 +13857,9 @@ window.OCEAN_ANIMALS = [
      734
     ],
     "credit": {
-     "by": "Harry Rosenthal",
+     "by": "Mark Rosenstein",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/18601213",
+     "url": "https://www.inaturalist.org/photos/15005869",
      "source": "iNaturalist"
     }
    },
@@ -13544,12 +13867,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/plotosus-lineatus-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Harry Rosenthal",
+     "by": "Tony Strazzari",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/64363189",
+     "url": "https://www.inaturalist.org/photos/20280720",
      "source": "iNaturalist"
     }
    }
@@ -13558,6 +13881,7 @@ window.OCEAN_ANIMALS = [
   "order": "Siluriformes",
   "family": "Plotosidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Plotosus_lineatus",
   "curated": true
  },
  {
@@ -13568,8 +13892,8 @@ window.OCEAN_ANIMALS = [
   "intro": "De gestreepte scheermesvis is een straalvinnige vissensoort uit de familie van snipmesvissen.",
   "facts": [
    "Hij zwemt meestal rechtop, met zijn kop naar beneden.",
-   "Zijn lijf zit in een doorschijnend pantser.",
-   "Hij jaagt op kreeftjes tussen koraaltakken en stekels van zee-egels."
+   "Hij verstopt zich tussen de stekels van zee-egels, om veilig te zijn én om te jagen.",
+   "Zijn kleur past zich aan: groengeel in zeegras, zilver bij zand en koraal."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gestreepte_scheermesvis",
   "img": "images/aeoliscus-strigatus.webp",
@@ -13603,12 +13927,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/aeoliscus-strigatus-2.webp",
     "size": [
      1100,
-     734
+     825
     ],
     "credit": {
-     "by": "Mark Rosenstein",
+     "by": "Rafi Amar",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/218573",
+     "url": "https://www.inaturalist.org/photos/281676079",
      "source": "iNaturalist"
     }
    },
@@ -13616,12 +13940,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/aeoliscus-strigatus-3.webp",
     "size": [
      1100,
-     734
+     825
     ],
     "credit": {
-     "by": "Mark Rosenstein",
+     "by": "Jens Sommer-Knudsen",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/38429810",
+     "url": "https://www.inaturalist.org/photos/435373125",
      "source": "iNaturalist"
     }
    }
@@ -13630,6 +13954,7 @@ window.OCEAN_ANIMALS = [
   "order": "Syngnathiformes",
   "family": "Centriscidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Aeoliscus_strigatus",
   "curated": true
  },
  {
@@ -13675,12 +14000,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/heteroconger-hassi-2.webp",
     "size": [
      1100,
-     776
+     825
     ],
     "credit": {
-     "by": "Erik Schlögl",
+     "by": "uwkwaj",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/5607740",
+     "url": "https://www.inaturalist.org/photos/257874600",
      "source": "iNaturalist"
     }
    },
@@ -13688,12 +14013,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/heteroconger-hassi-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Albert Kang",
+     "by": "Rafi Amar",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/82280799",
+     "url": "https://www.inaturalist.org/photos/207352872",
      "source": "iNaturalist"
     }
    }
@@ -13702,6 +14027,7 @@ window.OCEAN_ANIMALS = [
   "order": "Anguilliformes",
   "family": "Congridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Spotted_garden_eel",
   "curated": true
  },
  {
@@ -13711,9 +14037,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De gevlekte lipvis is een vis uit de grote familie van de lipvissen en het typegeslacht Labrus.",
   "facts": [
-   "Zijn kleur is heel wisselend, meestal groenbruin met lichte vlekken.",
-   "De mannetjes maken 'nesten' in rotsspleten.",
-   "'s Winters komt hij vrij algemeen voor aan de Nederlandse kust."
+   "Achter in zijn keel zitten krachtige tanden waarmee hij schelpen kraakt.",
+   "Hij kan 34 jaar oud worden.",
+   "Alle exemplaren beginnen als vrouwtje; sommige worden later mannetje."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gevlekte_lipvis",
   "img": "images/labrus-bergylta.webp",
@@ -13747,12 +14073,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/labrus-bergylta-2.webp",
     "size": [
      1100,
-     793
+     733
     ],
     "credit": {
-     "by": "tamsynmann",
+     "by": "Francois Libert",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/12188326",
+     "url": "https://www.inaturalist.org/photos/696348125",
      "source": "iNaturalist"
     }
    },
@@ -13760,12 +14086,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/labrus-bergylta-3.webp",
     "size": [
      1100,
-     645
+     825
     ],
     "credit": {
-     "by": "mnolito",
+     "by": "Nicolas Jouault",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/6117226",
+     "url": "https://www.inaturalist.org/photos/597201978",
      "source": "iNaturalist"
     }
    }
@@ -13774,6 +14100,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Labridae",
   "ns": 719,
+  "wikiEn": "https://en.wikipedia.org/wiki/Ballan_wrasse",
   "curated": true
  },
  {
@@ -13819,12 +14146,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lepadogaster-lepadogaster-2.webp",
     "size": [
      1100,
-     733
+     1037
     ],
     "credit": {
-     "by": "João Pedro Silva",
+     "by": "Francisco Alvim",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/3404487",
+     "url": "https://www.inaturalist.org/photos/204419786",
      "source": "iNaturalist"
     }
    },
@@ -13835,9 +14162,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Dennis Rabeling",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/131578613",
+     "by": "Francisco Alvim",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/204419813",
      "source": "iNaturalist"
     }
    }
@@ -13855,20 +14182,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De gewone coelacant is een vis van het geslacht Latimeria.",
   "facts": [
-   "Zijn eieren zijn zo groot als een tennisbal: de grootste van alle beenvissen.",
-   "Zijn vinnen hebben een gespierde basis en zijn staartvin heeft een ongewone middenlob.",
-   "Hij leeft 150 tot 700 meter diep langs onderzeese rotswanden."
+   "De wetenschap kende hem alleen van fossielen, tot er in 1938 een in Zuid-Afrika werd gevangen.",
+   "Hij kan zowel zijn boven- als onderkaak bewegen; dat kan geen ander levend dier met een botskelet.",
+   "Zijn eieren zijn zo groot als een tennisbal: de grootste van alle beenvissen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_coelacant",
   "img": "images/latimeria-chalumnae.webp",
   "imgSize": [
    1400,
-   927
+   1050
   ],
   "credit": {
-   "by": "BrokenSphere",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/246166503",
+   "by": "wrecklessmarine",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/242640271",
    "source": "iNaturalist"
   },
   "obs": 239,
@@ -13878,12 +14205,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/latimeria-chalumnae.webp",
     "size": [
      1400,
-     927
+     1050
     ],
     "credit": {
-     "by": "BrokenSphere",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/246166503",
+     "by": "wrecklessmarine",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/242640271",
      "source": "iNaturalist"
     }
    },
@@ -13891,25 +14218,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/latimeria-chalumnae-2.webp",
     "size": [
      1100,
-     700
-    ],
-    "credit": {
-     "by": "James St. John",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/69971416",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/latimeria-chalumnae-3.webp",
-    "size": [
-     1100,
      825
     ],
     "credit": {
-     "by": "Andrew Butko",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/64618567",
+     "by": "wrecklessmarine",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/242640282",
      "source": "iNaturalist"
     }
    }
@@ -13918,6 +14232,7 @@ window.OCEAN_ANIMALS = [
   "order": "Coelacanthiformes",
   "family": "Latimeriidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/West_Indian_Ocean_coelacanth",
   "curated": true
  },
  {
@@ -13927,9 +14242,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De gewone koraalduivel behoort tot de familie van de schorpioenvissen.",
   "facts": [
-   "Zijn giftige stekels geven een zeer pijnlijke steek.",
-   "Hij drijft prooien in een hoek met zijn uitgespreide vinnen en hapt dan bliksemsnel toe.",
-   "Waarschijnlijk via aquaria is hij in het Caribisch gebied terechtgekomen."
+   "Een vrouwtje kan in één keer tot 30.000 eitjes leggen.",
+   "In het Caribisch gebied herkennen de meeste roofvissen hem niet als prooi.",
+   "Hij drijft prooien in een hoek met zijn uitgespreide vinnen en slikt ze dan in één hap door."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_koraalduivel",
   "img": "images/pterois-volitans.webp",
@@ -13966,9 +14281,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Justin Walker",
+     "by": "Clement BONNARDEL",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/53637204",
+     "url": "https://www.inaturalist.org/photos/552844590",
      "source": "iNaturalist"
     }
    },
@@ -13976,12 +14291,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pterois-volitans-3.webp",
     "size": [
      1100,
-     818
+     745
     ],
     "credit": {
-     "by": "Tony Strazzari",
+     "by": "lilyhaines",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/32889005",
+     "url": "https://www.inaturalist.org/photos/38564617",
      "source": "iNaturalist"
     }
    }
@@ -13990,6 +14305,7 @@ window.OCEAN_ANIMALS = [
   "order": "Scorpaeniformes",
   "family": "Scorpaenidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Red_lionfish",
   "curated": true
  },
  {
@@ -13999,9 +14315,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De gewone poetslipvis is een soort lipvis die men aantreft op koraalriffen van de Indische Oceaan, de Rode Zee en sommige plekken in de Grote Oceaan.",
   "facts": [
-   "Hij leeft van het weghalen van parasieten en dode huid bij grotere vissen.",
    "Met een dansje geeft hij aan dat zijn 'poetsdienst' open is.",
-   "Als het mannetje van een groepje sterft, verandert het sterkste vrouwtje in een mannetje."
+   "Een andere vis doet hem na om juist hapjes vel uit grote vissen te bijten.",
+   "Als het mannetje van een groepje sterft, verandert een groot vrouwtje in een mannetje."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_poetslipvis",
   "img": "images/labroides-dimidiatus.webp",
@@ -14034,13 +14350,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/labroides-dimidiatus-2.webp",
     "size": [
-     1100,
-     825
+     1000,
+     750
     ],
     "credit": {
-     "by": "Sue Churchill",
+     "by": "Terry Farr",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/624121687",
+     "url": "https://www.inaturalist.org/photos/632016569",
      "source": "iNaturalist"
     }
    },
@@ -14048,12 +14364,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/labroides-dimidiatus-3.webp",
     "size": [
      1100,
-     700
+     880
     ],
     "credit": {
-     "by": "Malcolm Francis",
+     "by": "Graham McMartin",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/407253506",
+     "url": "https://www.inaturalist.org/photos/300737956",
      "source": "iNaturalist"
     }
    }
@@ -14062,6 +14378,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Labridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Bluestreak_cleaner_wrasse",
   "curated": true
  },
  {
@@ -14071,9 +14388,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De slijmprik of gewone slijmprik is een kaakloze vissensoort uit de familie van de slijmprikken.",
   "facts": [
-   "Hij kan zijn lijf in een knoop leggen om stukken vlees los te trekken.",
-   "Hij eet dode dieren en vreet soms vissen in visnetten leeg tot alleen vel en graat over is.",
-   "Zijn kleverige slijm schrikt vijanden af."
+   "Hij heeft geen kaken, en zijn ogen hebben geen lens.",
+   "Hij kan zijn lijf in een knoop leggen om stukken vlees los te trekken of te ontsnappen.",
+   "Hij kan slijm uitscheiden uit wel 100 poriën."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_slijmprik",
   "img": "images/myxine-glutinosa.webp",
@@ -14102,38 +14419,13 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/322255616",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/myxine-glutinosa-2.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Vsevolod Rudyi",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/181540748",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/myxine-glutinosa-3.webp",
-    "size": [
-     1100,
-     393
-    ],
-    "credit": {
-     "by": "Gervais et Boulart",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/6701518",
-     "source": "iNaturalist"
-    }
    }
   ],
   "thumb": "thumbs/myxine-glutinosa.webp",
   "order": "Myxiniformes",
   "family": "Myxinidae",
   "ns": 96,
+  "wikiEn": "https://en.wikipedia.org/wiki/Myxine_glutinosa",
   "curated": true
  },
  {
@@ -14143,20 +14435,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De gewone wimpelvis is een straalvinnige uit de familie van de koraalvlinders.",
   "facts": [
-   "Hij is zwart-wit gestreept met een gele staart.",
-   "Hij zwemt vaak in scholen.",
-   "Hij eet onder andere parasieten van maanvissen."
+   "Zijn zwarte ogen zijn met elkaar verbonden door een zwarte band, als een maskertje.",
+   "Jonge vissen leven alleen en poetsen andere vissen schoon.",
+   "Hij lijkt zo op een verwante soort dat je goed naar zijn snuit en buikvin moet kijken."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_wimpelvis",
   "img": "images/heniochus-acuminatus.webp",
   "imgSize": [
    1400,
-   1050
+   934
   ],
   "credit": {
-   "by": "Albert Kang",
+   "by": "Malcolm Francis",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/221174694",
+   "url": "https://www.inaturalist.org/photos/386242143",
    "source": "iNaturalist"
   },
   "obs": 5290,
@@ -14166,12 +14458,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/heniochus-acuminatus.webp",
     "size": [
      1400,
-     1050
+     934
     ],
     "credit": {
-     "by": "Albert Kang",
+     "by": "Malcolm Francis",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/221174694",
+     "url": "https://www.inaturalist.org/photos/386242143",
      "source": "iNaturalist"
     }
    },
@@ -14179,12 +14471,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/heniochus-acuminatus-2.webp",
     "size": [
      1100,
-     628
+     825
     ],
     "credit": {
-     "by": "Tony Strazzari",
+     "by": "Freya",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/20970094",
+     "url": "https://www.inaturalist.org/photos/677458067",
      "source": "iNaturalist"
     }
    },
@@ -14192,12 +14484,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/heniochus-acuminatus-3.webp",
     "size": [
      1100,
-     733
+     861
     ],
     "credit": {
-     "by": "Marine Explorer (Dr John Turnbull)",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/6034466",
+     "by": "DZIVULA GUBE",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/251551497",
      "source": "iNaturalist"
     }
    }
@@ -14206,6 +14498,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Chaetodontidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Pennant_coralfish",
   "curated": true
  },
  {
@@ -14215,8 +14508,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De gewone zeedonderpad is een vis uit de familie van de donderpadden.",
   "facts": [
+   "Hij is niet giftig, maar wordt vaak verward met giftige schorpioenvissen.",
    "Hij heeft een grote kop in verhouding tot zijn lijf.",
-   "Hij is algemeen langs de Nederlandse kust en in de Waddenzee.",
    "Hij paart in de winter."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_zeedonderpad",
@@ -14251,25 +14544,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/myoxocephalus-scorpius-2.webp",
     "size": [
      1100,
-     727
-    ],
-    "credit": {
-     "by": "Micha Baum",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/100250180",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/myoxocephalus-scorpius-3.webp",
-    "size": [
-     1100,
      825
     ],
     "credit": {
-     "by": "Guido Schmitz",
+     "by": "tatjanapokoniecnaja",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/2054601",
+     "url": "https://www.inaturalist.org/photos/622397233",
      "source": "iNaturalist"
     }
    }
@@ -14278,6 +14558,7 @@ window.OCEAN_ANIMALS = [
   "order": "Scorpaeniformes",
   "family": "Cottidae",
   "ns": 511,
+  "wikiEn": "https://en.wikipedia.org/wiki/Myoxocephalus_scorpius",
   "curated": true
  },
  {
@@ -14288,20 +14569,20 @@ window.OCEAN_ANIMALS = [
   "intro": "De gladde fluitbek is een vis behorend tot de familie Fistulariidae.",
   "facts": [
    "Hij heeft een lange snuit die op een fluit lijkt.",
-   "Hij wordt gemiddeld een meter lang, maar kan 1,6 meter worden.",
-   "Hij eet garnalen en kleine visjes."
+   "Aan zijn staartdraad zitten zintuigporiën die mogelijk prooien voelen.",
+   "Alle exemplaren in de Middellandse Zee stammen van een handjevol voorouders die via het Suezkanaal kwamen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gladde_fluitbek",
   "img": "images/fistularia-commersonii.webp",
   "imgSize": [
-   1280,
-   958
+   1400,
+   933
   ],
   "credit": {
-   "by": "Matthias Kleine --&gt; Mkleine",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Fistularia_commersonii1.jpg",
-   "source": "Wikimedia Commons"
+   "by": "Luis P. B.",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/248338499",
+   "source": "iNaturalist"
   },
   "obs": 15974,
   "map": "maps/fistularia-commersonii.webp",
@@ -14309,26 +14590,26 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/fistularia-commersonii.webp",
     "size": [
-     1280,
-     958
-    ],
-    "credit": {
-     "by": "Matthias Kleine --&gt; Mkleine",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Fistularia_commersonii1.jpg",
-     "source": "Wikimedia Commons"
-    }
-   },
-   {
-    "img": "images/fistularia-commersonii-2.webp",
-    "size": [
-     1100,
-     733
+     1400,
+     933
     ],
     "credit": {
      "by": "Luis P. B.",
      "license": "CC-BY-NC",
      "url": "https://www.inaturalist.org/photos/248338499",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/fistularia-commersonii-2.webp",
+    "size": [
+     1000,
+     574
+    ],
+    "credit": {
+     "by": "François Libert",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/231603084",
      "source": "iNaturalist"
     }
    },
@@ -14339,9 +14620,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Luis P. B.",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/248337783",
+     "by": "Nick Lambert",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/235097800",
      "source": "iNaturalist"
     }
    }
@@ -14350,6 +14631,7 @@ window.OCEAN_ANIMALS = [
   "order": "Syngnathiformes",
   "family": "Fistulariidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Bluespotted_cornetfish",
   "curated": true
  },
  {
@@ -14359,9 +14641,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De goudbrasem is een straalvinnige vis uit de familie van de zeebrasems, die voorkomt in het noordoosten en het oosten van de Atlantische Oceaan en in de Middellandse Zee.",
   "facts": [
-   "Hij komt ook in de Nederlandse Waddenzee voor.",
-   "Hij eet vooral schaal- en schelpdieren.",
-   "In Frankrijk heet hij 'daurade royale' en hij wordt rond de Middellandse Zee gekweekt."
+   "Tussen zijn ogen zit een gouden band, vandaar de naam goudbrasem.",
+   "Hij begint als mannetje; sommige worden later vrouwtje.",
+   "Met zijn stompe kiezen kraakt hij schaal- en schelpdieren."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Goudbrasem",
   "img": "images/sparus-aurata.webp",
@@ -14395,12 +14677,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sparus-aurata-2.webp",
     "size": [
      1100,
-     823
+     825
     ],
     "credit": {
-     "by": "Sylvain Le Bris",
+     "by": "Frédéric ANDRE",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/154812228",
+     "url": "https://www.inaturalist.org/photos/327723001",
      "source": "iNaturalist"
     }
    },
@@ -14408,12 +14690,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sparus-aurata-3.webp",
     "size": [
      1100,
-     820
+     619
     ],
     "credit": {
-     "by": "Bernat Espigulé",
+     "by": "loan_1221",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/197829256",
+     "url": "https://www.inaturalist.org/photos/283482386",
      "source": "iNaturalist"
     }
    }
@@ -14422,6 +14704,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Sparidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Gilt-head_bream",
   "curated": true
  },
  {
@@ -14431,20 +14714,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De goudmakreel, ook wel dradu, mahi-mahi of dorado genoemd, is een straalvinnige vis uit de familie van goudmakrelen, orde baarsachtigen, die in de Grote, Atlantische en Indische Oceaan voorkomt.",
   "facts": [
-   "Zijn rug is lichtblauw en zijn buik geel.",
-   "Zijn rugvin loopt van zijn kop helemaal tot aan zijn staart.",
-   "Hij heet ook wel mahi-mahi of dorado."
+   "Uit het water verandert hij een paar keer van kleur, tot hij grijsgeel wordt.",
+   "In Frans-Polynesië jagen vissers met een harpoen op hem vanaf speciale snelle bootjes.",
+   "Zijn rugvin loopt van zijn kop helemaal tot aan zijn staart."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Goudmakreel",
   "img": "images/coryphaena-hippurus.webp",
   "imgSize": [
    1400,
-   788
+   907
   ],
   "credit": {
-   "by": "Luis P. B.",
+   "by": "Xavier Rufray",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/361046671",
+   "url": "https://www.inaturalist.org/photos/171728606",
    "source": "iNaturalist"
   },
   "obs": 135293,
@@ -14454,7 +14737,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/coryphaena-hippurus.webp",
     "size": [
      1400,
-     788
+     907
+    ],
+    "credit": {
+     "by": "Xavier Rufray",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/171728606",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/coryphaena-hippurus-2.webp",
+    "size": [
+     1100,
+     619
     ],
     "credit": {
      "by": "Luis P. B.",
@@ -14464,28 +14760,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/coryphaena-hippurus-2.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Le Gallais",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/422598105",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/coryphaena-hippurus-3.webp",
     "size": [
      1100,
-     712
+     733
     ],
     "credit": {
-     "by": "Xavier Rufray",
+     "by": "Luis P. B.",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/171728606",
+     "url": "https://www.inaturalist.org/photos/361046688",
      "source": "iNaturalist"
     }
    }
@@ -14494,6 +14777,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Coryphaenidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Mahi-mahi",
   "curated": true
  },
  {
@@ -14502,17 +14786,21 @@ window.OCEAN_ANIMALS = [
   "sci": "Balistes capriscus",
   "cat": "Vissen",
   "intro": "De grijze trekkervis is een straalvinnige vissensoort uit de familie van de trekkervissen.",
-  "facts": [],
+  "facts": [
+   "Bij gevaar wurmt hij zich in een spleet en zet zich vast met zijn rugstekel.",
+   "Met pufjes water blaast hij prooien uit de bodem.",
+   "Vissers kennen hem als beruchte aasdief."
+  ],
   "wiki": "https://nl.wikipedia.org/wiki/Grijze_trekkervis",
   "img": "images/balistes-capriscus.webp",
   "imgSize": [
    1400,
-   933
+   788
   ],
   "credit": {
-   "by": "Luis P. B.",
+   "by": "Falk Viczian Solarboot-Projekte gGmbH",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/274989805",
+   "url": "https://www.inaturalist.org/photos/455661270",
    "source": "iNaturalist"
   },
   "obs": 27251,
@@ -14522,7 +14810,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/balistes-capriscus.webp",
     "size": [
      1400,
-     933
+     788
+    ],
+    "credit": {
+     "by": "Falk Viczian Solarboot-Projekte gGmbH",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/455661270",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/balistes-capriscus-2.webp",
+    "size": [
+     1100,
+     733
     ],
     "credit": {
      "by": "Luis P. B.",
@@ -14532,28 +14833,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/balistes-capriscus-2.webp",
-    "size": [
-     960,
-     720
-    ],
-    "credit": {
-     "by": "Pauline Walsh Jacobson",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/176938427",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/balistes-capriscus-3.webp",
     "size": [
-     960,
-     720
+     1100,
+     805
     ],
     "credit": {
-     "by": "Pauline Walsh Jacobson",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/159690030",
+     "by": "tamsynmann",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/11032366",
      "source": "iNaturalist"
     }
    }
@@ -14561,7 +14849,9 @@ window.OCEAN_ANIMALS = [
   "thumb": "thumbs/balistes-capriscus.webp",
   "order": "Tetraodontiformes",
   "family": "Balistidae",
-  "ns": 4
+  "ns": 4,
+  "wikiEn": "https://en.wikipedia.org/wiki/Grey_triggerfish",
+  "curated": true
  },
  {
   "id": "gymnothorax-funebris",
@@ -14570,20 +14860,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De groene murene is een murene uit de Atlantische Oceaan.",
   "facts": [
-   "Hij is egaal donkergroen tot bruin.",
-   "Hij jaagt 's nachts op vis en schaaldieren.",
-   "Door zijn grootte is een beet gevaarlijk."
+   "Eigenlijk is hij donker: zijn groene kleur komt van een laag slijm.",
+   "Hij jaagt soms samen met een andere vissoort, die hem lijkt te 'ronselen'.",
+   "Hij is de grootste murene van de tropische Atlantische Oceaan."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Groene_murene",
   "img": "images/gymnothorax-funebris.webp",
   "imgSize": [
    1400,
-   933
+   655
   ],
   "credit": {
-   "by": "Jane Kempler &amp; Andrew Goldby Freelance",
-   "license": "CC-BY-NC-ND",
-   "url": "https://www.inaturalist.org/photos/478079084",
+   "by": "Albus Ringdorf",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/545243033",
    "source": "iNaturalist"
   },
   "obs": 22631,
@@ -14593,7 +14883,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/gymnothorax-funebris.webp",
     "size": [
      1400,
-     933
+     655
+    ],
+    "credit": {
+     "by": "Albus Ringdorf",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/545243033",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/gymnothorax-funebris-2.webp",
+    "size": [
+     1100,
+     733
     ],
     "credit": {
      "by": "Jane Kempler &amp; Andrew Goldby Freelance",
@@ -14603,28 +14906,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/gymnothorax-funebris-2.webp",
-    "size": [
-     960,
-     720
-    ],
-    "credit": {
-     "by": "Pauline Walsh Jacobson",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/249232725",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/gymnothorax-funebris-3.webp",
     "size": [
      1100,
-     814
+     862
     ],
     "credit": {
-     "by": "Richard Johnson",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/400873310",
+     "by": "uwkwaj",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/397920599",
      "source": "iNaturalist"
     }
    }
@@ -14633,6 +14923,7 @@ window.OCEAN_ANIMALS = [
   "order": "Anguilliformes",
   "family": "Muraenidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Green_moray",
   "curated": true
  },
  {
@@ -14642,9 +14933,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De grootbekaal is een vis uit de familie Eurypharyngidae.",
   "facts": [
-   "Hij heeft enorme kaken en een maag die kan uitrekken.",
-   "Aan het puntje van zijn draadvormige staart zit een lichtgevend orgaan.",
-   "Hij leeft 1200 tot 1400 meter diep."
+   "Zijn bek kan zo wijd open dat hij een vis kan inslikken die groter is dan hijzelf.",
+   "Aan het puntje van zijn staart zit een orgaan dat roze gloeit en af en toe rood flitst.",
+   "Ondanks zijn enorme kaken heeft hij maar piepkleine tandjes."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grootbekaal",
   "img": "images/eurypharynx-pelecanoides.webp",
@@ -14705,6 +14996,7 @@ window.OCEAN_ANIMALS = [
   "order": "Saccopharyngiformes",
   "family": "Eurypharyngidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Pelican_eel",
   "curated": true
  },
  {
@@ -14714,9 +15006,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De grootoogtonijn is een straalvinnige vis uit de familie van makrelen en behoort derhalve tot de orde van baarsachtigen.",
   "facts": [
-   "Hij kan 2,5 meter lang worden.",
-   "Een vrouwtje legt 2,9 tot 6,3 miljoen eieren.",
-   "Hij jaagt dag en nacht op vis en inktvis."
+   "Dankzij zijn grote ogen ziet hij goed in het donker van de diepzee.",
+   "Hij kan leven in water met heel weinig zuurstof.",
+   "Hij kan de hele oceaan oversteken."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grootoogtonijn",
   "img": "images/thunnus-obesus.webp",
@@ -14777,6 +15069,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Scombridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Bigeye_tuna",
   "curated": true
  },
  {
@@ -14786,20 +15079,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De grote barracuda of grote zeesnoek is een straalvinnige vis uit de familie van de barracuda's.",
   "facts": [
-   "Hij kan twee meter lang en 50 kilo zwaar worden.",
-   "Zijn kaken zitten vol messcherpe tanden.",
-   "Hij bijt soms mensen, vooral bij slecht zicht; omdat mensen geen prooi zijn blijft het meestal bij één beet."
+   "Als hij vol zit, drijft hij soms een school vissen samen in ondiep water en bewaakt ze voor later.",
+   "Zijn tanden zijn verschillend van grootte en zitten ook op zijn gehemelte.",
+   "Hij kan twee meter lang en 50 kilo zwaar worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grote_barracuda",
   "img": "images/sphyraena-barracuda.webp",
   "imgSize": [
    1400,
-   710
+   865
   ],
   "credit": {
-   "by": "Quinn",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/460773257",
+   "by": "Wayne and Pam Osborn",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/255872267",
    "source": "iNaturalist"
   },
   "obs": 52005,
@@ -14809,20 +15102,7 @@ window.OCEAN_ANIMALS = [
     "img": "images/sphyraena-barracuda.webp",
     "size": [
      1400,
-     710
-    ],
-    "credit": {
-     "by": "Quinn",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/460773257",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/sphyraena-barracuda-2.webp",
-    "size": [
-     1100,
-     679
+     865
     ],
     "credit": {
      "by": "Wayne and Pam Osborn",
@@ -14832,15 +15112,28 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/sphyraena-barracuda-3.webp",
+    "img": "images/sphyraena-barracuda-2.webp",
     "size": [
      1100,
-     825
+     619
     ],
     "credit": {
-     "by": "Daniel Moth",
+     "by": "spinierformula4",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/418752185",
+     "url": "https://www.inaturalist.org/photos/538130668",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/sphyraena-barracuda-3.webp",
+    "size": [
+     1080,
+     810
+    ],
+    "credit": {
+     "by": "Bryan Alexander",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/22601506",
      "source": "iNaturalist"
     }
    }
@@ -14849,6 +15142,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Sphyraenidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Great_barracuda",
   "curated": true
  },
  {
@@ -14858,9 +15152,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De grote netmurene is een murene die voorkomt in en rond de Indische Oceaan en een lengte kan bereiken van 3 meter.",
   "facts": [
-   "Hij kan 3 meter lang worden.",
    "In troebel water heeft hij meer zwarte vlekken dan in helder water.",
-   "Hij heeft twee rijen tanden: één om te grijpen en één om de prooi naar binnen te trekken."
+   "Hij heeft twee rijen tanden: één om te grijpen en één om de prooi naar binnen te trekken.",
+   "Hij kan 3 meter lang worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grote_netmurene",
   "img": "images/gymnothorax-favagineus.webp",
@@ -14894,12 +15188,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/gymnothorax-favagineus-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Rohan Arthur",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/260685646",
+     "by": "Sylvain Le Bris",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/582630909",
      "source": "iNaturalist"
     }
    },
@@ -14907,12 +15201,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/gymnothorax-favagineus-3.webp",
     "size": [
      1100,
-     825
+     786
     ],
     "credit": {
-     "by": "Katarina Wilson",
+     "by": "Patrick James",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/496487664",
+     "url": "https://www.inaturalist.org/photos/182202569",
      "source": "iNaturalist"
     }
    }
@@ -14921,6 +15215,7 @@ window.OCEAN_ANIMALS = [
   "order": "Anguilliformes",
   "family": "Muraenidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Laced_moray",
   "curated": true
  },
  {
@@ -14930,8 +15225,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De grote pieterman of gewone pieterman is een vis uit de familie van de pietermannen die vooral voorkomt in de Middellandse Zee.",
   "facts": [
-   "Hij graaft zich in het zand in en is dan nauwelijks te zien.",
-   "Zijn gegroefde gifstekels geven pijnlijke steken, meestal als iemand op hem stapt.",
+   "Hij graaft zich in, met alleen zijn ogen en zijn rugvin boven het zand.",
+   "Vooral in de zomer stappen badgasten op zijn gifstekels.",
    "Heet water boven de 40 graden helpt tegen het gif."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grote_pieterman",
@@ -14966,12 +15261,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/trachinus-draco-2.webp",
     "size": [
      1100,
-     619
+     825
     ],
     "credit": {
-     "by": "Falk Viczian Solarboot-Projekte gGmbH",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/455162786",
+     "by": "Dennis Rabeling",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/528899274",
      "source": "iNaturalist"
     }
    },
@@ -14979,12 +15274,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/trachinus-draco-3.webp",
     "size": [
      1100,
-     619
+     825
     ],
     "credit": {
-     "by": "Falk Viczian Solarboot-Projekte gGmbH",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/455255450",
+     "by": "Dennis Rabeling",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/392990206",
      "source": "iNaturalist"
     }
    }
@@ -14993,6 +15288,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Trachinidae",
   "ns": 67,
+  "wikiEn": "https://en.wikipedia.org/wiki/Greater_weever",
   "curated": true
  },
  {
@@ -15002,9 +15298,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De grote rafelvis, soms ook zeedraak genoemd, is een zeevis die verwant is aan de zeepaardjes.",
   "facts": [
-   "Hij is zo goed gecamoufleerd dat mensen én roofdieren hem nauwelijks kunnen vinden.",
-   "Het mannetje draagt de eitjes onder zijn staart tot ze uitkomen.",
-   "Hij leeft alleen in een smalle strook kelpwouden langs de kust van Zuid-Australië."
+   "Zijn bladachtige flapjes dienen alleen als camouflage; zwemmen doet hij er niet mee.",
+   "Hij zwemt als een drijvend stukje zeewier door het water.",
+   "Het mannetje draagt de eitjes onder zijn staart tot ze uitkomen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grote_rafelvis",
   "img": "images/phycodurus-eques.webp",
@@ -15054,9 +15350,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "J. Martin Crossley",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/362269192",
+     "by": "sahirabelluwa",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/13478316",
      "source": "iNaturalist"
     }
    }
@@ -15065,6 +15361,7 @@ window.OCEAN_ANIMALS = [
   "order": "Syngnathiformes",
   "family": "Syngnathidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Leafy_seadragon",
   "curated": true
  },
  {
@@ -15075,19 +15372,19 @@ window.OCEAN_ANIMALS = [
   "intro": "De grote zeenaald is een straalvinnige vis uit de familie van de zeenaalden en zeepaardjes, die voorkomt in de Grote, Atlantische en Indische Oceaan.",
   "facts": [
    "Hij is familie van het zeepaardje en kan 50 centimeter lang worden.",
-   "Hij komt voor langs de Nederlandse kust.",
+   "Hij heeft een lange snuit met zijn bek helemaal aan het eind.",
    "Hij eet piepkleine kreeftjes en vislarven."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grote_zeenaald",
   "img": "images/syngnathus-acus.webp",
   "imgSize": [
    1400,
-   990
+   964
   ],
   "credit": {
-   "by": "Emil B",
+   "by": "Ana Santos",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/123195209",
+   "url": "https://www.inaturalist.org/photos/265592214",
    "source": "iNaturalist"
   },
   "obs": 16089,
@@ -15097,12 +15394,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/syngnathus-acus.webp",
     "size": [
      1400,
-     990
+     964
     ],
     "credit": {
-     "by": "Emil B",
+     "by": "Ana Santos",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/123195209",
+     "url": "https://www.inaturalist.org/photos/265592214",
      "source": "iNaturalist"
     }
    },
@@ -15110,12 +15407,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/syngnathus-acus-2.webp",
     "size": [
      1100,
-     825
+     778
     ],
     "credit": {
-     "by": "Susanne Spindler",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/294920006",
+     "by": "Emil B",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/123195209",
      "source": "iNaturalist"
     }
    },
@@ -15126,9 +15423,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Guido Schmitz",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/2043382",
+     "by": "no rights reserved",
+     "license": "CC0",
+     "url": "https://www.inaturalist.org/photos/188570979",
      "source": "iNaturalist"
     }
    }
@@ -15137,6 +15434,7 @@ window.OCEAN_ANIMALS = [
   "order": "Syngnathiformes",
   "family": "Syngnathidae",
   "ns": 459,
+  "wikiEn": "https://en.wikipedia.org/wiki/Greater_pipefish",
   "curated": true
  },
  {
@@ -15145,7 +15443,11 @@ window.OCEAN_ANIMALS = [
   "sci": "Chaetodon lunula",
   "cat": "Vissen",
   "intro": "De halfmaanvlindervis is een straalvinnige vissensoort uit de familie van koraalvlinders.",
-  "facts": [],
+  "facts": [
+   "Hij heet in het Engels 'wasbeervlindervis' door het zwarte masker over zijn ogen.",
+   "Hij wordt zo'n 20 centimeter lang.",
+   "Hij leeft van Oost-Afrika tot Hawaï."
+  ],
   "wiki": "https://nl.wikipedia.org/wiki/Halfmaanvlindervis",
   "img": "images/chaetodon-lunula.webp",
   "imgSize": [
@@ -15181,9 +15483,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Rickard Zerpe",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/370483171",
+     "by": "David Kimr",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/290315687",
      "source": "iNaturalist"
     }
    },
@@ -15191,12 +15493,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/chaetodon-lunula-3.webp",
     "size": [
      1100,
-     775
+     932
     ],
     "credit": {
-     "by": "Karolle Wall",
+     "by": "Martin Holladay",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/254770764",
+     "url": "https://www.inaturalist.org/photos/734917518",
      "source": "iNaturalist"
     }
    }
@@ -15204,7 +15506,9 @@ window.OCEAN_ANIMALS = [
   "thumb": "thumbs/chaetodon-lunula.webp",
   "order": "Perciformes",
   "family": "Chaetodontidae",
-  "ns": 0
+  "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Raccoon_butterflyfish",
+  "curated": true
  },
  {
   "id": "clupea-harengus",
@@ -15215,7 +15519,7 @@ window.OCEAN_ANIMALS = [
   "facts": [
    "Haringen communiceren met 'haringscheten': gas dat ze uit hun zwemblaas laten ontsnappen.",
    "De Zweedse marine dacht ooit dat dat geluid van vijandige onderzeeboten kwam.",
-   "Dankzij strenge vangstregels gaat het weer goed met de haring."
+   "Een school haring kan uit miljoenen vissen bestaan; 's nachts laat hij het plankton om zich heen oplichten."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Haring_%28soort%29",
   "img": "images/clupea-harengus.webp",
@@ -15224,9 +15528,9 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "Simon Rolph",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/30662841",
+   "by": "Hunter Stevens",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/224341414",
    "source": "iNaturalist"
   },
   "obs": 1696371,
@@ -15239,9 +15543,9 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "Simon Rolph",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/30662841",
+     "by": "Hunter Stevens",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/224341414",
      "source": "iNaturalist"
     }
    },
@@ -15252,22 +15556,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Gillfoto",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/85509894",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/clupea-harengus-3.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Hunter Stevens",
+     "by": "Tom Clenche",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/224341414",
+     "url": "https://www.inaturalist.org/photos/231737189",
      "source": "iNaturalist"
     }
    }
@@ -15276,6 +15567,7 @@ window.OCEAN_ANIMALS = [
   "order": "Clupeiformes",
   "family": "Clupeidae",
   "ns": 6658,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_herring",
   "curated": true
  },
  {
@@ -15286,19 +15578,19 @@ window.OCEAN_ANIMALS = [
   "intro": "Het harnasmannetje is een straalvinnige vis uit de familie van de harnasmannen en de orde van de schorpioenvisachtigen, die voorkomt in het noordoosten van de Atlantische Oceaan.",
   "facts": [
    "Zijn lijf zit in een harnas van beenplaatjes.",
-   "Hij komt algemeen voor langs de Nederlandse en Belgische kust.",
-   "Volksnamen zijn onder andere 'oude vent' en 'postkop'."
+   "Volksnamen zijn onder andere 'oude vent' en 'postkop'.",
+   "Hij komt algemeen voor langs de Nederlandse en Belgische kust."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Harnasmannetje",
   "img": "images/agonus-cataphractus.webp",
   "imgSize": [
    1400,
-   1050
+   1097
   ],
   "credit": {
-   "by": "Viktor V. Grøtan",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/10170556",
+   "by": "Bianca Bahlert",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/492594344",
    "source": "iNaturalist"
   },
   "obs": 83033,
@@ -15308,12 +15600,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/agonus-cataphractus.webp",
     "size": [
      1400,
-     1050
+     1097
     ],
     "credit": {
-     "by": "Viktor V. Grøtan",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/10170556",
+     "by": "Bianca Bahlert",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/492594344",
      "source": "iNaturalist"
     }
    },
@@ -15326,7 +15618,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Klaus Kevin Kristensen",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/240130880",
+     "url": "https://www.inaturalist.org/photos/343572438",
      "source": "iNaturalist"
     }
    },
@@ -15334,12 +15626,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/agonus-cataphractus-3.webp",
     "size": [
      1100,
-     619
+     825
     ],
     "credit": {
-     "by": "Viktor V. Grøtan",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/72999600",
+     "by": "Rita Jansen",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/373217139",
      "source": "iNaturalist"
     }
    }
@@ -15357,20 +15649,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De heilbot is een straalvinnige vis uit de familie van de schollen en de orde van de platvissen.",
   "facts": [
-   "Hij is een platvis: de bovenkant is donker, de onderkant glanzend wit.",
-   "Jonge heilbotten eten schelpdieren en krabben; volwassen dieren zijn roofvissen.",
-   "Hij leeft van 50 tot 2000 meter diep."
+   "Hij is de grootste platvis ter wereld.",
+   "Als larve heeft hij een oog aan elke kant; bij zo'n 2,5 centimeter schuift het linkeroog naar rechts.",
+   "Vrouwtjes worden pas met 10 tot 11 jaar volwassen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Heilbot",
   "img": "images/hippoglossus-hippoglossus.webp",
   "imgSize": [
    1400,
-   927
+   934
   ],
   "credit": {
-   "by": "shankar s.",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/109037533",
+   "by": "Claude Nozères",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/62542907",
    "source": "iNaturalist"
   },
   "obs": 43057,
@@ -15380,12 +15672,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/hippoglossus-hippoglossus.webp",
     "size": [
      1400,
-     927
+     934
     ],
     "credit": {
-     "by": "shankar s.",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/109037533",
+     "by": "Claude Nozères",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/62542907",
      "source": "iNaturalist"
     }
    },
@@ -15393,25 +15685,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/hippoglossus-hippoglossus-2.webp",
     "size": [
      1100,
-     825
+     728
     ],
     "credit": {
-     "by": "Vsevolod Rudyi",
+     "by": "shankar s.",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/431720679",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/hippoglossus-hippoglossus-3.webp",
-    "size": [
-     1100,
-     734
-    ],
-    "credit": {
-     "by": "Joachim S. Müller",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/71809608",
+     "url": "https://www.inaturalist.org/photos/109037533",
      "source": "iNaturalist"
     }
    }
@@ -15420,6 +15699,7 @@ window.OCEAN_ANIMALS = [
   "order": "Pleuronectiformes",
   "family": "Pleuronectidae",
   "ns": 151,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_halibut",
   "curated": true
  },
  {
@@ -15429,20 +15709,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De horsmakreel of beter de Atlantische horsmakreel is een straalvinnige vis, de typesoort uit de familie van horsmakrelen uit de orde van baarsachtigen.",
   "facts": [
-   "In de zomer is hij een algemene vis langs de Nederlandse kust.",
-   "Hij leeft van vlak onder het wateroppervlak tot 1000 meter diep.",
-   "Hij is belangrijk voor de visserij, maar minder populair bij hengelaars."
+   "Hij kan 40 jaar oud worden.",
+   "In de Egeïsche Zee zijn in zijn maag 60 verschillende prooisoorten gevonden.",
+   "Hij leeft van vlak onder het wateroppervlak tot 1000 meter diep."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Horsmakreel",
   "img": "images/trachurus-trachurus.webp",
   "imgSize": [
    1400,
-   727
+   1050
   ],
   "credit": {
-   "by": "Donald Davesne",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/79973035",
+   "by": "Dennis Rabeling",
+   "license": "CC-BY-NC-ND",
+   "url": "https://www.inaturalist.org/photos/263484980",
    "source": "iNaturalist"
   },
   "obs": 308045,
@@ -15452,12 +15732,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/trachurus-trachurus.webp",
     "size": [
      1400,
-     727
+     1050
     ],
     "credit": {
-     "by": "Donald Davesne",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/79973035",
+     "by": "Dennis Rabeling",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/263484980",
      "source": "iNaturalist"
     }
    },
@@ -15465,25 +15745,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/trachurus-trachurus-2.webp",
     "size": [
      1100,
-     825
+     736
     ],
     "credit": {
-     "by": "Julien Renoult",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/78102939",
+     "by": "Georgina Jones",
+     "license": "CC-BY-SA",
+     "url": "https://www.inaturalist.org/photos/625970131",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/trachurus-trachurus-3.webp",
     "size": [
-     1024,
-     685
+     1100,
+     733
     ],
     "credit": {
-     "by": "Georgina Jones",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/15698421",
+     "by": "Julien Renoult",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/207781582",
      "source": "iNaturalist"
     }
    }
@@ -15492,6 +15772,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Carangidae",
   "ns": 1749,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_horse_mackerel",
   "curated": true
  },
  {
@@ -15501,9 +15782,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De Indische koraalduivel is een straalvinnige vissensoort uit de familie van schorpioenvissen.",
   "facts": [
+   "Grote koraalduivels eten kleinere soortgenoten op.",
    "Zijn vinnen lijken op veren en vleugels.",
-   "Hij wordt vaak verward met de gewone koraalduivel.",
-   "Zijn stekels zijn erg giftig, al is een steek zelden dodelijk."
+   "Sinds 1991 rukt hij via het Suezkanaal op in de Middellandse Zee."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Indische_koraalduivel",
   "img": "images/pterois-miles.webp",
@@ -15536,13 +15817,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/pterois-miles-2.webp",
     "size": [
-     1100,
-     733
+     1024,
+     768
     ],
     "credit": {
-     "by": "Jane Kempler &amp; Andrew Goldby Freelance",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/479810803",
+     "by": "brentch",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/15737241",
      "source": "iNaturalist"
     }
    },
@@ -15553,9 +15834,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Survey-corps",
+     "by": "Falk Viczian Solarboot-Projekte gGmbH",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/458838459",
+     "url": "https://www.inaturalist.org/photos/465692547",
      "source": "iNaturalist"
     }
    }
@@ -15564,6 +15845,7 @@ window.OCEAN_ANIMALS = [
   "order": "Scorpaeniformes",
   "family": "Scorpaenidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Pterois_miles",
   "curated": true
  },
  {
@@ -15575,18 +15857,18 @@ window.OCEAN_ANIMALS = [
   "facts": [
    "Hij kan 2,5 meter lang en 350 kilo zwaar worden.",
    "Hij is nieuwsgierig en niet bang voor mensen.",
-   "Daardoor was hij een makkelijke prooi voor harpoenjagers."
+   "Jonge vissen groeien op tussen de mangroven."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Itajara",
   "img": "images/epinephelus-itajara.webp",
   "imgSize": [
-   1400,
-   933
+   1080,
+   771
   ],
   "credit": {
-   "by": "LASZLO ILYES from Cleveland",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/8000663",
+   "by": "Frank Krasovec",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/478333034",
    "source": "iNaturalist"
   },
   "obs": 22422,
@@ -15595,13 +15877,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/epinephelus-itajara.webp",
     "size": [
-     1400,
-     933
+     1080,
+     771
     ],
     "credit": {
-     "by": "LASZLO ILYES from Cleveland",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/8000663",
+     "by": "Frank Krasovec",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/478333034",
      "source": "iNaturalist"
     }
    },
@@ -15609,12 +15891,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/epinephelus-itajara-2.webp",
     "size": [
      1100,
-     632
+     825
     ],
     "credit": {
-     "by": "Robin Gwen Agarwal",
+     "by": "bronyaur",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/8418660",
+     "url": "https://www.inaturalist.org/photos/47713240",
      "source": "iNaturalist"
     }
    },
@@ -15622,12 +15904,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/epinephelus-itajara-3.webp",
     "size": [
      1100,
-     825
+     613
     ],
     "credit": {
-     "by": "Kate",
+     "by": "Jamie Holloway",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/33755836",
+     "url": "https://www.inaturalist.org/photos/236943246",
      "source": "iNaturalist"
     }
    }
@@ -15636,6 +15918,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Serranidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_goliath_grouper",
   "curated": true
  },
  {
@@ -15645,20 +15928,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "Johnsons hengelvis is een diepzeehengelvis die voorkomt in de tropische oceanen op een diepte van 200 tot 4000 meter.",
   "facts": [
-   "Hij leeft 200 tot 4000 meter diep.",
-   "Het vrouwtje heeft een bolrond lijf, een enorme kop en lange, scherpe tanden.",
-   "Het mannetje bijt zich vast in het vrouwtje, maar zwemt na het paaien weer weg."
+   "Het vrouwtje lokt prooien met een lichtgevend lampje, waarin bacteriën het licht maken.",
+   "Met haar lange, scherpe tanden eet ze prooien die groter zijn dan zijzelf.",
+   "Het mannetje is maar 1,5 tot 3 centimeter en bijt zich alleen even vast in het vrouwtje."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Johnsons_hengelvis",
   "img": "images/melanocetus-johnsonii.webp",
   "imgSize": [
    1400,
-   843
+   933
   ],
   "credit": {
-   "by": "Personnel of NOAA Ship DELAWARE II",
-   "license": "PD",
-   "url": "https://www.inaturalist.org/photos/374037918",
+   "by": "MARC MARTIN SOLA",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/468285045",
    "source": "iNaturalist"
   },
   "obs": 1473,
@@ -15668,38 +15951,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/melanocetus-johnsonii.webp",
     "size": [
      1400,
-     843
+     933
     ],
     "credit": {
-     "by": "Personnel of NOAA Ship DELAWARE II",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/374037918",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/melanocetus-johnsonii-2.webp",
-    "size": [
-     1100,
-     734
-    ],
-    "credit": {
-     "by": "Emőke Dénes",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/111151451",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/melanocetus-johnsonii-3.webp",
-    "size": [
-     1100,
-     734
-    ],
-    "credit": {
-     "by": "Ken Graham",
+     "by": "MARC MARTIN SOLA",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/171069905",
+     "url": "https://www.inaturalist.org/photos/468285045",
      "source": "iNaturalist"
     }
    }
@@ -15708,6 +15965,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lophiiformes",
   "family": "Melanocetidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Humpback_anglerfish",
   "curated": true
  },
  {
@@ -15717,7 +15975,7 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De kabeljauw is een vissoort uit de familie van de kabeljauwen en de orde van de kabeljauwachtigen, die voorkomt in de Atlantische Oceaan.",
   "facts": [
-   "Hij kan 1,5 meter lang worden.",
+   "Hij eet ook zijn eigen soortgenoten: soms bestaat zijn menu voor meer dan de helft uit jonge kabeljauw.",
    "Gedroogde kabeljauw heet stokvis of bakkeljauw.",
    "Hij trekt meer dan 800 kilometer om te paaien."
   ],
@@ -15753,12 +16011,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/gadus-morhua-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Viktor V. Grøtan",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/10161618",
+     "by": "hawkhawk",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/496925172",
      "source": "iNaturalist"
     }
    },
@@ -15766,12 +16024,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/gadus-morhua-3.webp",
     "size": [
      1100,
-     741
+     825
     ],
     "credit": {
-     "by": "no rights reserved",
-     "license": "CC0",
-     "url": "https://www.inaturalist.org/photos/3312268",
+     "by": "Rita Jansen",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/334371929",
      "source": "iNaturalist"
     }
    }
@@ -15780,6 +16038,7 @@ window.OCEAN_ANIMALS = [
   "order": "Gadiformes",
   "family": "Gadidae",
   "ns": 122440,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_cod",
   "curated": true
  },
  {
@@ -15789,20 +16048,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De kasmira-snapper of blauwgestreepte snapper is een straalvinnige vis uit de familie van snappers, orde van baarsachtigen.",
   "facts": [
-   "Je herkent hem aan zijn felgele lijf met blauwe strepen.",
-   "Hij vormt scholen van honderden vissen op koraalriffen.",
-   "Hij heeft scherpe hoektanden en een gevorkte staart."
+   "Een zeebarbeel doet hem na: hij heeft bijna precies dezelfde kleuren.",
+   "Hij is uitgezet bij Hawaï en heeft zich daar over veel eilanden verspreid.",
+   "Hij vormt scholen van honderden vissen op koraalriffen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kasmira-snapper",
   "img": "images/lutjanus-kasmira.webp",
   "imgSize": [
-   1400,
-   1120
+   1000,
+   667
   ],
   "credit": {
-   "by": "Meghan Cassidy",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/12781149",
+   "by": "Nigel Marsh",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/411180925",
    "source": "iNaturalist"
   },
   "obs": 9600,
@@ -15811,13 +16070,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/lutjanus-kasmira.webp",
     "size": [
-     1400,
-     1120
+     1000,
+     667
     ],
     "credit": {
-     "by": "Meghan Cassidy",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/12781149",
+     "by": "Nigel Marsh",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/411180925",
      "source": "iNaturalist"
     }
    },
@@ -15825,12 +16084,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lutjanus-kasmira-2.webp",
     "size": [
      1100,
-     850
+     733
     ],
     "credit": {
-     "by": "Meghan Cassidy",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/12781086",
+     "by": "Tony Strazzari",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/20927822",
      "source": "iNaturalist"
     }
    },
@@ -15838,12 +16097,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lutjanus-kasmira-3.webp",
     "size": [
      1100,
-     798
+     880
     ],
     "credit": {
-     "by": "John Sear",
+     "by": "Graham McMartin",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/267780213",
+     "url": "https://www.inaturalist.org/photos/344445744",
      "source": "iNaturalist"
     }
    }
@@ -15852,6 +16111,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Lutjanidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_bluestripe_snapper",
   "curated": true
  },
  {
@@ -15861,9 +16121,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De keizerbaars of oranje zaagbuikvis is een straalvinnige vis uit de familie van zaagbuikvissen en behoort derhalve tot de orde van slijmkopvissen.",
   "facts": [
-   "Hij staat bekend om zijn lange leven.",
-   "Hij leeft 180 tot 1800 meter diep.",
-   "Omdat hij traag volwassen wordt, is hij erg kwetsbaar voor overbevissing."
+   "Hij kan meer dan 200 jaar oud worden; één exemplaar werd geschat op ruim 230 jaar.",
+   "Hij krijgt pas jongen als hij minstens 20 jaar oud is.",
+   "Toen de visserij begon, dacht men dat hij maar 30 jaar werd."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Keizerbaars",
   "img": "images/hoplostethus-atlanticus.webp",
@@ -15892,38 +16152,13 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/483097548",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/hoplostethus-atlanticus-2.webp",
-    "size": [
-     1100,
-     661
-    ],
-    "credit": {
-     "by": "Ken Graham",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/169843296",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/hoplostethus-atlanticus-3.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Gonzalo Mucientes Sandoval",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/30067619",
-     "source": "iNaturalist"
-    }
    }
   ],
   "thumb": "thumbs/hoplostethus-atlanticus.webp",
   "order": "Beryciformes",
   "family": "Trachichthyidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Orange_roughy",
   "curated": true
  },
  {
@@ -15933,8 +16168,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De keizersvis is een soort uit de familie van de engel- of keizersvissen.",
   "facts": [
-   "Volwassen vissen hebben gele en blauwe strepen en een zwart 'masker' om de ogen.",
-   "Jonge vissen zien er heel anders uit: blauw met witte kringen.",
+   "Als hij schrikt, maakt hij een kloppend geluid.",
+   "Jonge vissen zien er heel anders uit: donkerblauw met witte en lichtblauwe kringen.",
    "Hij kan sponzen verteren, wat maar weinig vissen lukt."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Keizersvis",
@@ -15969,12 +16204,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pomacanthus-imperator-2.webp",
     "size": [
      1100,
-     823
+     825
     ],
     "credit": {
-     "by": "Klaus Stiefel",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/84157273",
+     "by": "J. Martin Crossley",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/437552372",
      "source": "iNaturalist"
     }
    },
@@ -15985,9 +16220,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "henrycarrick",
+     "by": "Henry Cooper",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/715374815",
+     "url": "https://www.inaturalist.org/photos/727832265",
      "source": "iNaturalist"
     }
    }
@@ -15996,6 +16231,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Pomacanthidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Emperor_angelfish",
   "curated": true
  },
  {
@@ -16005,9 +16241,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De kleine pieterman is een vis uit de familie van de pietermannen.",
   "facts": [
-   "Hij is een van de giftigste dieren van Europa.",
-   "Hij graaft zich in op zandbanken, ook aan de Nederlandse en Belgische kust.",
-   "Zet een prik minstens een kwartier in zo heet mogelijk water: boven 40 graden breekt het gif af."
+   "Hij is een van de giftigste dieren van Europa en ligt ingegraven op zandbanken bij het strand.",
+   "Zijn helemaal zwarte rugvin zit vol gif.",
+   "Zet een prik in zo heet mogelijk water: de hitte breekt het gif af."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kleine_pieterman",
   "img": "images/echiichthys-vipera.webp",
@@ -16041,12 +16277,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/echiichthys-vipera-2.webp",
     "size": [
      1100,
-     674
+     825
     ],
     "credit": {
-     "by": "Chris Isaacs",
+     "by": "Frédéric ANDRE",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/456169093",
+     "url": "https://www.inaturalist.org/photos/407911558",
      "source": "iNaturalist"
     }
    },
@@ -16054,12 +16290,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/echiichthys-vipera-3.webp",
     "size": [
      1100,
-     702
+     733
     ],
     "credit": {
-     "by": "Xavier Rufray",
+     "by": "Pascal GIRARD",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/168705417",
+     "url": "https://www.inaturalist.org/photos/168823346",
      "source": "iNaturalist"
     }
    }
@@ -16068,6 +16304,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Trachinidae",
   "ns": 907,
+  "wikiEn": "https://en.wikipedia.org/wiki/Lesser_weever",
   "curated": true
  },
  {
@@ -16077,9 +16314,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De koekopvis is een straalvinnige vissensoort uit de familie van de doktersvissen.",
   "facts": [
-   "Hij wordt zo'n 45 centimeter lang.",
-   "Hij graast wieren van de bodem.",
-   "Hij is algemeen op koraalriffen in de Grote en Indische Oceaan."
+   "Alleen doktersvissen zoals hij dragen de bijzondere bacterie Epulopiscium bij zich.",
+   "Anders dan sommige familieleden heeft hij geen 'hoorn' op zijn voorhoofd.",
+   "Hij graast wieren van de bodem."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Koekopvis",
   "img": "images/naso-lituratus.webp",
@@ -16113,12 +16350,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/naso-lituratus-2.webp",
     "size": [
      1100,
-     973
+     736
     ],
     "credit": {
-     "by": "Sara Thiebaud",
+     "by": "sdmariee",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/153857934",
+     "url": "https://www.inaturalist.org/photos/66776977",
      "source": "iNaturalist"
     }
    },
@@ -16126,12 +16363,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/naso-lituratus-3.webp",
     "size": [
      1100,
-     825
+     632
     ],
     "credit": {
-     "by": "dsagar",
+     "by": "animalview29",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/246467631",
+     "url": "https://www.inaturalist.org/photos/342503806",
      "source": "iNaturalist"
     }
    }
@@ -16140,6 +16377,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Acanthuridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Naso_lituratus",
   "curated": true
  },
  {
@@ -16149,8 +16387,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De kongeraal, congeraal of zeepaling is een straalvinnige vis die behoort tot de zeepalingen.",
   "facts": [
-   "Hij kan 3 meter lang en 110 kilo zwaar worden.",
-   "Overdag verstopt hij zich in een hol of scheepswrak; 's nachts gaat hij op jacht.",
+   "Hij is de zwaarste aal ter wereld.",
+   "Voor het paaien wordt zijn skelet lichter en vallen zijn tanden uit.",
    "Een vrouwtje legt 3 tot 8 miljoen eieren."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kongeraal",
@@ -16185,12 +16423,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/conger-conger-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Luis P. B.",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/349125584",
+     "by": "Libby Keatley",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/557972853",
      "source": "iNaturalist"
     }
    },
@@ -16198,12 +16436,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/conger-conger-3.webp",
     "size": [
      1100,
-     733
+     641
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "eduardmarques",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/204129327",
+     "url": "https://www.inaturalist.org/photos/230887823",
      "source": "iNaturalist"
     }
    }
@@ -16212,6 +16450,7 @@ window.OCEAN_ANIMALS = [
   "order": "Anguilliformes",
   "family": "Congridae",
   "ns": 80,
+  "wikiEn": "https://en.wikipedia.org/wiki/European_conger",
   "curated": true
  },
  {
@@ -16221,9 +16460,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De koningsvis is een veelkleurige zeevis.",
   "facts": [
-   "Hij is de enige vis waarvan bekend is dat hij volledig warmbloedig is.",
-   "Zijn lichaam is gemiddeld zo'n 5 graden warmer dan het water om hem heen.",
-   "Hij heeft een blauwe rug, zilveren buik en rode vinnen."
+   "Hij is de enige vis waarvan bekend is dat hij volledig warmbloedig is, zelfs zijn hart.",
+   "Zijn kieuwen zijn geïsoleerd met een laagje vet.",
+   "Dankzij zijn warme lijf kan hij in de koude diepte snel jagen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Koningsvis",
   "img": "images/lampris-guttatus.webp",
@@ -16271,6 +16510,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lampriformes",
   "family": "Lampridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Lampris_guttatus",
   "curated": true
  },
  {
@@ -16280,9 +16520,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De koolvis of zwarte koolvis is een straalvinnige vis uit de familie van kabeljauwen, orde kabeljauwachtigen, die voorkomt in het hoge noorden van de Atlantische Oceaan.",
   "facts": [
-   "Hij is donkergroen van boven en zilverkleurig opzij.",
-   "Hij komt ook voor in de Noordzee.",
-   "Hij eet vooral andere vissen, zoals sprot en zandspiering."
+   "Hij wordt soms gezouten en gerookt, zodat hij oranje kleurt als zalm.",
+   "Van hem worden ook vissticks gemaakt.",
+   "Hij kan 16 tot 20 jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Koolvis",
   "img": "images/pollachius-virens.webp",
@@ -16316,25 +16556,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pollachius-virens-2.webp",
     "size": [
      1100,
-     777
-    ],
-    "credit": {
-     "by": "no rights reserved",
-     "license": "CC0",
-     "url": "https://www.inaturalist.org/photos/4447734",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/pollachius-virens-3.webp",
-    "size": [
-     1100,
      825
     ],
     "credit": {
-     "by": "Michael Verdirame",
+     "by": "josia_nyman",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/64019818",
+     "url": "https://www.inaturalist.org/photos/91806262",
      "source": "iNaturalist"
     }
    }
@@ -16343,6 +16570,7 @@ window.OCEAN_ANIMALS = [
   "order": "Gadiformes",
   "family": "Gadidae",
   "ns": 3791,
+  "wikiEn": "https://en.wikipedia.org/wiki/Pollachius_virens",
   "curated": true
  },
  {
@@ -16352,6 +16580,7 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De koornaarvis is een straalvinnige vis uit de familie Atherinidae.",
   "facts": [
+   "Hij zwemt in scholen en trekt met de seizoenen mee.",
    "Hij wordt maximaal ongeveer 20 centimeter lang.",
    "Hij was algemeen in de Noordzee en de Waddenzee."
   ],
@@ -16387,12 +16616,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/atherina-presbyter-2.webp",
     "size": [
      1100,
-     768
+     825
     ],
     "credit": {
-     "by": "Ana Santos",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/95377478",
+     "by": "Dennis Rabeling",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/613426378",
      "source": "iNaturalist"
     }
    },
@@ -16400,12 +16629,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/atherina-presbyter-3.webp",
     "size": [
      1100,
-     733
+     620
     ],
     "credit": {
-     "by": "Octávio Mateus",
+     "by": "Ana Santos",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/93799991",
+     "url": "https://www.inaturalist.org/photos/159582728",
      "source": "iNaturalist"
     }
    }
@@ -16414,6 +16643,7 @@ window.OCEAN_ANIMALS = [
   "order": "Atheriniformes",
   "family": "Atherinidae",
   "ns": 69,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sand_smelt",
   "curated": true
  },
  {
@@ -16423,9 +16653,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "Het kortsnuitzeepaardje is een soort uit de familie Syngnathidae.",
   "facts": [
-   "Hij wordt soms gevangen in de Nederlandse kustwateren.",
-   "In 2007 werden in de Theems zich voortplantende kortsnuitzeepaardjes gevonden.",
-   "In 2019 werden er twee gevangen in de Zeeschelde bij Doel."
+   "Hij heeft geen tanden en geen maag: met zijn snuit zuigt hij eten zo naar binnen.",
+   "Het mannetje is 20 tot 21 dagen zwanger en bevalt meestal 's nachts.",
+   "In 2007 werden in de Theems zich voortplantende kortsnuitzeepaardjes gevonden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kortsnuitzeepaardje",
   "img": "images/hippocampus-hippocampus.webp",
@@ -16462,9 +16692,22 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
+     "by": "Rino",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/66663125",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/hippocampus-hippocampus-3.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
      "by": "Dennis Rabeling",
      "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/331255864",
+     "url": "https://www.inaturalist.org/photos/528786032",
      "source": "iNaturalist"
     }
    }
@@ -16473,6 +16716,7 @@ window.OCEAN_ANIMALS = [
   "order": "Syngnathiformes",
   "family": "Syngnathidae",
   "ns": 317,
+  "wikiEn": "https://en.wikipedia.org/wiki/Short-snouted_seahorse",
   "curated": true
  },
  {
@@ -16554,20 +16798,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De langhoornkoffervis is een straalvinnige vis uit de familie van de koffervissen.",
   "facts": [
-   "Boven elk oog heeft hij een hoorntje.",
-   "Zijn lijf zit in een hard pantser van vergroeide schubben.",
-   "Met straaltjes water blaast hij diertjes uit het zand."
+   "Zijn hoorntjes groeien binnen een paar maanden terug als ze beschadigd raken.",
+   "Hij kan brommen en klikken met spieren aan zijn zwemblaas.",
+   "Bij veel stress scheidt hij een gif af dat ook voor hemzelf giftig is."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Langhoornkoffervis",
   "img": "images/lactoria-cornuta.webp",
   "imgSize": [
-   1200,
-   801
+   1400,
+   933
   ],
   "credit": {
-   "by": "Francesco Ricciardi",
+   "by": "juju98",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/240512542",
+   "url": "https://www.inaturalist.org/photos/165084680",
    "source": "iNaturalist"
   },
   "obs": 2410,
@@ -16576,31 +16820,18 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/lactoria-cornuta.webp",
     "size": [
-     1200,
-     801
+     1400,
+     933
     ],
     "credit": {
-     "by": "Francesco Ricciardi",
+     "by": "juju98",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/240512542",
+     "url": "https://www.inaturalist.org/photos/165084680",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/lactoria-cornuta-2.webp",
-    "size": [
-     960,
-     720
-    ],
-    "credit": {
-     "by": "Pauline Walsh Jacobson",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/330990228",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/lactoria-cornuta-3.webp",
     "size": [
      1100,
      813
@@ -16611,12 +16842,26 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/89736225",
      "source": "iNaturalist"
     }
+   },
+   {
+    "img": "images/lactoria-cornuta-3.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "Tsu Soo Tan",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/249028363",
+     "source": "iNaturalist"
+    }
    }
   ],
   "thumb": "thumbs/lactoria-cornuta.webp",
   "order": "Tetraodontiformes",
   "family": "Ostraciidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Longhorn_cowfish",
   "curated": true
  },
  {
@@ -16626,20 +16871,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "Het langsnuitzeepaardje is een soort uit het geslacht Hippocampus uit de familie van de zeenaalden.",
   "facts": [
-   "Zijn snuit is lang en recht.",
-   "Uitsteeksels op zijn kop en rug helpen hem te camoufleren.",
+   "Hij kan snel van kleur veranderen om op zijn omgeving te lijken.",
+   "Op zijn kop en rug zitten lange huidflapjes die hem camoufleren.",
    "De jongen blijven in de buidel van het mannetje tot ze zo'n 15 millimeter zijn."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Langsnuitzeepaardje",
   "img": "images/hippocampus-guttulatus.webp",
   "imgSize": [
    1400,
-   1050
+   1054
   ],
   "credit": {
    "by": "Sylvain Le Bris",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/154810988",
+   "url": "https://www.inaturalist.org/photos/172468991",
    "source": "iNaturalist"
   },
   "obs": 3854,
@@ -16649,25 +16894,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/hippocampus-guttulatus.webp",
     "size": [
      1400,
-     1050
+     1054
     ],
     "credit": {
      "by": "Sylvain Le Bris",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/154810988",
+     "url": "https://www.inaturalist.org/photos/172468991",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/hippocampus-guttulatus-2.webp",
     "size": [
-     1024,
-     729
+     1100,
+     825
     ],
     "credit": {
-     "by": "Mare Per Sempre",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/359030814",
+     "by": "Pierre Corbrion",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/169092528",
      "source": "iNaturalist"
     }
    },
@@ -16675,12 +16920,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/hippocampus-guttulatus-3.webp",
     "size": [
      1100,
-     727
+     825
     ],
     "credit": {
-     "by": "Bernat Espigulé",
+     "by": "Survey-corps",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/227735550",
+     "url": "https://www.inaturalist.org/photos/664615148",
      "source": "iNaturalist"
     }
    }
@@ -16689,6 +16934,7 @@ window.OCEAN_ANIMALS = [
   "order": "Syngnathiformes",
   "family": "Syngnathidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Long-snouted_seahorse",
   "curated": true
  },
  {
@@ -16697,17 +16943,21 @@ window.OCEAN_ANIMALS = [
   "sci": "Platax teira",
   "cat": "Vissen",
   "intro": "De langvinvleermuisvis is een straalvinnige vissensoort uit de familie van de schopvissen.",
-  "facts": [],
+  "facts": [
+   "Hij kan waar je bij staat van zilverwit naar bruin met banden veranderen, en weer terug.",
+   "Heel jonge vissen zien eruit als drijvende blaadjes.",
+   "Er loopt een zwarte band door zijn oog."
+  ],
   "wiki": "https://nl.wikipedia.org/wiki/Langvinvleermuisvis",
   "img": "images/platax-teira.webp",
   "imgSize": [
    1400,
-   933
+   1051
   ],
   "credit": {
-   "by": "madgeographic",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/155551553",
+   "by": "ajustinfocus.com",
+   "license": "CC-BY-NC-ND",
+   "url": "https://www.inaturalist.org/photos/346413167",
    "source": "iNaturalist"
   },
   "obs": 3970,
@@ -16717,12 +16967,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/platax-teira.webp",
     "size": [
      1400,
-     933
+     1051
     ],
     "credit": {
-     "by": "madgeographic",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/155551553",
+     "by": "ajustinfocus.com",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/346413167",
      "source": "iNaturalist"
     }
    },
@@ -16733,9 +16983,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "madgeographic",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/181323696",
+     "url": "https://www.inaturalist.org/photos/155551553",
      "source": "iNaturalist"
     }
    },
@@ -16746,9 +16996,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Luis P. B.",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/236333086",
+     "by": "Colin Marshall",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/658230901",
      "source": "iNaturalist"
     }
    }
@@ -16756,7 +17006,9 @@ window.OCEAN_ANIMALS = [
   "thumb": "thumbs/platax-teira.webp",
   "order": "Perciformes",
   "family": "Ephippidae",
-  "ns": 0
+  "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Platax_teira",
+  "curated": true
  },
  {
   "id": "molva-molva",
@@ -16765,20 +17017,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De leng is een straalvinnige vis uit de familie Lotidae en de orde van de kabeljauwachtigen, die voorkomt in het noordwesten en het noordoosten van de Atlantische Oceaan, de Noordzee en de Middellandse Zee.",
   "facts": [
-   "Zijn rugvin heeft geen stekels, maar wel 75 tot 80 vinstralen.",
-   "Hij leeft op harde bodems van 80 tot 1000 meter diep.",
+   "Hij is de langste van alle kabeljauwachtigen, tot 2 meter.",
+   "In Spanje zijn zijn gezouten eitjes een delicatesse.",
    "Hij eet vissen, kreeften en kleine octopussen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Leng_%28vis%29",
   "img": "images/molva-molva.webp",
   "imgSize": [
-   1400,
-   1050
+   1200,
+   800
   ],
   "credit": {
-   "by": "Vsevolod Rudyi",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/155653858",
+   "by": "Tony Gilbert",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/175900852",
    "source": "iNaturalist"
   },
   "obs": 26507,
@@ -16787,13 +17039,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/molva-molva.webp",
     "size": [
-     1400,
-     1050
+     1200,
+     800
     ],
     "credit": {
-     "by": "Vsevolod Rudyi",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/155653858",
+     "by": "Tony Gilbert",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/175900852",
      "source": "iNaturalist"
     }
    },
@@ -16801,12 +17053,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/molva-molva-2.webp",
     "size": [
      1100,
-     733
+     662
     ],
     "credit": {
-     "by": "Viktor V. Grøtan",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/10160652",
+     "by": "mattgbrown",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/729601409",
      "source": "iNaturalist"
     }
    },
@@ -16814,12 +17066,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/molva-molva-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Guido Schmitz",
+     "by": "Tony Gilbert",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/2022555",
+     "url": "https://www.inaturalist.org/photos/425879803",
      "source": "iNaturalist"
     }
    }
@@ -16828,6 +17080,7 @@ window.OCEAN_ANIMALS = [
   "order": "Gadiformes",
   "family": "Lotidae",
   "ns": 1181,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_ling",
   "curated": true
  },
  {
@@ -16837,9 +17090,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De luipaardtrekkervis behoort tot de orde van de kogelvisachtigen en de familie van de trekkervissen.",
   "facts": [
-   "Zijn buik zit vol grote witte vlekken en om zijn bek zit een gele ring.",
-   "Met zijn krachtige tanden kraakt hij zee-egels, krabben en schelpen.",
-   "In de paaitijd verdedigt hij fel zijn territorium."
+   "Hij kan zijn rugstekel op slot zetten.",
+   "Hoe ouder hij wordt, hoe agressiever hij is.",
+   "Zijn buik zit vol grote witte vlekken en om zijn bek zit een gele ring."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Luipaardtrekkervis",
   "img": "images/balistoides-conspicillum.webp",
@@ -16873,12 +17126,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/balistoides-conspicillum-2.webp",
     "size": [
      1100,
-     667
+     735
     ],
     "credit": {
-     "by": "Tony Strazzari",
+     "by": "Benoît Segerer",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/20015246",
+     "url": "https://www.inaturalist.org/photos/172192026",
      "source": "iNaturalist"
     }
    },
@@ -16889,9 +17142,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "mattdowse",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/79966070",
+     "by": "Jane Kempler &amp; Andrew Goldby Freelance",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/477532685",
      "source": "iNaturalist"
     }
    }
@@ -16900,6 +17153,7 @@ window.OCEAN_ANIMALS = [
   "order": "Tetraodontiformes",
   "family": "Balistidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Clown_triggerfish",
   "curated": true
  },
  {
@@ -16909,9 +17163,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De maanvis of klompvis is een van de zwaarste bekende beenvissen.",
   "facts": [
-   "Hij is een van de zwaarste beenvissen: in 2022 werd bij de Azoren een maanvis van 2744 kilo gevonden.",
-   "Een vrouwtje kan 300 miljoen eitjes leggen: een record onder de gewervelde dieren.",
-   "Zijn huid kan op de buik 7,5 centimeter dik zijn."
+   "Hij springt soms uit het water, mogelijk om parasieten kwijt te raken.",
+   "Plat op zijn zij aan het oppervlak laat hij zeevogels parasieten van zijn huid pikken.",
+   "Een vrouwtje kan 300 miljoen eitjes leggen: een record onder de gewervelde dieren."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Maanvis_%28Mola%29",
   "img": "images/mola-mola.webp",
@@ -16946,6 +17200,7 @@ window.OCEAN_ANIMALS = [
   "order": "Tetraodontiformes",
   "family": "Molidae",
   "ns": 134,
+  "wikiEn": "https://en.wikipedia.org/wiki/Ocean_sunfish",
   "curated": true
  },
  {
@@ -16955,9 +17210,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De makreel is een straalvinnige vis uit de orde van de baarsachtigen.",
   "facts": [
-   "Hij zwemt in scholen vlak onder het wateroppervlak.",
+   "In een school zwemmen ze maar één bekbreedte van elkaar: plankton dat de ene ontwijkt, belandt in de bek van de ander.",
    "Een vrouwtje legt per seizoen tot 450.000 eieren.",
-   "Omdat zijn vlees snel bederft, wordt makreel meestal gestoomd verkocht."
+   "Hij springt alleen uit het water als hij moet vluchten."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Makreel",
   "img": "images/scomber-scombrus.webp",
@@ -17018,6 +17273,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Scombridae",
   "ns": 3745,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_mackerel",
   "curated": true
  },
  {
@@ -17026,7 +17282,11 @@ window.OCEAN_ANIMALS = [
   "sci": "Dascyllus aruanus",
   "cat": "Vissen",
   "intro": "Het markiezinnetje is een straalvinnige vissensoort uit de familie van de rifbaarzen en koraaljuffertjes.",
-  "facts": [],
+  "facts": [
+   "Hij woont in één koraal en zwemt zelden ver van het huisje waar hij geboren is.",
+   "Hij geeft het koraal voedingsstoffen; in ruil krijgt hij een schuilplek.",
+   "Zijn zwart-witte kleuren blijven zijn hele leven hetzelfde."
+  ],
   "wiki": "https://nl.wikipedia.org/wiki/Markiezinnetje",
   "img": "images/dascyllus-aruanus.webp",
   "imgSize": [
@@ -17059,12 +17319,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dascyllus-aruanus-2.webp",
     "size": [
      1100,
-     880
+     733
     ],
     "credit": {
-     "by": "Glen Whisson",
+     "by": "terence zahner",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/20996208",
+     "url": "https://www.inaturalist.org/photos/62392288",
      "source": "iNaturalist"
     }
    },
@@ -17072,12 +17332,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dascyllus-aruanus-3.webp",
     "size": [
      1100,
-     699
+     798
     ],
     "credit": {
-     "by": "Ryan Yue Wah Chan",
+     "by": "Peter",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/45242228",
+     "url": "https://www.inaturalist.org/photos/46096726",
      "source": "iNaturalist"
     }
    }
@@ -17085,7 +17345,9 @@ window.OCEAN_ANIMALS = [
   "thumb": "thumbs/dascyllus-aruanus.webp",
   "order": "Perciformes",
   "family": "Pomacentridae",
-  "ns": 0
+  "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Whitetail_dascyllus",
+  "curated": true
  },
  {
   "id": "zanclus-cornutus",
@@ -17094,9 +17356,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De maskerwimpelvis is een kleine, baarsachtige zeevis en de enige soort uit het geslacht Zanclus en de familie wimpelvissen.",
   "facts": [
+   "Bij Palau komen ze met honderden samen om te paaien, en dan slaan grijze rifhaaien toe.",
    "Zijn rugvin is lang en sikkelvormig, als een wimpel.",
-   "Hij heeft een lange, buisvormige snuit.",
-   "Hij kiest één partner voor het leven."
+   "Volwassen vissen hebben kleine benige bultjes boven de ogen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Maskerwimpelvis",
   "img": "images/zanclus-cornutus.webp",
@@ -17130,12 +17392,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/zanclus-cornutus-2.webp",
     "size": [
      1100,
-     944
+     825
     ],
     "credit": {
-     "by": "John Sear",
+     "by": "Mark Rosenstein",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/34786247",
+     "url": "https://www.inaturalist.org/photos/108155091",
      "source": "iNaturalist"
     }
    },
@@ -17157,6 +17419,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Zanclidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Moorish_idol",
   "curated": true
  },
  {
@@ -17166,21 +17429,21 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De moeraal of murene is een straalvinnige vis van het geslacht muraena uit de familie van de murenen, orde palingachtigen.",
   "facts": [
-   "Hij kan 1,5 tot 1,8 meter lang worden.",
    "De Romeinen hielden murenen in vijvers, als huisdier of als voedsel.",
-   "Een beet is gevaarlijk door het milde gif in zijn slijm en etensresten in zijn bek."
+   "Zijn bek is zo lang dat hij tot achter zijn kieuwen loopt.",
+   "Een beet is gevaarlijk door het milde gif in zijn slijm."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Moeraal",
   "img": "images/muraena-helena.webp",
   "imgSize": [
    1400,
-   1400
+   1050
   ],
   "credit": {
-   "by": "Diego Delso",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Morena_del_Mediterr%C3%A1neo_(Muraena_helena),_Regga,_Gozo,_Malta,_2021-08-23,_DD_14.jpg",
-   "source": "Wikimedia Commons"
+   "by": "frahome",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/90348912",
+   "source": "iNaturalist"
   },
   "obs": 17671,
   "map": "maps/muraena-helena.webp",
@@ -17189,20 +17452,7 @@ window.OCEAN_ANIMALS = [
     "img": "images/muraena-helena.webp",
     "size": [
      1400,
-     1400
-    ],
-    "credit": {
-     "by": "Diego Delso",
-     "license": "CC BY-SA 4.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Morena_del_Mediterr%C3%A1neo_(Muraena_helena),_Regga,_Gozo,_Malta,_2021-08-23,_DD_14.jpg",
-     "source": "Wikimedia Commons"
-    }
-   },
-   {
-    "img": "images/muraena-helena-2.webp",
-    "size": [
-     1100,
-     825
+     1050
     ],
     "credit": {
      "by": "frahome",
@@ -17212,15 +17462,28 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
+    "img": "images/muraena-helena-2.webp",
+    "size": [
+     1100,
+     619
+    ],
+    "credit": {
+     "by": "Falk Viczian Solarboot-Projekte gGmbH",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/457076543",
+     "source": "iNaturalist"
+    }
+   },
+   {
     "img": "images/muraena-helena-3.webp",
     "size": [
      1100,
-     826
+     733
     ],
     "credit": {
-     "by": "nickwinz",
+     "by": "josepvilanova",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/300386056",
+     "url": "https://www.inaturalist.org/photos/102663502",
      "source": "iNaturalist"
     }
    }
@@ -17229,6 +17492,7 @@ window.OCEAN_ANIMALS = [
   "order": "Anguilliformes",
   "family": "Muraenidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Mediterranean_moray",
   "curated": true
  },
  {
@@ -17245,13 +17509,13 @@ window.OCEAN_ANIMALS = [
   "wiki": "https://nl.wikipedia.org/wiki/Mul_%28vis%29",
   "img": "images/mullus-surmuletus.webp",
   "imgSize": [
-   1400,
-   1050
+   1024,
+   683
   ],
   "credit": {
-   "by": "Stamatis Zogaris",
+   "by": "João Pedro Silva",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/595809789",
+   "url": "https://www.inaturalist.org/photos/3426676",
    "source": "iNaturalist"
   },
   "obs": 84521,
@@ -17260,13 +17524,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/mullus-surmuletus.webp",
     "size": [
-     1400,
-     1050
+     1024,
+     683
     ],
     "credit": {
-     "by": "Stamatis Zogaris",
+     "by": "João Pedro Silva",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/595809789",
+     "url": "https://www.inaturalist.org/photos/3426676",
      "source": "iNaturalist"
     }
    },
@@ -17274,12 +17538,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/mullus-surmuletus-2.webp",
     "size": [
      1100,
-     619
+     825
     ],
     "credit": {
-     "by": "Falk Viczian Solarboot-Projekte gGmbH",
+     "by": "Frédéric ANDRE",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/301116222",
+     "url": "https://www.inaturalist.org/photos/326147277",
      "source": "iNaturalist"
     }
    },
@@ -17287,12 +17551,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/mullus-surmuletus-3.webp",
     "size": [
      1100,
-     733
+     619
     ],
     "credit": {
-     "by": "Jean-Paul Cassez",
+     "by": "Falk Viczian Solarboot-Projekte gGmbH",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/211162697",
+     "url": "https://www.inaturalist.org/photos/453566101",
      "source": "iNaturalist"
     }
    }
@@ -17310,20 +17574,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De Napoleonvis is een vis die onder andere voor komt in de Rode zee en de Arabische Zee.",
   "facts": [
+   "Hij jaagt soms samen met de koraalbaars.",
    "Hij is de grootste lipvis en kan 190 kilo wegen.",
-   "Je herkent hem aan zijn bult op het voorhoofd.",
-   "Hij is heel nieuwsgierig en zwemt tot op een paar meter van duikers."
+   "Hij begint als vrouwtje; sommige worden rond hun negende mannetje."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Napoleonvis",
   "img": "images/cheilinus-undulatus.webp",
   "imgSize": [
    1400,
-   933
+   994
   ],
   "credit": {
-   "by": "David Roche",
+   "by": "Ahmed Fouad",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/107582757",
+   "url": "https://www.inaturalist.org/photos/187027872",
    "source": "iNaturalist"
   },
   "obs": 5464,
@@ -17333,7 +17597,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/cheilinus-undulatus.webp",
     "size": [
      1400,
-     933
+     994
+    ],
+    "credit": {
+     "by": "Ahmed Fouad",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/187027872",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/cheilinus-undulatus-2.webp",
+    "size": [
+     1100,
+     733
     ],
     "credit": {
      "by": "David Roche",
@@ -17343,28 +17620,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/cheilinus-undulatus-2.webp",
-    "size": [
-     1100,
-     734
-    ],
-    "credit": {
-     "by": "ingridkunz-henrichs",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/260175695",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/cheilinus-undulatus-3.webp",
     "size": [
      1100,
-     825
+     731
     ],
     "credit": {
-     "by": "ethan currens",
+     "by": "Michael Long",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/379569658",
+     "url": "https://www.inaturalist.org/photos/108521980",
      "source": "iNaturalist"
     }
    }
@@ -17373,6 +17637,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Labridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Humphead_wrasse",
   "curated": true
  },
  {
@@ -17381,24 +17646,41 @@ window.OCEAN_ANIMALS = [
   "sci": "Chaetodon auriga",
   "cat": "Vissen",
   "intro": "Chaetodon auriga is een straalvinnige vissensoort uit de familie van koraalvlinders.",
-  "facts": [],
+  "facts": [
+   "Achter op zijn rugvin zit een zwarte oogvlek met een lang draadje erachter.",
+   "Een zwarte band loopt dwars door zijn echte oog.",
+   "In de Rode Zee leeft een variant zonder oogvlek."
+  ],
   "wiki": "https://nl.wikipedia.org/wiki/Oogvlekkoraalvlinder",
   "img": "images/chaetodon-auriga.webp",
   "imgSize": [
-   1024,
-   768
+   1400,
+   1023
   ],
   "credit": {
-   "by": "Bernard E. Picton BernardP",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Bep_chaetodon_auriga_pemba.jpg",
-   "source": "Wikimedia Commons"
+   "by": "Simon Nicholas",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/549267892",
+   "source": "iNaturalist"
   },
   "obs": 17029,
   "map": "maps/chaetodon-auriga.webp",
   "photos": [
    {
     "img": "images/chaetodon-auriga.webp",
+    "size": [
+     1400,
+     1023
+    ],
+    "credit": {
+     "by": "Simon Nicholas",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/549267892",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/chaetodon-auriga-2.webp",
     "size": [
      1024,
      768
@@ -17411,28 +17693,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/chaetodon-auriga-2.webp",
-    "size": [
-     1000,
-     665
-    ],
-    "credit": {
-     "by": "zsispeo",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/14193990",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/chaetodon-auriga-3.webp",
     "size": [
      1100,
-     923
+     825
     ],
     "credit": {
-     "by": "Jacob",
+     "by": "Langzi",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/386289722",
+     "url": "https://www.inaturalist.org/photos/317521711",
      "source": "iNaturalist"
     }
    }
@@ -17440,7 +17709,9 @@ window.OCEAN_ANIMALS = [
   "thumb": "thumbs/chaetodon-auriga.webp",
   "order": "Perciformes",
   "family": "Chaetodontidae",
-  "ns": 0
+  "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Threadfin_butterflyfish",
+  "curated": true
  },
  {
   "id": "uranoscopus-scaber",
@@ -17449,9 +17720,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "Uranoscopus scaber of opkijker is een straalvinnige vissensoort uit de familie van sterrenkijkers.",
   "facts": [
-   "Zijn bek staat rechtop, zodat hij naar boven 'kijkt'.",
-   "Hij heeft gifstekels op zijn kieuwdeksel en zijn rugvin.",
-   "Hij leeft op modderige en zandige bodems."
+   "Hij kan stroomstootjes geven, bij het eten en als hij gestoord wordt.",
+   "Hij ligt ingegraven met alleen zijn ogen boven het zand.",
+   "Met een huidflapje aan zijn onderkaak lokt hij prooien."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Opkijker",
   "img": "images/uranoscopus-scaber.webp",
@@ -17485,25 +17756,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/uranoscopus-scaber-2.webp",
     "size": [
      1100,
-     732
+     825
     ],
     "credit": {
-     "by": "Thomas Menut",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/175995531",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/uranoscopus-scaber-3.webp",
-    "size": [
-     886,
-     594
-    ],
-    "credit": {
-     "by": "Xavier Rufray",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/101943949",
+     "by": "Dennis Rabeling",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/182687260",
      "source": "iNaturalist"
     }
    }
@@ -17512,6 +17770,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Uranoscopidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_stargazer",
   "curated": true
  },
  {
@@ -17521,9 +17780,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De paardmakreel is een straalvinnige vis uit de familie van de horsmakrelen en behoort derhalve tot de orde van de baarsachtigen.",
   "facts": [
-   "Hij heeft een zwarte vlek bij de rand van zijn kieuwdeksel.",
-   "Jonge vissen zwemmen in scholen, volwassen vissen vaak alleen.",
-   "Voor een aanval op een school vissen raakt hij erg opgewonden."
+   "Hij kan leven in zoet water én in water dat zouter is dan de zee.",
+   "Jonge vissen die met de stroming te ver naar het noorden drijven, moeten op tijd terug, anders sterven ze van de kou.",
+   "Het oudste bekende exemplaar was 17 jaar."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Paardmakreel",
   "img": "images/caranx-hippos.webp",
@@ -17557,25 +17816,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/caranx-hippos-2.webp",
     "size": [
      1100,
-     735
+     825
     ],
     "credit": {
-     "by": "Alex R",
+     "by": "Donají Graham",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/22046376",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/caranx-hippos-3.webp",
-    "size": [
-     1100,
-     619
-    ],
-    "credit": {
-     "by": "R Lai",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/418506558",
+     "url": "https://www.inaturalist.org/photos/39420706",
      "source": "iNaturalist"
     }
    }
@@ -17584,6 +17830,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Carangidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Crevalle_jack",
   "curated": true
  },
  {
@@ -17594,20 +17841,20 @@ window.OCEAN_ANIMALS = [
   "intro": "De Pacifische zeilvis is een straalvinnige vis uit de familie van zeilvissen en behoort derhalve tot de orde van baarsachtigen.",
   "facts": [
    "Hij is waarschijnlijk het snelste dier in het water, met snelheden tot 109 kilometer per uur.",
-   "Hij kan bijna 3,5 meter lang worden.",
-   "Hij leeft in alle grote oceanen en ook in de Middellandse Zee."
+   "Met zijn scherpe snavel jaagt hij op tonijn en makreel, zelf ook supersnelle vissen.",
+   "Hij kan bijna 3,5 meter lang worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Pacifische_zeilvis",
   "img": "images/istiophorus-platypterus.webp",
   "imgSize": [
-   1000,
-   537
+   1400,
+   930
   ],
   "credit": {
-   "by": "This illustration was made by Citron You must credit this : Citron / CC-BY-SA-3.0",
-   "license": "CC BY-SA 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Istiophorus_platypterus.jpg",
-   "source": "Wikimedia Commons"
+   "by": "edgarku",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/341497370",
+   "source": "iNaturalist"
   },
   "obs": 19385,
   "map": "maps/istiophorus-platypterus.webp",
@@ -17615,26 +17862,26 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/istiophorus-platypterus.webp",
     "size": [
-     1000,
-     537
+     1400,
+     930
     ],
     "credit": {
-     "by": "This illustration was made by Citron You must credit this : Citron / CC-BY-SA-3.0",
-     "license": "CC BY-SA 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Istiophorus_platypterus.jpg",
-     "source": "Wikimedia Commons"
+     "by": "edgarku",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/341497370",
+     "source": "iNaturalist"
     }
    },
    {
     "img": "images/istiophorus-platypterus-2.webp",
     "size": [
      1100,
-     626
+     619
     ],
     "credit": {
-     "by": "Kawahara Keiga",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/9197846",
+     "by": "rudi-diesel",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/388539772",
      "source": "iNaturalist"
     }
    },
@@ -17642,12 +17889,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/istiophorus-platypterus-3.webp",
     "size": [
      1100,
-     735
+     731
     ],
     "credit": {
-     "by": "ajhg",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/537908997",
+     "by": "edgarku",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/341497359",
      "source": "iNaturalist"
     }
    }
@@ -17656,6 +17903,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Istiophoridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Indo-Pacific_sailfish",
   "curated": true
  },
  {
@@ -17665,20 +17913,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De paling, ook wel aal of vollediger Europese aal, is een straalvinnige vis die behoort tot de familie echte palingen.",
   "facts": [
-   "De oudst bekende paling werd 88 jaar.",
-   "Om te paaien zwemt hij zo'n 6000 kilometer naar zee.",
-   "Zijn larven zijn plat als een wilgenblaadje, zodat ze minder opvallen."
+   "Hij wordt geboren in de Sargassozee; de larven drijven 300 dagen lang naar Europa.",
+   "Voor de terugreis worden zijn ogen groter en zijn flanken zilver.",
+   "De oudst bekende paling werd 88 jaar."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Paling",
   "img": "images/anguilla-anguilla.webp",
   "imgSize": [
    1400,
-   1050
+   933
   ],
   "credit": {
-   "by": "Julien Renoult",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/44085210",
+   "by": "Mattia",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/21512695",
    "source": "iNaturalist"
   },
   "obs": 1113584,
@@ -17688,12 +17936,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/anguilla-anguilla.webp",
     "size": [
      1400,
-     1050
+     933
     ],
     "credit": {
-     "by": "Julien Renoult",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/44085210",
+     "by": "Mattia",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/21512695",
      "source": "iNaturalist"
     }
    },
@@ -17704,9 +17952,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Julien Renoult",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/4523737",
+     "by": "Anne Holz",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/712567454",
      "source": "iNaturalist"
     }
    },
@@ -17717,9 +17965,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Nikita Vasiliuk",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/49778550",
+     "by": "lindra",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/234265640",
      "source": "iNaturalist"
     }
    }
@@ -17728,6 +17976,7 @@ window.OCEAN_ANIMALS = [
   "order": "Anguilliformes",
   "family": "Anguillidae",
   "ns": 1578,
+  "wikiEn": "https://en.wikipedia.org/wiki/European_eel",
   "curated": true
  },
  {
@@ -17736,7 +17985,11 @@ window.OCEAN_ANIMALS = [
   "sci": "Arothron meleagris",
   "cat": "Vissen",
   "intro": "Arothron meleagris is een straalvinnige vissensoort uit de familie van de kogelvissen.",
-  "facts": [],
+  "facts": [
+   "Hij bestaat in een bruine variant met witte stippen en een gele variant met zwarte stippen.",
+   "Zeldzame gele exemplaren kosten in de aquariumhandel tot 500 dollar.",
+   "Als hij hard zwemt, gaat zijn bek open en zie je zijn scherpe voortanden."
+  ],
   "wiki": "https://nl.wikipedia.org/wiki/Arothron_meleagris",
   "img": "images/arothron-meleagris.webp",
   "imgSize": [
@@ -17769,25 +18022,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/arothron-meleagris-2.webp",
     "size": [
      1100,
-     825
+     1020
     ],
     "credit": {
-     "by": "Billy Bensted-Smith",
+     "by": "Carmelo López Abad",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/447712969",
+     "url": "https://www.inaturalist.org/photos/1551541",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/arothron-meleagris-3.webp",
     "size": [
-     1100,
-     825
+     1024,
+     768
     ],
     "credit": {
-     "by": "campbell_david",
+     "by": "KJ",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/361169039",
+     "url": "https://www.inaturalist.org/photos/347256161",
      "source": "iNaturalist"
     }
    }
@@ -17795,7 +18048,9 @@ window.OCEAN_ANIMALS = [
   "thumb": "thumbs/arothron-meleagris.webp",
   "order": "Tetraodontiformes",
   "family": "Tetraodontidae",
-  "ns": 0
+  "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Arothron_meleagris",
+  "curated": true
  },
  {
   "id": "bothus-lunatus",
@@ -17804,9 +18059,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De pauwbot is een straalvinnige vis uit de familie van de botachtigen en de orde van de platvissen, die voorkomt in het westen, het oosten, het zuidwesten en het zuidoosten van de Atlantische Oceaan.",
   "facts": [
-   "Het is een platvis van maximaal 46 centimeter.",
-   "Hij leeft in tropische zeeën en bij koraalriffen.",
-   "Hij jaagt op kleine dieren en vis."
+   "Zijn ogen staan op korte steeltjes.",
+   "Hij past zijn kleur aan de bodem aan.",
+   "Een kleine octopus doet zijn zwemstijl na, mogelijk om roofvissen af te schrikken."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Pauwbot",
   "img": "images/bothus-lunatus.webp",
@@ -17815,9 +18070,9 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "Eamon Corbett",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/60009071",
+   "by": "Carmelo López Abad",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/66992635",
    "source": "iNaturalist"
   },
   "obs": 19916,
@@ -17830,9 +18085,9 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "Eamon Corbett",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/60009071",
+     "by": "Carmelo López Abad",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/66992635",
      "source": "iNaturalist"
     }
    },
@@ -17843,9 +18098,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Robin White",
+     "by": "Eamon Corbett",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/390593170",
+     "url": "https://www.inaturalist.org/photos/60009071",
      "source": "iNaturalist"
     }
    },
@@ -17856,9 +18111,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Carmelo López Abad",
+     "by": "lalsmith",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/66992635",
+     "url": "https://www.inaturalist.org/photos/43546365",
      "source": "iNaturalist"
     }
    }
@@ -17867,6 +18122,7 @@ window.OCEAN_ANIMALS = [
   "order": "Pleuronectiformes",
   "family": "Bothidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Plate_fish",
   "curated": true
  },
  {
@@ -17878,18 +18134,18 @@ window.OCEAN_ANIMALS = [
   "facts": [
    "Hij heeft oranje, blauwe en witte strepen.",
    "Die felle strepen maken zijn vorm juist moeilijker te herkennen voor roofvissen.",
-   "Hij leeft vaak langs koraalwanden, in de buurt van grotten."
+   "Jonge vissen hebben een grote donkere vlek op hun rugvin."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Pauwoogkeizersvis",
   "img": "images/pygoplites-diacanthus.webp",
   "imgSize": [
-   1000,
-   668
+   1400,
+   1097
   ],
   "credit": {
-   "by": "zsispeo",
-   "license": "CC-BY-NC-SA",
-   "url": "https://www.inaturalist.org/photos/19320739",
+   "by": "Nathan Cook",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/326913054",
    "source": "iNaturalist"
   },
   "obs": 8923,
@@ -17897,6 +18153,19 @@ window.OCEAN_ANIMALS = [
   "photos": [
    {
     "img": "images/pygoplites-diacanthus.webp",
+    "size": [
+     1400,
+     1097
+    ],
+    "credit": {
+     "by": "Nathan Cook",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/326913054",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/pygoplites-diacanthus-2.webp",
     "size": [
      1000,
      668
@@ -17909,28 +18178,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/pygoplites-diacanthus-2.webp",
-    "size": [
-     1100,
-     734
-    ],
-    "credit": {
-     "by": "Mark Rosenstein",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/189449400",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/pygoplites-diacanthus-3.webp",
     "size": [
      1100,
-     687
+     825
     ],
     "credit": {
-     "by": "Matty Testoni",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/29111177",
+     "by": "no rights reserved",
+     "license": "CC0",
+     "url": "https://www.inaturalist.org/photos/560162277",
      "source": "iNaturalist"
     }
    }
@@ -17939,6 +18195,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Pomacanthidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Royal_angelfish",
   "curated": true
  },
  {
@@ -17949,18 +18206,19 @@ window.OCEAN_ANIMALS = [
   "intro": "De picassodoktersvis is een straalvinnige vissensoort uit de familie van doktersvissen.",
   "facts": [
    "Hij stond model voor Dory in Finding Nemo.",
-   "Inmiddels heeft hij zelfs een eigen film: Finding Dory."
+   "'s Nachts wordt zijn blauw iets lichter.",
+   "Met een snelle zwiep van zijn staart kan hij diepe wonden maken."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Picassodoktersvis",
   "img": "images/paracanthurus-hepatus.webp",
   "imgSize": [
    1400,
-   870
+   934
   ],
   "credit": {
-   "by": "H. Krisp",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/30261643",
+   "by": "Pauline Fey",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/251134746",
    "source": "iNaturalist"
   },
   "obs": 1743,
@@ -17970,12 +18228,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/paracanthurus-hepatus.webp",
     "size": [
      1400,
-     870
+     934
     ],
     "credit": {
-     "by": "H. Krisp",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/30261643",
+     "by": "Pauline Fey",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/251134746",
      "source": "iNaturalist"
     }
    },
@@ -17983,12 +18241,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/paracanthurus-hepatus-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Cliff",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/83847888",
+     "by": "Ramiro Balado",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/575998294",
      "source": "iNaturalist"
     }
    },
@@ -17996,12 +18254,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/paracanthurus-hepatus-3.webp",
     "size": [
      1100,
-     597
+     734
     ],
     "credit": {
-     "by": "barthazes",
+     "by": "Pauline Fey",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/441662022",
+     "url": "https://www.inaturalist.org/photos/251134737",
      "source": "iNaturalist"
     }
    }
@@ -18010,6 +18268,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Acanthuridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Paracanthurus",
   "curated": true
  },
  {
@@ -18019,20 +18278,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De pincetvis is een tropische zoutwatervis uit de familie Chaetodontidae.",
   "facts": [
-   "Hij heeft een lange, pincetvormige snuit.",
-   "Hij leeft meestal trouw in een stelletje.",
-   "In zijn rugvin zit een donkere oogvlek."
+   "De oogvlek op zijn rugvin valt meer op dan zijn echte oog.",
+   "Met zijn lange snuit eet hij lastige glasanemoontjes.",
+   "Hij leeft meestal trouw in een stelletje."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Pincetvis",
   "img": "images/chelmon-rostratus.webp",
   "imgSize": [
-   1400,
-   934
+   1000,
+   667
   ],
   "credit": {
-   "by": "caron_wong",
+   "by": "Nigel Marsh",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/31567731",
+   "url": "https://www.inaturalist.org/photos/165226880",
    "source": "iNaturalist"
   },
   "obs": 3514,
@@ -18041,13 +18300,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/chelmon-rostratus.webp",
     "size": [
-     1400,
-     934
+     1000,
+     667
     ],
     "credit": {
-     "by": "caron_wong",
+     "by": "Nigel Marsh",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/31567731",
+     "url": "https://www.inaturalist.org/photos/165226880",
      "source": "iNaturalist"
     }
    },
@@ -18055,12 +18314,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/chelmon-rostratus-2.webp",
     "size": [
      1100,
-     734
+     825
     ],
     "credit": {
-     "by": "Mark Rosenstein",
+     "by": "deblee5",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/2999535",
+     "url": "https://www.inaturalist.org/photos/368377065",
      "source": "iNaturalist"
     }
    },
@@ -18068,12 +18327,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/chelmon-rostratus-3.webp",
     "size": [
      1100,
-     734
+     825
     ],
     "credit": {
-     "by": "Mark Rosenstein",
+     "by": "Jiayuan Lin",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/2451573",
+     "url": "https://www.inaturalist.org/photos/579723343",
      "source": "iNaturalist"
     }
    }
@@ -18082,6 +18341,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Chaetodontidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Copperband_butterflyfish",
   "curated": true
  },
  {
@@ -18091,9 +18351,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De gewone pitvis is een straalvinnige zeevis uit de familie van de pitvissen en de orde van de baarsachtigen.",
   "facts": [
-   "Het mannetje heeft een sterk verlengde rugvin met blauwe lijnen en vlekken.",
-   "Mannetjes zijn veel kleurrijker dan vrouwtjes.",
-   "Bij het paaien houden mannetje en vrouwtje elkaar vast met hun vinnen."
+   "Om indruk te maken spreidt het mannetje zijn vinnen en sperrt hij steeds zijn bek wijd open.",
+   "Bij het paaien houden mannetje en vrouwtje elkaar vast met hun vinnen.",
+   "Zijn ogen en kieuwopeningen zitten boven op zijn kop."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Pitvis",
   "img": "images/callionymus-lyra.webp",
@@ -18127,12 +18387,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/callionymus-lyra-2.webp",
     "size": [
      1100,
-     798
+     778
     ],
     "credit": {
-     "by": "Xavier Rufray",
+     "by": "Emil B",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/227757842",
+     "url": "https://www.inaturalist.org/photos/393013178",
      "source": "iNaturalist"
     }
    },
@@ -18140,12 +18400,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/callionymus-lyra-3.webp",
     "size": [
      1100,
-     814
+     825
     ],
     "credit": {
-     "by": "Sylvain Le Bris",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/172399186",
+     "by": "Rita Jansen",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/282183917",
      "source": "iNaturalist"
     }
    }
@@ -18154,6 +18414,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Callionymidae",
   "ns": 2462,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_dragonet",
   "curated": true
  },
  {
@@ -18163,9 +18424,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De puitaal of magge is een straalvinnige vis.",
   "facts": [
-   "Hij krijgt levende jongen: 25 tot 400 per keer.",
-   "Hij kan tot 24 uur buiten het water overleven, tussen vochtig wier.",
-   "Hij ligt meestal op de bodem te wachten op prooi."
+   "Hij is de enige vis die zijn jongen zoogt, terwijl ze nog in de buik van de moeder zitten.",
+   "Zijn zwangerschap duurt zo'n zes maanden: een van de langste onder vissen.",
+   "Zijn graten zijn groen door een onschadelijke kleurstof."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Puitaal",
   "img": "images/zoarces-viviparus.webp",
@@ -18199,25 +18460,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/zoarces-viviparus-2.webp",
     "size": [
      1100,
-     825
+     897
     ],
     "credit": {
-     "by": "Dave Holland",
+     "by": "Bianca Bahlert",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/45225544",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/zoarces-viviparus-3.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Stefan",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/6185788",
+     "url": "https://www.inaturalist.org/photos/492585208",
      "source": "iNaturalist"
     }
    }
@@ -18226,6 +18474,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Zoarcidae",
   "ns": 163,
+  "wikiEn": "https://en.wikipedia.org/wiki/Viviparous_eelpout",
   "curated": true
  },
  {
@@ -18235,9 +18484,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De reuzenmurene is een murenensoort uit het geslacht Gymnothorax.",
   "facts": [
-   "Hij is een van de grootste murenen en kan 3 meter lang worden.",
-   "Volwassen dieren hebben grote zwarte vlekken, als een luipaard.",
-   "Hij leeft op riffen in de Indische en Stille Oceaan."
+   "Hij jaagt samen met de koraalbaars: de murene jaagt in het rif, de baars erboven.",
+   "Hij jaagt vooral op geur, niet op zicht.",
+   "Volwassen dieren hebben grote zwarte vlekken, als een luipaard."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Reuzenmurene",
   "img": "images/gymnothorax-javanicus.webp",
@@ -18246,9 +18495,9 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "Silke Baron",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/400874053",
+   "by": "lucasdif",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/638732364",
    "source": "iNaturalist"
   },
   "obs": 5463,
@@ -18261,9 +18510,9 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "Silke Baron",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/400874053",
+     "by": "lucasdif",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/638732364",
      "source": "iNaturalist"
     }
    },
@@ -18274,22 +18523,22 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Ewout Knoester",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/28716543",
+     "by": "Silke Baron",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/400874053",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/gymnothorax-javanicus-3.webp",
     "size": [
-     1022,
-     768
+     1100,
+     735
     ],
     "credit": {
-     "by": "Derek Keats",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/400874044",
+     "by": "André Giraldi",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/676360562",
      "source": "iNaturalist"
     }
    }
@@ -18298,6 +18547,7 @@ window.OCEAN_ANIMALS = [
   "order": "Anguilliformes",
   "family": "Muraenidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Giant_moray",
   "curated": true
  },
  {
@@ -18307,20 +18557,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De riemvis is een vis uit de orde van de koningsvissen en de familie van de riemvissen die bestaat uit twee geslachten en in totaal vier soorten.",
   "facts": [
-   "Hij is de langste beenvis ter wereld: minstens elf meter.",
-   "In veel talen heet hij 'haringkoning'.",
-   "In 2009 spoelden er twee riemvissen van ruim drie meter aan op Texel en Vlieland."
+   "Hij is de langste beenvis ter wereld en waarschijnlijk de bron van de verhalen over zeeslangen.",
+   "Hij heeft geen tanden en de binnenkant van zijn bek is zwart.",
+   "In 2009 spoelden er twee van ruim drie meter aan op Texel en Vlieland."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Riemvis",
   "img": "images/regalecus-glesne.webp",
   "imgSize": [
    1400,
-   1054
+   934
   ],
   "credit": {
-   "by": "Gary Dickson",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/297909395",
+   "by": "MARC MARTIN SOLA",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/606948704",
    "source": "iNaturalist"
   },
   "obs": 495,
@@ -18330,12 +18580,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/regalecus-glesne.webp",
     "size": [
      1400,
-     1054
+     934
     ],
     "credit": {
-     "by": "Gary Dickson",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/297909395",
+     "by": "MARC MARTIN SOLA",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/606948704",
      "source": "iNaturalist"
     }
    },
@@ -18351,25 +18601,13 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/175255293",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/regalecus-glesne-3.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Dewald du Plessis",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/58855372",
-     "source": "iNaturalist"
-    }
    }
   ],
   "thumb": "thumbs/regalecus-glesne.webp",
   "order": "Lampriformes",
   "family": "Regalecidae",
   "ns": 5,
+  "wikiEn": "https://en.wikipedia.org/wiki/Giant_oarfish",
   "curated": true
  },
  {
@@ -18380,19 +18618,19 @@ window.OCEAN_ANIMALS = [
   "intro": "De rode koraalbaars komt voor van de Rode Zee tot aan Durban en oostwaarts tot aan de Line-eilanden in het midden van de Grote Oceaan.",
   "facts": [
    "Hij is oranje tot rood met kleine lichtblauwe stippen.",
-   "Een groep bestaat uit één mannetje en 2 tot 15 vrouwtjes.",
-   "Zo'n groep verdedigt een stuk rif van ongeveer 475 vierkante meter."
+   "Eén mannetje leeft met een harem van vrouwtjes.",
+   "Hij begint als vrouwtje en kan later mannetje worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Rode_koraalbaars",
   "img": "images/cephalopholis-miniata.webp",
   "imgSize": [
-   1024,
-   695
+   1400,
+   934
   ],
   "credit": {
-   "by": "Derek Keats",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/1577876",
+   "by": "Ron Greer",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/50912231",
    "source": "iNaturalist"
   },
   "obs": 6285,
@@ -18400,6 +18638,32 @@ window.OCEAN_ANIMALS = [
   "photos": [
    {
     "img": "images/cephalopholis-miniata.webp",
+    "size": [
+     1400,
+     934
+    ],
+    "credit": {
+     "by": "Ron Greer",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/50912231",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/cephalopholis-miniata-2.webp",
+    "size": [
+     1100,
+     733
+    ],
+    "credit": {
+     "by": "Pauline Fey",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/527782411",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/cephalopholis-miniata-3.webp",
     "size": [
      1024,
      695
@@ -18410,38 +18674,13 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/1577876",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/cephalopholis-miniata-2.webp",
-    "size": [
-     1100,
-     707
-    ],
-    "credit": {
-     "by": "mattdowse",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/76656103",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/cephalopholis-miniata-3.webp",
-    "size": [
-     1100,
-     765
-    ],
-    "credit": {
-     "by": "Ren",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/61312765",
-     "source": "iNaturalist"
-    }
    }
   ],
   "thumb": "thumbs/cephalopholis-miniata.webp",
   "order": "Perciformes",
   "family": "Serranidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Coral_grouper",
   "curated": true
  },
  {
@@ -18451,20 +18690,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De rode koraalduivel behoort tot de familie van de schorpioenvissen.",
   "facts": [
-   "Overdag verstopt hij zich in spleten en onder rotsen.",
-   "Hij eet kleine visjes, garnalen en krabben.",
-   "In het nauw gedreven kan hij pijnlijk steken met zijn giftige stekels."
+   "Overdag verstopt hij zich met zijn kop naar binnen en zijn giftige stekels naar achteren.",
+   "Hij jaagt vooral net na het vallen van de nacht.",
+   "Boven elk oog heeft hij lange, gestreepte voelsprieten."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Rode_koraalduivel",
   "img": "images/pterois-antennata.webp",
   "imgSize": [
    1400,
-   933
+   927
   ],
   "credit": {
-   "by": "H. Zell",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/70538520",
+   "by": "Julian Jimenez",
+   "license": "CC-BY-NC-ND",
+   "url": "https://www.inaturalist.org/photos/91743335",
    "source": "iNaturalist"
   },
   "obs": 3780,
@@ -18474,12 +18713,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pterois-antennata.webp",
     "size": [
      1400,
-     933
+     927
     ],
     "credit": {
-     "by": "H. Zell",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/70538520",
+     "by": "Julian Jimenez",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/91743335",
      "source": "iNaturalist"
     }
    },
@@ -18487,12 +18726,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pterois-antennata-2.webp",
     "size": [
      1100,
-     825
+     672
     ],
     "credit": {
-     "by": "Nhobgood",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/70538519",
+     "by": "Ron Greer",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/50912054",
      "source": "iNaturalist"
     }
    },
@@ -18500,12 +18739,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pterois-antennata-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Jane Kempler &amp; Andrew Goldby Freelance",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/477537113",
+     "by": "Jens Sommer-Knudsen",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/37374641",
      "source": "iNaturalist"
     }
    }
@@ -18514,6 +18753,7 @@ window.OCEAN_ANIMALS = [
   "order": "Scorpaeniformes",
   "family": "Scorpaenidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Pterois_antennata",
   "curated": true
  },
  {
@@ -18523,20 +18763,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De rode poon is een straalvinnige vis uit de familie van de ponen en de orde van de schorpioenvisachtigen.",
   "facts": [
-   "Met drie losse vinstralen 'loopt' hij over de bodem en tast hij zijn omgeving af.",
-   "Hij kan knorren door de spieren rond zijn zwemblaas samen te trekken.",
-   "Hij heeft vleugelachtige borstvinnen."
+   "Hij knort met spieren rond zijn zwemblaas, waarschijnlijk om de school bij elkaar te houden.",
+   "Met drie losse vinstralen 'loopt' hij over de bodem.",
+   "Hij heeft grote vleugelachtige borstvinnen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Rode_poon",
   "img": "images/chelidonichthys-lucerna.webp",
   "imgSize": [
    1400,
-   1050
+   1046
   ],
   "credit": {
-   "by": "Frédéric ANDRE",
+   "by": "Sylvain Le Bris",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/279330602",
+   "url": "https://www.inaturalist.org/photos/108401984",
    "source": "iNaturalist"
   },
   "obs": 58716,
@@ -18546,20 +18786,7 @@ window.OCEAN_ANIMALS = [
     "img": "images/chelidonichthys-lucerna.webp",
     "size": [
      1400,
-     1050
-    ],
-    "credit": {
-     "by": "Frédéric ANDRE",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/279330602",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/chelidonichthys-lucerna-2.webp",
-    "size": [
-     1100,
-     822
+     1046
     ],
     "credit": {
      "by": "Sylvain Le Bris",
@@ -18569,15 +18796,28 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
+    "img": "images/chelidonichthys-lucerna-2.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "Frédéric ANDRE",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/279330602",
+     "source": "iNaturalist"
+    }
+   },
+   {
     "img": "images/chelidonichthys-lucerna-3.webp",
     "size": [
      1100,
-     748
+     725
     ],
     "credit": {
      "by": "Xavier Rufray",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/96499775",
+     "url": "https://www.inaturalist.org/photos/461492416",
      "source": "iNaturalist"
     }
    }
@@ -18586,6 +18826,7 @@ window.OCEAN_ANIMALS = [
   "order": "Scorpaeniformes",
   "family": "Triglidae",
   "ns": 729,
+  "wikiEn": "https://en.wikipedia.org/wiki/Tub_gurnard",
   "curated": true
  },
  {
@@ -18595,9 +18836,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "Scorpaena scrofa is een vis uit de familie van de schorpioenvissen.",
   "facts": [
+   "Hij is de grootste schorpioenvis van het oosten van de Atlantische Oceaan.",
    "Hij heeft geen werkende zwemblaas en schuifelt over de bodem met zijn borstvinnen.",
-   "Hij jaagt vanuit een hinderlaag en zuigt zijn prooi naar binnen.",
-   "Hij is rood tot geel met zilveren of roze vlekken."
+   "Hij jaagt vanuit een hinderlaag en zuigt zijn prooi naar binnen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Scorpaena_scrofa",
   "img": "images/scorpaena-scrofa.webp",
@@ -18608,7 +18849,7 @@ window.OCEAN_ANIMALS = [
   "credit": {
    "by": "luismartinezartola",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/240728995",
+   "url": "https://www.inaturalist.org/photos/240728992",
    "source": "iNaturalist"
   },
   "obs": 8542,
@@ -18623,7 +18864,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "luismartinezartola",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/240728995",
+     "url": "https://www.inaturalist.org/photos/240728992",
      "source": "iNaturalist"
     }
    },
@@ -18634,9 +18875,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "MatiasG",
+     "by": "Sylvain Le Bris",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/667881568",
+     "url": "https://www.inaturalist.org/photos/547634656",
      "source": "iNaturalist"
     }
    },
@@ -18647,9 +18888,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "Jean-Paul Cassez",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/568167142",
+     "url": "https://www.inaturalist.org/photos/166970996",
      "source": "iNaturalist"
     }
    }
@@ -18658,6 +18899,7 @@ window.OCEAN_ANIMALS = [
   "order": "Scorpaeniformes",
   "family": "Scorpaenidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Scorpaena_scrofa",
   "curated": true
  },
  {
@@ -18667,20 +18909,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De rode snapper is een straalvinnige vis uit de familie van snappers, orde baarsachtigen, die voorkomt in het noordwesten, het westen en het zuidwesten van de Atlantische Oceaan.",
   "facts": [
-   "Hij wordt gemiddeld 60 centimeter en maximaal een meter lang.",
-   "De zwaarste ooit woog 22,8 kilo.",
-   "Hij leeft bij riffen en rotsbodems, 40 tot 300 meter diep."
+   "Hij kan meer dan 57 jaar oud worden.",
+   "Jonge vissen hebben een donkere vlek op hun zij, die met de jaren verdwijnt.",
+   "De zwaarste ooit woog 22,8 kilo."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Rode_snapper",
   "img": "images/lutjanus-campechanus.webp",
   "imgSize": [
    1400,
-   683
+   770
   ],
   "credit": {
-   "by": "Tia Offner",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/234084298",
+   "by": "Mikie Green",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/565537009",
    "source": "iNaturalist"
   },
   "obs": 3938,
@@ -18690,12 +18932,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lutjanus-campechanus.webp",
     "size": [
      1400,
-     683
+     770
     ],
     "credit": {
-     "by": "Tia Offner",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/234084298",
+     "by": "Mikie Green",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/565537009",
      "source": "iNaturalist"
     }
    },
@@ -18703,25 +18945,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lutjanus-campechanus-2.webp",
     "size": [
      1100,
-     359
-    ],
-    "credit": {
-     "by": "Williams",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/31275584",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/lutjanus-campechanus-3.webp",
-    "size": [
-     1100,
      825
     ],
     "credit": {
-     "by": "Harris Moore",
+     "by": "hambell",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/423106859",
+     "url": "https://www.inaturalist.org/photos/639338423",
      "source": "iNaturalist"
     }
    }
@@ -18730,6 +18959,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Lutjanidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Northern_red_snapper",
   "curated": true
  },
  {
@@ -18739,7 +18969,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De rode vlagbaars of is een straalvinnige vis behorend tot het geslacht Pseudanthias.",
   "facts": [
-   "De vis komt voor in de Grote en Indische Oceaan, de Rode Zee, Perzische Golf en de Golf van Oman."
+   "Sterft het mannetje, dan verandert het grootste vrouwtje in een paar weken tot maanden in een mannetje.",
+   "Vrouwtjes zijn oranjegoud; mannetjes zijn roze-paars en twee keer zo groot.",
+   "Een ander visje doet zijn kleuren na om tussen de groep op te gaan."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Rode_vlagbaars",
   "img": "images/pseudanthias-squamipinnis.webp",
@@ -18768,12 +19000,40 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/296771983",
      "source": "iNaturalist"
     }
+   },
+   {
+    "img": "images/pseudanthias-squamipinnis-2.webp",
+    "size": [
+     1100,
+     734
+    ],
+    "credit": {
+     "by": "Frank Krasovec",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/474118491",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/pseudanthias-squamipinnis-3.webp",
+    "size": [
+     1100,
+     733
+    ],
+    "credit": {
+     "by": "Luis P. B.",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/469526026",
+     "source": "iNaturalist"
+    }
    }
   ],
   "thumb": "thumbs/pseudanthias-squamipinnis.webp",
   "order": "Perciformes",
   "family": "Serranidae",
-  "ns": 0
+  "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sea_goldie",
+  "curated": true
  },
  {
   "id": "platax-pinnatus",
@@ -18782,18 +19042,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De rode vleermuisvis is een straalvinnige vissensoort uit de familie van de schopvissen.",
   "facts": [
-   "De soort komt voor in het westen van de Grote Oceaan van de Riukiu-eilanden tot Australië."
+   "Jonge vissen doen in kleur en vorm een giftige platworm na.",
+   "Er loopt een donkere band door zijn oog.",
+   "Hij leeft in de warme wateren tussen Japan en Australië."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Rode_vleermuisvis",
   "img": "images/platax-pinnatus.webp",
   "imgSize": [
    1400,
-   933
+   875
   ],
   "credit": {
-   "by": "prilfish",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/171238666",
+   "by": "pincetczy",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/229923088",
    "source": "iNaturalist"
   },
   "obs": 1933,
@@ -18803,7 +19065,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/platax-pinnatus.webp",
     "size": [
      1400,
-     933
+     875
+    ],
+    "credit": {
+     "by": "pincetczy",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/229923088",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/platax-pinnatus-2.webp",
+    "size": [
+     1100,
+     733
     ],
     "credit": {
      "by": "prilfish",
@@ -18813,28 +19088,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/platax-pinnatus-2.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Massimiliano Finzi",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/109533587",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/platax-pinnatus-3.webp",
     "size": [
-     1100,
-     733
+     1000,
+     750
     ],
     "credit": {
-     "by": "lcolmer",
+     "by": "Sue Churchill",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/87226803",
+     "url": "https://www.inaturalist.org/photos/663098118",
      "source": "iNaturalist"
     }
    }
@@ -18842,7 +19104,9 @@ window.OCEAN_ANIMALS = [
   "thumb": "thumbs/platax-pinnatus.webp",
   "order": "Perciformes",
   "family": "Ephippidae",
-  "ns": 0
+  "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Platax_pinnatus",
+  "curated": true
  },
  {
   "id": "oncorhynchus-nerka",
@@ -18852,19 +19116,19 @@ window.OCEAN_ANIMALS = [
   "intro": "De rode zalm of blauwrugzalm is een straalvinnige vis uit het geslacht Oncorhynchus in de familie van de echte zalmen.",
   "facts": [
    "In zee is hij zilverblauw, maar in de paaitijd wordt hij felrood.",
-   "Een vrouwtje legt ongeveer 500 eieren in een kuil.",
-   "Hij eet plankton en laat zich daardoor moeilijk aan de haak slaan."
+   "In Bristol Bay in Alaska worden er in één jaar tot 30 miljoen gevangen.",
+   "Sommige rode zalmen gaan nooit naar zee en blijven hun hele leven in zoet water."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Rode_zalm",
   "img": "images/oncorhynchus-nerka.webp",
   "imgSize": [
    1400,
-   1050
+   934
   ],
   "credit": {
-   "by": "Cole Wolf",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/392690430",
+   "by": "nlarghi",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/591640470",
    "source": "iNaturalist"
   },
   "obs": 205226,
@@ -18874,12 +19138,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/oncorhynchus-nerka.webp",
     "size": [
      1400,
-     1050
+     934
     ],
     "credit": {
-     "by": "Cole Wolf",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/392690430",
+     "by": "nlarghi",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/591640470",
      "source": "iNaturalist"
     }
    },
@@ -18887,25 +19151,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/oncorhynchus-nerka-2.webp",
     "size": [
      1100,
-     825
+     824
     ],
     "credit": {
-     "by": "Katherine Panfilova",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/574420237",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/oncorhynchus-nerka-3.webp",
-    "size": [
-     1100,
-     733
-    ],
-    "credit": {
-     "by": "Alaska Region U.S. Fish & Wildlife Service",
+     "by": "Eric C. Maxwell",
      "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/12275708",
+     "url": "https://www.inaturalist.org/photos/241666101",
      "source": "iNaturalist"
     }
    }
@@ -18914,6 +19165,7 @@ window.OCEAN_ANIMALS = [
   "order": "Salmoniformes",
   "family": "Salmonidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sockeye_salmon",
   "curated": true
  },
  {
@@ -18923,9 +19175,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De roodbaars is een straalvinnige vis uit de orde van de schorpioenvisachtigen, die voorkomt in het noordwesten en het noordoosten van de Atlantische Oceaan.",
   "facts": [
-   "Hij kan een meter lang worden.",
-   "Hij leeft 100 tot 1000 meter diep.",
-   "Langs de Nederlandse kust is hij zeldzaam."
+   "Hij is felrood met een donkere vlek achter zijn kieuwdeksel.",
+   "Jonge vissen leven in fjorden en baaien, volwassen vissen dieper uit de kust.",
+   "Hij kan een meter lang worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Roodbaars",
   "img": "images/sebastes-norvegicus.webp",
@@ -18986,6 +19238,7 @@ window.OCEAN_ANIMALS = [
   "order": "Scorpaeniformes",
   "family": "Sebastidae",
   "ns": 34,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sebastes_norvegicus",
   "curated": true
  },
  {
@@ -18995,21 +19248,21 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De roodstreeplipvis leeft onder andere in de Rode en in de Arabische Zee.",
   "facts": [
-   "Je herkent hem aan zijn rode en witte strepen.",
+   "Jonge vissen zijn felrood met grote witte vlekken, heel anders dan volwassen vissen.",
    "Schuin boven zijn borstvin zit een zwarte vlek.",
    "Hij leeft in ondiep water, 2 tot 15 meter diep."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Roodstreeplipvis",
   "img": "images/coris-gaimard.webp",
   "imgSize": [
-   1200,
-   800
+   1193,
+   974
   ],
   "credit": {
-   "by": "laszlo-photo",
-   "license": "CC BY 2.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Coris_gaimard_real.jpg",
-   "source": "Wikimedia Commons"
+   "by": "Bjarne Amstrup",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/318402515",
+   "source": "iNaturalist"
   },
   "obs": 8266,
   "map": "maps/coris-gaimard.webp",
@@ -19017,8 +19270,21 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/coris-gaimard.webp",
     "size": [
-     1200,
-     800
+     1193,
+     974
+    ],
+    "credit": {
+     "by": "Bjarne Amstrup",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/318402515",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/coris-gaimard-2.webp",
+    "size": [
+     1100,
+     733
     ],
     "credit": {
      "by": "laszlo-photo",
@@ -19028,28 +19294,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/coris-gaimard-2.webp",
-    "size": [
-     1100,
-     513
-    ],
-    "credit": {
-     "by": "Wayne and Pam Osborn",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/256183437",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/coris-gaimard-3.webp",
     "size": [
      1100,
-     734
+     811
     ],
     "credit": {
-     "by": "belen_caro",
+     "by": "Mark Brown",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/462310302",
+     "url": "https://www.inaturalist.org/photos/559648134",
      "source": "iNaturalist"
     }
    }
@@ -19058,6 +19311,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Labridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Coris_gaimard",
   "curated": true
  },
  {
@@ -19066,17 +19320,21 @@ window.OCEAN_ANIMALS = [
   "sci": "Odonus niger",
   "cat": "Vissen",
   "intro": "De roodtandtrekkervis is een straalvinnige vissensoort uit de familie van trekkervissen.",
-  "facts": [],
+  "facts": [
+   "Hij heeft piepkleine rode tandjes; twee zijn zelfs te zien als zijn bek dicht is.",
+   "Zijn bek lijkt altijd te grijnzen.",
+   "Hij verandert van kleur afhankelijk van zijn stemming: van paars naar blauw en blauwgroen."
+  ],
   "wiki": "https://nl.wikipedia.org/wiki/Roodtandtrekkervis",
   "img": "images/odonus-niger.webp",
   "imgSize": [
-   1400,
-   934
+   1000,
+   667
   ],
   "credit": {
-   "by": "Mark Rosenstein",
+   "by": "Francois Libert",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/19554199",
+   "url": "https://www.inaturalist.org/photos/456591118",
    "source": "iNaturalist"
   },
   "obs": 4600,
@@ -19085,26 +19343,26 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/odonus-niger.webp",
     "size": [
-     1400,
-     934
+     1000,
+     667
     ],
     "credit": {
-     "by": "Mark Rosenstein",
+     "by": "Francois Libert",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/19554199",
+     "url": "https://www.inaturalist.org/photos/456591118",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/odonus-niger-2.webp",
     "size": [
-     1100,
-     746
+     1000,
+     667
     ],
     "credit": {
-     "by": "Tony Strazzari",
+     "by": "Francois Libert",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/48750681",
+     "url": "https://www.inaturalist.org/photos/469602252",
      "source": "iNaturalist"
     }
    },
@@ -19112,12 +19370,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/odonus-niger-3.webp",
     "size": [
      1100,
-     733
+     734
     ],
     "credit": {
-     "by": "Ingo Rogalla",
+     "by": "Mark Rosenstein",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/279753121",
+     "url": "https://www.inaturalist.org/photos/19554199",
      "source": "iNaturalist"
     }
    }
@@ -19125,7 +19383,9 @@ window.OCEAN_ANIMALS = [
   "thumb": "thumbs/odonus-niger.webp",
   "order": "Tetraodontiformes",
   "family": "Balistidae",
-  "ns": 0
+  "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Redtoothed_triggerfish",
+  "curated": true
  },
  {
   "id": "histrio-histrio",
@@ -19134,9 +19394,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De Sargassovis is een straalvinnige vissensoort uit de familie van de voelsprietvissen.",
   "facts": [
-   "Hij lokt prooien met een kronkelend huidflapje op een stekel boven zijn bek.",
-   "Met pootachtige borstvinnen klampt hij zich vast aan drijvend wier.",
-   "Tussen het Sargassowier valt hij door zijn kleur en flappen bijna niet op."
+   "Hij kan zijn bek in een fractie van een seconde vele malen groter maken en prooien groter dan hijzelf inslikken.",
+   "Bij gevaar springt hij uit het water op een mat van drijvend wier.",
+   "Met pootachtige borstvinnen klautert hij door het wier."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Sargassovis",
   "img": "images/histrio-histrio.webp",
@@ -19171,6 +19431,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lophiiformes",
   "family": "Antennariidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sargassum_fish",
   "curated": true
  },
  {
@@ -19180,8 +19441,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De schar is een straalvinnige vis uit de familie van schollen, orde van platvissen.",
   "facts": [
+   "Hij lijkt op een schol, maar mist de oranje stippen.",
    "Hij kan 12 jaar oud worden.",
-   "Hij leeft in wat dieper water dan de bot.",
    "Hij is populair bij strandvissers."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Schar",
@@ -19216,25 +19477,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/limanda-limanda-2.webp",
     "size": [
      1100,
-     674
+     825
     ],
     "credit": {
-     "by": "Viktor V. Grøtan",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/10226491",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/limanda-limanda-3.webp",
-    "size": [
-     800,
-     600
-    ],
-    "credit": {
-     "by": "Andre Hosper",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/23249758",
+     "by": "Rita Jansen",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/282183090",
      "source": "iNaturalist"
     }
    }
@@ -19243,6 +19491,7 @@ window.OCEAN_ANIMALS = [
   "order": "Pleuronectiformes",
   "family": "Pleuronectidae",
   "ns": 7073,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_dab",
   "curated": true
  },
  {
@@ -19252,8 +19501,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De schelvis is een straalvinnige vis uit de familie van de kabeljauwen die voorkomt in het noordoosten van de Atlantische Oceaan van de Golf van Biskaje tot aan Svalbard.",
   "facts": [
-   "Hij heeft een grote donkere vlek onder zijn eerste rugvin.",
-   "Hij kan ruim een meter lang worden.",
+   "Hij heeft een zwarte zijlijn en een grote donkere vlek onder zijn eerste rugvin.",
+   "In de Noordzee worden ze al met 2 tot 3 jaar volwassen, elders pas met 4 tot 5.",
    "Hij eet onder andere kreeftjes, mosselen en wadpieren."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Schelvis",
@@ -19288,25 +19537,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/melanogrammus-aeglefinus-2.webp",
     "size": [
      1100,
-     733
-    ],
-    "credit": {
-     "by": "Bradley Rasmussen",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/10715967",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/melanogrammus-aeglefinus-3.webp",
-    "size": [
-     1100,
      825
     ],
     "credit": {
-     "by": "Burkhard",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/8639369",
+     "by": "cescgv",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/318928130",
      "source": "iNaturalist"
     }
    }
@@ -19315,6 +19551,7 @@ window.OCEAN_ANIMALS = [
   "order": "Gadiformes",
   "family": "Gadidae",
   "ns": 4779,
+  "wikiEn": "https://en.wikipedia.org/wiki/Haddock",
   "curated": true
  },
  {
@@ -19324,9 +19561,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De schol is een platte ruitvormige vis die samen met onder andere de bot en schar tot de scholachtigen wordt gerekend, die op hun beurt deel uitmaken van de platvissen.",
   "facts": [
-   "Zijn bovenkant is groenbruin met oranje stippen.",
    "Als larve zwemt hij rechtop; na zo'n zes weken schuift één oog naar de andere kant.",
-   "Hij zwemt met een golvende beweging van zijn lange rug- en aarsvin."
+   "Hij past zijn kleur aan zijn omgeving aan, maar de oranje stippen blijven altijd zichtbaar.",
+   "Hij kan 20 jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Schol_%28vis%29",
   "img": "images/pleuronectes-platessa.webp",
@@ -19335,9 +19572,9 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "Viktor V. Grøtan",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/10219090",
+   "by": "Frédéric ANDRE",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/311908306",
    "source": "iNaturalist"
   },
   "obs": 885866,
@@ -19350,9 +19587,9 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "Viktor V. Grøtan",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/10219090",
+     "by": "Frédéric ANDRE",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/311908306",
      "source": "iNaturalist"
     }
    },
@@ -19363,9 +19600,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Julien Renoult",
+     "by": "Viktor V. Grøtan",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/46648559",
+     "url": "https://www.inaturalist.org/photos/10219090",
      "source": "iNaturalist"
     }
    },
@@ -19373,12 +19610,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pleuronectes-platessa-3.webp",
     "size": [
      1100,
-     765
+     815
     ],
     "credit": {
-     "by": "Rita Jansen",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/91836466",
+     "by": "Frédéric ANDRE",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/311908319",
      "source": "iNaturalist"
     }
    }
@@ -19387,6 +19624,7 @@ window.OCEAN_ANIMALS = [
   "order": "Pleuronectiformes",
   "family": "Pleuronectidae",
   "ns": 5660,
+  "wikiEn": "https://en.wikipedia.org/wiki/European_plaice",
   "curated": true
  },
  {
@@ -19396,7 +19634,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De sergeant-majoorvis is een straalvinnige vissensoort uit de familie van rifbaarzen of koraaljuffertjes.",
   "facts": [
-   "De sergeant-majoorvis is een algemeen voorkomende zoutwatervis die voorkomt in de Atlantische Oceaan, van Canada tot Uruguay in het westen en bij de Kaapverdische eilanden tot Angola in het oosten en in de Caribische Zee, onder andere de Varkensbaai op Cuba."
+   "Volwassen mannetjes zijn blauwiger en hun strepen zijn minder goed te zien.",
+   "Het mannetje bewaakt de eitjes zo'n week en kleurt dan blauwig.",
+   "Hij leeft aan beide kanten van de Atlantische Oceaan."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Sergeant-majoorvis",
   "img": "images/abudefduf-saxatilis.webp",
@@ -19430,12 +19670,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/abudefduf-saxatilis-2.webp",
     "size": [
      1100,
-     733
+     619
     ],
     "credit": {
-     "by": "Emilio Concari",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/617074217",
+     "by": "Roger A. Morales-Flores",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/391414349",
      "source": "iNaturalist"
     }
    },
@@ -19446,9 +19686,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Alistair D. Dove",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/12853150",
+     "by": "Popsicleemperor",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/205346094",
      "source": "iNaturalist"
     }
    }
@@ -19456,7 +19696,9 @@ window.OCEAN_ANIMALS = [
   "thumb": "thumbs/abudefduf-saxatilis.webp",
   "order": "Perciformes",
   "family": "Pomacentridae",
-  "ns": 0
+  "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sergeant_major_%28fish%29",
+  "curated": true
  },
  {
   "id": "liparis-liparis",
@@ -19511,9 +19753,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "Sloan's addervis is een straalvinnige vissensoort uit de familie van Stomiidae.",
   "facts": [
-   "Zijn tanden zijn zo lang dat ze niet in zijn bek passen.",
-   "Met een verlengde rugvinstraal en lichtorgaantjes lokt hij prooien.",
-   "Hij leeft in de diepzee over de hele wereld."
+   "Zijn tanden zijn zo lang dat ze niet in zijn bek passen; dicht vormen ze een kooi voor prooien.",
+   "Hij kan zijn bek 90 graden openen.",
+   "Met lichtjes op zijn buik voorkomt hij dat vijanden onder hem zijn silhouet zien."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Sloane%27s_addervis",
   "img": "images/chauliodus-sloani.webp",
@@ -19574,6 +19816,7 @@ window.OCEAN_ANIMALS = [
   "order": "Stomiiformes",
   "family": "Stomiidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sloane%27s_viperfish",
   "curated": true
  },
  {
@@ -19583,20 +19826,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De snotolf, ook wel lompvis genoemd, is een straalvinnige vis uit de familie van de snotolven en de orde van de schorpioenvisachtigen.",
   "facts": [
-   "Zijn buikvinnen vormen een zuignap waarmee hij zich vastzet.",
-   "In de winter legt hij zijn eieren op de stenen van Nederlandse dijken, bijvoorbeeld in de Oosterschelde.",
-   "Het mannetje bewaakt de eieren 6 tot 8 weken en blijft zelfs als ze bij eb droogvallen."
+   "Hij heeft geen zwemblaas, maar zwemt toch op één dag van het oppervlak naar grote diepte en terug.",
+   "Het mannetje bewaakt de eieren 6 tot 8 weken, zelfs als ze bij eb droogvallen.",
+   "Zijn buikvinnen vormen een zuignap waarmee hij zich vastzet."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Snotolf",
   "img": "images/cyclopterus-lumpus.webp",
   "imgSize": [
    1400,
-   931
+   990
   ],
   "credit": {
-   "by": "Haplochromis",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/95611936",
+   "by": "Emil B",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/69178104",
    "source": "iNaturalist"
   },
   "obs": 36024,
@@ -19606,20 +19849,7 @@ window.OCEAN_ANIMALS = [
     "img": "images/cyclopterus-lumpus.webp",
     "size": [
      1400,
-     931
-    ],
-    "credit": {
-     "by": "Haplochromis",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/95611936",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/cyclopterus-lumpus-2.webp",
-    "size": [
-     1100,
-     778
+     990
     ],
     "credit": {
      "by": "Emil B",
@@ -19629,15 +19859,28 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
+    "img": "images/cyclopterus-lumpus-2.webp",
+    "size": [
+     1100,
+     733
+    ],
+    "credit": {
+     "by": "Christopher Power",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/555607372",
+     "source": "iNaturalist"
+    }
+   },
+   {
     "img": "images/cyclopterus-lumpus-3.webp",
     "size": [
      1100,
-     825
+     732
     ],
     "credit": {
-     "by": "Mary Wholey",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/141762177",
+     "by": "Haplochromis",
+     "license": "CC-BY-SA",
+     "url": "https://www.inaturalist.org/photos/95611936",
      "source": "iNaturalist"
     }
    }
@@ -19646,6 +19889,7 @@ window.OCEAN_ANIMALS = [
   "order": "Scorpaeniformes",
   "family": "Cyclopteridae",
   "ns": 813,
+  "wikiEn": "https://en.wikipedia.org/wiki/Cyclopterus_lumpus",
   "curated": true
  },
  {
@@ -19655,7 +19899,7 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De spitssnuitkoraalklimmer is een straalvinnige vissensoort uit de familie van koraalklimmers.",
   "facts": [
-   "Zijn lijf heeft een ruitjespatroon van rode strepen.",
+   "Zijn witte lijf heeft een ruitjespatroon van rode lijnen.",
    "Bij gevaar duikt hij een spleet in en zet hij zich schrap met zijn borstvinstekels.",
    "Het mannetje heeft meestal een harem van vrouwtjes."
   ],
@@ -19663,12 +19907,12 @@ window.OCEAN_ANIMALS = [
   "img": "images/oxycirrhites-typus.webp",
   "imgSize": [
    1400,
-   934
+   1050
   ],
   "credit": {
-   "by": "Mark Rosenstein",
+   "by": "Juan Felipe Lazarus",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/2427935",
+   "url": "https://www.inaturalist.org/photos/88075633",
    "source": "iNaturalist"
   },
   "obs": 992,
@@ -19678,12 +19922,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/oxycirrhites-typus.webp",
     "size": [
      1400,
-     934
+     1050
     ],
     "credit": {
-     "by": "Mark Rosenstein",
+     "by": "Juan Felipe Lazarus",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/2427935",
+     "url": "https://www.inaturalist.org/photos/88075633",
      "source": "iNaturalist"
     }
    },
@@ -19694,9 +19938,9 @@ window.OCEAN_ANIMALS = [
      734
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "Mark Rosenstein",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/241208890",
+     "url": "https://www.inaturalist.org/photos/2427935",
      "source": "iNaturalist"
     }
    },
@@ -19704,12 +19948,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/oxycirrhites-typus-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Juan Felipe Lazarus",
+     "by": "juju98",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/88075633",
+     "url": "https://www.inaturalist.org/photos/613079893",
      "source": "iNaturalist"
     }
    }
@@ -19718,6 +19962,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Cirrhitidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Longnose_hawkfish",
   "curated": true
  },
  {
@@ -19727,9 +19972,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "Sprot is een vis uit de familie van Haringen.",
   "facts": [
-   "Hij wordt meestal zo'n 10 centimeter lang.",
-   "Andere namen zijn Noorse sardien of schardijn.",
-   "Hij leeft in scholen, ook in de Noordzee."
+   "Een parasitair kreeftje kan zich in zijn ogen boren en hem blind maken.",
+   "'s Nachts komt hij naar het wateroppervlak om te eten.",
+   "Andere namen zijn Noorse sardien of schardijn."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Sprot",
   "img": "images/sprattus-sprattus.webp",
@@ -19764,6 +20009,7 @@ window.OCEAN_ANIMALS = [
   "order": "Clupeiformes",
   "family": "Clupeidae",
   "ns": 885,
+  "wikiEn": "https://en.wikipedia.org/wiki/European_sprat",
   "curated": true
  },
  {
@@ -19773,20 +20019,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De tarbot is een straalvinnige vis uit de familie van de tarbotachtigen en de orde van de platvissen.",
   "facts": [
-   "Hij past zijn kleur aan de zeebodem aan en is dan bijna onzichtbaar.",
    "Een vrouwtje legt 10 tot 15 miljoen eieren.",
-   "Je herkent hem aan de botknobbeltjes in zijn huid."
+   "Hij past zijn kleur aan de zeebodem aan en is dan bijna onzichtbaar.",
+   "Hij is een platvis met zijn ogen aan de linkerkant."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Tarbot",
   "img": "images/scophthalmus-maximus.webp",
   "imgSize": [
    1400,
-   933
+   985
   ],
   "credit": {
-   "by": "Yvan",
-   "license": "CC-BY-NC-SA",
-   "url": "https://www.inaturalist.org/photos/1039032",
+   "by": "Philippe Geniez",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/179031155",
    "source": "iNaturalist"
   },
   "obs": 46828,
@@ -19796,12 +20042,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/scophthalmus-maximus.webp",
     "size": [
      1400,
-     933
+     985
     ],
     "credit": {
-     "by": "Yvan",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/1039032",
+     "by": "Philippe Geniez",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/179031155",
      "source": "iNaturalist"
     }
    },
@@ -19809,12 +20055,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/scophthalmus-maximus-2.webp",
     "size": [
      1100,
-     733
+     661
     ],
     "credit": {
-     "by": "Valentin de Mazancourt",
+     "by": "Gonzalo Mucientes Sandoval",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/27655593",
+     "url": "https://www.inaturalist.org/photos/29191956",
      "source": "iNaturalist"
     }
    },
@@ -19822,12 +20068,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/scophthalmus-maximus-3.webp",
     "size": [
      1100,
-     825
+     716
     ],
     "credit": {
-     "by": "Gonzalo Mucientes Sandoval",
+     "by": "Philippe Geniez",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/29192045",
+     "url": "https://www.inaturalist.org/photos/179031122",
      "source": "iNaturalist"
     }
    }
@@ -19836,6 +20082,7 @@ window.OCEAN_ANIMALS = [
   "order": "Pleuronectiformes",
   "family": "Scophthalmidae",
   "ns": 479,
+  "wikiEn": "https://en.wikipedia.org/wiki/Turbot",
   "curated": true
  },
  {
@@ -19847,18 +20094,18 @@ window.OCEAN_ANIMALS = [
   "facts": [
    "Een tong wordt geboren met aan elke kant een oog; al snel schuift één oog naar de andere kant.",
    "Half ingegraven in het zand loert hij op prooi.",
-   "Door opwarming van de zee neemt het aantal tongen in Nederland naar verwachting af."
+   "Hij wordt pas met 3 tot 5 jaar volwassen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Tong_%28vis%29",
   "img": "images/solea-solea.webp",
   "imgSize": [
    1400,
-   1050
+   934
   ],
   "credit": {
-   "by": "Sylvain Le Bris",
+   "by": "Pascal GIRARD",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/161931149",
+   "url": "https://www.inaturalist.org/photos/210271629",
    "source": "iNaturalist"
   },
   "obs": 256320,
@@ -19868,12 +20115,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/solea-solea.webp",
     "size": [
      1400,
-     1050
+     934
     ],
     "credit": {
-     "by": "Sylvain Le Bris",
+     "by": "Pascal GIRARD",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/161931149",
+     "url": "https://www.inaturalist.org/photos/210271629",
      "source": "iNaturalist"
     }
    },
@@ -19881,12 +20128,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/solea-solea-2.webp",
     "size": [
      1100,
-     667
+     825
     ],
     "credit": {
-     "by": "Xavier Rufray",
+     "by": "Sylvain Le Bris",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/209215189",
+     "url": "https://www.inaturalist.org/photos/161931149",
      "source": "iNaturalist"
     }
    },
@@ -19897,9 +20144,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Pierre Corbrion",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/87455181",
+     "by": "Frédéric ANDRE",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/307000354",
      "source": "iNaturalist"
     }
    }
@@ -19908,6 +20155,7 @@ window.OCEAN_ANIMALS = [
   "order": "Pleuronectiformes",
   "family": "Soleidae",
   "ns": 1998,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_sole",
   "curated": true
  },
  {
@@ -19917,20 +20165,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De Trompetvis is een straalvinnige vis uit de familie van trompetvissen, orde zeenaaldachtigen, die voorkomt in het westen, het oosten en het zuidwesten van de Atlantische Oceaan.",
   "facts": [
-   "Hij heeft een lang, trompetvormig lijf en kan een meter lang worden.",
-   "Hij leeft bij koraalriffen, 2 tot 25 meter diep.",
-   "Hij eet vooral kleine visjes."
+   "Hij zwemt mee in een school papegaaivissen: zo wordt hij minder aangevallen en vangt hij meer.",
+   "Hij kan van kleur veranderen: bruin, blauwgrijs, felgeel of groen.",
+   "Hij heeft een lang, trompetvormig lijf en kan een meter lang worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Trompetvis",
   "img": "images/aulostomus-maculatus.webp",
   "imgSize": [
    1400,
-   934
+   933
   ],
   "credit": {
-   "by": "Paul and Jill",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/7198",
+   "by": "Frank Krasovec",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/443957073",
    "source": "iNaturalist"
   },
   "obs": 28884,
@@ -19940,25 +20188,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/aulostomus-maculatus.webp",
     "size": [
      1400,
-     934
+     933
     ],
     "credit": {
-     "by": "Paul and Jill",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/7198",
+     "by": "Frank Krasovec",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/443957073",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/aulostomus-maculatus-2.webp",
     "size": [
-     1100,
-     733
+     1000,
+     750
     ],
     "credit": {
-     "by": "Mark Rosenstein",
+     "by": "Anna Krylova",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/196261",
+     "url": "https://www.inaturalist.org/photos/367044292",
      "source": "iNaturalist"
     }
    },
@@ -19966,12 +20214,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/aulostomus-maculatus-3.webp",
     "size": [
      1100,
-     703
+     620
     ],
     "credit": {
-     "by": "Garrett",
+     "by": "Kevin Spingler",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/6203913",
+     "url": "https://www.inaturalist.org/photos/534460938",
      "source": "iNaturalist"
     }
    }
@@ -19980,6 +20228,7 @@ window.OCEAN_ANIMALS = [
   "order": "Syngnathiformes",
   "family": "Aulostomidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Aulostomus_maculatus",
   "curated": true
  },
  {
@@ -19989,9 +20238,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De tweevleugelige vliegende vis is een straalvinnige vissensoort uit de familie van de vliegende vissen.",
   "facts": [
-   "Met zijn grote borstvinnen zweeft hij over het water.",
    "Hij komt los met zo'n 65 kilometer per uur en kan ongeveer 12 seconden zweven.",
-   "Zo ontsnapt hij aan vijanden onder water."
+   "Zo ontsnapt hij aan vijanden onder water.",
+   "Zijn rug glanst donkerblauw, zijn buik is zilverwit."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Tweevleugelige_vliegende_vis",
   "img": "images/exocoetus-volitans.webp",
@@ -20052,6 +20301,7 @@ window.OCEAN_ANIMALS = [
   "order": "Beloniformes",
   "family": "Exocoetidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Exocoetus_volitans",
   "curated": true
  },
  {
@@ -20061,8 +20311,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De vangtandvis is een straalvinnige vissensoort uit de familie van bladschubbigen.",
   "facts": [
-   "Hij heeft een klein lijf met een enorme kop.",
    "Hij spietst prooien op zijn lange tanden, soms bijna zo groot als hijzelf.",
+   "Jonge vissen hebben nog geen grote tanden, maar wel stekels op hun kop.",
    "Jonge vissen zijn zilverkleurig, volwassen vissen bruin of zwart."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Vangtandvis",
@@ -20124,6 +20374,7 @@ window.OCEAN_ANIMALS = [
   "order": "Beryciformes",
   "family": "Anoplogastridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Anoplogaster_cornuta",
   "curated": true
  },
  {
@@ -20133,9 +20384,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De vliegende poon is een straalvinnige vis uit de familie van de vliegende knorhanen en de orde van de schorpioenvisachtigen die voorkomt in de Atlantische Oceaan en Middellandse Zee.",
   "facts": [
-   "Hij leeft in de Atlantische Oceaan en de Middellandse Zee.",
-   "Hij leeft van 1 tot 100 meter diep.",
-   "Hij jaagt op kleine bodemdiertjes en visjes."
+   "Zijn borstvinnen hebben felblauwe, lichtgevende randjes.",
+   "Hij gromt in twee verschillende tonen, om en om.",
+   "Hij past zijn kleur aan de bodem aan, van bijna zwart tot bijna wit."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Vliegende_poon",
   "img": "images/dactylopterus-volitans.webp",
@@ -20169,12 +20420,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dactylopterus-volitans-2.webp",
     "size": [
      1100,
-     619
+     766
     ],
     "credit": {
-     "by": "Falk Viczian Solarboot-Projekte gGmbH",
+     "by": "Rachel Munger",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/231501202",
+     "url": "https://www.inaturalist.org/photos/349105966",
      "source": "iNaturalist"
     }
    },
@@ -20182,12 +20433,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dactylopterus-volitans-3.webp",
     "size": [
      1100,
-     767
+     825
     ],
     "credit": {
-     "by": "Thomas Menut",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/175691708",
+     "by": "georgy.uw",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/592361636",
      "source": "iNaturalist"
     }
    }
@@ -20196,6 +20447,7 @@ window.OCEAN_ANIMALS = [
   "order": "Scorpaeniformes",
   "family": "Dactylopteridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Flying_gurnard",
   "curated": true
  },
  {
@@ -20205,20 +20457,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De vossenkopvis is een straalvinnige vissensoort uit de familie van konijnvissen.",
   "facts": [
-   "Zijn rugvin heeft 13 scherpe, giftige stekels.",
-   "Zijn felle kleuren waarschuwen vijanden dat hij zich kan verdedigen.",
+   "Zijn gif lijkt op dat van de steenvis.",
+   "Bij gevaar verandert hij snel van felgeel naar donkerbruin.",
    "Een paartje blijft een leven lang bij elkaar."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Vossenkopvis",
   "img": "images/siganus-vulpinus.webp",
   "imgSize": [
    1400,
-   933
+   934
   ],
   "credit": {
-   "by": "Andreas März",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/368425919",
+   "by": "pclark2",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/668705398",
    "source": "iNaturalist"
   },
   "obs": 3889,
@@ -20228,7 +20480,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/siganus-vulpinus.webp",
     "size": [
      1400,
-     933
+     934
+    ],
+    "credit": {
+     "by": "pclark2",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/668705398",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/siganus-vulpinus-2.webp",
+    "size": [
+     1100,
+     733
     ],
     "credit": {
      "by": "Andreas März",
@@ -20238,28 +20503,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/siganus-vulpinus-2.webp",
+    "img": "images/siganus-vulpinus-3.webp",
     "size": [
      1100,
      825
     ],
     "credit": {
-     "by": "NOAA Photo Library",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/319809",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/siganus-vulpinus-3.webp",
-    "size": [
-     1100,
-     826
-    ],
-    "credit": {
-     "by": "John D Reynolds",
+     "by": "Albert Kang",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/327033233",
+     "url": "https://www.inaturalist.org/photos/140108208",
      "source": "iNaturalist"
     }
    }
@@ -20268,6 +20520,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Siganidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Foxface_rabbitfish",
   "curated": true
  },
  {
@@ -20279,7 +20532,7 @@ window.OCEAN_ANIMALS = [
   "facts": [
    "Opgezet lijken zijn lange vinnen op de veren van een dartpijl.",
    "Bij gevaar schiet hij meteen weg in de bodem.",
-   "Hij is maar zo'n 8 centimeter lang."
+   "In een aquarium springt hij soms uit het water."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Vuurpijlvis",
   "img": "images/nemateleotris-magnifica.webp",
@@ -20312,13 +20565,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/nemateleotris-magnifica-2.webp",
     "size": [
-     1100,
-     802
+     1000,
+     667
     ],
     "credit": {
-     "by": "Franco Colnago",
+     "by": "Nigel Marsh",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/61651136",
+     "url": "https://www.inaturalist.org/photos/200148972",
      "source": "iNaturalist"
     }
    },
@@ -20326,12 +20579,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/nemateleotris-magnifica-3.webp",
     "size": [
      1100,
-     734
+     733
     ],
     "credit": {
-     "by": "Mark Rosenstein",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/3680206",
+     "by": "cello caruso-turiello",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/607054505",
      "source": "iNaturalist"
     }
    }
@@ -20340,6 +20593,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Microdesmidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Nemateleotris_magnifica",
   "curated": true
  },
  {
@@ -20351,18 +20605,18 @@ window.OCEAN_ANIMALS = [
   "facts": [
    "Met zijn bladvormige aanhangsels is hij tussen het wier bijna onzichtbaar.",
    "Anders dan de meeste zeepaardjes kan hij zijn staart niet oprollen.",
-   "Hij leeft alleen aan de zuidkust van Australië en bij Tasmanië."
+   "Hij wordt pas na zo'n 28 maanden volwassen en kan zes jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Wiervis",
   "img": "images/phyllopteryx-taeniolatus.webp",
   "imgSize": [
    1400,
-   1051
+   1050
   ],
   "credit": {
-   "by": "J. Martin Crossley",
-   "license": "CC-BY-NC-SA",
-   "url": "https://www.inaturalist.org/photos/280641424",
+   "by": "scubagran",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/31259639",
    "source": "iNaturalist"
   },
   "obs": 5209,
@@ -20372,7 +20626,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/phyllopteryx-taeniolatus.webp",
     "size": [
      1400,
-     1051
+     1050
+    ],
+    "credit": {
+     "by": "scubagran",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/31259639",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/phyllopteryx-taeniolatus-2.webp",
+    "size": [
+     1100,
+     826
     ],
     "credit": {
      "by": "J. Martin Crossley",
@@ -20382,28 +20649,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/phyllopteryx-taeniolatus-2.webp",
-    "size": [
-     1100,
-     1100
-    ],
-    "credit": {
-     "by": "Klaus Stiefel",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/27024128",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/phyllopteryx-taeniolatus-3.webp",
     "size": [
      1100,
-     825
+     944
     ],
     "credit": {
-     "by": "J. Martin Crossley",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/107901455",
+     "by": "John Sear",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/135686306",
      "source": "iNaturalist"
     }
    }
@@ -20412,6 +20666,7 @@ window.OCEAN_ANIMALS = [
   "order": "Syngnathiformes",
   "family": "Syngnathidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_seadragon",
   "curated": true
  },
  {
@@ -20429,13 +20684,13 @@ window.OCEAN_ANIMALS = [
   "img": "images/merlangius-merlangus.webp",
   "imgSize": [
    1400,
-   859
+   933
   ],
   "credit": {
-   "by": "Georges Jansoone (JoJan) -",
-   "license": "CC BY 3.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Wijting002.jpg",
-   "source": "Wikimedia Commons"
+   "by": "Roy Anderson",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/635675826",
+   "source": "iNaturalist"
   },
   "obs": 1007936,
   "map": "maps/merlangius-merlangus.webp",
@@ -20444,38 +20699,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/merlangius-merlangus.webp",
     "size": [
      1400,
-     859
+     933
     ],
     "credit": {
-     "by": "Georges Jansoone (JoJan) -",
-     "license": "CC BY 3.0",
-     "url": "https://commons.wikimedia.org/wiki/File:Wijting002.jpg",
-     "source": "Wikimedia Commons"
-    }
-   },
-   {
-    "img": "images/merlangius-merlangus-2.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Michael Verdirame",
+     "by": "Roy Anderson",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/64021542",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/merlangius-merlangus-3.webp",
-    "size": [
-     1100,
-     826
-    ],
-    "credit": {
-     "by": "Špela Puhov",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/41312123",
+     "url": "https://www.inaturalist.org/photos/635675826",
      "source": "iNaturalist"
     }
    }
@@ -20493,20 +20722,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De witborstdoktersvis is een baarsachtige vis uit de familie van de doktersvissen.",
   "facts": [
-   "Hij leeft op ondiepe riffen in de Indische Oceaan.",
-   "Hij is een snelle zwemmer.",
-   "Hij is in een aquarium moeilijk te houden, onder meer omdat hij snel ziek wordt."
+   "Aan hoe fel zijn blauw is, zie je of hij gezond is.",
+   "Hij heeft een snavelachtige bek met scherpe tandjes om in nauwe spleten te eten.",
+   "Hij is een snelle zwemmer."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Witborstdoktersvis",
   "img": "images/acanthurus-leucosternon.webp",
   "imgSize": [
    1400,
-   930
+   933
   ],
   "credit": {
-   "by": "Juergen goevert",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/70798484",
+   "by": "Ashley Parr",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/254822213",
    "source": "iNaturalist"
   },
   "obs": 2320,
@@ -20516,7 +20745,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/acanthurus-leucosternon.webp",
     "size": [
      1400,
-     930
+     933
+    ],
+    "credit": {
+     "by": "Ashley Parr",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/254822213",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/acanthurus-leucosternon-2.webp",
+    "size": [
+     1100,
+     731
     ],
     "credit": {
      "by": "Juergen goevert",
@@ -20526,28 +20768,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/acanthurus-leucosternon-2.webp",
+    "img": "images/acanthurus-leucosternon-3.webp",
     "size": [
      1100,
      733
     ],
     "credit": {
-     "by": "Brian Gratwicke",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/77759",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/acanthurus-leucosternon-3.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "ob1963",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/74311832",
+     "by": "Jane Kempler &amp; Andrew Goldby Freelance",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/503413429",
      "source": "iNaturalist"
     }
    }
@@ -20556,6 +20785,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Acanthuridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Acanthurus_leucosternon",
   "curated": true
  },
  {
@@ -20565,9 +20795,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De witgevlekte kogelvis is een kogelvis die vaak te vinden is boven zandbodems van lagunes van koraalriffen of zeegrasvelden van de Rode Zee en Indische Oceaan.",
   "facts": [
-   "Zijn grijze lijf zit vol kleine witte stipjes.",
-   "Rond zijn oog en bij zijn borstvinnen heeft hij witte kringen.",
-   "Hij zwemt met zijn rug- en aarsvin, niet met zijn staart."
+   "Rond zijn ogen en borstvinnen heeft hij witte kringen, als schietschijven.",
+   "Hij zwemt met zijn rug- en aarsvin, niet met zijn staart.",
+   "Hij kan 50 centimeter lang worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Witgevlekte_kogelvis",
   "img": "images/arothron-hispidus.webp",
@@ -20601,12 +20831,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/arothron-hispidus-2.webp",
     "size": [
      1100,
-     734
+     825
     ],
     "credit": {
-     "by": "John Turnbull",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/364114599",
+     "by": "moseranna",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/449465579",
      "source": "iNaturalist"
     }
    },
@@ -20614,12 +20844,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/arothron-hispidus-3.webp",
     "size": [
      1100,
-     751
+     734
     ],
     "credit": {
-     "by": "Marine Explorer (Dr John Turnbull)",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/11799428",
+     "by": "taxono-my",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/740698059",
      "source": "iNaturalist"
     }
    }
@@ -20628,6 +20858,7 @@ window.OCEAN_ANIMALS = [
   "order": "Tetraodontiformes",
   "family": "Tetraodontidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/White-spotted_puffer",
   "curated": true
  },
  {
@@ -20637,9 +20868,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De witte tonijn of albacore is een straalvinnige vis uit de familie van makrelen en behoort derhalve tot de orde van baarsachtigen.",
   "facts": [
-   "Hij heet ook wel albacore.",
-   "Hij leeft van vlak onder het oppervlak tot 600 meter diep.",
-   "Hij komt ook voor in de Middellandse Zee."
+   "Anders dan andere tonijnen eet hij vooral inktvissen.",
+   "Jonge exemplaren zwemmen heen en weer tussen Japan en Amerika.",
+   "Hij is de enige tonijn die als 'witte tonijn' verkocht mag worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Witte_tonijn",
   "img": "images/thunnus-alalunga.webp",
@@ -20700,6 +20931,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Scombridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Albacore",
   "curated": true
  },
  {
@@ -20709,9 +20941,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De wrattige voelsprietvis is een straalvinnige vissensoort uit de familie van voelsprietvissen.",
   "facts": [
-   "Op zijn rug zit een lange stekel met een kleurig flapje als lokaas.",
-   "Hij laat dat flapje kronkelen als een visje om prooien te lokken.",
-   "Hij leeft op koraalriffen in de Indische en westelijke Grote Oceaan."
+   "Zijn lokaas lijkt op een klein visje.",
+   "Als het koraal verbleekt, kan hij in een paar weken helemaal wit worden.",
+   "Hij kan prooien eten die bijna net zo groot zijn als hijzelf."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Wrattige_voelsprietvis",
   "img": "images/antennarius-maculatus.webp",
@@ -20745,12 +20977,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/antennarius-maculatus-2.webp",
     "size": [
      1100,
-     825
+     916
     ],
     "credit": {
-     "by": "Dan Schofield",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/97052041",
+     "by": "henrycarrick",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/460107663",
      "source": "iNaturalist"
     }
    },
@@ -20758,12 +20990,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/antennarius-maculatus-3.webp",
     "size": [
      1100,
-     825
+     971
     ],
     "credit": {
-     "by": "Susanne Spindler",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/152750660",
+     "by": "Peter",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/553103664",
      "source": "iNaturalist"
     }
    }
@@ -20772,6 +21004,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lophiiformes",
   "family": "Antennariidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Warty_frogfish",
   "curated": true
  },
  {
@@ -20781,20 +21014,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De zandspiering is een straalvinnige vis uit de familie van de zandspieringen en de orde van de baarsachtigen, die voorkomt in het noordoosten van de Atlantische Oceaan, zelden in de Middellandse Zee.",
   "facts": [
+   "Zijn rug is groengeel en zijn buik glanst zilver.",
    "Hij heeft 60 tot 68 wervels.",
-   "Hij eet dierlijk plankton.",
-   "Hij leeft in kustwateren van de noordoostelijke Atlantische Oceaan."
+   "Hij eet dierlijk plankton."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zandspiering",
   "img": "images/ammodytes-tobianus.webp",
   "imgSize": [
    1400,
-   1050
+   933
   ],
   "credit": {
-   "by": "Julien Renoult",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/11719473",
+   "by": "Roy Anderson",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/635672273",
    "source": "iNaturalist"
   },
   "obs": 15080,
@@ -20804,38 +21037,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/ammodytes-tobianus.webp",
     "size": [
      1400,
-     1050
+     933
     ],
     "credit": {
-     "by": "Julien Renoult",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/11719473",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/ammodytes-tobianus-2.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Julien Renoult",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/11719511",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/ammodytes-tobianus-3.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Jamie O'Neill",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/206786815",
+     "by": "Roy Anderson",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/635672273",
      "source": "iNaturalist"
     }
    }
@@ -20844,6 +21051,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Ammodytidae",
   "ns": 636,
+  "wikiEn": "https://en.wikipedia.org/wiki/Lesser_sand_eel",
   "curated": true
  },
  {
@@ -20853,20 +21061,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De zeeduivel is een straalvinnige vis uit de familie van de zeeduivels en de orde van de vinarmigen.",
   "facts": [
-   "Boven zijn bek hangt een vlezig lokaas aan zijn rugvin.",
-   "Op de bodem is hij met zijn gemarmerde huid bijna onzichtbaar.",
-   "Hij zuigt prooien naar binnen door zijn enorme bek open te klappen."
+   "Zijn tanden klappen naar binnen: een prooi glijdt er makkelijk in, maar kan er niet meer uit.",
+   "Met zijn vinnen loopt hij over de zeebodem.",
+   "Hij kan in één keer tot 2,8 miljoen eitjes leggen, allemaal in één laag, elk in een eigen holletje."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zeeduivel",
   "img": "images/lophius-piscatorius.webp",
   "imgSize": [
    1400,
-   1050
+   934
   ],
   "credit": {
-   "by": "luismartinezartola",
+   "by": "Poul Erik Rasmussen",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/133521176",
+   "url": "https://www.inaturalist.org/photos/14317733",
    "source": "iNaturalist"
   },
   "obs": 75915,
@@ -20876,7 +21084,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/lophius-piscatorius.webp",
     "size": [
      1400,
-     1050
+     934
+    ],
+    "credit": {
+     "by": "Poul Erik Rasmussen",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/14317733",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/lophius-piscatorius-2.webp",
+    "size": [
+     1100,
+     825
     ],
     "credit": {
      "by": "luismartinezartola",
@@ -20886,28 +21107,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/lophius-piscatorius-2.webp",
-    "size": [
-     1100,
-     734
-    ],
-    "credit": {
-     "by": "Poul Erik Rasmussen",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/14317446",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/lophius-piscatorius-3.webp",
     "size": [
      1100,
-     740
+     825
     ],
     "credit": {
-     "by": "ssimps",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/39225083",
+     "by": "Donald Davesne",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/269401100",
      "source": "iNaturalist"
     }
    }
@@ -20916,6 +21124,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lophiiformes",
   "family": "Lophiidae",
   "ns": 1420,
+  "wikiEn": "https://en.wikipedia.org/wiki/Lophius_piscatorius",
   "curated": true
  },
  {
@@ -20925,20 +21134,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De zeeprik is een parasitaire prik, die voorkomt in de Atlantische Oceaan.",
   "facts": [
-   "Hij heeft geen kaken, maar een ronde zuigmond.",
-   "Daarmee boort hij in vissen en zelfs walvissen om hun bloed te drinken.",
-   "Hij legt zijn eieren in zoet water en sterft daarna."
+   "Zijn ronde zuigmond zit vol tandjes in kringen, met een raspachtige tong in het midden.",
+   "Hij boort zich vast in vissen en zelfs walvissen om hun bloed te drinken.",
+   "Via kanalen is hij in de Grote Meren van Amerika beland en richtte daar grote schade aan."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zeeprik",
   "img": "images/petromyzon-marinus.webp",
   "imgSize": [
-   1280,
-   960
+   1400,
+   788
   ],
   "credit": {
-   "by": "Fernando Losada Rodríguez",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/209402373",
+   "by": "Below Blue Water Diver",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/737959559",
    "source": "iNaturalist"
   },
   "obs": 17330,
@@ -20947,13 +21156,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/petromyzon-marinus.webp",
     "size": [
-     1280,
-     960
+     1400,
+     788
     ],
     "credit": {
-     "by": "Fernando Losada Rodríguez",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/209402373",
+     "by": "Below Blue Water Diver",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/737959559",
      "source": "iNaturalist"
     }
    },
@@ -20961,12 +21170,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/petromyzon-marinus-2.webp",
     "size": [
      1100,
-     825
+     732
     ],
     "credit": {
-     "by": "j_lawrence9567",
+     "by": "Thomas Menut",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/414789533",
+     "url": "https://www.inaturalist.org/photos/269747511",
      "source": "iNaturalist"
     }
    },
@@ -20974,12 +21183,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/petromyzon-marinus-3.webp",
     "size": [
      1100,
-     786
+     619
     ],
     "credit": {
-     "by": "Gary James",
+     "by": "Below Blue Water Diver",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/382132130",
+     "url": "https://www.inaturalist.org/photos/737959608",
      "source": "iNaturalist"
     }
    }
@@ -20988,6 +21197,7 @@ window.OCEAN_ANIMALS = [
   "order": "Petromyzontiformes",
   "family": "Petromyzontidae",
   "ns": 52,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sea_lamprey",
   "curated": true
  },
  {
@@ -20997,9 +21207,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De zeestekelbaars is een uitsluitend in zoutwater voorkomende vertegenwoordiger van de stekelbaarsfamilie.",
   "facts": [
-   "Hij heeft veertien tot zestien stekels op zijn rug.",
-   "Hij komt ook in de Waddenzee voor.",
-   "Hij is afhankelijk van zeegrasvelden, die sinds 1932 grotendeels zijn verdwenen."
+   "Hij is de grootste stekelbaars.",
+   "Het mannetje zorgt voor de jongen tot ze zelf kunnen eten.",
+   "Hij heeft veertien tot zestien stekels op zijn rug."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zeestekelbaars",
   "img": "images/spinachia-spinachia.webp",
@@ -21010,7 +21220,7 @@ window.OCEAN_ANIMALS = [
   "credit": {
    "by": "Vsevolod Rudyi",
    "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/424163332",
+   "url": "https://www.inaturalist.org/photos/424163348",
    "source": "iNaturalist"
   },
   "obs": 5334,
@@ -21025,7 +21235,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Vsevolod Rudyi",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/424163332",
+     "url": "https://www.inaturalist.org/photos/424163348",
      "source": "iNaturalist"
     }
    },
@@ -21033,12 +21243,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/spinachia-spinachia-2.webp",
     "size": [
      1100,
-     826
+     825
     ],
     "credit": {
-     "by": "Peter Corbett",
+     "by": "Geoff Morgan",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/347681534",
+     "url": "https://www.inaturalist.org/photos/699804194",
      "source": "iNaturalist"
     }
    },
@@ -21049,9 +21259,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Julien Renoult",
+     "by": "Vsevolod Rudyi",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/46650772",
+     "url": "https://www.inaturalist.org/photos/424163332",
      "source": "iNaturalist"
     }
    }
@@ -21060,6 +21270,7 @@ window.OCEAN_ANIMALS = [
   "order": "Gasterosteiformes",
   "family": "Gasterosteidae",
   "ns": 56,
+  "wikiEn": "https://en.wikipedia.org/wiki/Spinachia_spinachia",
   "curated": true
  },
  {
@@ -21069,9 +21280,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De zeewolf is een vis uit de familie van de zeewolven en de orde van de baarsachtigen.",
   "facts": [
-   "Voor in zijn bek heeft hij lange, stevige tanden.",
-   "Hij leeft in koud water van -1 tot 13 graden.",
-   "Langs de Nederlandse kust is hij zeer zeldzaam."
+   "Zijn bloed bevat natuurlijk antivries, zodat het in ijskoud water blijft stromen.",
+   "Achter zijn hoektanden heeft hij rijen kiezen om schelpen en krabben te kraken.",
+   "Zijn eieren horen bij de grootste viseieren die we kennen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zeewolf",
   "img": "images/anarhichas-lupus.webp",
@@ -21105,12 +21316,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/anarhichas-lupus-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Poul Erik Rasmussen",
+     "by": "daisymagoo",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/14456212",
+     "url": "https://www.inaturalist.org/photos/188073307",
      "source": "iNaturalist"
     }
    },
@@ -21118,12 +21329,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/anarhichas-lupus-3.webp",
     "size": [
      1100,
-     733
+     732
     ],
     "credit": {
-     "by": "Poul Erik Rasmussen",
+     "by": "mumudu",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/14456087",
+     "url": "https://www.inaturalist.org/photos/261597620",
      "source": "iNaturalist"
     }
    }
@@ -21132,6 +21343,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Anarhichadidae",
   "ns": 516,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_wolffish",
   "curated": true
  },
  {
@@ -21141,20 +21353,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De zonnevis is de typesoort van de familie van de zonnevissen en de orde zonnevisachtigen.",
   "facts": [
-   "Op elke flank heeft hij een grote zwarte vlek met een gele rand.",
-   "In het Engels heet hij John Dory; 'Dory' komt mogelijk van het Franse doré, gouden.",
-   "Hij heeft bijnamen als sint-pietervis en spiegelvis."
+   "Zijn lijf is zo plat dat je hem van voren bijna niet ziet.",
+   "Zijn ogen kijken naar voren, zodat hij diepte ziet, handig bij het jagen.",
+   "De grote zwarte vlek op zijn flank brengt prooien in de war."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zonnevis",
   "img": "images/zeus-faber.webp",
   "imgSize": [
    1400,
-   933
+   1050
   ],
   "credit": {
-   "by": "Museos Científicos Coruñeses",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/165780848",
+   "by": "Sylvain Le Bris",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/251171327",
    "source": "iNaturalist"
   },
   "obs": 54344,
@@ -21164,12 +21376,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/zeus-faber.webp",
     "size": [
      1400,
-     933
+     1050
     ],
     "credit": {
-     "by": "Museos Científicos Coruñeses",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/165780848",
+     "by": "Sylvain Le Bris",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/251171327",
      "source": "iNaturalist"
     }
    },
@@ -21177,12 +21389,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/zeus-faber-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Jean-Pierre Boissé",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/394978635",
+     "by": "Dennis Rabeling",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/130475744",
      "source": "iNaturalist"
     }
    },
@@ -21193,9 +21405,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Dennis Rabeling",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/130476040",
+     "by": "Pierre Corbrion",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/449904776",
      "source": "iNaturalist"
     }
    }
@@ -21204,6 +21416,7 @@ window.OCEAN_ANIMALS = [
   "order": "Zeiformes",
   "family": "Zeidae",
   "ns": 29,
+  "wikiEn": "https://en.wikipedia.org/wiki/John_Dory",
   "curated": true
  },
  {
@@ -21213,20 +21426,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De zwaardvis is een straalvinnige vis uit de familie van de zwaardvissen en behoort daarmee tot de orde van baarsachtigen.",
   "facts": [
-   "Hij kan 4,5 meter lang en 590 kilo zwaar worden.",
-   "Zijn 'zwaard' helpt hem misschien om sneller door het water te gaan.",
-   "Grote zwaardvissen duiken heel diep om te jagen."
+   "Naast zijn ogen zit een orgaan dat zijn ogen en hersenen opwarmt, zodat hij beter ziet.",
+   "Hij springt soms uit het water, misschien om parasieten kwijt te raken.",
+   "Een vrouwtje kan tot 29 miljoen eieren dragen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zwaardvis",
   "img": "images/xiphias-gladius.webp",
   "imgSize": [
    1400,
-   753
+   918
   ],
   "credit": {
-   "by": "Jon McIntyre",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/38248430",
+   "by": "Diane Alps",
+   "license": "CC-BY-NC-ND",
+   "url": "https://www.inaturalist.org/photos/516420581",
    "source": "iNaturalist"
   },
   "obs": 449469,
@@ -21236,12 +21449,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/xiphias-gladius.webp",
     "size": [
      1400,
-     753
+     918
     ],
     "credit": {
-     "by": "Jon McIntyre",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/38248430",
+     "by": "Diane Alps",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/516420581",
      "source": "iNaturalist"
     }
    },
@@ -21249,25 +21462,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/xiphias-gladius-2.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Gonzalo Mucientes Sandoval",
+     "by": "Luke Halpin",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/28759828",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/xiphias-gladius-3.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Gonzalo Mucientes Sandoval",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/28759840",
+     "url": "https://www.inaturalist.org/photos/95840213",
      "source": "iNaturalist"
     }
    }
@@ -21276,6 +21476,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Xiphiidae",
   "ns": 123,
+  "wikiEn": "https://en.wikipedia.org/wiki/Swordfish",
   "curated": true
  },
  {
@@ -21286,19 +21487,19 @@ window.OCEAN_ANIMALS = [
   "intro": "De zwarte anemoonvis of Clark’s clownsvis of Clark's anemoonvis is een tropische zoutwatervis die leeft bij koraalriffen en lagunes op een diepte van 1 tot 55 meter.",
   "facts": [
    "Hij is de minst kieskeurige anemoonvis: hij woont in veel verschillende soorten anemonen.",
-   "Hij wordt maximaal 15 centimeter lang.",
-   "In elke groep is er één vrouwtje, dat paart met het grootste mannetje."
+   "Geen anemoonvis heeft zoveel kleurvarianten als hij.",
+   "Hij wordt als mannetje geboren; het grootste en agressiefste exemplaar van de groep is het vrouwtje."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zwarte_anemoonvis",
   "img": "images/amphiprion-clarkii.webp",
   "imgSize": [
-   1400,
-   934
+   1000,
+   750
   ],
   "credit": {
-   "by": "Mark Rosenstein",
+   "by": "Terry Farr",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/19350008",
+   "url": "https://www.inaturalist.org/photos/607330907",
    "source": "iNaturalist"
   },
   "obs": 6562,
@@ -21307,8 +21508,21 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/amphiprion-clarkii.webp",
     "size": [
-     1400,
-     934
+     1000,
+     750
+    ],
+    "credit": {
+     "by": "Terry Farr",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/607330907",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/amphiprion-clarkii-2.webp",
+    "size": [
+     1100,
+     734
     ],
     "credit": {
      "by": "Mark Rosenstein",
@@ -21318,28 +21532,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/amphiprion-clarkii-2.webp",
-    "size": [
-     1100,
-     776
-    ],
-    "credit": {
-     "by": "Ryan Yue Wah Chan",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/107906380",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/amphiprion-clarkii-3.webp",
     "size": [
-     1100,
-     718
+     1024,
+     683
     ],
     "credit": {
-     "by": "Tony Strazzari",
+     "by": "Mark Rosenstein",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/19459180",
+     "url": "https://www.inaturalist.org/photos/198359",
      "source": "iNaturalist"
     }
    }
@@ -21348,6 +21549,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Pomacentridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Clark%27s_anemonefish",
   "curated": true
  },
  {
@@ -21357,7 +21559,7 @@ window.OCEAN_ANIMALS = [
   "cat": "Vissen",
   "intro": "De zwarte grondel is een straalvinnige vis uit de familie van grondels en behoort daarmee tot de orde van baarsachtigen.",
   "facts": [
-   "Hij wordt maximaal 18 centimeter lang.",
+   "In de paartijd wordt het mannetje bijna zwart en krijgt hij fellere vinnen.",
    "Hij leeft in zout en brak water.",
    "Hij kan 4 jaar oud worden."
   ],
@@ -21365,12 +21567,12 @@ window.OCEAN_ANIMALS = [
   "img": "images/gobius-niger.webp",
   "imgSize": [
    1400,
-   935
+   1050
   ],
   "credit": {
-   "by": "Klaus Kevin Kristensen",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/327919849",
+   "by": "Rita Jansen",
+   "license": "CC-BY-NC-SA",
+   "url": "https://www.inaturalist.org/photos/97739064",
    "source": "iNaturalist"
   },
   "obs": 25409,
@@ -21380,12 +21582,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/gobius-niger.webp",
     "size": [
      1400,
-     935
+     1050
     ],
     "credit": {
-     "by": "Klaus Kevin Kristensen",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/327919849",
+     "by": "Rita Jansen",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/97739064",
      "source": "iNaturalist"
     }
    },
@@ -21393,12 +21595,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/gobius-niger-2.webp",
     "size": [
      1100,
-     736
+     825
     ],
     "credit": {
-     "by": "Xavier Rufray",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/408323692",
+     "by": "Donald Davesne",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/461296862",
      "source": "iNaturalist"
     }
    },
@@ -21409,9 +21611,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Dennis Rabeling",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/600357673",
+     "by": "Prat",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/246148094",
      "source": "iNaturalist"
     }
    }
@@ -21420,6 +21622,7 @@ window.OCEAN_ANIMALS = [
   "order": "Perciformes",
   "family": "Gobiidae",
   "ns": 47,
+  "wikiEn": "https://en.wikipedia.org/wiki/Black_goby",
   "curated": true
  },
  {
@@ -21429,9 +21632,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De Amerikaanse zwaardschede, ook wel “Amerikaans scheermes” genoemd, (Ensis leei; synoniemen: Ensis americanus en Ensis directus sensu Abbott, 1954) is een in zee levend tweekleppig weekdier.",
   "facts": [
-   "Hij heeft een dunne, heel langwerpige schelp en heet ook wel 'Amerikaans scheermes'.",
-   "Met zijn krachtige voet graaft hij zich razendsnel in.",
-   "Hij is ook een goede zwemmer."
+   "Hij zwemt door straaltjes water uit zijn schelp te spuiten.",
+   "Strooi zout bij zijn hol en hij komt naar boven.",
+   "Strandgangers kunnen zich snijden aan zijn scherpe schelp."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Amerikaanse_zwaardschede",
   "img": "images/ensis-leei.webp",
@@ -21492,6 +21695,7 @@ window.OCEAN_ANIMALS = [
   "order": "Adapedonta",
   "family": "Pharidae",
   "ns": 8149,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_jackknife_clam",
   "curated": true
  },
  {
@@ -21502,8 +21706,8 @@ window.OCEAN_ANIMALS = [
   "intro": "De Atlantische dwerginktvis is een inktvis uit de familie van de Sepiolidae.",
   "facts": [
    "Hij is maar 2 tot 5 centimeter lang.",
-   "'s Zomers is hij vrij algemeen in de Oosterschelde en de Grevelingen.",
-   "Hij eet kleine kreeftjes en visjes."
+   "Het vrouwtje kan van kleur of patroon veranderen; het mannetje blijft meestal hetzelfde.",
+   "'s Zomers is hij vrij algemeen in de Oosterschelde en de Grevelingen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Atlantische_dwerginktvis",
   "img": "images/sepiola-atlantica.webp",
@@ -21512,9 +21716,9 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "Hans Hillewaert",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/848921",
+   "by": "João Pontes",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/284650320",
    "source": "iNaturalist"
   },
   "obs": 5142,
@@ -21527,9 +21731,9 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "Hans Hillewaert",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/848921",
+     "by": "João Pontes",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/284650320",
      "source": "iNaturalist"
     }
    },
@@ -21537,12 +21741,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sepiola-atlantica-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "gonzalopardodesantayana",
+     "by": "unorthodox_sketch",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/534853017",
+     "url": "https://www.inaturalist.org/photos/508324521",
      "source": "iNaturalist"
     }
    },
@@ -21550,12 +21754,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sepiola-atlantica-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "gonzalopardodesantayana",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/534853010",
+     "by": "Libby Keatley",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/443945570",
      "source": "iNaturalist"
     }
    }
@@ -21564,6 +21768,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sepiida",
   "family": "Sepiolidae",
   "ns": 567,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sepiola_atlantica",
   "curated": true
  },
  {
@@ -21573,9 +21778,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De Atlantische reuzeninktvis is een inktvissensoort, de grootste soort uit het geslacht Architeuthis in de familie Architeuthidae.",
   "facts": [
-   "De meeste bekende exemplaren zijn aangespoeld of gevonden in de maag van een potvis.",
-   "Bij Newfoundland en Noorwegen spoelen ze vaker aan als koud water omhoogkomt.",
-   "Ook sluimerhaaien blijken op reuzeninktvissen te jagen."
+   "Zijn ogen zijn de grootste van alle levende dieren, misschien op de kolossale inktvis na.",
+   "Verhalen over reuzeninktvissen leidden misschien tot de legende van de kraken.",
+   "De meeste bekende exemplaren zijn aangespoeld of gevonden in de maag van een potvis."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Atlantische_reuzeninktvis",
   "img": "images/architeuthis-dux.webp",
@@ -21636,6 +21841,7 @@ window.OCEAN_ANIMALS = [
   "order": "Oegopsida",
   "family": "Architeuthidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Giant_squid",
   "curated": true
  },
  {
@@ -21645,9 +21851,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De brede ringsprietslak is een slakkensoort uit de familie van de ringsprietslakken.",
   "facts": [
+   "Hij eet soms andere naaktslakken op.",
    "Zijn rug zit vol slanke uitsteeksels met witte puntjes.",
-   "Zijn tentakels zijn bijna half zo lang als zijn lijf.",
-   "Hij leeft waar het getij sterk stroomt."
+   "Sommige exemplaren glanzen blauw rond de kop."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Brede_ringsprietslak",
   "img": "images/facelina-bostoniensis.webp",
@@ -21684,9 +21890,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Guido Schmitz",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/1819607",
+     "by": "Micha Baum",
+     "license": "CC-BY-SA",
+     "url": "https://www.inaturalist.org/photos/75211276",
      "source": "iNaturalist"
     }
    },
@@ -21697,9 +21903,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Glenn Biscop",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/201081049",
+     "by": "Micha Baum",
+     "license": "CC-BY-SA",
+     "url": "https://www.inaturalist.org/photos/75211285",
      "source": "iNaturalist"
     }
    }
@@ -21708,6 +21914,7 @@ window.OCEAN_ANIMALS = [
   "order": "Nudibranchia",
   "family": "Facelinidae",
   "ns": 149,
+  "wikiEn": "https://en.wikipedia.org/wiki/Facelina_bostoniensis",
   "curated": true
  },
  {
@@ -21717,9 +21924,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De Californische zeehaas is een zeenaaktslak die voorkomt in de Grote Oceaan van Californië tot het noorden van Mexico.",
   "facts": [
-   "Bij gevaar spuit hij paarse inkt.",
-   "Hij eet roodwieren.",
-   "Uit een kleurstof in zijn voedsel maakt hij de inkt die krabben op afstand houdt."
+   "Eén zeehaas legde in minder dan vijf maanden zo'n 500 miljoen eitjes.",
+   "Wetenschappers bestuderen zijn zenuwstelsel, dat maar 20.000 grote zenuwcellen heeft, om te begrijpen hoe leren werkt.",
+   "Bij gevaar spuit hij paarse inkt."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Californische_zeehaas",
   "img": "images/aplysia-californica.webp",
@@ -21753,12 +21960,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/aplysia-californica-2.webp",
     "size": [
      1100,
-     1033
+     825
     ],
     "credit": {
-     "by": "sea-kangaroo",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/27139751",
+     "by": "Charlotte Seid",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/284341316",
      "source": "iNaturalist"
     }
    },
@@ -21766,12 +21973,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/aplysia-californica-3.webp",
     "size": [
      1100,
-     735
+     734
     ],
     "credit": {
-     "by": "Siena McKim",
+     "by": "Marco Mazza",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/149241003",
+     "url": "https://www.inaturalist.org/photos/227160386",
      "source": "iNaturalist"
     }
    }
@@ -21780,6 +21987,7 @@ window.OCEAN_ANIMALS = [
   "order": "Aplysiida",
   "family": "Aplysiidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/California_sea_hare",
   "curated": true
  },
  {
@@ -21789,20 +21997,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De doopvontschelp is een in zee levend tweekleppig weekdier uit de familie van de hartschelpen.",
   "facts": [
-   "Hij is het grootste levende tweekleppige schelpdier.",
-   "Hij kan ongeveer honderd jaar oud worden.",
-   "Zijn groeiringen vertellen wetenschappers hoe warm het zeewater duizenden jaren geleden was."
+   "Algjes in zijn mantel maken het meeste voedsel voor hem.",
+   "Dat hij mensen zou kunnen vastklemmen is een mythe: hij sluit te traag en kan niet helemaal dicht.",
+   "Hij kan ruim honderd jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Doopvontschelp",
   "img": "images/tridacna-gigas.webp",
   "imgSize": [
-   1200,
-   957
+   1400,
+   1050
   ],
   "credit": {
-   "by": "uwkwaj",
+   "by": "Avery Cunningham",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/238306910",
+   "url": "https://www.inaturalist.org/photos/597126871",
    "source": "iNaturalist"
   },
   "obs": 1894,
@@ -21811,8 +22019,21 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/tridacna-gigas.webp",
     "size": [
-     1200,
-     957
+     1400,
+     1050
+    ],
+    "credit": {
+     "by": "Avery Cunningham",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/597126871",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/tridacna-gigas-2.webp",
+    "size": [
+     1100,
+     877
     ],
     "credit": {
      "by": "uwkwaj",
@@ -21822,28 +22043,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/tridacna-gigas-2.webp",
-    "size": [
-     1100,
-     758
-    ],
-    "credit": {
-     "by": "markusgmeiner",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/8870237",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/tridacna-gigas-3.webp",
     "size": [
      1100,
-     825
+     805
     ],
     "credit": {
-     "by": "Emily Zucker",
+     "by": "uwkwaj",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/33323434",
+     "url": "https://www.inaturalist.org/photos/238317266",
      "source": "iNaturalist"
     }
    }
@@ -21852,6 +22060,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cardiida",
   "family": "Cardiidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Giant_clam",
   "curated": true
  },
  {
@@ -21861,9 +22070,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De Europese achtarm, ook wel kraak of gewone octopus genoemd, is een inktvis zonder skelet.",
   "facts": [
-   "Hij kan zijn kleur én huid aanpassen aan zijn omgeving.",
-   "Hij kraakt krabben met zijn harde kaken.",
-   "Hij schiet weg door water uit een buisje te persen."
+   "Hij kan mensen herkennen, potten openschroeven en kreeftenkorven leegroven.",
+   "Hij heeft drie harten.",
+   "Hij kan zijn kleur én huid aanpassen aan zijn omgeving."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Europese_achtarm",
   "img": "images/octopus-vulgaris.webp",
@@ -21897,12 +22106,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/octopus-vulgaris-2.webp",
     "size": [
      1100,
-     825
+     839
     ],
     "credit": {
-     "by": "Dennis Rabeling",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/246407788",
+     "by": "jjulio2000",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/215505229",
      "source": "iNaturalist"
     }
    },
@@ -21913,9 +22122,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Dennis Rabeling",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/562355372",
+     "by": "Callum Evans",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/100379352",
      "source": "iNaturalist"
     }
    }
@@ -21924,6 +22133,7 @@ window.OCEAN_ANIMALS = [
   "order": "Octopoda",
   "family": "Octopodidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_octopus",
   "curated": true
  },
  {
@@ -21933,20 +22143,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De gestippelde zeehaas is een slakkensoort uit de familie van de Aplysiidae.",
   "facts": [
-   "Bij gevaar rolt hij de twee flappen langs zijn lijf in elkaar.",
-   "Bij gevaar spuit hij bruinpaarse inkt.",
-   "Hij schraapt wieren van de bodem."
+   "Zijn kleur komt van de wieren die hij eet; zo is hij meteen gecamoufleerd.",
+   "Hij heeft een schelp, maar die zit binnenin zijn lijf.",
+   "Hij leeft maar ongeveer een jaar."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gestippelde_zeehaas",
   "img": "images/aplysia-punctata.webp",
   "imgSize": [
    1400,
-   1050
+   931
   ],
   "credit": {
-   "by": "Nathan Jackson",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/486098081",
+   "by": "Bernard Picton",
+   "license": "CC-BY",
+   "url": "https://www.inaturalist.org/photos/166251444",
    "source": "iNaturalist"
   },
   "obs": 7335,
@@ -21956,12 +22166,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/aplysia-punctata.webp",
     "size": [
      1400,
-     1050
+     931
     ],
     "credit": {
-     "by": "Nathan Jackson",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/486098081",
+     "by": "Bernard Picton",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/166251444",
      "source": "iNaturalist"
     }
    },
@@ -21969,12 +22179,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/aplysia-punctata-2.webp",
     "size": [
      1100,
-     825
+     794
     ],
     "credit": {
-     "by": "Mélina",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/382182208",
+     "by": "Juraj Ahel",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/267804084",
      "source": "iNaturalist"
     }
    },
@@ -21985,9 +22195,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Emma Turner",
+     "by": "Nathan Jackson",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/676434336",
+     "url": "https://www.inaturalist.org/photos/486098081",
      "source": "iNaturalist"
     }
    }
@@ -21996,6 +22206,7 @@ window.OCEAN_ANIMALS = [
   "order": "Aplysiida",
   "family": "Aplysiidae",
   "ns": 147,
+  "wikiEn": "https://en.wikipedia.org/wiki/Aplysia_punctata",
   "curated": true
  },
  {
@@ -22005,20 +22216,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De gewone alikruik is een in zee levende kieuwslak.",
   "facts": [
-   "Zijn stevige huisje raakt zelden beschadigd in de branding.",
-   "Hij overleeft zelfs zoetig of vervuild water.",
-   "Hij is eetbaar."
+   "Zijn raspende tong heeft rijen van zeven tandjes.",
+   "In 1840 werd hij voor het eerst in Noord-Amerika gezien.",
+   "Zijn stevige huisje raakt zelden beschadigd in de branding."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_alikruik",
   "img": "images/littorina-littorea.webp",
   "imgSize": [
    1400,
-   1190
+   933
   ],
   "credit": {
-   "by": "Robin Gwen Agarwal",
+   "by": "Poul Erik Rasmussen",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/3505851",
+   "url": "https://www.inaturalist.org/photos/14316904",
    "source": "iNaturalist"
   },
   "obs": 64849,
@@ -22028,20 +22239,7 @@ window.OCEAN_ANIMALS = [
     "img": "images/littorina-littorea.webp",
     "size": [
      1400,
-     1190
-    ],
-    "credit": {
-     "by": "Robin Gwen Agarwal",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/3505851",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/littorina-littorea-2.webp",
-    "size": [
-     1100,
-     733
+     933
     ],
     "credit": {
      "by": "Poul Erik Rasmussen",
@@ -22051,15 +22249,28 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
+    "img": "images/littorina-littorea-2.webp",
+    "size": [
+     1024,
+     748
+    ],
+    "credit": {
+     "by": "Julien Bottinelli",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/247748399",
+     "source": "iNaturalist"
+    }
+   },
+   {
     "img": "images/littorina-littorea-3.webp",
     "size": [
      1100,
-     973
+     752
     ],
     "credit": {
-     "by": "Robin Gwen Agarwal",
+     "by": "annaholdaway",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/3505861",
+     "url": "https://www.inaturalist.org/photos/2107924",
      "source": "iNaturalist"
     }
    }
@@ -22068,6 +22279,7 @@ window.OCEAN_ANIMALS = [
   "order": "Littorinimorpha",
   "family": "Littorinidae",
   "ns": 2535,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_periwinkle",
   "curated": true
  },
  {
@@ -22077,8 +22289,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De gewone oester is een in zee levend tweekleppig weekdier.",
   "facts": [
-   "Edulis is Latijn voor 'eetbaar'.",
-   "Hij heet ook platte oester.",
+   "Een oester kan van geslacht wisselen, onder andere door de watertemperatuur.",
+   "Er zijn fossielen van hem gevonden van bijna 16 miljoen jaar oud, ook in Nederland.",
    "Oesters groeien op elkaar, waardoor grote oesterbanken ontstaan."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_oester",
@@ -22108,38 +22320,13 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/331766557",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/ostrea-edulis-2.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "nje171",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/349529008",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/ostrea-edulis-3.webp",
-    "size": [
-     1100,
-     1100
-    ],
-    "credit": {
-     "by": "tprario",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/171987067",
-     "source": "iNaturalist"
-    }
    }
   ],
   "thumb": "thumbs/ostrea-edulis.webp",
   "order": "Ostreida",
   "family": "Ostreidae",
   "ns": 3298,
+  "wikiEn": "https://en.wikipedia.org/wiki/Ostrea_edulis",
   "curated": true
  },
  {
@@ -22149,20 +22336,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De gewone pijlinktvis is een veelvoorkomende pijlinktvis in de kustwateren van de Noordzee tot aan de westkust van Afrika.",
   "facts": [
-   "Zijn mantel wordt tot zo'n 40 centimeter lang.",
-   "Hij komt veel voor van de Noordzee tot aan West-Afrika.",
-   "Hij leeft van het wateroppervlak tot 500 meter diep."
+   "Zijn kleur hangt af van hoe ver zijn kleurcellen uitgerekt zijn.",
+   "In mei en juni trekt hij de Noordzee in om te paaien.",
+   "Zijn mantel wordt tot zo'n 40 centimeter lang."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_pijlinktvis",
   "img": "images/loligo-vulgaris.webp",
   "imgSize": [
    1400,
-   933
+   1062
   ],
   "credit": {
-   "by": "josepvilanova",
+   "by": "Ana Santos",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/102663129",
+   "url": "https://www.inaturalist.org/photos/206075066",
    "source": "iNaturalist"
   },
   "obs": 41304,
@@ -22172,12 +22359,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/loligo-vulgaris.webp",
     "size": [
      1400,
-     933
+     1062
     ],
     "credit": {
-     "by": "josepvilanova",
+     "by": "Ana Santos",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/102663129",
+     "url": "https://www.inaturalist.org/photos/206075066",
      "source": "iNaturalist"
     }
    },
@@ -22188,9 +22375,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "josepvilanova",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/228141631",
+     "url": "https://www.inaturalist.org/photos/102663129",
      "source": "iNaturalist"
     }
    },
@@ -22198,12 +22385,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/loligo-vulgaris-3.webp",
     "size": [
      1100,
-     733
+     850
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "Ana Santos",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/348968369",
+     "url": "https://www.inaturalist.org/photos/206074340",
      "source": "iNaturalist"
     }
    }
@@ -22212,6 +22399,7 @@ window.OCEAN_ANIMALS = [
   "order": "Myopsida",
   "family": "Loliginidae",
   "ns": 924,
+  "wikiEn": "https://en.wikipedia.org/wiki/European_squid",
   "curated": true
  },
  {
@@ -22222,19 +22410,19 @@ window.OCEAN_ANIMALS = [
   "intro": "De gewone schaalhoren, puntkokkel of napslak is een in zee levende slakkensoort uit de familie Patellidae.",
   "facts": [
    "Zijn tandjes zijn gemaakt van het sterkste natuurlijke materiaal dat we kennen.",
-   "Dat materiaal is taaier dan kevlar en sterker dan spinrag.",
-   "Zijn schelp past zich aan de oneffenheden van zijn rots aan."
+   "Hij heeft 1920 tandjes in 160 rijen.",
+   "Hij kan twintig jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_schaalhoren",
   "img": "images/patella-vulgata.webp",
   "imgSize": [
-   1400,
-   1271
+   1200,
+   900
   ],
   "credit": {
-   "by": "c michael hogan",
-   "license": "CC-BY-NC-SA",
-   "url": "https://www.inaturalist.org/photos/63862393",
+   "by": "Jamie O'Neill",
+   "license": "CC-BY",
+   "url": "https://www.inaturalist.org/photos/251467169",
    "source": "iNaturalist"
   },
   "obs": 33463,
@@ -22243,13 +22431,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/patella-vulgata.webp",
     "size": [
-     1400,
-     1271
+     1200,
+     900
     ],
     "credit": {
-     "by": "c michael hogan",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/63862393",
+     "by": "Jamie O'Neill",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/251467169",
      "source": "iNaturalist"
     }
    },
@@ -22257,12 +22445,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/patella-vulgata-2.webp",
     "size": [
      1100,
-     619
+     811
     ],
     "credit": {
-     "by": "Alison Young",
+     "by": "Marie Lou Legrand",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/9015964",
+     "url": "https://www.inaturalist.org/photos/469063122",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/patella-vulgata-3.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "Luis Silva",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/605066641",
      "source": "iNaturalist"
     }
    }
@@ -22271,6 +22472,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Patellidae",
   "ns": 1849,
+  "wikiEn": "https://en.wikipedia.org/wiki/Patella_vulgata",
   "curated": true
  },
  {
@@ -22280,20 +22482,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De gewone tritonshoren is een slakkensoort uit de familie Charoniidae.",
   "facts": [
+   "Zijn schelp wordt in Japan, Hawaï en Nieuw-Zeeland als trompet gebruikt.",
    "Hij is een van de weinige vijanden van de doornenkroon, een zeester die koraal opeet.",
-   "Duikers visten hem op als souvenir, waardoor hij zeldzaam werd.",
-   "Daardoor kon de doornenkroon uitgroeien tot een plaag."
+   "Duikers visten hem op als souvenir, waardoor hij zeldzaam werd."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_tritonshoren",
   "img": "images/charonia-tritonis.webp",
   "imgSize": [
-   1400,
-   1103
+   1000,
+   667
   ],
   "credit": {
-   "by": "MerlinCharon",
-   "license": "PD",
-   "url": "https://www.inaturalist.org/photos/56314602",
+   "by": "uwkwaj",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/184046569",
    "source": "iNaturalist"
   },
   "obs": 1324,
@@ -22302,13 +22504,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/charonia-tritonis.webp",
     "size": [
-     1400,
-     1103
+     1000,
+     667
     ],
     "credit": {
-     "by": "MerlinCharon",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/56314602",
+     "by": "uwkwaj",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/184046569",
      "source": "iNaturalist"
     }
    },
@@ -22316,12 +22518,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/charonia-tritonis-2.webp",
     "size": [
      1100,
-     917
+     825
     ],
     "credit": {
-     "by": "MerlinCharon",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/56314603",
+     "by": "Frédéric Ducarme",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/73208479",
      "source": "iNaturalist"
     }
    },
@@ -22329,12 +22531,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/charonia-tritonis-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Franco Colnago",
+     "by": "Alexandra Hoschke",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/109110032",
+     "url": "https://www.inaturalist.org/photos/218754134",
      "source": "iNaturalist"
     }
    }
@@ -22343,6 +22545,7 @@ window.OCEAN_ANIMALS = [
   "order": "Littorinimorpha",
   "family": "Charoniidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Charonia_tritonis",
   "curated": true
  },
  {
@@ -22353,8 +22556,8 @@ window.OCEAN_ANIMALS = [
   "intro": "Clione limacina of gewone vlerkslak of zee-engel is een slakkensoort uit de familie van de Clionidae.",
   "facts": [
    "Met twee 'vleugeltjes' zwemt hij door het water; daarom heet hij zee-engel.",
-   "Hij hoort bij het plankton in de ijskoude Arctische zeeën.",
-   "Hij leeft tot wel 500 meter diep."
+   "Hij kan een jaar zonder eten.",
+   "In Japan is hij heel bekend, en hij komt zelfs voor in videogames."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Clione_limacina",
   "img": "images/clione-limacina.webp",
@@ -22363,9 +22566,9 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "Tine Kinn Kvamme",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/11158147",
+   "by": "Hunter Stevens",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/266661284",
    "source": "iNaturalist"
   },
   "obs": 16136,
@@ -22378,9 +22581,9 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "Tine Kinn Kvamme",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/11158147",
+     "by": "Hunter Stevens",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/266661284",
      "source": "iNaturalist"
     }
    },
@@ -22393,7 +22596,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Tine Kinn Kvamme",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/11158113",
+     "url": "https://www.inaturalist.org/photos/11158147",
      "source": "iNaturalist"
     }
    },
@@ -22401,12 +22604,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/clione-limacina-3.webp",
     "size": [
      1100,
-     1009
+     825
     ],
     "credit": {
-     "by": "Tine Kinn Kvamme",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/11155244",
+     "by": "Hunter Stevens",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/266661324",
      "source": "iNaturalist"
     }
    }
@@ -22415,6 +22618,7 @@ window.OCEAN_ANIMALS = [
   "order": "Pteropoda",
   "family": "Clionidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Clione_limacina",
   "curated": true
  },
  {
@@ -22424,9 +22628,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De gewone zeekat is een van de bekendste soorten inktvissen.",
   "facts": [
-   "Hij kan van kleur veranderen en zich aanpassen aan zijn omgeving.",
-   "Naast zijn acht armen heeft hij twee lange vangarmen die hij alleen uitschiet als hij een prooi grijpt.",
-   "'s Nachts jaagt hij op krabben en garnalen."
+   "Al in zijn ei kan hij van kleur veranderen.",
+   "Embryo's die een bepaalde prooi te zien krijgen, jagen daar later vooral op.",
+   "De kleur sepia is naar hem genoemd: die werd uit zijn inkt gemaakt."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_zeekat",
   "img": "images/sepia-officinalis.webp",
@@ -22460,12 +22664,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sepia-officinalis-2.webp",
     "size": [
      1100,
-     768
+     824
     ],
     "credit": {
-     "by": "Bernat Garrigós",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/61586337",
+     "by": "Charlotte Kirchner",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/520832703",
      "source": "iNaturalist"
     }
    },
@@ -22473,12 +22677,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sepia-officinalis-3.webp",
     "size": [
      1100,
-     733
+     620
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "Nadine Walter-Minauf",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/264815502",
+     "url": "https://www.inaturalist.org/photos/555084808",
      "source": "iNaturalist"
     }
    }
@@ -22487,6 +22691,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sepiida",
   "family": "Sepiidae",
   "ns": 5543,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_cuttlefish",
   "curated": true
  },
  {
@@ -22496,20 +22701,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De gewone zeeoor is een in zee levende slak die behoort tot de familie van de zeeoren.",
   "facts": [
+   "Hij is zo gewild dat hij leidde tot de eerste arrestatie onder water ter wereld.",
    "Aan de binnenkant glanst zijn schelp als parelmoer.",
-   "Door gaatjes in zijn schelp steekt hij tentakels naar buiten.",
-   "Hij eet wieren."
+   "Door gaatjes in zijn schelp steekt hij tentakels naar buiten."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_zeeoor",
   "img": "images/haliotis-tuberculata.webp",
   "imgSize": [
    1400,
-   987
+   1050
   ],
   "credit": {
-   "by": "Michael Bommerer",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/425245044",
+   "by": "Sylvain Le Bris",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/635741262",
    "source": "iNaturalist"
   },
   "obs": 9102,
@@ -22519,12 +22724,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/haliotis-tuberculata.webp",
     "size": [
      1400,
-     987
+     1050
     ],
     "credit": {
-     "by": "Michael Bommerer",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/425245044",
+     "by": "Sylvain Le Bris",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/635741262",
      "source": "iNaturalist"
     }
    },
@@ -22532,12 +22737,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/haliotis-tuberculata-2.webp",
     "size": [
      1100,
-     619
+     824
     ],
     "credit": {
-     "by": "Fotios Christodoulou",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/427778526",
+     "by": "Sylvain Le Bris",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/163293019",
      "source": "iNaturalist"
     }
    },
@@ -22545,12 +22750,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/haliotis-tuberculata-3.webp",
     "size": [
      1100,
-     820
+     591
     ],
     "credit": {
-     "by": "Fotios Christodoulou",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/413331447",
+     "by": "Bernat Espigulé",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/197632315",
      "source": "iNaturalist"
     }
    }
@@ -22559,6 +22764,7 @@ window.OCEAN_ANIMALS = [
   "order": "Lepetellida",
   "family": "Haliotidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Green_ormer",
   "curated": true
  },
  {
@@ -22568,20 +22774,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De grote blauwring-octopus is een van de soorten blauwgeringde octopussen.",
   "facts": [
-   "Hij weegt meestal maar zo'n 55 gram.",
-   "Ongestoord is hij onopvallend bruin, maar hij kan van kleur veranderen.",
-   "Zijn gif tetrodotoxine verlamt prooien en is ook gevaarlijk voor mensen."
+   "Zijn felblauwe ringen waarschuwen roofdieren: ik ben heel giftig!",
+   "Zijn beet doet geen pijn, maar het gif kan dodelijk zijn voor mensen.",
+   "Hij weegt meestal maar zo'n 55 gram."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grote_blauwring-octopus",
   "img": "images/hapalochlaena-lunulata.webp",
   "imgSize": [
-   1200,
-   800
+   1400,
+   1008
   ],
   "credit": {
-   "by": "uwkwaj",
+   "by": "Albert Kang",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/340386429",
+   "url": "https://www.inaturalist.org/photos/83720353",
    "source": "iNaturalist"
   },
   "obs": 267,
@@ -22590,8 +22796,21 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/hapalochlaena-lunulata.webp",
     "size": [
-     1200,
-     800
+     1400,
+     1008
+    ],
+    "credit": {
+     "by": "Albert Kang",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/83720353",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/hapalochlaena-lunulata-2.webp",
+    "size": [
+     1100,
+     733
     ],
     "credit": {
      "by": "uwkwaj",
@@ -22601,28 +22820,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/hapalochlaena-lunulata-2.webp",
-    "size": [
-     1100,
-     837
-    ],
-    "credit": {
-     "by": "Wayne and Pam Osborn",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/255455969",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/hapalochlaena-lunulata-3.webp",
     "size": [
      1100,
-     688
+     825
     ],
     "credit": {
-     "by": "pincetczy",
+     "by": "Khaichuin Sim",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/241186901",
+     "url": "https://www.inaturalist.org/photos/133664525",
      "source": "iNaturalist"
     }
    }
@@ -22631,6 +22837,7 @@ window.OCEAN_ANIMALS = [
   "order": "Octopoda",
   "family": "Octopodidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Greater_blue-ringed_octopus",
   "curated": true
  },
  {
@@ -22640,20 +22847,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De grote mantel is een mantelschelp die voorkomt in de Atlantische Oceaan.",
   "facts": [
-   "Hij is beter bekend als sint-jakobsschelp of coquille Saint-Jacques.",
-   "Zijn witte vlees is een geliefde lekkernij.",
-   "Het seizoen loopt van september tot en met april."
+   "Langs de rand van zijn mantel zitten 30 tot 36 blauwe of groene oogjes.",
+   "Ziet hij een zeester, dan zwemt of springt hij weg door zijn schelp dicht te klappen.",
+   "Hij kan meer dan 20 jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grote_mantel",
   "img": "images/pecten-maximus.webp",
   "imgSize": [
-   1400,
-   1050
+   1280,
+   853
   ],
   "credit": {
-   "by": "Digon3",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/1280383",
+   "by": "kristobal22",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/166323816",
    "source": "iNaturalist"
   },
   "obs": 30903,
@@ -22662,13 +22869,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/pecten-maximus.webp",
     "size": [
-     1400,
-     1050
+     1280,
+     853
     ],
     "credit": {
-     "by": "Digon3",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/1280383",
+     "by": "kristobal22",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/166323816",
      "source": "iNaturalist"
     }
    },
@@ -22676,25 +22883,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pecten-maximus-2.webp",
     "size": [
      1100,
-     893
+     733
     ],
     "credit": {
-     "by": "filvad",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/9475898",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/pecten-maximus-3.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Pierre Corbrion",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/131972609",
+     "by": "Pauline Fey",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/208578616",
      "source": "iNaturalist"
     }
    }
@@ -22703,6 +22897,7 @@ window.OCEAN_ANIMALS = [
   "order": "Pectinida",
   "family": "Pectinidae",
   "ns": 298,
+  "wikiEn": "https://en.wikipedia.org/wiki/Pecten_maximus",
   "curated": true
  },
  {
@@ -22712,8 +22907,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De grote pijlinktvis is een inktvissensoort uit de familie Ommastrephidae.",
   "facts": [
-   "Met tentakels erbij kan hij meer dan een meter lang zijn.",
    "Hij is gevangen op 4595 meter diepte, maar leeft meestal tussen 350 en 700 meter.",
+   "Mannetjes en vrouwtjes eten op verschillende plekken en zien elkaar alleen bij het paaien.",
    "Soms stranden er grote aantallen op de kust van Nederland en Engeland."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grote_pijlinktvis",
@@ -22775,6 +22970,7 @@ window.OCEAN_ANIMALS = [
   "order": "Oegopsida",
   "family": "Ommastrephidae",
   "ns": 125,
+  "wikiEn": "https://en.wikipedia.org/wiki/European_flying_squid",
   "curated": true
  },
  {
@@ -22819,13 +23015,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/tritonia-hombergii-2.webp",
     "size": [
-     1100,
-     618
+     1080,
+     720
     ],
     "credit": {
-     "by": "Tine Kinn Kvamme",
+     "by": "Heine Jensen",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/10182655",
+     "url": "https://www.inaturalist.org/photos/256425274",
      "source": "iNaturalist"
     }
    },
@@ -22838,7 +23034,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Heine Jensen",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/184936324",
+     "url": "https://www.inaturalist.org/photos/145699563",
      "source": "iNaturalist"
     }
    }
@@ -22856,8 +23052,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De Japanse oester, is een eetbaar weekdier uit de klasse tweekleppigen.",
   "facts": [
-   "Het is het meest gekweekte schelpdier ter wereld, uitgezet in minstens 52 landen.",
-   "In Nederland heeft hij bijna geen vijanden: alleen meeuwen krijgen hem open.",
+   "Een vrouwtje laat in één keer 50 tot 200 miljoen eitjes los.",
+   "Hij kan elk jaar van geslacht wisselen.",
    "Hij kan 88 verschillende stresseiwitten maken; mensen maar 17."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Japanse_oester",
@@ -22895,9 +23091,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Emily Roberts",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/51286850",
+     "by": "Christian Schwarz",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/14067846",
      "source": "iNaturalist"
     }
    },
@@ -22905,12 +23101,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/crassostrea-gigas-3.webp",
     "size": [
      1100,
-     619
+     735
     ],
     "credit": {
-     "by": "Rosser1954",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/116031021",
+     "by": "Matt Tank",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/111014253",
      "source": "iNaturalist"
     }
    }
@@ -22919,6 +23115,7 @@ window.OCEAN_ANIMALS = [
   "order": "Ostreida",
   "family": "Ostreidae",
   "ns": 2025,
+  "wikiEn": "https://en.wikipedia.org/wiki/Pacific_oyster",
   "curated": true
  },
  {
@@ -22928,9 +23125,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De kokkel is een in zee levende tweekleppige weekdiersoort.",
   "facts": [
-   "Hij heet ook wel eetbare hartschelp.",
-   "Met lichtgevoelige puntjes merkt hij schaduwen op en trekt hij zich terug.",
-   "Hij kan zich met het getij al rollend naar een andere zandplaat laten verplaatsen."
+   "Eén strandkrab kan 40 kokkels per dag opeten.",
+   "Over kokkels gaat het lied 'Molly Malone', het onofficiële volkslied van Dublin.",
+   "Met lichtgevoelige puntjes merkt hij schaduwen op en trekt hij zich terug."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kokkel",
   "img": "images/cerastoderma-edule.webp",
@@ -22991,6 +23188,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cardiida",
   "family": "Cardiidae",
   "ns": 8933,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_cockle",
   "curated": true
  },
  {
@@ -23000,9 +23198,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De kolossale inktvis is de grootste bekende inktvissoort.",
   "facts": [
-   "Hij is de grootste bekende inktvis en kan 12 tot 14 meter lang worden.",
-   "Op zijn tentakels zitten naast zuignappen ook haken.",
-   "In 2007 vingen vissers er een van 495 kilo in de Rosszee."
+   "Hij heeft de grootste ogen van alle dieren die ooit hebben bestaan.",
+   "Zijn ogen hebben lichtjes, en zien een potvis mogelijk eerder dan de potvis hem met zijn sonar.",
+   "Op zijn tentakels zitten naast zuignappen ook haken."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kolossale_inktvis",
   "img": "images/mesonychoteuthis-hamiltoni.webp",
@@ -23063,6 +23261,7 @@ window.OCEAN_ANIMALS = [
   "order": "Oegopsida",
   "family": "Cranchiidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Colossal_squid",
   "curated": true
  },
  {
@@ -23072,20 +23271,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De gewone mossel is een in zee levend tweekleppig weekdier.",
   "facts": [
+   "Als er roofdieren in de buurt zijn, maakt hij zijn schelp dikker.",
    "Jonge mosselen van ongeveer 1 centimeter heten mosselzaad.",
-   "Europa's bekendste mosselveiling staat in Yerseke.",
-   "Nederland produceerde in 2009 zo'n 70.000 ton mosselen."
+   "Europa's bekendste mosselveiling staat in Yerseke."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Mossel_%28weekdier%29",
   "img": "images/mytilus-edulis.webp",
   "imgSize": [
    1400,
-   1235
+   1050
   ],
   "credit": {
-   "by": "Connie Taylor",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/23183487",
+   "by": "Rita Jansen",
+   "license": "CC-BY-NC-SA",
+   "url": "https://www.inaturalist.org/photos/652956597",
    "source": "iNaturalist"
   },
   "obs": 242566,
@@ -23095,12 +23294,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/mytilus-edulis.webp",
     "size": [
      1400,
-     1235
+     1050
     ],
     "credit": {
-     "by": "Connie Taylor",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/23183487",
+     "by": "Rita Jansen",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/652956597",
      "source": "iNaturalist"
     }
    },
@@ -23111,9 +23310,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Claude Nozères",
+     "by": "Sally Anderson",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/78221476",
+     "url": "https://www.inaturalist.org/photos/22482630",
      "source": "iNaturalist"
     }
    },
@@ -23121,12 +23320,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/mytilus-edulis-3.webp",
     "size": [
      1100,
-     630
+     880
     ],
     "credit": {
-     "by": "c michael hogan",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/58709248",
+     "by": "Alex Shure",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/285625826",
      "source": "iNaturalist"
     }
    }
@@ -23135,6 +23334,7 @@ window.OCEAN_ANIMALS = [
   "order": "Mytilida",
   "family": "Mytilidae",
   "ns": 10905,
+  "wikiEn": "https://en.wikipedia.org/wiki/Blue_mussel",
   "curated": true
  },
  {
@@ -23144,9 +23344,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "Het muiltje is een zeeslakkensoort die behoort tot de familie Calyptraeidae.",
   "facts": [
-   "Muiltjes groeien op elkaar en vormen een gekromde 'ketting'.",
-   "Het oudste dier onderaan de ketting is een vrouwtje, het jongste bovenaan een mannetje.",
-   "Hij filtert plankton uit het water met trilhaartjes op zijn kieuwen."
+   "Ze leven in stapeltjes: onderaan de oudste vrouwtjes, bovenaan de jonge mannetjes.",
+   "Sterft het vrouwtje, dan wordt het grootste mannetje vrouwtje.",
+   "Hij kwam in 1872 uit Amerika naar Engeland mee met een lading oesters."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Muiltje_%28slakkensoort%29",
   "img": "images/crepidula-fornicata.webp",
@@ -23180,12 +23380,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/crepidula-fornicata-2.webp",
     "size": [
      1100,
-     825
+     727
     ],
     "credit": {
-     "by": "Bernat Espigulé",
+     "by": "Mette Hesselholt Henne Hansen",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/53403602",
+     "url": "https://www.inaturalist.org/photos/160046385",
      "source": "iNaturalist"
     }
    },
@@ -23193,12 +23393,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/crepidula-fornicata-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Chris Moody",
+     "by": "peggyo",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/89171",
+     "url": "https://www.inaturalist.org/photos/5990015",
      "source": "iNaturalist"
     }
    }
@@ -23207,6 +23407,7 @@ window.OCEAN_ANIMALS = [
   "order": "Littorinimorpha",
   "family": "Calyptraeidae",
   "ns": 4425,
+  "wikiEn": "https://en.wikipedia.org/wiki/Crepidula_fornicata",
   "curated": true
  },
  {
@@ -23217,8 +23418,8 @@ window.OCEAN_ANIMALS = [
   "intro": "Het nonnetje is een in zee levend tweekleppig weekdier.",
   "facts": [
    "Zijn schelp kan wit, geel, oranje of roze zijn.",
-   "Hij kan tegen heel brak water en leefde zelfs in de voormalige Zuiderzee.",
-   "Hij leeft ingegraven in slik- en zandplaten."
+   "Hij overleeft in water dat maar een tiende zo zout is als de zee.",
+   "Hij leefde zelfs in de voormalige Zuiderzee."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Nonnetje_%28weekdier%29",
   "img": "images/macoma-balthica.webp",
@@ -23253,6 +23454,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cardiida",
   "family": "Tellinidae",
   "ns": 6049,
+  "wikiEn": "https://en.wikipedia.org/wiki/Limecola_balthica",
   "curated": true
  },
  {
@@ -23262,9 +23464,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De noordkromp is een in zee levend tweekleppig weekdier uit de familie Arcticidae.",
   "facts": [
-   "Een noordkromp bleek in 2013 maar liefst 507 jaar oud te zijn.",
-   "In koud water groeit hij langzamer en wordt hij ouder.",
-   "In de zuidelijke Noordzee leeft hij meestal dieper dan 25 meter."
+   "Een noordkromp bleek 507 jaar oud: het oudste dier waarvan de leeftijd precies bekend is.",
+   "In zijn schelp staat zelfs de vulkaanuitbarsting van de Tambora in 1815 'opgeschreven'.",
+   "In koud water groeit hij langzamer en wordt hij ouder."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Noordkromp",
   "img": "images/arctica-islandica.webp",
@@ -23298,25 +23500,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/arctica-islandica-2.webp",
     "size": [
      1100,
-     734
+     819
     ],
     "credit": {
-     "by": "Bernard Picton",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/6956860",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/arctica-islandica-3.webp",
-    "size": [
-     1100,
-     620
-    ],
-    "credit": {
-     "by": "Stephen Moores",
+     "by": "ðejay (Orkney)",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/12025884",
+     "url": "https://www.inaturalist.org/photos/20035779",
      "source": "iNaturalist"
     }
    }
@@ -23325,6 +23514,7 @@ window.OCEAN_ANIMALS = [
   "order": "Venerida",
   "family": "Arcticidae",
   "ns": 2286,
+  "wikiEn": "https://en.wikipedia.org/wiki/Arctica_islandica",
   "curated": true
  },
  {
@@ -23335,8 +23525,8 @@ window.OCEAN_ANIMALS = [
   "intro": "De paalworm is een in zee levend tweekleppig weekdier uit de familie Teredinidae.",
   "facts": [
    "Ondanks zijn naam is het geen worm, maar een tweekleppig schelpdier.",
-   "Hij boort gangen in hout en bekleedt die met kalk.",
-   "Gangen van verschillende paalwormen kruisen elkaar nooit."
+   "Hij kan zo'n zes weken zonder lucht.",
+   "In de Oostzee zit een dennenstam binnen 16 weken vol gangen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Paalworm",
   "img": "images/teredo-navalis.webp",
@@ -23369,26 +23559,26 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/teredo-navalis-2.webp",
     "size": [
-     876,
-     552
+     1100,
+     825
     ],
     "credit": {
-     "by": "English:",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/426988297",
+     "by": "George Manavopoulos",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/158894080",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/teredo-navalis-3.webp",
     "size": [
-     876,
-     359
+     1100,
+     825
     ],
     "credit": {
-     "by": "English:",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/426988302",
+     "by": "Sylvain Le Bris",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/496496004",
      "source": "iNaturalist"
     }
    }
@@ -23397,6 +23587,7 @@ window.OCEAN_ANIMALS = [
   "order": "Myida",
   "family": "Teredinidae",
   "ns": 87,
+  "wikiEn": "https://en.wikipedia.org/wiki/Teredo_navalis",
   "curated": true
  },
  {
@@ -23406,20 +23597,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De paarse waaierslak is een zeenaaktslak uit de familie van de waaierslakken.",
   "facts": [
-   "Hij is helemaal roze-paars, met witte puntjes.",
-   "Hij wordt maximaal zo'n 5 centimeter lang.",
+   "Hij is helemaal roze-paars.",
+   "In de Atlantische Oceaan wordt hij tot 5 centimeter, in de Middellandse Zee maar 2.",
    "In 1999 werden de eerste Nederlandse exemplaren gevonden in de Oosterschelde."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Paarse_waaierslak",
   "img": "images/edmundsella-pedata.webp",
   "imgSize": [
    1400,
-   1081
+   857
   ],
   "credit": {
-   "by": "Tine Kinn Kvamme",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/10553928",
+   "by": "sunhill",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/122030003",
    "source": "iNaturalist"
   },
   "obs": 7462,
@@ -23429,12 +23620,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/edmundsella-pedata.webp",
     "size": [
      1400,
-     1081
+     857
     ],
     "credit": {
-     "by": "Tine Kinn Kvamme",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/10553928",
+     "by": "sunhill",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/122030003",
      "source": "iNaturalist"
     }
    },
@@ -23442,12 +23633,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/edmundsella-pedata-2.webp",
     "size": [
      1100,
-     1100
+     849
     ],
     "credit": {
-     "by": "unorthodox_sketch",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/678970699",
+     "by": "Tine Kinn Kvamme",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/10553928",
      "source": "iNaturalist"
     }
    },
@@ -23458,9 +23649,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Daniel Rodrigues",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/121769214",
+     "by": "Tine Kinn Kvamme",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/14634017",
      "source": "iNaturalist"
     }
    }
@@ -23469,6 +23660,7 @@ window.OCEAN_ANIMALS = [
   "order": "Nudibranchia",
   "family": "Flabellinidae",
   "ns": 407,
+  "wikiEn": "https://en.wikipedia.org/wiki/Edmundsella_pedata",
   "curated": true
  },
  {
@@ -23478,20 +23670,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De paarse zeezeiler is een zeeslakkensoort die behoort tot de familie Epitoniidae.",
   "facts": [
-   "Hij drijft aan het wateroppervlak op een vlotje van slijmbellen.",
-   "Hij heeft een blauwgekleurde schelp, wat heel zeldzaam is.",
+   "Hij drijft ondersteboven aan het wateroppervlak op een vlotje van slijmbellen.",
+   "Zijn schelp is flinterdun, zodat hij kan blijven drijven.",
    "Hij eet drijvende kwalachtigen, zoals het bezaantje."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Paarse_zeezeiler",
   "img": "images/janthina-janthina.webp",
   "imgSize": [
    1400,
-   1050
+   898
   ],
   "credit": {
-   "by": "Saryu Mae 前 朝琉",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/60617260",
+   "by": "Norman P Farmer",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/184825171",
    "source": "iNaturalist"
   },
   "obs": 5097,
@@ -23501,12 +23693,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/janthina-janthina.webp",
     "size": [
      1400,
-     1050
+     898
     ],
     "credit": {
-     "by": "Saryu Mae 前 朝琉",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/60617260",
+     "by": "Norman P Farmer",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/184825171",
      "source": "iNaturalist"
     }
    },
@@ -23514,12 +23706,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/janthina-janthina-2.webp",
     "size": [
      1100,
-     617
+     989
     ],
     "credit": {
-     "by": "H. Zell",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/222055240",
+     "by": "Norman P Farmer",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/184825794",
      "source": "iNaturalist"
     }
    },
@@ -23527,12 +23719,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/janthina-janthina-3.webp",
     "size": [
      1100,
-     1100
+     732
     ],
     "credit": {
-     "by": "pimelea",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/182490302",
+     "by": "M. Salimeh",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/615023143",
      "source": "iNaturalist"
     }
    }
@@ -23541,6 +23733,7 @@ window.OCEAN_ANIMALS = [
   "order": null,
   "family": "Epitoniidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Janthina_janthina",
   "curated": true
  },
  {
@@ -23550,9 +23743,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De purperslak is een in zee levende kieuwslak.",
   "facts": [
-   "Hij boort een gaatje in schelpdieren en eet ze leeg.",
+   "Hij boort een gaatje in een schelpdier, spuit er verteringssap in en zuigt de 'soep' op.",
    "Uit verwanten van deze slak werd vroeger de kleurstof purper gemaakt.",
-   "Kleding geverfd met die purper stonk wel naar vis."
+   "Tegen krabben laat hij tandjes groeien rond de opening van zijn huisje."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Purperslak",
   "img": "images/nucella-lapillus.webp",
@@ -23561,9 +23754,9 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "Leonid Rasran",
+   "by": "Drew",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/42804358",
+   "url": "https://www.inaturalist.org/photos/627348452",
    "source": "iNaturalist"
   },
   "obs": 50827,
@@ -23576,9 +23769,9 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "Leonid Rasran",
+     "by": "Drew",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/42804358",
+     "url": "https://www.inaturalist.org/photos/627348452",
      "source": "iNaturalist"
     }
    },
@@ -23599,12 +23792,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/nucella-lapillus-3.webp",
     "size": [
      1100,
-     620
+     788
     ],
     "credit": {
-     "by": "Stephen Moores",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/13432581",
+     "by": "ipat",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/474568856",
      "source": "iNaturalist"
     }
    }
@@ -23613,6 +23806,7 @@ window.OCEAN_ANIMALS = [
   "order": "Neogastropoda",
   "family": "Muricidae",
   "ns": 1659,
+  "wikiEn": "https://en.wikipedia.org/wiki/Dog_whelk",
   "curated": true
  },
  {
@@ -23622,7 +23816,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De reuzenkeverslak is een keverslak uit de familie der Acanthochitonidae.",
   "facts": [
-   "Zijn leerachtige rand is bedekt met groepjes stekeltjes."
+   "Hij is de grootste keverslak ter wereld.",
+   "Zijn tandjes bevatten magnetiet, een ijzermineraal.",
+   "Hij was het eerste dier waarvan bekend is dat het het mineraal santabarbaraiet gebruikt."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Reuzenkeverslak",
   "img": "images/cryptochiton-stelleri.webp",
@@ -23656,25 +23852,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cryptochiton-stelleri-2.webp",
     "size": [
      1100,
-     853
+     825
     ],
     "credit": {
-     "by": "Don Loarie",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/124032",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/cryptochiton-stelleri-3.webp",
-    "size": [
-     1100,
-     764
-    ],
-    "credit": {
-     "by": "Steven Calcote",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/113653251",
+     "by": "Matt Goff",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/178282125",
      "source": "iNaturalist"
     }
    }
@@ -23683,6 +23866,7 @@ window.OCEAN_ANIMALS = [
   "order": "Chitonida",
   "family": "Acanthochitonidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Gumboot_chiton",
   "curated": true
  },
  {
@@ -23692,9 +23876,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De reuzenkraak is een inktvis uit de familie Enteroctopodidae.",
   "facts": [
-   "Hij is waarschijnlijk de grootste octopus; het zwaarste exemplaar woog 71 kilo.",
-   "Een vrouwtje legt zo'n 100.000 eieren en bewaakt ze zes maanden zonder te eten.",
-   "Ze strijkt de eieren schoon zodat er geen algen op groeien."
+   "In 2012 werd gefotografeerd hoe een reuzenkraak een meeuw aanviel en verdronk.",
+   "Hij kan zich door piepkleine openingen wurmen; alleen zijn snavel bepaalt hoe klein.",
+   "Een vrouwtje bewaakt haar eieren zes maanden zonder te eten."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Reuzenkraak",
   "img": "images/enteroctopus-dofleini.webp",
@@ -23728,25 +23912,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/enteroctopus-dofleini-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Alexander Semenov",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/357027043",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/enteroctopus-dofleini-3.webp",
-    "size": [
-     1024,
-     768
-    ],
-    "credit": {
-     "by": "KJ",
+     "by": "Tom Turner",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/174792498",
+     "url": "https://www.inaturalist.org/photos/306781436",
      "source": "iNaturalist"
     }
    }
@@ -23755,6 +23926,7 @@ window.OCEAN_ANIMALS = [
   "order": "Octopoda",
   "family": "Enteroctopodidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Giant_Pacific_octopus",
   "curated": true
  },
  {
@@ -23764,9 +23936,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De Spaanse danseres is een naaktslak die in de zee leeft.",
   "facts": [
-   "Hij dankt zijn naam aan zijn elegante zwemstijl.",
-   "Bij gevaar ontvouwt hij zijn rode randen en zwemt hij golvend weg.",
-   "Overdag verstopt hij zich en pas 's avonds komt hij tevoorschijn."
+   "Bij gevaar ontvouwt hij zijn rode randen en zwemt hij golvend weg, als een danseres.",
+   "Uit de sponzen die hij eet, maakt hij een krachtig afweergif.",
+   "Zijn rode tot roze eiersnoeren liggen in een spiraal."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Spaanse_danseres",
   "img": "images/hexabranchus-sanguineus.webp",
@@ -23803,9 +23975,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "natomik",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/129152954",
+     "by": "jmturon",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/599774376",
      "source": "iNaturalist"
     }
    },
@@ -23813,12 +23985,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/hexabranchus-sanguineus-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "natomik",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/129297201",
+     "by": "Luis P. B.",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/175404152",
      "source": "iNaturalist"
     }
    }
@@ -23827,6 +23999,7 @@ window.OCEAN_ANIMALS = [
   "order": "Nudibranchia",
   "family": "Hexabranchidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Spanish_dancer",
   "curated": true
  },
  {
@@ -23836,9 +24009,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De strandgaper is een in zee levend tweekleppig weekdier behorend tot de familie van de gapers.",
   "facts": [
-   "Zijn kleppen sluiten niet helemaal: ze 'gapen', vandaar zijn naam.",
-   "Hij graaft zich tot 40 centimeter diep in.",
-   "De Vikingen hebben hem waarschijnlijk naar Europa meegenomen."
+   "De Vikingen hebben hem waarschijnlijk naar Europa meegenomen.",
+   "Bij laagwater verraden gaatjes in de modder waar hij zit.",
+   "Hij graaft zich tot 40 centimeter diep in."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Strandgaper",
   "img": "images/mya-arenaria.webp",
@@ -23899,6 +24072,7 @@ window.OCEAN_ANIMALS = [
   "order": "Myida",
   "family": "Myidae",
   "ns": 3550,
+  "wikiEn": "https://en.wikipedia.org/wiki/Soft-shell_clam",
   "curated": true
  },
  {
@@ -23908,9 +24082,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De vampierinktvis is een kleine inktvis die in zuurstofarme tropische en gematigde oceanen voorkomt op een diepte van 600 tot 1200 meter.",
   "facts": [
-   "Hij eet 'zeesneeuw': dwarrelende resten van dode diertjes en uitwerpselen.",
-   "Bij gevaar kan hij een lichtgevende wolk uitstoten die zo'n tien minuten gloeit.",
-   "Hij leeft in zuurstofarm water, 600 tot 1200 meter diep."
+   "In verhouding tot zijn lijf heeft hij de grootste ogen van het dierenrijk.",
+   "Bij gevaar stoot hij een lichtgevende wolk uit die aan de aanvaller blijft plakken, zodat die zelf opvalt.",
+   "Hij eet 'zeesneeuw': dwarrelende resten van dode diertjes en uitwerpselen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Vampierinktvis",
   "img": "images/vampyroteuthis-infernalis.webp",
@@ -23952,25 +24126,13 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/151647602",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/vampyroteuthis-infernalis-3.webp",
-    "size": [
-     1100,
-     1044
-    ],
-    "credit": {
-     "by": "Anne-Lise Heinrichs",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/102969153",
-     "source": "iNaturalist"
-    }
    }
   ],
   "thumb": "thumbs/vampyroteuthis-infernalis.webp",
   "order": "Vampyromorpha",
   "family": "Vampyroteuthidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Vampire_squid",
   "curated": true
  },
  {
@@ -23980,6 +24142,7 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De Venuskam is een in zee levende slakkensoort die behoort tot de familie Muricidae en het geslacht Murex.",
   "facts": [
+   "In het Engels heet hij 'Venus comb': de kam van Venus.",
    "Hij leeft op zandbodems en koraalriffen in ondiep, warm water.",
    "Hij komt voor in warme zeeën over de hele wereld."
   ],
@@ -23987,12 +24150,12 @@ window.OCEAN_ANIMALS = [
   "img": "images/murex-pecten.webp",
   "imgSize": [
    1400,
-   1278
+   877
   ],
   "credit": {
-   "by": "Didier Descouens",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/66638927",
+   "by": "Robin Gwen Agarwal",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/625060362",
    "source": "iNaturalist"
   },
   "obs": 1114,
@@ -24002,38 +24165,38 @@ window.OCEAN_ANIMALS = [
     "img": "images/murex-pecten.webp",
     "size": [
      1400,
-     1278
+     877
     ],
     "credit": {
-     "by": "Didier Descouens",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/66638927",
+     "by": "Robin Gwen Agarwal",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/625060362",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/murex-pecten-2.webp",
     "size": [
-     1100,
-     944
+     1000,
+     750
     ],
     "credit": {
-     "by": "H. Zell",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/66349026",
+     "by": "Sue Churchill",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/640634975",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/murex-pecten-3.webp",
     "size": [
-     1100,
-     734
+     1000,
+     667
     ],
     "credit": {
-     "by": "Mark Rosenstein",
+     "by": "uwkwaj",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/917812",
+     "url": "https://www.inaturalist.org/photos/231957219",
      "source": "iNaturalist"
     }
    }
@@ -24051,20 +24214,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "De Wijde mantel is een in zee levend tweekleppig weekdier behorend tot de familie van de mantels.",
   "facts": [
-   "Hij heeft kleine oogjes langs de rand van zijn mantel.",
    "Door zijn schelp hard dicht te klappen zwemt hij weg.",
-   "Hij kan eerst een mannetje zijn en later een vrouwtje worden."
+   "Op het eiland Man heet hij 'Manx queenie' en is hij beroemd.",
+   "Hij heeft kleine oogjes langs de rand van zijn mantel."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Wijde_mantel",
   "img": "images/aequipecten-opercularis.webp",
   "imgSize": [
    1400,
-   962
+   937
   ],
   "credit": {
-   "by": "Hannes Dahm",
+   "by": "Bernard Picton",
    "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/486317515",
+   "url": "https://www.inaturalist.org/photos/6879750",
    "source": "iNaturalist"
   },
   "obs": 48357,
@@ -24074,12 +24237,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/aequipecten-opercularis.webp",
     "size": [
      1400,
-     962
+     937
     ],
     "credit": {
-     "by": "Hannes Dahm",
+     "by": "Bernard Picton",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/486317515",
+     "url": "https://www.inaturalist.org/photos/6879750",
      "source": "iNaturalist"
     }
    },
@@ -24087,25 +24250,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/aequipecten-opercularis-2.webp",
     "size": [
      1100,
-     1100
-    ],
-    "credit": {
-     "by": "Susanne Vogel",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/357801003",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/aequipecten-opercularis-3.webp",
-    "size": [
-     1100,
      825
     ],
     "credit": {
-     "by": "cccrll",
+     "by": "cescgv",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/526357336",
+     "url": "https://www.inaturalist.org/photos/353357391",
      "source": "iNaturalist"
     }
    }
@@ -24114,6 +24264,7 @@ window.OCEAN_ANIMALS = [
   "order": "Pectinida",
   "family": "Pectinidae",
   "ns": 2013,
+  "wikiEn": "https://en.wikipedia.org/wiki/Queen_scallop",
   "curated": true
  },
  {
@@ -24159,12 +24310,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/limacia-clavigera-2.webp",
     "size": [
      1100,
-     877
+     825
     ],
     "credit": {
-     "by": "Tine Kinn Kvamme",
+     "by": "Vsevolod Rudyi",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/11434903",
+     "url": "https://www.inaturalist.org/photos/224753759",
      "source": "iNaturalist"
     }
    },
@@ -24172,12 +24323,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/limacia-clavigera-3.webp",
     "size": [
      1100,
-     734
+     877
     ],
     "credit": {
-     "by": "Heine Jensen",
+     "by": "Tine Kinn Kvamme",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/169649482",
+     "url": "https://www.inaturalist.org/photos/11434903",
      "source": "iNaturalist"
     }
    }
@@ -24195,20 +24346,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Weekdieren",
   "intro": "Buccinum undatum is een in zee levende kieuwslak.",
   "facts": [
-   "Hij is een van de grootste huisjesslakken van de Noordzee.",
-   "Hij kan 20 tot 30 jaar oud worden.",
-   "Vroeger was hij vooral voedsel voor arme mensen."
+   "Zijn eipakketjes spoelen aan op het strand en heten in het Engels 'sea wash balls'.",
+   "Hij kan verward worden met een verwante slak die giftig is voor mensen.",
+   "Hij kan 20 tot 30 jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Buccinum_undatum",
   "img": "images/buccinum-undatum.webp",
   "imgSize": [
    1400,
-   1118
+   1050
   ],
   "credit": {
-   "by": "Eric A. Lazo-Wasem",
-   "license": "PD",
-   "url": "https://www.inaturalist.org/photos/174551583",
+   "by": "Laurent Fey",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/182122089",
    "source": "iNaturalist"
   },
   "obs": 64430,
@@ -24218,12 +24369,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/buccinum-undatum.webp",
     "size": [
      1400,
-     1118
+     1050
     ],
     "credit": {
-     "by": "Eric A. Lazo-Wasem",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/174551583",
+     "by": "Laurent Fey",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/182122089",
      "source": "iNaturalist"
     }
    },
@@ -24234,22 +24385,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Roj",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/4405180",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/buccinum-undatum-3.webp",
-    "size": [
-     1100,
-     673
-    ],
-    "credit": {
-     "by": "guylafond",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/30123720",
+     "by": "Vladislav Isaev",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/232777911",
      "source": "iNaturalist"
     }
    }
@@ -24258,6 +24396,7 @@ window.OCEAN_ANIMALS = [
   "order": "Neogastropoda",
   "family": "Buccinidae",
   "ns": 6720,
+  "wikiEn": "https://en.wikipedia.org/wiki/Buccinum_undatum",
   "curated": true
  },
  {
@@ -24267,20 +24406,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De adeliepinguïn is een kleine, zwart-witte pinguïnsoort.",
   "facts": [
-   "Op het ijs glijdt hij op zijn buik als een sleetje.",
-   "Onder water haalt hij 40 kilometer per uur.",
-   "Aan de roep van een mannetje hoort het vrouwtje hoe dik en dus hoe sterk hij is."
+   "Hij kan hoog uit het water springen om op rotsen of ijs te landen.",
+   "Hij is een van maar vier pinguïnsoorten die op het vasteland van Antarctica broeden.",
+   "Hij is vernoemd naar Adèle, de vrouw van ontdekkingsreiziger Dumont d'Urville."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Adeliepingu%C3%AFn",
   "img": "images/pygoscelis-adeliae.webp",
   "imgSize": [
    1400,
-   930
+   933
   ],
   "credit": {
-   "by": "Seig",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/49209619",
+   "by": "greghadley1",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/587615088",
    "source": "iNaturalist"
   },
   "obs": 197811,
@@ -24290,12 +24429,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pygoscelis-adeliae.webp",
     "size": [
      1400,
-     930
+     933
     ],
     "credit": {
-     "by": "Seig",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/49209619",
+     "by": "greghadley1",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/587615088",
      "source": "iNaturalist"
     }
    },
@@ -24306,9 +24445,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Murray Foubister",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/85939425",
+     "by": "Nidhin Cyril Joseph",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/28500654",
      "source": "iNaturalist"
     }
    },
@@ -24316,12 +24455,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pygoscelis-adeliae-3.webp",
     "size": [
      1100,
-     679
+     826
     ],
     "credit": {
-     "by": "Sebastián Lescano",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/131555939",
+     "by": "John Barkla",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/11367815",
      "source": "iNaturalist"
     }
    }
@@ -24330,6 +24469,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sphenisciformes",
   "family": "Spheniscidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin",
   "curated": true
  },
  {
@@ -24339,9 +24479,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De alk is een vogel uit de familie van alken.",
   "facts": [
-   "Hij heeft een hoge, platte snavel.",
-   "Het vrouwtje legt maar één ei per jaar.",
-   "Hij broedt in kolonies van honderd tot duizenden vogels."
+   "Een alk die in 1967 werd geringd, leefde nog minstens 41 jaar.",
+   "Het jong springt al na 17 tot 23 dagen van de rotsen, met papa achter zich aan.",
+   "Het vrouwtje legt maar één ei per jaar."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Alk_%28soort%29",
   "img": "images/alca-torda.webp",
@@ -24375,12 +24515,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/alca-torda-2.webp",
     "size": [
      1100,
-     733
+     869
     ],
     "credit": {
-     "by": "Diego González Dopico",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/498925677",
+     "by": "Сергей Брыляков",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/330727875",
      "source": "iNaturalist"
     }
    },
@@ -24388,12 +24528,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/alca-torda-3.webp",
     "size": [
      1100,
-     733
+     734
     ],
     "credit": {
-     "by": "chris roberts",
+     "by": "Дмитрий Осипов",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/613561376",
+     "url": "https://www.inaturalist.org/photos/141367209",
      "source": "iNaturalist"
     }
    }
@@ -24402,6 +24542,7 @@ window.OCEAN_ANIMALS = [
   "order": "Charadriiformes",
   "family": "Alcidae",
   "ns": 79306,
+  "wikiEn": "https://en.wikipedia.org/wiki/Razorbill",
   "curated": true
  },
  {
@@ -24411,9 +24552,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De Amerikaanse fregatvogel is een zeevogel uit de familie van de fregatvogels.",
   "facts": [
-   "Mannetjes hebben een rode keelzak.",
-   "Hij landt nooit op het water en vangt zijn eten in de vlucht.",
-   "Soms dwingt hij andere zeevogels hun vis af te geven."
+   "Mannetjes blazen een rode keelzak op als een ballon.",
+   "Hij dwingt andere vogels hun vis uit te spugen en vangt die nog in de lucht.",
+   "Hij landt nooit op het water."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Amerikaanse_fregatvogel",
   "img": "images/fregata-magnificens.webp",
@@ -24447,12 +24588,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/fregata-magnificens-2.webp",
     "size": [
      1100,
-     1100
+     812
     ],
     "credit": {
-     "by": "José Antonio Linage Espinosa",
+     "by": "guyincognito",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/3031892",
+     "url": "https://www.inaturalist.org/photos/313131920",
      "source": "iNaturalist"
     }
    },
@@ -24460,12 +24601,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/fregata-magnificens-3.webp",
     "size": [
      1100,
-     1100
+     825
     ],
     "credit": {
-     "by": "José Antonio Linage Espinosa",
+     "by": "Leslie Flint",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/3031894",
+     "url": "https://www.inaturalist.org/photos/486490919",
      "source": "iNaturalist"
     }
    }
@@ -24474,6 +24615,7 @@ window.OCEAN_ANIMALS = [
   "order": "Suliformes",
   "family": "Fregatidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Magnificent_frigatebird",
   "curated": true
  },
  {
@@ -24483,20 +24625,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De blauwvoetgent of blauwpootgent is een zeevogel uit de familie van de genten.",
   "facts": [
-   "Zijn blauwe voeten danken hun kleur aan pigmenten uit de vis die hij eet.",
-   "Hij duikt vanaf 100 meter hoogte het water in, tot 25 meter diep.",
-   "Hij is ongeveer zo groot als een gans."
+   "Hoe blauwer de voeten, hoe aantrekkelijker: mannetjes zorgen beter voor eieren van vrouwtjes met felle voeten.",
+   "Hij duikt vanaf grote hoogte de zee in en zwemt onder water achter vis aan.",
+   "Zijn blauwe kleur komt van pigmenten uit de vis die hij eet."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Blauwvoetgent",
   "img": "images/sula-nebouxii.webp",
   "imgSize": [
    1400,
-   987
+   1050
   ],
   "credit": {
-   "by": "Ad Konings",
+   "by": "Andy Frank",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/184079683",
+   "url": "https://www.inaturalist.org/photos/66974590",
    "source": "iNaturalist"
   },
   "obs": 76846,
@@ -24506,12 +24648,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sula-nebouxii.webp",
     "size": [
      1400,
-     987
+     1050
     ],
     "credit": {
-     "by": "Ad Konings",
+     "by": "Andy Frank",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/184079683",
+     "url": "https://www.inaturalist.org/photos/66974590",
      "source": "iNaturalist"
     }
    },
@@ -24522,9 +24664,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "josegalapagosnaturalist",
+     "by": "David Torres",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/20339956",
+     "url": "https://www.inaturalist.org/photos/167309513",
      "source": "iNaturalist"
     }
    },
@@ -24532,12 +24674,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sula-nebouxii-3.webp",
     "size": [
      1100,
-     733
+     776
     ],
     "credit": {
-     "by": "Sean Salazar",
+     "by": "Ad Konings",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/296185680",
+     "url": "https://www.inaturalist.org/photos/184079683",
      "source": "iNaturalist"
     }
    }
@@ -24546,6 +24688,7 @@ window.OCEAN_ANIMALS = [
   "order": "Suliformes",
   "family": "Sulidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Blue-footed_booby",
   "curated": true
  },
  {
@@ -24555,20 +24698,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De bruine pelikaan is een vogel uit de familie Pelecanidae.",
   "facts": [
-   "Hij gebruikt zijn keelzak als visnet.",
-   "Anders dan andere pelikanen duikt hij van meters hoog op zijn prooi.",
-   "Jongen halen na een dag of tien zelf hun eten uit de keelzak van hun ouders."
+   "Nigel, de pelikaan uit Finding Nemo, is een bruine pelikaan.",
+   "Het allereerste natuurreservaat van de VS werd in 1903 opgericht om hem te beschermen.",
+   "Anders dan andere pelikanen duikt hij van grote hoogte op zijn prooi."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Bruine_pelikaan",
   "img": "images/pelecanus-occidentalis.webp",
   "imgSize": [
    1400,
-   933
+   1050
   ],
   "credit": {
-   "by": "Henrik Kibak",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/183184942",
+   "by": "Isaac Lord",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/31611188",
    "source": "iNaturalist"
   },
   "obs": 2918506,
@@ -24578,12 +24721,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pelecanus-occidentalis.webp",
     "size": [
      1400,
-     933
+     1050
     ],
     "credit": {
-     "by": "Henrik Kibak",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/183184942",
+     "by": "Isaac Lord",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/31611188",
      "source": "iNaturalist"
     }
    },
@@ -24591,12 +24734,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pelecanus-occidentalis-2.webp",
     "size": [
      1100,
-     833
+     825
     ],
     "credit": {
-     "by": "Jay Pruett",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/172548873",
+     "by": "Jose Rosales",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/621248451",
      "source": "iNaturalist"
     }
    },
@@ -24604,12 +24747,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pelecanus-occidentalis-3.webp",
     "size": [
      1100,
-     825
+     698
     ],
     "credit": {
-     "by": "Isaac Lord",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/31611188",
+     "by": "Laura Gaudette",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/348929489",
      "source": "iNaturalist"
     }
    }
@@ -24618,6 +24761,7 @@ window.OCEAN_ANIMALS = [
   "order": "Pelecaniformes",
   "family": "Pelecanidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Brown_pelican",
   "curated": true
  },
  {
@@ -24627,9 +24771,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De drieteenmeeuw is een vogel uit de familie van de meeuwen die algemeen voorkomt langs de kusten van het noordelijk halfrond.",
   "facts": [
-   "Zijn vleugelpunten zijn zwart, zonder witte vlekjes.",
-   "Hij vangt prooi door zich op het water te laten vallen.",
-   "Er zijn zo'n 15 miljoen, maar hun aantal neemt snel af."
+   "Hij heeft maar drie tenen: de vierde ontbreekt of is piepklein.",
+   "Hij broedt op de steilste kliffen van alle meeuwen.",
+   "Zijn vleugelpunten zijn zwart, alsof ze in inkt zijn gedoopt."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Drieteenmeeuw",
   "img": "images/rissa-tridactyla.webp",
@@ -24663,12 +24807,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/rissa-tridactyla-2.webp",
     "size": [
      1100,
-     784
+     825
     ],
     "credit": {
-     "by": "JimBob's Birds",
+     "by": "Gonzalo Mucientes Sandoval",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/2718977",
+     "url": "https://www.inaturalist.org/photos/27941068",
      "source": "iNaturalist"
     }
    },
@@ -24676,12 +24820,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/rissa-tridactyla-3.webp",
     "size": [
      1100,
-     821
+     725
     ],
     "credit": {
-     "by": "JimBob's Birds",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/2718978",
+     "by": "Ignacio A. Rodríguez",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/8200970",
      "source": "iNaturalist"
     }
    }
@@ -24690,6 +24834,7 @@ window.OCEAN_ANIMALS = [
   "order": "Charadriiformes",
   "family": "Laridae",
   "ns": 245159,
+  "wikiEn": "https://en.wikipedia.org/wiki/Black-legged_kittiwake",
   "curated": true
  },
  {
@@ -24699,9 +24844,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De dwergpinguïn is de kleinste pinguïnsoort.",
   "facts": [
-   "Hij is de kleinste pinguïn, 30 tot 40 centimeter hoog.",
-   "Hij weegt ongeveer een kilo.",
-   "In Sydney Harbour broedt een kolonie, de enige op het vasteland."
+   "Hij is de kleinste pinguïn, en de enige die blauw is: zijn veren zitten vol pigmentkorrels die het water afstoten.",
+   "Hij is 30 tot 40 centimeter hoog en weegt ongeveer een kilo.",
+   "Hij lijkt niet bang te zijn voor vuur."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Dwergpingu%C3%AFn",
   "img": "images/eudyptula-minor.webp",
@@ -24735,12 +24880,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/eudyptula-minor-2.webp",
     "size": [
      1100,
-     733
+     1002
     ],
     "credit": {
-     "by": "Spencer McIntyre",
+     "by": "William Harland",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/63612085",
+     "url": "https://www.inaturalist.org/photos/309251217",
      "source": "iNaturalist"
     }
    },
@@ -24748,12 +24893,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/eudyptula-minor-3.webp",
     "size": [
      1100,
-     825
+     727
     ],
     "credit": {
-     "by": "Jacqui Geux",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/72265398",
+     "by": "lotsofpenguins",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/594931606",
      "source": "iNaturalist"
     }
    }
@@ -24762,6 +24907,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sphenisciformes",
   "family": "Spheniscidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Little_penguin",
   "curated": true
  },
  {
@@ -24771,9 +24917,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De eider of eidereend is een vogel uit de familie van de eendachtigen.",
   "facts": [
-   "Hij vliegt tot 113 kilometer per uur.",
-   "Hij slikt schelpdieren in hun geheel door, met schelp en al.",
-   "Hij overwintert onder andere langs de Belgische kust."
+   "Het mannetje roept een vreemd, bijna menselijk 'ah-oooh'.",
+   "Van zijn zachte donsveren worden luxe dekbedden gemaakt; het dons wordt pas verzameld als de kuikens het nest uit zijn.",
+   "Hij slikt mosselen in hun geheel door, met schelp en al."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Eider_%28vogel%29",
   "img": "images/somateria-mollissima.webp",
@@ -24807,12 +24953,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/somateria-mollissima-2.webp",
     "size": [
      1100,
-     688
+     596
     ],
     "credit": {
-     "by": "Christoph Moning",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/98751093",
+     "by": "Amy Guala",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/28781439",
      "source": "iNaturalist"
     }
    },
@@ -24820,12 +24966,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/somateria-mollissima-3.webp",
     "size": [
      1100,
-     689
+     600
     ],
     "credit": {
-     "by": "Christoph Moning",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/101341149",
+     "by": "rosamiragliotta",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/301362214",
      "source": "iNaturalist"
     }
    }
@@ -24834,6 +24980,7 @@ window.OCEAN_ANIMALS = [
   "order": "Anseriformes",
   "family": "Anatidae",
   "ns": 168306,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_eider",
   "curated": true
  },
  {
@@ -24843,9 +24990,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De ezelspinguïn is een middelgrote pinguïn uit de familie Spheniscidae.",
   "facts": [
-   "Zijn roep klinkt als een ezel.",
-   "Hij is de snelst zwemmende pinguïn, tot zo'n 40 kilometer per uur.",
-   "Je herkent hem aan de witte streep over zijn kop en zijn oranje snavel."
+   "Een mannetje kan een vrouwtje voor zich winnen door haar een mooi steentje voor het nest te geven.",
+   "Om die steentjes wordt flink gevochten en gestolen.",
+   "Hij is de snelste zwemmer van alle pinguïns."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Ezelspingu%C3%AFn",
   "img": "images/pygoscelis-papua.webp",
@@ -24879,12 +25026,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pygoscelis-papua-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Alex Fergus",
+     "by": "pougeon",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/6414042",
+     "url": "https://www.inaturalist.org/photos/91528536",
      "source": "iNaturalist"
     }
    },
@@ -24892,12 +25039,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pygoscelis-papua-3.webp",
     "size": [
      1100,
-     733
+     734
     ],
     "credit": {
-     "by": "defnis",
+     "by": "Tony Palliser",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/37575589",
+     "url": "https://www.inaturalist.org/photos/279543342",
      "source": "iNaturalist"
     }
    }
@@ -24906,6 +25053,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sphenisciformes",
   "family": "Spheniscidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Gentoo_penguin",
   "curated": true
  },
  {
@@ -24915,9 +25063,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De galapagospinguïn is een zeevogel uit de familie van de pinguïns.",
   "facts": [
-   "Hij leeft alleen op de Galapagoseilanden.",
-   "Het is een kleine pinguïn van zo'n 53 centimeter.",
-   "Verwilderde katten bedreigen zijn kuikens."
+   "Hij is de enige pinguïn die ten noorden van de evenaar leeft.",
+   "Koude zeestromingen maken het mogelijk dat hij in de tropen overleeft.",
+   "Er zijn er nog maar zo'n 1800."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Galapagospingu%C3%AFn",
   "img": "images/spheniscus-mendiculus.webp",
@@ -24964,12 +25112,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/spheniscus-mendiculus-3.webp",
     "size": [
      1100,
-     732
+     733
     ],
     "credit": {
-     "by": "ConstantineD",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/20000",
+     "by": "Nicholas Hess",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/126760547",
      "source": "iNaturalist"
     }
    }
@@ -24978,6 +25126,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sphenisciformes",
   "family": "Spheniscidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Galapagos_penguin",
   "curated": true
  },
  {
@@ -24987,20 +25136,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De geeloogpinguïn is een middelgrote pinguïn met kenmerkende gele ogen.",
   "facts": [
-   "Hij heeft opvallende gele ogen.",
-   "Mannetje en vrouwtje broeden om de beurt.",
-   "Ze duiken tot 40 meter diep op zoek naar voedsel."
+   "Je herkent hem aan de bleekgele band rond zijn ogen en achterhoofd.",
+   "Hij duikt tot 240 meter diep, meestal tot op de bodem.",
+   "Als er mensen in de buurt zijn, aarzelt hij om de zee in te gaan."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Geeloogpingu%C3%AFn",
   "img": "images/megadyptes-antipodes.webp",
   "imgSize": [
    1400,
-   930
+   1050
   ],
   "credit": {
-   "by": "Adriana Nelly Correa Sandoval",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/7532678",
+   "by": "Oscar Thomas",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/113537806",
    "source": "iNaturalist"
   },
   "obs": 6355,
@@ -25010,12 +25159,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/megadyptes-antipodes.webp",
     "size": [
      1400,
-     930
+     1050
     ],
     "credit": {
-     "by": "Adriana Nelly Correa Sandoval",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/7532678",
+     "by": "Oscar Thomas",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/113537806",
      "source": "iNaturalist"
     }
    },
@@ -25023,12 +25172,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/megadyptes-antipodes-2.webp",
     "size": [
      1100,
-     825
+     738
     ],
     "credit": {
-     "by": "harrylurling",
-     "license": "CC-BY-ND",
-     "url": "https://www.inaturalist.org/photos/93219059",
+     "by": "Greg Lasley",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/2015676",
      "source": "iNaturalist"
     }
    },
@@ -25036,12 +25185,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/megadyptes-antipodes-3.webp",
     "size": [
      1100,
-     733
+     734
     ],
     "credit": {
-     "by": "Oscar Thomas",
+     "by": "duckindisguise",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/115356889",
+     "url": "https://www.inaturalist.org/photos/250094180",
      "source": "iNaturalist"
     }
    }
@@ -25050,6 +25199,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sphenisciformes",
   "family": "Spheniscidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Yellow-eyed_penguin",
   "curated": true
  },
  {
@@ -25059,9 +25209,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De grauwe pijlstormvogel is een vogel uit de orde van stormvogelachtigen.",
   "facts": [
-   "In één jaar vliegt hij meer dan 64.000 kilometer boven de Stille Oceaan.",
-   "Op een dag legt hij meer dan 900 kilometer af.",
-   "Hij duikt meer dan 68 meter diep naar vis en inktvis."
+   "Vogels uit Nieuw-Zeeland vliegen tot 74.000 kilometer per jaar, tot Japan, Alaska en Californië.",
+   "Bij Californië trekken ze voorbij in zwermen van honderdduizenden vogels.",
+   "Hij volgt walvissen om vis te vangen die zij opschrikken."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grauwe_pijlstormvogel",
   "img": "images/ardenna-grisea.webp",
@@ -25095,25 +25245,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/ardenna-grisea-2.webp",
     "size": [
      1100,
-     734
+     777
     ],
     "credit": {
-     "by": "BJ Stacey",
+     "by": "brock",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/268812",
+     "url": "https://www.inaturalist.org/photos/565086665",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/ardenna-grisea-3.webp",
     "size": [
-     1100,
-     733
+     1000,
+     666
     ],
     "credit": {
-     "by": "BJ Stacey",
+     "by": "Martin Arregui",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/187665",
+     "url": "https://www.inaturalist.org/photos/67620307",
      "source": "iNaturalist"
     }
    }
@@ -25122,6 +25272,7 @@ window.OCEAN_ANIMALS = [
   "order": "Procellariiformes",
   "family": "Procellariidae",
   "ns": 6410,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sooty_shearwater",
   "curated": true
  },
  {
@@ -25131,9 +25282,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De grote albatros is een vogel uit de familie van de albatrossen.",
   "facts": [
-   "Met ruim 3 meter heeft hij de grootste spanwijdte van alle vogels.",
-   "Exulans betekent 'zwervend'.",
-   "Plastic in zee en vislijnen zijn een groot gevaar voor hem."
+   "Hij heeft de grootste spanwijdte van alle vogels: meer dan 3 meter.",
+   "Hij kan urenlang zweven zonder met zijn vleugels te klappen.",
+   "Zeelieden geloofden dat het doden van een albatros groot ongeluk bracht."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grote_albatros",
   "img": "images/diomedea-exulans.webp",
@@ -25167,12 +25318,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/diomedea-exulans-2.webp",
     "size": [
      1100,
-     825
+     734
     ],
     "credit": {
-     "by": "Jonathan Newman",
+     "by": "Simon Pierce",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/445954001",
+     "url": "https://www.inaturalist.org/photos/142048643",
      "source": "iNaturalist"
     }
    },
@@ -25183,9 +25334,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Tony Palliser",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/279903914",
+     "by": "Flavien Saboureau",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/336189515",
      "source": "iNaturalist"
     }
    }
@@ -25194,6 +25345,7 @@ window.OCEAN_ANIMALS = [
   "order": "Procellariiformes",
   "family": "Diomedeidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Snowy_albatross",
   "curated": true
  },
  {
@@ -25203,20 +25355,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De grote jager is het grootste lid van de jagers of roofmeeuwen, een subgroep van de Laridae.",
   "facts": [
-   "Hij achtervolgt meeuwen tot ze hun prooi laten vallen.",
-   "Hij is de talrijkste jager op de Noordzee.",
-   "Hij is zo groot als een flinke zilvermeeuw."
+   "Hij grijpt een jan-van-gent in de lucht bij de vleugel, zodat die in zee valt en zijn vis afgeeft.",
+   "Wie te dicht bij zijn nest komt, wordt keer op keer 'gebombardeerd'.",
+   "Op St Kilda zagen onderzoekers met nachtkijkers dat hij 's nachts op stormvogeltjes jaagt."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grote_jager",
   "img": "images/stercorarius-skua.webp",
   "imgSize": [
    1400,
-   875
+   933
   ],
   "credit": {
-   "by": "Fyn Kynd",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/2415468",
+   "by": "Salomine Falck",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/413005631",
    "source": "iNaturalist"
   },
   "obs": 184630,
@@ -25226,12 +25378,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/stercorarius-skua.webp",
     "size": [
      1400,
-     875
+     933
     ],
     "credit": {
-     "by": "Fyn Kynd",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/2415468",
+     "by": "Salomine Falck",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/413005631",
      "source": "iNaturalist"
     }
    },
@@ -25239,12 +25391,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/stercorarius-skua-2.webp",
     "size": [
      1100,
-     767
+     731
     ],
     "credit": {
-     "by": "docprt",
+     "by": "Andrew Thompson",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/73451705",
+     "url": "https://www.inaturalist.org/photos/146874683",
      "source": "iNaturalist"
     }
    },
@@ -25252,12 +25404,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/stercorarius-skua-3.webp",
     "size": [
      1100,
-     826
+     825
     ],
     "credit": {
-     "by": "whinaem",
+     "by": "Sherry Kirkvold",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/120447406",
+     "url": "https://www.inaturalist.org/photos/673429142",
      "source": "iNaturalist"
     }
    }
@@ -25266,6 +25418,7 @@ window.OCEAN_ANIMALS = [
   "order": "Charadriiformes",
   "family": "Stercorariidae",
   "ns": 30620,
+  "wikiEn": "https://en.wikipedia.org/wiki/Great_skua",
   "curated": true
  },
  {
@@ -25275,9 +25428,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De grote mantelmeeuw is een vogel uit de familie van de meeuwen.",
   "facts": [
-   "Hij is de grootste meeuw ter wereld, met een spanwijdte van zo'n 1,5 meter.",
-   "Hij volgt bultruggen en tonijnen om vis te pakken die zij naar boven jagen.",
-   "Jonge vogels krijgen pas in hun derde voorjaar hun zwarte mantel."
+   "Hij is de grootste meeuw ter wereld.",
+   "Hij jaagt eerder als een roofvogel dan als een meeuw.",
+   "De oudst bekende wilde mantelmeeuw werd 27 jaar."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grote_mantelmeeuw",
   "img": "images/larus-marinus.webp",
@@ -25311,12 +25464,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/larus-marinus-2.webp",
     "size": [
      1100,
-     734
+     545
     ],
     "credit": {
-     "by": "egorbirder",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/118677944",
+     "by": "no rights reserved",
+     "license": "CC0",
+     "url": "https://www.inaturalist.org/photos/241713648",
      "source": "iNaturalist"
     }
    },
@@ -25324,12 +25477,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/larus-marinus-3.webp",
     "size": [
      1100,
-     734
+     733
     ],
     "credit": {
-     "by": "Alex Shure",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/174389474",
+     "by": "Diego González Dopico",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/345101366",
      "source": "iNaturalist"
     }
    }
@@ -25338,6 +25491,7 @@ window.OCEAN_ANIMALS = [
   "order": "Charadriiformes",
   "family": "Laridae",
   "ns": 176380,
+  "wikiEn": "https://en.wikipedia.org/wiki/Great_black-backed_gull",
   "curated": true
  },
  {
@@ -25347,9 +25501,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De grote stern behoort tot een familie van zeevogels, die verwant is aan de meeuwen en schaarbekken.",
   "facts": [
+   "Hij broedt vlak naast agressievere vogels zoals noordse sterns, die de vijanden voor hem wegjagen.",
    "Je herkent hem aan zijn zwarte kuif en zwarte snavel met een geel puntje.",
-   "In de jaren dertig broedden er in Nederland zo'n 35.000 paren, vooral in het Waddengebied.",
-   "Hij is een van de icoonsoorten van de Waddenzee."
+   "In de jaren dertig broedden er in Nederland zo'n 35.000 paren."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grote_stern",
   "img": "images/thalasseus-sandvicensis.webp",
@@ -25383,12 +25537,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/thalasseus-sandvicensis-2.webp",
     "size": [
      1100,
-     733
+     660
     ],
     "credit": {
-     "by": "Antonio Amaral",
+     "by": "danieltayloroc",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/290730340",
+     "url": "https://www.inaturalist.org/photos/216642434",
      "source": "iNaturalist"
     }
    },
@@ -25396,12 +25550,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/thalasseus-sandvicensis-3.webp",
     "size": [
      1100,
-     729
+     733
     ],
     "credit": {
-     "by": "Adrian Antunez",
+     "by": "José Antonio Linage Espinosa",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/380760391",
+     "url": "https://www.inaturalist.org/photos/4202336",
      "source": "iNaturalist"
     }
    }
@@ -25410,6 +25564,7 @@ window.OCEAN_ANIMALS = [
   "order": "Charadriiformes",
   "family": "Laridae",
   "ns": 83288,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sandwich_tern",
   "curated": true
  },
  {
@@ -25419,9 +25574,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De humboldtpinguïn is een pinguïnsoort die als koloniebroeder leeft aan de kusten van Peru en Chili.",
   "facts": [
-   "Hij is vernoemd naar ontdekkingsreiziger Alexander von Humboldt.",
-   "Hij leeft aan de kust van Peru en Chili, waar koud, voedselrijk water omhoogkomt.",
-   "Rond zijn snavel heeft hij een roze vlek."
+   "Zowel deze pinguïn als de koude zeestroom waarin hij zwemt, zijn vernoemd naar Alexander von Humboldt.",
+   "Na het naderen van een mens heeft hij tot een half uur nodig om zijn hartslag te laten zakken.",
+   "Pinguïn nummer 337 ontsnapte in 2012 uit een dierentuin en werd later weer gevangen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Humboldtpingu%C3%AFn",
   "img": "images/spheniscus-humboldti.webp",
@@ -25458,9 +25613,9 @@ window.OCEAN_ANIMALS = [
      734
     ],
     "credit": {
-     "by": "Zweer de Bruin",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/161759810",
+     "by": "jmclatchie",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/106273414",
      "source": "iNaturalist"
     }
    },
@@ -25468,12 +25623,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/spheniscus-humboldti-3.webp",
     "size": [
      1100,
-     757
+     825
     ],
     "credit": {
-     "by": "sea turtle",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/173604132",
+     "by": "David Samata Flores",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/359209473",
      "source": "iNaturalist"
     }
    }
@@ -25482,6 +25637,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sphenisciformes",
   "family": "Spheniscidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Humboldt_penguin",
   "curated": true
  },
  {
@@ -25491,9 +25647,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De jan-van-gent is een vogel uit de familie van de genten.",
   "facts": [
-   "Hij duikt met wel 100 kilometer per uur het water in naar vis.",
-   "Jongen verlaten het nest zwaarder dan hun ouders: zo'n 4 kilo.",
-   "Op Bass Rock in Schotland broeden er ongeveer 150.000."
+   "Hij duikt met bijna 100 kilometer per uur de zee in.",
+   "Zijn neusgaten zitten binnen in zijn snavel, zodat er geen water in komt.",
+   "Jonge vogels verlaten het nest zwaarder dan hun ouders."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Jan-van-gent",
   "img": "images/morus-bassanus.webp",
@@ -25527,12 +25683,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/morus-bassanus-2.webp",
     "size": [
      1100,
-     734
+     733
     ],
     "credit": {
-     "by": "Leo Weiskittel",
+     "by": "Marc Henrion",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/411599065",
+     "url": "https://www.inaturalist.org/photos/305869565",
      "source": "iNaturalist"
     }
    },
@@ -25540,12 +25696,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/morus-bassanus-3.webp",
     "size": [
      1100,
-     728
+     820
     ],
     "credit": {
-     "by": "Lorri G.",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/5973232",
+     "by": "Jonny Andrews",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/212678209",
      "source": "iNaturalist"
     }
    }
@@ -25554,6 +25710,7 @@ window.OCEAN_ANIMALS = [
   "order": "Suliformes",
   "family": "Sulidae",
   "ns": 265669,
+  "wikiEn": "https://en.wikipedia.org/wiki/Northern_gannet",
   "curated": true
  },
  {
@@ -25563,9 +25720,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De keizerspinguïn is de grootste pinguïnsoort.",
   "facts": [
-   "Hij is de grootste pinguïn, zo'n 110 centimeter lang.",
-   "Hij duikt tot 550 meter diep en kan 27 minuten onder water blijven.",
-   "Bij temperaturen tot 60 graden onder nul kruipen de mannetjes dicht tegen elkaar aan en wisselen ze steeds van plek."
+   "Het is de enige pinguïn die in de Antarctische winter broedt.",
+   "Onder water zakt zijn hartslag tot 15 slagen per minuut.",
+   "Er zijn geen vaste nesten: partners en kuikens vinden elkaar alleen terug aan hun stem."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Keizerspingu%C3%AFn",
   "img": "images/aptenodytes-forsteri.webp",
@@ -25599,12 +25756,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/aptenodytes-forsteri-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Enzo Fiorelli",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/111479650",
+     "by": "Marcela Libertelli",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/170888393",
      "source": "iNaturalist"
     }
    },
@@ -25612,12 +25769,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/aptenodytes-forsteri-3.webp",
     "size": [
      1100,
-     776
+     619
     ],
     "credit": {
-     "by": "Christopher Michel",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/85492504",
+     "by": "Justin Hofman",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/602105771",
      "source": "iNaturalist"
     }
    }
@@ -25626,6 +25783,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sphenisciformes",
   "family": "Spheniscidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Emperor_penguin",
   "curated": true
  },
  {
@@ -25635,9 +25793,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De kleine alk is een vogel uit de familie van de alken.",
   "facts": [
-   "Op het water lijkt hij op een rond zwart-wit balletje.",
-   "Hij is maar zo'n 20 centimeter lang.",
-   "Bij noordwesterstorm zie je hem soms langs de Nederlandse kust."
+   "Hij is half zo groot als een papegaaiduiker.",
+   "Na stormen in 2007 vlogen er op één dag bijna 29.000 langs de Engelse kust.",
+   "Op het water lijkt hij op een rond zwart-wit balletje."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kleine_alk",
   "img": "images/alle-alle.webp",
@@ -25672,6 +25830,7 @@ window.OCEAN_ANIMALS = [
   "order": "Charadriiformes",
   "family": "Alcidae",
   "ns": 13263,
+  "wikiEn": "https://en.wikipedia.org/wiki/Little_auk",
   "curated": true
  },
  {
@@ -25681,20 +25840,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De koningspinguïn is een pinguïnsoort die eilanden rond Antarctica bewoont en in grote kolonies broedt.",
   "facts": [
-   "Na de keizerspinguïn is hij de grootste pinguïn.",
-   "Zijn ei weegt ongeveer 30 procent van het gewicht van het vrouwtje.",
-   "Het broedende mannetje verliest de helft van zijn gewicht."
+   "Hij duikt tot 343 meter diep.",
+   "Op de Crozeteilanden broeden er zo'n 455.000 paren.",
+   "Zijn ei weegt zo'n 30 procent van het gewicht van het vrouwtje."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Koningspingu%C3%AFn",
   "img": "images/aptenodytes-patagonicus.webp",
   "imgSize": [
    1400,
-   695
+   933
   ],
   "credit": {
-   "by": "meta4",
+   "by": "Oscar Thomas",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/602978114",
+   "url": "https://www.inaturalist.org/photos/243750848",
    "source": "iNaturalist"
   },
   "obs": 203914,
@@ -25704,7 +25863,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/aptenodytes-patagonicus.webp",
     "size": [
      1400,
-     695
+     933
+    ],
+    "credit": {
+     "by": "Oscar Thomas",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/243750848",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/aptenodytes-patagonicus-2.webp",
+    "size": [
+     1100,
+     546
     ],
     "credit": {
      "by": "meta4",
@@ -25714,28 +25886,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/aptenodytes-patagonicus-2.webp",
-    "size": [
-     1024,
-     683
-    ],
-    "credit": {
-     "by": "Brian Gratwicke",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/102542",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/aptenodytes-patagonicus-3.webp",
     "size": [
      1100,
-     786
+     734
     ],
     "credit": {
-     "by": "Gregoire Dubois",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/52476933",
+     "by": "Geoff Walker",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/188891077",
      "source": "iNaturalist"
     }
    }
@@ -25744,6 +25903,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sphenisciformes",
   "family": "Spheniscidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/King_penguin",
   "curated": true
  },
  {
@@ -25753,9 +25913,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De kuifaalscholver is een vogel uit de orde Suliformes.",
   "facts": [
-   "Volwassen vogels hebben een kuifje op hun kop.",
-   "Zijn veren hebben een groene glans.",
-   "Hij leeft op rotskusten van Noorwegen tot Noord-Afrika."
+   "Voor het duiken springt hij eerst uit het water, voor extra vaart.",
+   "Zijn kuikens worden kaal geboren en hebben hun ouders twee maanden nodig om warm te blijven.",
+   "Door de warmere zee eet hij steeds meer verschillende vissen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kuifaalscholver",
   "img": "images/gulosus-aristotelis.webp",
@@ -25764,9 +25924,9 @@ window.OCEAN_ANIMALS = [
    933
   ],
   "credit": {
-   "by": "Tony",
+   "by": "Diego González Dopico",
    "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/53779299",
+   "url": "https://www.inaturalist.org/photos/498917184",
    "source": "iNaturalist"
   },
   "obs": 530573,
@@ -25779,19 +25939,6 @@ window.OCEAN_ANIMALS = [
      933
     ],
     "credit": {
-     "by": "Tony",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/53779299",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/gulosus-aristotelis-2.webp",
-    "size": [
-     1100,
-     733
-    ],
-    "credit": {
      "by": "Diego González Dopico",
      "license": "CC-BY",
      "url": "https://www.inaturalist.org/photos/498917184",
@@ -25799,15 +25946,28 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
+    "img": "images/gulosus-aristotelis-2.webp",
+    "size": [
+     1100,
+     734
+    ],
+    "credit": {
+     "by": "Tomasz Wilk",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/385960255",
+     "source": "iNaturalist"
+    }
+   },
+   {
     "img": "images/gulosus-aristotelis-3.webp",
     "size": [
      1100,
-     1100
+     825
     ],
     "credit": {
-     "by": "Tristo",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/638033612",
+     "by": "Stergios Vasilis",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/383178959",
      "source": "iNaturalist"
     }
    }
@@ -25816,6 +25976,7 @@ window.OCEAN_ANIMALS = [
   "order": "Suliformes",
   "family": "Phalacrocoracidae",
   "ns": 55418,
+  "wikiEn": "https://en.wikipedia.org/wiki/European_shag",
   "curated": true
  },
  {
@@ -25825,20 +25986,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De kuifpapegaaiduiker is een vogel uit de familie van de alken.",
   "facts": [
-   "Alleen in het broedseizoen heeft hij zijn gele kuiven.",
-   "Hij heeft een forse oranje snavel en een wit masker.",
-   "Op het eiland Talan broeden meer dan een miljoen paren."
+   "Hij is de grootste papegaaiduiker.",
+   "Jonge vogels blijven tot hun derde jaar op zee en komen alleen terug om te broeden.",
+   "Alleen in het broedseizoen heeft hij zijn gele 'kuiven'."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kuifpapegaaiduiker",
   "img": "images/fratercula-cirrhata.webp",
   "imgSize": [
-   1400,
-   933
+   1080,
+   720
   ],
   "credit": {
-   "by": "Nigel Voaden",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/2812798",
+   "by": "Marcie Callewaert",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/150545606",
    "source": "iNaturalist"
   },
   "obs": 83279,
@@ -25847,13 +26008,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/fratercula-cirrhata.webp",
     "size": [
-     1400,
-     933
+     1080,
+     720
     ],
     "credit": {
-     "by": "Nigel Voaden",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/2812798",
+     "by": "Marcie Callewaert",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/150545606",
      "source": "iNaturalist"
     }
    },
@@ -25861,12 +26022,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/fratercula-cirrhata-2.webp",
     "size": [
      1100,
-     825
+     789
     ],
     "credit": {
-     "by": "Jason Talbott",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/403480846",
+     "by": "Brooke J.",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/701007723",
      "source": "iNaturalist"
     }
    },
@@ -25874,12 +26035,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/fratercula-cirrhata-3.webp",
     "size": [
      1100,
-     547
+     733
     ],
     "credit": {
-     "by": "sea-kangaroo",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/49767476",
+     "by": "Nigel Voaden",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/2812798",
      "source": "iNaturalist"
     }
    }
@@ -25888,6 +26049,7 @@ window.OCEAN_ANIMALS = [
   "order": "Charadriiformes",
   "family": "Alcidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Tufted_puffin",
   "curated": true
  },
  {
@@ -25897,9 +26059,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De laysanalbatros is een grote zeevogel die voorkomt in het noordelijk deel van de Grote Oceaan.",
   "facts": [
-   "Een vrouwtje werd ouder dan 74 jaar: de oudst bekende wilde vogel.",
-   "Paartjes blijven hun hele leven bij elkaar.",
-   "Soms maakt hij langgerekte 'moe'-geluiden."
+   "Albatros Wisdom is de oudst bekende wilde vogel ter wereld: meer dan 70 jaar oud.",
+   "Hij maakt soms loeiende 'moe'-geluiden.",
+   "Soms voeden twee vrouwtjes samen een jong op."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Laysanalbatros",
   "img": "images/phoebastria-immutabilis.webp",
@@ -25933,25 +26095,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/phoebastria-immutabilis-2.webp",
     "size": [
      1100,
-     732
+     825
     ],
     "credit": {
-     "by": "Alana Pizarro",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/360387665",
+     "by": "Travis Cooper",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/346867909",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/phoebastria-immutabilis-3.webp",
     "size": [
-     1100,
-     733
+     1024,
+     683
     ],
     "credit": {
-     "by": "Kyle Smith",
+     "by": "Scott Buckel",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/2917429",
+     "url": "https://www.inaturalist.org/photos/18101845",
      "source": "iNaturalist"
     }
    }
@@ -25960,6 +26122,7 @@ window.OCEAN_ANIMALS = [
   "order": "Procellariiformes",
   "family": "Diomedeidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Laysan_albatross",
   "curated": true
  },
  {
@@ -25969,9 +26132,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De macaronipinguïn is een pinguïn die voorkomt op de eilanden rond Antarctica, vooral op de Crozeteilanden.",
   "facts": [
-   "Hij is vernoemd naar 'macaroni's': Britse dandy's met veren op hun hoed.",
-   "Hij legt eerst een klein ei en een paar dagen later een tweede.",
-   "Op de Crozeteilanden broeden er zo'n 2,2 miljoen paren."
+   "Zijn kolonies zijn de grootste en drukste van alle pinguïns: tot 100.000 vogels.",
+   "Hij legt twee eieren, maar het eerste en kleinste ei overleeft bijna nooit.",
+   "Hij is vernoemd naar 'macaroni's': Britse dandy's met veren op hun hoed."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Macaronipingu%C3%AFn",
   "img": "images/eudyptes-chrysolophus.webp",
@@ -26005,12 +26168,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/eudyptes-chrysolophus-2.webp",
     "size": [
      1100,
-     733
+     734
     ],
     "credit": {
-     "by": "laikolosse",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/66225150",
+     "by": "Maximiliano Aguilar",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/357697107",
      "source": "iNaturalist"
     }
    },
@@ -26021,9 +26184,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Science and Education Coordinator MS FRAM",
+     "by": "Tony Palliser",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/173982739",
+     "url": "https://www.inaturalist.org/photos/279672627",
      "source": "iNaturalist"
     }
    }
@@ -26032,6 +26195,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sphenisciformes",
   "family": "Spheniscidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Macaroni_penguin",
   "curated": true
  },
  {
@@ -26041,20 +26205,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De magelhaenpinguïn is een zeevogel uit de familie van de pinguïns.",
   "facts": [
-   "Hij heeft een dubbele zwarte band op zijn borst.",
-   "Hij duikt tot 100 meter diep naar ansjovis.",
-   "Visserij, olievervuiling en klimaatverandering bedreigen hem."
+   "Hij is vernoemd naar Magelhaes, die hem in 1520 zag.",
+   "Hij kan 25 jaar oud worden.",
+   "In 2024 kwam de film 'My Penguin Friend' uit, over een magelhaenpinguïn."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Magelhaenpingu%C3%AFn",
   "img": "images/spheniscus-magellanicus.webp",
   "imgSize": [
    1400,
-   945
+   1229
   ],
   "credit": {
-   "by": "John Barkla",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/4115244",
+   "by": "mbstevens",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/40232445",
    "source": "iNaturalist"
   },
   "obs": 44292,
@@ -26064,12 +26228,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/spheniscus-magellanicus.webp",
     "size": [
      1400,
-     945
+     1229
     ],
     "credit": {
-     "by": "John Barkla",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/4115244",
+     "by": "mbstevens",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/40232445",
      "source": "iNaturalist"
     }
    },
@@ -26082,7 +26246,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Sebastián Lescano",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/43817476",
+     "url": "https://www.inaturalist.org/photos/341382441",
      "source": "iNaturalist"
     }
    },
@@ -26090,12 +26254,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/spheniscus-magellanicus-3.webp",
     "size": [
      1100,
-     733
+     743
     ],
     "credit": {
-     "by": "Andrea Schieber",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/172295473",
+     "by": "John Barkla",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/4115244",
      "source": "iNaturalist"
     }
    }
@@ -26104,6 +26268,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sphenisciformes",
   "family": "Spheniscidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Magellanic_penguin",
   "curated": true
  },
  {
@@ -26114,8 +26279,8 @@ window.OCEAN_ANIMALS = [
   "intro": "De maskergent is een zeevogel die behoort tot de genten.",
   "facts": [
    "Hij is de grootste gent.",
-   "Rond zijn ogen zit een zwart 'masker' van naakte huid.",
-   "Hij eet vooral vliegende vissen."
+   "Hij duikt met hoge snelheid de zee in, vooral op vliegende vissen.",
+   "Rond zijn ogen zit een zwart 'masker'."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Maskergent",
   "img": "images/sula-dactylatra.webp",
@@ -26152,9 +26317,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "João D'Andretta",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/234717581",
+     "by": "abelardomendesjr",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/214608110",
      "source": "iNaturalist"
     }
    },
@@ -26162,12 +26327,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sula-dactylatra-3.webp",
     "size": [
      1100,
-     825
+     677
     ],
     "credit": {
-     "by": "John Barkla",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/1216197",
+     "by": "Daniel LaFrance",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/239543440",
      "source": "iNaturalist"
     }
    }
@@ -26176,6 +26341,7 @@ window.OCEAN_ANIMALS = [
   "order": "Suliformes",
   "family": "Sulidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Masked_booby",
   "curated": true
  },
  {
@@ -26185,20 +26351,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De Noordse pijlstormvogel is een vogel uit de orde van stormvogelachtigen.",
   "facts": [
-   "Hij scheert met stijve vleugels laag over de golven.",
-   "Doordat hij kantelt, lijkt hij afwisselend zwart en wit.",
-   "Ouders laten hun jong een week voor het uitvliegen alleen."
+   "Een vogel van 50 jaar heeft alleen al op trektocht waarschijnlijk meer dan een miljoen kilometer gevlogen.",
+   "Eén vogel uit Noord-Ierland werd minstens 55 jaar.",
+   "Vrouwtjes herkennen de stem van hun partner, maar niet die van hun jong."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Noordse_pijlstormvogel",
   "img": "images/puffinus-puffinus.webp",
   "imgSize": [
-   1400,
-   990
+   1192,
+   791
   ],
   "credit": {
-   "by": "Greg Holland",
-   "license": "CC-BY-ND",
-   "url": "https://www.inaturalist.org/photos/203014909",
+   "by": "Andrew Thompson",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/111005655",
    "source": "iNaturalist"
   },
   "obs": 206619,
@@ -26207,13 +26373,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/puffinus-puffinus.webp",
     "size": [
-     1400,
-     990
+     1192,
+     791
     ],
     "credit": {
-     "by": "Greg Holland",
-     "license": "CC-BY-ND",
-     "url": "https://www.inaturalist.org/photos/203014909",
+     "by": "Andrew Thompson",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/111005655",
      "source": "iNaturalist"
     }
    },
@@ -26221,12 +26387,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/puffinus-puffinus-2.webp",
     "size": [
      1100,
-     762
+     733
     ],
     "credit": {
-     "by": "A Emmerson",
+     "by": "mervyngreening",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/172878770",
+     "url": "https://www.inaturalist.org/photos/294706706",
      "source": "iNaturalist"
     }
    },
@@ -26234,12 +26400,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/puffinus-puffinus-3.webp",
     "size": [
      1100,
-     961
+     734
     ],
     "credit": {
-     "by": "Kyle d'Entremont",
+     "by": "Chris",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/80286518",
+     "url": "https://www.inaturalist.org/photos/579552349",
      "source": "iNaturalist"
     }
    }
@@ -26248,6 +26414,7 @@ window.OCEAN_ANIMALS = [
   "order": "Procellariiformes",
   "family": "Procellariidae",
   "ns": 7385,
+  "wikiEn": "https://en.wikipedia.org/wiki/Manx_shearwater",
   "curated": true
  },
  {
@@ -26257,20 +26424,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De noordse stern is een zeevogel uit de familie van de meeuwen.",
   "facts": [
-   "Hij vliegt elk jaar zo'n 70.000 kilometer, tussen het Noord- en Zuidpoolgebied.",
-   "In zijn leven kan hij meer dan 2,4 miljoen kilometer vliegen: drie keer heen en terug naar de maan.",
-   "Zijn snavel is in de broedtijd helemaal bloedrood."
+   "Hij maakt de langste trektocht van het hele dierenrijk.",
+   "Hij beleeft twee zomers per jaar: één in het noorden en één bij Antarctica.",
+   "In zijn leven vliegt hij meer dan drie keer naar de maan en terug."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Noordse_stern",
   "img": "images/sterna-paradisaea.webp",
   "imgSize": [
-   1000,
-   667
+   1400,
+   934
   ],
   "credit": {
-   "by": "pelagicgraf",
+   "by": "Bridget Spencer",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/149865822",
+   "url": "https://www.inaturalist.org/photos/91472303",
    "source": "iNaturalist"
   },
   "obs": 848639,
@@ -26279,13 +26446,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/sterna-paradisaea.webp",
     "size": [
-     1000,
-     667
+     1400,
+     934
     ],
     "credit": {
-     "by": "pelagicgraf",
+     "by": "Bridget Spencer",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/149865822",
+     "url": "https://www.inaturalist.org/photos/91472303",
      "source": "iNaturalist"
     }
    },
@@ -26293,12 +26460,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sterna-paradisaea-2.webp",
     "size": [
      1100,
-     723
+     826
     ],
     "credit": {
-     "by": "Bridget Spencer",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/91472207",
+     "by": "Angela",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/437414603",
      "source": "iNaturalist"
     }
    },
@@ -26306,12 +26473,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sterna-paradisaea-3.webp",
     "size": [
      1100,
-     733
+     778
     ],
     "credit": {
-     "by": "Elan Zucchetti",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/548480978",
+     "by": "Greg Holland",
+     "license": "CC-BY-ND",
+     "url": "https://www.inaturalist.org/photos/74916247",
      "source": "iNaturalist"
     }
    }
@@ -26320,6 +26487,7 @@ window.OCEAN_ANIMALS = [
   "order": "Charadriiformes",
   "family": "Laridae",
   "ns": 22307,
+  "wikiEn": "https://en.wikipedia.org/wiki/Arctic_tern",
   "curated": true
  },
  {
@@ -26329,21 +26497,21 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De noordse stormvogel, ook wel mallemok, is een zeevogel uit de orde van de buissnaveligen.",
   "facts": [
-   "Hij lijkt op een meeuw, maar is daar geen familie van.",
-   "Hij kan een vieze maagolie tot twee meter ver spuiten naar indringers.",
-   "Op het land kan hij vrij slecht lopen."
+   "Zelfs kuikens spuwen al stinkende maagolie naar indringers.",
+   "Die olie plakt de veren van roofvogels aan elkaar, wat ze fataal kan worden.",
+   "Hij kan meer dan 50 jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Noordse_stormvogel",
   "img": "images/fulmarus-glacialis.webp",
   "imgSize": [
    1400,
-   934
+   965
   ],
   "credit": {
-   "by": "Charles J. Sharp",
-   "license": "CC BY-SA 4.0",
-   "url": "https://commons.wikimedia.org/wiki/File:Fulmar_(Fulmarus_glacialis)_on_water.jpg",
-   "source": "Wikimedia Commons"
+   "by": "Andrew P. Aldrich",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/114284813",
+   "source": "iNaturalist"
   },
   "obs": 1319889,
   "map": "maps/fulmarus-glacialis.webp",
@@ -26352,7 +26520,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/fulmarus-glacialis.webp",
     "size": [
      1400,
-     934
+     965
+    ],
+    "credit": {
+     "by": "Andrew P. Aldrich",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/114284813",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/fulmarus-glacialis-2.webp",
+    "size": [
+     1100,
+     734
     ],
     "credit": {
      "by": "Charles J. Sharp",
@@ -26362,28 +26543,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/fulmarus-glacialis-2.webp",
-    "size": [
-     1100,
-     733
-    ],
-    "credit": {
-     "by": "Michael Long",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/579817450",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/fulmarus-glacialis-3.webp",
     "size": [
      1100,
-     736
+     825
     ],
     "credit": {
-     "by": "Jonny Andrews",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/248578694",
+     "by": "Justin Johnsen",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/6630601",
      "source": "iNaturalist"
     }
    }
@@ -26392,6 +26560,7 @@ window.OCEAN_ANIMALS = [
   "order": "Procellariiformes",
   "family": "Procellariidae",
   "ns": 352857,
+  "wikiEn": "https://en.wikipedia.org/wiki/Northern_fulmar",
   "curated": true
  },
  {
@@ -26401,20 +26570,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De papegaaiduiker is een vogel uit de familie van de alken.",
   "facts": [
-   "Met zijn snavel kan hij een heleboel visjes tegelijk vasthouden.",
-   "Hij weegt ongeveer 300 tot 700 gram.",
-   "Bij Newfoundland broeden er 260.000 paren in één reservaat."
+   "Hij houdt gevangen visjes vast met zijn tong, terwijl hij er nog meer vangt.",
+   "In de winter verliest hij de felle kleuren op zijn snavel en gezicht.",
+   "Een kuiken kan meteen na het uitkomen staan."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Papegaaiduiker",
   "img": "images/fratercula-arctica.webp",
   "imgSize": [
    1400,
-   933
+   788
   ],
   "credit": {
    "by": "Paul Steeves",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/63139388",
+   "url": "https://www.inaturalist.org/photos/63138840",
    "source": "iNaturalist"
   },
   "obs": 309095,
@@ -26424,7 +26593,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/fratercula-arctica.webp",
     "size": [
      1400,
-     933
+     788
+    ],
+    "credit": {
+     "by": "Paul Steeves",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/63138840",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/fratercula-arctica-2.webp",
+    "size": [
+     1100,
+     733
     ],
     "credit": {
      "by": "Paul Steeves",
@@ -26434,28 +26616,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/fratercula-arctica-2.webp",
-    "size": [
-     1100,
-     1100
-    ],
-    "credit": {
-     "by": "Jackson W.F. Chu",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/94420777",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/fratercula-arctica-3.webp",
     "size": [
      1100,
-     733
+     619
     ],
     "credit": {
-     "by": "Paul Pratt",
+     "by": "Paul Steeves",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/90318491",
+     "url": "https://www.inaturalist.org/photos/63139193",
      "source": "iNaturalist"
     }
    }
@@ -26464,6 +26633,7 @@ window.OCEAN_ANIMALS = [
   "order": "Charadriiformes",
   "family": "Alcidae",
   "ns": 51129,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_puffin",
   "curated": true
  },
  {
@@ -26473,9 +26643,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De roodpootgent is een zeevogel die behoort tot de genten.",
   "facts": [
-   "Hij dankt zijn naam aan zijn rode poten.",
-   "Hij heeft een blauwachtige snavel.",
-   "Hij vangt vis met een duikvlucht vanuit de lucht."
+   "Volwassen vogels hebben altijd rode poten, maar hun verenkleed verschilt.",
+   "Hij vangt vliegende vissen vlak boven het water.",
+   "Hij vliegt honderden kilometers ver op zoek naar eten."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Roodpootgent",
   "img": "images/sula-sula.webp",
@@ -26509,12 +26679,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sula-sula-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Patrick Coin",
+     "by": "laiging",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/259383431",
+     "url": "https://www.inaturalist.org/photos/50699338",
      "source": "iNaturalist"
     }
    },
@@ -26527,7 +26697,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Andrea Carpio",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/381898061",
+     "url": "https://www.inaturalist.org/photos/381898010",
      "source": "iNaturalist"
     }
    }
@@ -26536,6 +26706,7 @@ window.OCEAN_ANIMALS = [
   "order": "Suliformes",
   "family": "Sulidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Red-footed_booby",
   "curated": true
  },
  {
@@ -26545,20 +26716,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De roodsnavelkeerkringvogel is een zeevogel uit de familie van de keerkringvogels.",
   "facts": [
+   "Hij stond per ongeluk op het Bermudaanse biljet van 50 dollar, terwijl hij daar niet voorkomt.",
    "Zijn staartveren kunnen 46 tot 56 centimeter lang zijn.",
-   "Hij is een slechte zwemmer, maar een uitstekende vlieger.",
-   "Hij vangt vliegende vissen en pijlinktvissen met een duikvlucht."
+   "Hij is een slechte zwemmer, maar een uitstekende vlieger."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Roodsnavelkeerkringvogel",
   "img": "images/phaethon-aethereus.webp",
   "imgSize": [
    1400,
-   1082
+   998
   ],
   "credit": {
-   "by": "Odebrecht",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/569995729",
+   "by": "Tony Iwane",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/253264181",
    "source": "iNaturalist"
   },
   "obs": 60096,
@@ -26568,12 +26739,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/phaethon-aethereus.webp",
     "size": [
      1400,
-     1082
+     998
     ],
     "credit": {
-     "by": "Odebrecht",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/569995729",
+     "by": "Tony Iwane",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/253264181",
      "source": "iNaturalist"
     }
    },
@@ -26581,12 +26752,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/phaethon-aethereus-2.webp",
     "size": [
      1100,
-     733
+     746
     ],
     "credit": {
-     "by": "Stephen John Davies",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/702070454",
+     "by": "Forest Botial-Jarvis",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/742232321",
      "source": "iNaturalist"
     }
    },
@@ -26594,12 +26765,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/phaethon-aethereus-3.webp",
     "size": [
      1100,
-     784
+     850
     ],
     "credit": {
-     "by": "Tony Iwane",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/253264181",
+     "by": "Odebrecht",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/569995729",
      "source": "iNaturalist"
     }
    }
@@ -26608,6 +26779,7 @@ window.OCEAN_ANIMALS = [
   "order": "Phaethontiformes",
   "family": "Phaethontidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Red-billed_tropicbird",
   "curated": true
  },
  {
@@ -26617,20 +26789,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De stormbandpinguïn, kinbandpinguïn of keelbandpinguïn is een soort pinguïn.",
   "facts": [
-   "Hij dankt zijn naam aan het dunne zwarte streepje onder zijn kin.",
-   "Hij bouwt een nest van steentjes.",
-   "In jaren met veel zee-ijs krijgt hij minder jongen, omdat hij dan moeilijk bij zijn voedsel kan."
+   "Hij doet meer dan 10.000 'microdutjes' van 4 seconden per dag; zo komt hij aan zo'n 11 uur slaap.",
+   "Hij geldt als de meest agressieve pinguïn.",
+   "Hij dankt zijn naam aan het dunne zwarte streepje onder zijn kin."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Stormbandpingu%C3%AFn",
   "img": "images/pygoscelis-antarcticus.webp",
   "imgSize": [
    1400,
-   932
+   933
   ],
   "credit": {
-   "by": "Sterling Sheehy",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/248704",
+   "by": "Paul Steeves",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/249608827",
    "source": "iNaturalist"
   },
   "obs": 17217,
@@ -26640,12 +26812,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pygoscelis-antarcticus.webp",
     "size": [
      1400,
-     932
+     933
     ],
     "credit": {
-     "by": "Sterling Sheehy",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/248704",
+     "by": "Paul Steeves",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/249608827",
      "source": "iNaturalist"
     }
    },
@@ -26653,12 +26825,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pygoscelis-antarcticus-2.webp",
     "size": [
      1100,
-     731
+     734
     ],
     "credit": {
-     "by": "Seig",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/49215185",
+     "by": "dougiewainwright",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/247745852",
      "source": "iNaturalist"
     }
    },
@@ -26666,12 +26838,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pygoscelis-antarcticus-3.webp",
     "size": [
      1100,
-     775
+     735
     ],
     "credit": {
-     "by": "Sebastián Lescano",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/44705776",
+     "by": "Charlotte Kirchner",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/446804475",
      "source": "iNaturalist"
     }
    }
@@ -26680,6 +26852,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sphenisciformes",
   "family": "Spheniscidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Chinstrap_penguin",
   "curated": true
  },
  {
@@ -26689,9 +26862,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "Het stormvogeltje is een vogel uit de familie van de noordelijke stormvogeltjes.",
   "facts": [
-   "Hij leeft ver op zee en broedt in holen op rotsige eilanden.",
-   "Hij heeft een witte vlek op zijn stuit.",
-   "Hij zoekt ook voedsel in de noordwestelijke Noordzee."
+   "Anders dan de meeste vogels heeft hij een goede reukzin.",
+   "Hij heeft een muffe geur, waaraan onderzoekers zijn kolonies kunnen vinden.",
+   "Hij kan meer dan 33 jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Stormvogeltje",
   "img": "images/hydrobates-pelagicus.webp",
@@ -26728,9 +26901,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Andrew Thompson",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/146446194",
+     "by": "franciscodocampo",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/601847702",
      "source": "iNaturalist"
     }
    }
@@ -26739,6 +26912,7 @@ window.OCEAN_ANIMALS = [
   "order": "Procellariiformes",
   "family": "Hydrobatidae",
   "ns": 5407,
+  "wikiEn": "https://en.wikipedia.org/wiki/European_storm_petrel",
   "curated": true
  },
  {
@@ -26748,9 +26922,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De visdief is een vogel uit de familie van de meeuwen.",
   "facts": [
-   "Het mannetje maakt het vrouwtje het hof met een vis in zijn snavel.",
-   "Hij heeft een zwart kapje en een diep gevorkte staart.",
-   "Bij het nest valt hij zelfs naderende mensen aan."
+   "Hij herkent mensen en valt bekende mensen feller aan dan vreemden.",
+   "Bij een aanval laat hij soms poep vallen op de indringer.",
+   "Het mannetje maakt het vrouwtje het hof met een vis in zijn snavel."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Visdief",
   "img": "images/sterna-hirundo.webp",
@@ -26784,12 +26958,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sterna-hirundo-2.webp",
     "size": [
      1100,
-     826
+     733
     ],
     "credit": {
-     "by": "Gertjan van Noord",
-     "license": "CC-BY-ND",
-     "url": "https://www.inaturalist.org/photos/144056228",
+     "by": "Zac Cota",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/38745326",
      "source": "iNaturalist"
     }
    },
@@ -26797,12 +26971,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sterna-hirundo-3.webp",
     "size": [
      1100,
-     733
+     732
     ],
     "credit": {
-     "by": "Bill Keim",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/8318331",
+     "by": "Luis Agosto",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/314526158",
      "source": "iNaturalist"
     }
    }
@@ -26811,6 +26985,7 @@ window.OCEAN_ANIMALS = [
   "order": "Charadriiformes",
   "family": "Laridae",
   "ns": 55051,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_tern",
   "curated": true
  },
  {
@@ -26820,20 +26995,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De wenkbrauwalbatros of malmokalbatros is een grote zeevogel uit de familie van de albatrossen.",
   "facts": [
-   "Hij dankt zijn naam aan de zwarte streep boven zijn oog.",
-   "Zijn spanwijdte is ongeveer 2,4 meter.",
-   "Een moeder vindt haar jong in de kolonie terug aan zijn gepiep."
+   "Albatros 'Albert' leeft in Noord-Schotland, ver van huis.",
+   "Het is de albatros die je het meest kans hebt te zien in de Noord-Atlantische Oceaan.",
+   "Jonge vogels komen eerst een paar jaar 'oefenen' met baltsen voordat ze rond hun tiende gaan broeden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Wenkbrauwalbatros",
   "img": "images/thalassarche-melanophris.webp",
   "imgSize": [
-   1200,
-   800
+   1400,
+   934
   ],
   "credit": {
-   "by": "no rights reserved",
-   "license": "CC0",
-   "url": "https://www.inaturalist.org/photos/181347012",
+   "by": "Jeffrey H. Skevington",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/475423201",
    "source": "iNaturalist"
   },
   "obs": 329600,
@@ -26842,13 +27017,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/thalassarche-melanophris.webp",
     "size": [
-     1200,
-     800
+     1400,
+     934
     ],
     "credit": {
-     "by": "no rights reserved",
-     "license": "CC0",
-     "url": "https://www.inaturalist.org/photos/181347012",
+     "by": "Jeffrey H. Skevington",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/475423201",
      "source": "iNaturalist"
     }
    },
@@ -26859,22 +27034,22 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "no rights reserved",
-     "license": "CC0",
-     "url": "https://www.inaturalist.org/photos/181347077",
+     "by": "Adrien Mauss",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/55699721",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/thalassarche-melanophris-3.webp",
     "size": [
-     1100,
-     630
+     1000,
+     667
     ],
     "credit": {
-     "by": "Miguel A Mejias",
+     "by": "Martin Arregui",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/380104207",
+     "url": "https://www.inaturalist.org/photos/67620414",
      "source": "iNaturalist"
     }
    }
@@ -26883,6 +27058,7 @@ window.OCEAN_ANIMALS = [
   "order": "Procellariiformes",
   "family": "Diomedeidae",
   "ns": 1401,
+  "wikiEn": "https://en.wikipedia.org/wiki/Black-browed_albatross",
   "curated": true
  },
  {
@@ -26892,20 +27068,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De westelijke rotspinguïn, rotsspringer of geelkuifpinguïn is een pinguïnsoort die nauw verwant is aan de macaronipinguïn.",
   "facts": [
-   "Boven zijn ogen loopt een gele kuif die achter het oog als een pluim afhangt.",
-   "Hij is een relatief kleine kuifpinguïn.",
-   "Hij leeft van Kaap Hoorn tot de Falklandeilanden."
+   "Hij springt over rotsen en spleten, waar andere pinguïns glijden of klauteren: vandaar 'rotsspringer'.",
+   "Hij heeft gele wenkbrauwen die achter zijn rode ogen als pluimen afhangen.",
+   "Op zijn jachttochten is hij soms 15 uur achter elkaar weg."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Westelijke_rotspingu%C3%AFn",
   "img": "images/eudyptes-chrysocome.webp",
   "imgSize": [
    1400,
-   934
+   933
   ],
   "credit": {
-   "by": "no rights reserved",
-   "license": "CC0",
-   "url": "https://www.inaturalist.org/photos/279147961",
+   "by": "Chris",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/575773007",
    "source": "iNaturalist"
   },
   "obs": 9244,
@@ -26915,12 +27091,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/eudyptes-chrysocome.webp",
     "size": [
      1400,
-     934
+     933
     ],
     "credit": {
-     "by": "no rights reserved",
-     "license": "CC0",
-     "url": "https://www.inaturalist.org/photos/279147961",
+     "by": "Chris",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/575773007",
      "source": "iNaturalist"
     }
    },
@@ -26928,12 +27104,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/eudyptes-chrysocome-2.webp",
     "size": [
      1100,
-     786
+     825
     ],
     "credit": {
-     "by": "Brendan Ryan",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/106794932",
+     "by": "M. A. Naturalist",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/73293397",
      "source": "iNaturalist"
     }
    },
@@ -26941,12 +27117,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/eudyptes-chrysocome-3.webp",
     "size": [
      1100,
-     733
+     909
     ],
     "credit": {
-     "by": "Pablo Fraire",
+     "by": "Carlos Schmidtutz",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/259985471",
+     "url": "https://www.inaturalist.org/photos/98118016",
      "source": "iNaturalist"
     }
    }
@@ -26955,6 +27131,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sphenisciformes",
   "family": "Spheniscidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Western_rockhopper_penguin",
   "curated": true
  },
  {
@@ -26964,8 +27141,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "Wilsons stormvogeltje is een vogel uit de orde van de stormvogelachtigen.",
   "facts": [
-   "Hij weegt maar zo'n 40 gram.",
-   "Hij fladdert boven het water en tikt met zijn pootjes op het oppervlak.",
+   "Met 40 gram is hij het kleinste warmbloedige dier dat bij Antarctica broedt.",
+   "Hij zweeft op het briesje van de golven en tikt met zijn pootjes op het water.",
    "Bij gevaar spuugt hij maagolie naar zijn belager."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Wilsons_stormvogeltje",
@@ -27003,22 +27180,22 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Niall Perrins",
+     "by": "Oscar Thomas",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/206795524",
+     "url": "https://www.inaturalist.org/photos/332657636",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/oceanites-oceanicus-3.webp",
     "size": [
-     1024,
-     791
+     1100,
+     733
     ],
     "credit": {
-     "by": "Patrick Coin",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/17828",
+     "by": "no rights reserved",
+     "license": "CC0",
+     "url": "https://www.inaturalist.org/photos/260184919",
      "source": "iNaturalist"
     }
    }
@@ -27027,6 +27204,7 @@ window.OCEAN_ANIMALS = [
   "order": "Procellariiformes",
   "family": "Hydrobatidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Wilson%27s_storm_petrel",
   "curated": true
  },
  {
@@ -27036,20 +27214,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De zeekoet is een vogel uit de familie van alken.",
   "facts": [
-   "Ouders herkennen hun ei aan de tekening en hun jong aan zijn geluid.",
-   "Nog voor het kan vliegen springt het jong met zijn vader van de rotsen in zee.",
-   "Hij heeft een lange, puntige dolksnavel."
+   "Elk ei heeft een uniek patroon, zodat de ouders het hunne herkennen.",
+   "Het jong springt van de klif in zee voordat het kan vliegen en remt af door te fladderen.",
+   "Daarna zorgt papa op zee voor het jong."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zeekoet",
   "img": "images/uria-aalge.webp",
   "imgSize": [
    1400,
-   933
+   1000
   ],
   "credit": {
-   "by": "Diego González Dopico",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/498922599",
+   "by": "cassiia",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/328015637",
    "source": "iNaturalist"
   },
   "obs": 1638146,
@@ -27059,7 +27237,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/uria-aalge.webp",
     "size": [
      1400,
-     933
+     1000
+    ],
+    "credit": {
+     "by": "cassiia",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/328015637",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/uria-aalge-2.webp",
+    "size": [
+     1100,
+     733
     ],
     "credit": {
      "by": "Diego González Dopico",
@@ -27069,7 +27260,7 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/uria-aalge-2.webp",
+    "img": "images/uria-aalge-3.webp",
     "size": [
      1100,
      786
@@ -27080,25 +27271,13 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/349231658",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/uria-aalge-3.webp",
-    "size": [
-     1100,
-     734
-    ],
-    "credit": {
-     "by": "Jim Greenfield",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/59615301",
-     "source": "iNaturalist"
-    }
    }
   ],
   "thumb": "thumbs/uria-aalge.webp",
   "order": "Charadriiformes",
   "family": "Alcidae",
   "ns": 350740,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_murre",
   "curated": true
  },
  {
@@ -27108,9 +27287,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De zilvermeeuw is een grote meeuwensoort.",
   "facts": [
-   "Soms eet hij zoveel dat hij niet meer kan vliegen.",
-   "Hij legt meestal drie eieren.",
-   "In Den Haag werden in 2010 meeuweneieren vervangen door plastic nep-eieren."
+   "Hij trappelt met zijn poten op de grond om wormen naar boven te lokken.",
+   "Hij kan ultraviolet licht zien.",
+   "De oudst bekende zilvermeeuw werd 49 jaar."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zilvermeeuw",
   "img": "images/larus-argentatus.webp",
@@ -27143,13 +27322,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/larus-argentatus-2.webp",
     "size": [
-     1024,
-     1024
+     1100,
+     825
     ],
     "credit": {
-     "by": "Zac Peterson",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/112687953",
+     "by": "Настя Климова",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/177928584",
      "source": "iNaturalist"
     }
    },
@@ -27157,12 +27336,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/larus-argentatus-3.webp",
     "size": [
      1100,
-     1057
+     825
     ],
     "credit": {
-     "by": "Frédéric Blanchet",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/237013643",
+     "by": "emilyd47",
+     "license": "CC-BY-SA",
+     "url": "https://www.inaturalist.org/photos/83599788",
      "source": "iNaturalist"
     }
    }
@@ -27171,6 +27350,7 @@ window.OCEAN_ANIMALS = [
   "order": "Charadriiformes",
   "family": "Laridae",
   "ns": 365333,
+  "wikiEn": "https://en.wikipedia.org/wiki/European_herring_gull",
   "curated": true
  },
  {
@@ -27180,20 +27360,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De zuidelijke reuzenstormvogel is een vogel uit de familie van de stormvogels en pijlstormvogels.",
   "facts": [
-   "Met zijn enorme snavel scheurt hij de huid van aangespoelde walvissen open.",
-   "Hij eet eieren en kuikens in pinguïnkolonies.",
-   "Hij zoekt zijn voedsel vooral op het land."
+   "Hij heeft bijnamen als 'stinker' en 'stinkpot'.",
+   "Overtollig zout uit zeewater 'niest' hij uit via klieren boven zijn snavel.",
+   "Hij eet ook aas, zoals aangespoelde walvissen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zuidelijke_reuzenstormvogel",
   "img": "images/macronectes-giganteus.webp",
   "imgSize": [
    1400,
-   933
+   922
   ],
   "credit": {
-   "by": "eloise kerroux",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/356984160",
+   "by": "Ben Ackerley",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/706482918",
    "source": "iNaturalist"
   },
   "obs": 113547,
@@ -27203,12 +27383,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/macronectes-giganteus.webp",
     "size": [
      1400,
-     933
+     922
     ],
     "credit": {
-     "by": "eloise kerroux",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/356984160",
+     "by": "Ben Ackerley",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/706482918",
      "source": "iNaturalist"
     }
    },
@@ -27216,12 +27396,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/macronectes-giganteus-2.webp",
     "size": [
      1100,
-     688
+     718
     ],
     "credit": {
-     "by": "Christoph Moning",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/92985770",
+     "by": "Sebastián Lescano",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/182769507",
      "source": "iNaturalist"
     }
    },
@@ -27229,12 +27409,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/macronectes-giganteus-3.webp",
     "size": [
      1100,
-     733
+     619
     ],
     "credit": {
-     "by": "claudioveliz",
+     "by": "Pablo Balduvino",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/657684855",
+     "url": "https://www.inaturalist.org/photos/211277332",
      "source": "iNaturalist"
     }
    }
@@ -27243,6 +27423,7 @@ window.OCEAN_ANIMALS = [
   "order": "Procellariiformes",
   "family": "Procellariidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Southern_giant_petrel",
   "curated": true
  },
  {
@@ -27252,9 +27433,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De zwarte zeekoet is een vogel uit de familie van alken.",
   "facts": [
-   "Hij is een zeldzame wintergast langs de Nederlandse kust.",
-   "Er zijn naar schatting 0,4 tot 1,5 miljoen.",
-   "Hij is familie van de alken."
+   "Hij duikt tot minstens 43 meter diep.",
+   "Hij brengt zijn kuikens steeds maar één visje tegelijk.",
+   "Hij is een zeldzame wintergast langs de Nederlandse kust."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zwarte_zeekoet",
   "img": "images/cepphus-grylle.webp",
@@ -27288,12 +27469,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cepphus-grylle-2.webp",
     "size": [
      1100,
-     688
+     785
     ],
     "credit": {
-     "by": "Christoph Moning",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/95847947",
+     "by": "Jonny Andrews",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/185984750",
      "source": "iNaturalist"
     }
    },
@@ -27301,12 +27482,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cepphus-grylle-3.webp",
     "size": [
      1100,
-     874
+     734
     ],
     "credit": {
-     "by": "Catherine",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/73203216",
+     "by": "Thorsten Stegmann",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/638204068",
      "source": "iNaturalist"
     }
    }
@@ -27315,6 +27496,7 @@ window.OCEAN_ANIMALS = [
   "order": "Charadriiformes",
   "family": "Alcidae",
   "ns": 15880,
+  "wikiEn": "https://en.wikipedia.org/wiki/Black_guillemot",
   "curated": true
  },
  {
@@ -27324,20 +27506,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zeevogels",
   "intro": "De zwartvoetpinguïn of brilpinguïn is een vogel uit de familie van de pinguïns.",
   "facts": [
-   "Hij is de enige pinguïn die in Afrika broedt.",
-   "Boven zijn ogen heeft hij een naakte roze vlek.",
-   "Onder water zwemt hij tot 20 kilometer per uur."
+   "Elk heeft een eigen patroon van zwarte stippen op de borst, als een vingerafdruk.",
+   "De roze vlek boven zijn ogen kleurt feller als hij het warm heeft.",
+   "Het is de enige pinguïn die in Afrika broedt."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zwartvoetpingu%C3%AFn",
   "img": "images/spheniscus-demersus.webp",
   "imgSize": [
    1400,
-   933
+   934
   ],
   "credit": {
-   "by": "gillbsydney",
+   "by": "René Hodges",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/88160952",
+   "url": "https://www.inaturalist.org/photos/68384904",
    "source": "iNaturalist"
   },
   "obs": 16161,
@@ -27347,12 +27529,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/spheniscus-demersus.webp",
     "size": [
      1400,
-     933
+     934
     ],
     "credit": {
-     "by": "gillbsydney",
+     "by": "René Hodges",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/88160952",
+     "url": "https://www.inaturalist.org/photos/68384904",
      "source": "iNaturalist"
     }
    },
@@ -27365,7 +27547,7 @@ window.OCEAN_ANIMALS = [
     "credit": {
      "by": "Rémi Cardinael",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/37529675",
+     "url": "https://www.inaturalist.org/photos/37529473",
      "source": "iNaturalist"
     }
    },
@@ -27373,12 +27555,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/spheniscus-demersus-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Phillip Nieuwoudt",
+     "by": "Chris",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/499971241",
+     "url": "https://www.inaturalist.org/photos/579659294",
      "source": "iNaturalist"
     }
    }
@@ -27387,6 +27569,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sphenisciformes",
   "family": "Spheniscidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/African_penguin",
   "curated": true
  },
  {
@@ -27396,9 +27579,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De Atlantische vlekdolfijn of de Atlantische gevlekte dolfijn is een dolfijnensoort die in de golfstroom van de noordelijke Atlantische Oceaan leeft.",
   "facts": [
-   "Jonge dolfijnen hebben nog geen vlekken.",
-   "De vlekken komen er met de jaren bij.",
-   "Hij leeft in groepen."
+   "Ze worden zonder vlekken geboren; de vlekken komen er pas met de jaren bij, in vier 'leeftijdsfases'.",
+   "Ze jagen 's nachts in teamverband op vis.",
+   "Bij de Bahama's zijn sommige zo gewend aan mensen dat ze gewoon met snorkelaars meezwemmen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Atlantische_vlekdolfijn",
   "img": "images/stenella-frontalis.webp",
@@ -27432,12 +27615,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/stenella-frontalis-2.webp",
     "size": [
      1100,
-     733
+     947
     ],
     "credit": {
-     "by": "whale_nerd",
+     "by": "Mikie Green",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/122330623",
+     "url": "https://www.inaturalist.org/photos/461275013",
      "source": "iNaturalist"
     }
    },
@@ -27445,12 +27628,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/stenella-frontalis-3.webp",
     "size": [
      1100,
-     877
+     734
     ],
     "credit": {
-     "by": "zuemyrangel",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/51048043",
+     "by": "William Stephens",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/534552623",
      "source": "iNaturalist"
     }
    }
@@ -27459,6 +27642,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_spotted_dolphin",
   "curated": true
  },
  {
@@ -27468,9 +27652,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De Australische zeeleeuw is een zeeroofdier uit de familie der oorrobben.",
   "facts": [
-   "Mannetjes zijn veel groter dan vrouwtjes en hebben manen.",
-   "Hij eet vissen, inktvissen en zelfs haaien en roggen.",
-   "Een moeder herkent haar jong aan zijn unieke roep."
+   "Het is de enige zeehondachtige die alleen in Australië voorkomt.",
+   "Bij noodweer trekken ze soms landinwaarts: tot wel 9,4 kilometer van de zee!",
+   "Ze zijn nieuwsgierig en speels, maar hun beet kan je in het ziekenhuis doen belanden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Australische_zeeleeuw",
   "img": "images/neophoca-cinerea.webp",
@@ -27503,13 +27687,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/neophoca-cinerea-2.webp",
     "size": [
-     1100,
-     851
+     1024,
+     878
     ],
     "credit": {
-     "by": "J. Martin Crossley",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/475550998",
+     "by": "Rick",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/121891673",
      "source": "iNaturalist"
     }
    },
@@ -27517,12 +27701,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/neophoca-cinerea-3.webp",
     "size": [
      1100,
-     733
+     734
     ],
     "credit": {
-     "by": "John Bromilow",
+     "by": "nlarghi",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/422530380",
+     "url": "https://www.inaturalist.org/photos/604662934",
      "source": "iNaturalist"
     }
    }
@@ -27531,6 +27715,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Otariidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Australian_sea_lion",
   "curated": true
  },
  {
@@ -27540,20 +27725,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De baardrob is een zeehondachtige uit de familie Phocidae.",
   "facts": [
-   "Hij dankt zijn naam aan zijn lange snorharen, waarmee hij prooien opspoort.",
-   "Met zijn stevige kop breekt hij van onderen gaten in het ijs.",
-   "Hij ligt vaak met zijn gezicht naar het water, om te kunnen vluchten voor ijsberen."
+   "Zijn onderwater-'liedjes' zijn tientallen kilometers ver te horen; mannetjes zingen om indruk te maken.",
+   "Pups gaan al een paar uur na hun geboorte het water in.",
+   "Hij is zelfs een paar keer langs de Nederlandse kust gezien, ver buiten het poolgebied."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Baardrob",
   "img": "images/erignathus-barbatus.webp",
   "imgSize": [
    1400,
-   876
+   934
   ],
   "credit": {
-   "by": "Christoph Moning",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/60365075",
+   "by": "C Yasuda",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/122593565",
    "source": "iNaturalist"
   },
   "obs": 19461,
@@ -27563,12 +27748,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/erignathus-barbatus.webp",
     "size": [
      1400,
-     876
+     934
     ],
     "credit": {
-     "by": "Christoph Moning",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/60365075",
+     "by": "C Yasuda",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/122593565",
      "source": "iNaturalist"
     }
    },
@@ -27579,9 +27764,9 @@ window.OCEAN_ANIMALS = [
      734
     ],
     "credit": {
-     "by": "C Yasuda",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/122593565",
+     "by": "Allan Hopkins",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/1085013",
      "source": "iNaturalist"
     }
    },
@@ -27589,12 +27774,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/erignathus-barbatus-3.webp",
     "size": [
      1100,
-     736
+     733
     ],
     "credit": {
-     "by": "Herschel Island-Qikiqtaruk",
+     "by": "Branly",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/58337548",
+     "url": "https://www.inaturalist.org/photos/579217882",
      "source": "iNaturalist"
     }
    }
@@ -27603,6 +27788,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Phocidae",
   "ns": 12,
+  "wikiEn": "https://en.wikipedia.org/wiki/Bearded_seal",
   "curated": true
  },
  {
@@ -27612,9 +27798,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De bandrob is een zeehondensoort uit de familie Phocidae.",
   "facts": [
-   "Hij dankt zijn naam aan de witte banden op zijn donkere vacht.",
-   "Hij kan bijna een half uur onder water blijven.",
-   "Hij heeft een luchtzak in zijn borst, waarvan de functie nog onbekend is."
+   "Hij heeft vier opvallende witte ringen op een donkere vacht, alsof hij in een lint gewikkeld is.",
+   "Dat streepjespatroon verschijnt pas als hij vier jaar oud is.",
+   "Hij is zo weinig bang dat boten heel dichtbij kunnen komen voordat hij wegduikt."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Bandrob",
   "img": "images/histriophoca-fasciata.webp",
@@ -27647,13 +27833,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/histriophoca-fasciata-2.webp",
     "size": [
-     1100,
-     734
+     1000,
+     750
     ],
     "credit": {
-     "by": "no rights reserved",
-     "license": "CC0",
-     "url": "https://www.inaturalist.org/photos/258216018",
+     "by": "Adam",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/77842824",
      "source": "iNaturalist"
     }
    },
@@ -27661,12 +27847,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/histriophoca-fasciata-3.webp",
     "size": [
      1100,
-     786
+     734
     ],
     "credit": {
-     "by": "jomilo75",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/79876",
+     "by": "no rights reserved",
+     "license": "CC0",
+     "url": "https://www.inaturalist.org/photos/258216041",
      "source": "iNaturalist"
     }
    }
@@ -27675,6 +27861,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Phocidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Ribbon_seal",
   "curated": true
  },
  {
@@ -27684,20 +27871,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De blauwe vinvis is een baleinwalvis uit de familie van de vinvissen.",
   "facts": [
-   "Hij kan meer dan 30 meter lang en zo'n 170 ton zwaar worden.",
-   "Zijn hart kan 900 kilo wegen, zo groot als een kleine auto.",
-   "Een kalf drinkt tot 370 liter melk per dag."
+   "Eén hap krill levert hem tot 240 keer meer energie op dan de hap hem kost.",
+   "Diep onder water vertraagt zijn hart tot maar 2 slagen per minuut.",
+   "De oudste blauwe vinvis die ooit is onderzocht, was 110 jaar oud."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Blauwe_vinvis",
   "img": "images/balaenoptera-musculus.webp",
   "imgSize": [
    1400,
-   970
+   628
   ],
   "credit": {
-   "by": "NOAA Photo Library",
-   "license": "PD",
-   "url": "https://www.inaturalist.org/photos/48765179",
+   "by": "azure27014",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/136988876",
    "source": "iNaturalist"
   },
   "obs": 31572,
@@ -27707,7 +27894,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/balaenoptera-musculus.webp",
     "size": [
      1400,
-     970
+     628
+    ],
+    "credit": {
+     "by": "azure27014",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/136988876",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/balaenoptera-musculus-2.webp",
+    "size": [
+     1100,
+     762
     ],
     "credit": {
      "by": "NOAA Photo Library",
@@ -27717,28 +27917,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/balaenoptera-musculus-2.webp",
-    "size": [
-     1100,
-     736
-    ],
-    "credit": {
-     "by": "David Slater",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/184281545",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/balaenoptera-musculus-3.webp",
     "size": [
      1100,
-     649
+     672
     ],
     "credit": {
-     "by": "Robin Gwen Agarwal",
+     "by": "steve3rivers",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/3801231",
+     "url": "https://www.inaturalist.org/photos/610949536",
      "source": "iNaturalist"
     }
    }
@@ -27747,6 +27934,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Balaenopteridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Blue_whale",
   "curated": true
  },
  {
@@ -27756,20 +27944,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De bruinvis, vroeger ook vaak water- of zeevarken genoemd, is een zoogdier uit de onderorde der tandwalvissen.",
   "facts": [
-   "Hij is geen vis en niet bruin: vroeger heette alles in zee 'vis' en alle grauwe kleuren 'bruin'.",
-   "Hij wordt ongeveer 1,5 meter lang.",
-   "Haaien en orka's zijn zijn grootste vijanden."
+   "Een bruinvis eet tot 550 visjes per uur, en hij vangt 90% van de vissen waar hij op jaagt.",
+   "Hij slaapt waarschijnlijk met één helft van zijn hersenen, terwijl hij rustig doorzwemt.",
+   "Hij is geen vis en ook niet bruin: vroeger heette alles in zee 'vis' en alle grauwe kleuren 'bruin'."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Bruinvis",
   "img": "images/phocoena-phocoena.webp",
   "imgSize": [
    1400,
-   930
+   972
   ],
   "credit": {
-   "by": "Ecomare/Salko de Wolf     Den Hoorn Texel",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/612727622",
+   "by": "likebirds214",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/317123618",
    "source": "iNaturalist"
   },
   "obs": 795655,
@@ -27779,12 +27967,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/phocoena-phocoena.webp",
     "size": [
      1400,
-     930
+     972
     ],
     "credit": {
-     "by": "Ecomare/Salko de Wolf     Den Hoorn Texel",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/612727622",
+     "by": "likebirds214",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/317123618",
      "source": "iNaturalist"
     }
    },
@@ -27792,25 +27980,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/phocoena-phocoena-2.webp",
     "size": [
      1100,
-     736
+     733
     ],
     "credit": {
-     "by": "Erik Christensen",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/105623448",
+     "by": "Gabi Rusu",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/500491015",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/phocoena-phocoena-3.webp",
     "size": [
-     1038,
-     690
+     1100,
+     733
     ],
     "credit": {
-     "by": "Tuugaalik",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/105623378",
+     "by": "Tobias S. Radmer",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/434344425",
      "source": "iNaturalist"
     }
    }
@@ -27819,6 +28007,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Phocoenidae",
   "ns": 55902,
+  "wikiEn": "https://en.wikipedia.org/wiki/Harbour_porpoise",
   "curated": true
  },
  {
@@ -27828,9 +28017,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De bultrug, ook wel bultrugwalvis genoemd, is een zeezoogdier uit de parvorde van de baleinwalvissen.",
   "facts": [
-   "Zijn borstvinnen zijn de langste ledematen in het dierenrijk, tot zo'n 5,5 meter.",
-   "Hij kan 40 ton wegen.",
-   "Hij duikt tot 200 meter diep en blijft soms een half uur onder water."
+   "Zijn borstvinnen zijn de langste ledematen in het dierenrijk: tot 5,5 meter.",
+   "De oudst bekende bultrug werd 95 jaar.",
+   "Mannetjes zingen lange liederen die heel ver door de oceaan reizen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Bultrug",
   "img": "images/megaptera-novaeangliae.webp",
@@ -27864,12 +28053,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/megaptera-novaeangliae-2.webp",
     "size": [
      1100,
-     734
+     733
     ],
     "credit": {
-     "by": "owl1031",
+     "by": "Tobin Sparling (he/him)",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/154155978",
+     "url": "https://www.inaturalist.org/photos/337668260",
      "source": "iNaturalist"
     }
    },
@@ -27877,12 +28066,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/megaptera-novaeangliae-3.webp",
     "size": [
      1100,
-     825
+     744
     ],
     "credit": {
-     "by": "James Maughn",
+     "by": "Wayne and Pam Osborn",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/330290531",
+     "url": "https://www.inaturalist.org/photos/254499834",
      "source": "iNaturalist"
     }
    }
@@ -27891,6 +28080,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Balaenopteridae",
   "ns": 1072,
+  "wikiEn": "https://en.wikipedia.org/wiki/Humpback_whale",
   "curated": true
  },
  {
@@ -27900,9 +28090,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De Californische bruinvis of vaquita is een soort bruinvis.",
   "facts": [
-   "Er zouden er nog maar zo'n tien in leven zijn.",
-   "Het is de kleinste bruinvis en een van de kleinste walvisachtigen.",
-   "Hij weegt maximaal zo'n 50 kilo."
+   "Hij is de kleinste walvisachtige ter wereld.",
+   "Er zijn er nog maar zo'n tien over.",
+   "Hij verdrinkt in netten van stropers die jagen op een vis waarvan de zwemblaas 'de cocaïne van de zee' wordt genoemd."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Californische_bruinvis",
   "img": "images/phocoena-sinus.webp",
@@ -27944,25 +28134,13 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/13154800",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/phocoena-sinus-3.webp",
-    "size": [
-     1100,
-     614
-    ],
-    "credit": {
-     "by": "Alfokrads",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/209711467",
-     "source": "iNaturalist"
-    }
    }
   ],
   "thumb": "thumbs/phocoena-sinus.webp",
   "order": "Cetacea",
   "family": "Phocoenidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Vaquita",
   "curated": true
  },
  {
@@ -27972,20 +28150,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De Californische zeeleeuw is een zeeleeuw die voorkomt langs de Pacifische kust van Noord-Amerika.",
   "facts": [
-   "Hij zwemt tot bijna 30 kilometer per uur.",
-   "Hij kan 137 meter diep duiken.",
-   "Hij brengt het grootste deel van zijn tijd slapend door."
+   "Zeeleeuw Ronan kon met haar kop precies op de maat van muziek meebewegen: iets wat men alleen van mensen en papegaaien kende.",
+   "De Amerikaanse marine trainde ze om een klem aan het been van indringende duikers vast te maken.",
+   "Ze jagen soms samen met dolfijnen en zeevogels op scholen vis."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Californische_zeeleeuw",
   "img": "images/zalophus-californianus.webp",
   "imgSize": [
    1400,
-   1050
+   933
   ],
   "credit": {
-   "by": "Liam Steele",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/116893690",
+   "by": "Luis P. B.",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/361047442",
    "source": "iNaturalist"
   },
   "obs": 46346,
@@ -27995,12 +28173,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/zalophus-californianus.webp",
     "size": [
      1400,
-     1050
+     933
     ],
     "credit": {
-     "by": "Liam Steele",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/116893690",
+     "by": "Luis P. B.",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/361047442",
      "source": "iNaturalist"
     }
    },
@@ -28011,9 +28189,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Ruben Undheim",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/113737457",
+     "by": "Luis P. B.",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/361047459",
      "source": "iNaturalist"
     }
    },
@@ -28021,12 +28199,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/zalophus-californianus-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "James Maughn",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/348827815",
+     "url": "https://www.inaturalist.org/photos/315137890",
      "source": "iNaturalist"
     }
    }
@@ -28035,6 +28213,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Otariidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/California_sea_lion",
   "curated": true
  },
  {
@@ -28044,9 +28223,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De Caribische lamantijn is een lamantijn en het grootste lid van de aquatische zoogdierenorde Sirenia, de zeekoeien.",
   "facts": [
-   "Hij kan in het water salto's maken.",
-   "Een grote lamantijn eet bijna 100 kilo zeegras per dag.",
-   "Door zijn dunne vetlaag kan hij alleen in warme gebieden leven."
+   "Zijn kiezen schuiven als een lopende band naar voren en vallen er dan uit; achteraan groeien nieuwe.",
+   "Lamantijnen kunnen elkaars stem herkennen.",
+   "Ze kunnen salto's maken in het water."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Caribische_lamantijn",
   "img": "images/trichechus-manatus.webp",
@@ -28083,9 +28262,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Phil's 1stPix",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/77798574",
+     "by": "Robin White",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/186967568",
      "source": "iNaturalist"
     }
    },
@@ -28096,9 +28275,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "ungerlord",
+     "by": "Phil's 1stPix",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/173261823",
+     "url": "https://www.inaturalist.org/photos/69560848",
      "source": "iNaturalist"
     }
    }
@@ -28107,6 +28286,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sirenia",
   "family": "Trichechidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/West_Indian_manatee",
   "curated": true
  },
  {
@@ -28116,8 +28296,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De Chinese witte dolfijn of Chinese sousa is een soort dolfijn.",
   "facts": [
-   "Veel exemplaren zijn helemaal wit of zelfs rozewit.",
-   "Zijn lange, slanke bek bevat zo'n 120 tanden.",
+   "Zijn roze kleur komt niet van pigment, maar van bloedvaten vlak onder zijn huid.",
+   "Een moeder blijft bij haar kalf tot het 3 à 4 jaar oud is.",
    "Bij het zwemmen steekt hij eerst zijn snuit of hele kop boven water."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Chinese_witte_dolfijn",
@@ -28152,12 +28332,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sousa-chinensis-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "吳政翰",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/33119005",
+     "by": "rainyang",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/435036509",
      "source": "iNaturalist"
     }
    },
@@ -28165,12 +28345,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/sousa-chinensis-3.webp",
     "size": [
      1100,
-     523
+     731
     ],
     "credit": {
-     "by": "Bennett Gardner",
+     "by": "momo_sara",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/108405913",
+     "url": "https://www.inaturalist.org/photos/54344344",
      "source": "iNaturalist"
     }
    }
@@ -28179,6 +28359,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Indo-Pacific_humpback_dolphin",
   "curated": true
  },
  {
@@ -28188,20 +28369,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De Dalls bruinvis of Dall-bruinvis is een soort bruinvis.",
   "facts": [
-   "Hij zwemt vlak onder het wateroppervlak met zo'n 55 kilometer per uur.",
-   "Hij weegt 130 tot 200 kilo.",
-   "De grootste groep leeft in de Zee van Ochotsk."
+   "Hij is de grootste bruinvis ter wereld.",
+   "Hij zwemt meestal vlak onder het oppervlak, met zo'n 55 kilometer per uur.",
+   "Eén Dalls bruinvis zwom in 1984 maandenlang mee met een groep orka's."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Dalls_bruinvis",
   "img": "images/phocoenoides-dalli.webp",
   "imgSize": [
-   1400,
-   935
+   1265,
+   751
   ],
   "credit": {
-   "by": "Alex Lamoreaux",
+   "by": "Travis Nolan",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/22713235",
+   "url": "https://www.inaturalist.org/photos/551635115",
    "source": "iNaturalist"
   },
   "obs": 10215,
@@ -28210,8 +28391,21 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/phocoenoides-dalli.webp",
     "size": [
-     1400,
-     935
+     1265,
+     751
+    ],
+    "credit": {
+     "by": "Travis Nolan",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/551635115",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/phocoenoides-dalli-2.webp",
+    "size": [
+     1100,
+     735
     ],
     "credit": {
      "by": "Alex Lamoreaux",
@@ -28221,28 +28415,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/phocoenoides-dalli-2.webp",
-    "size": [
-     1100,
-     825
-    ],
-    "credit": {
-     "by": "Lili Hartounian",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/127742519",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/phocoenoides-dalli-3.webp",
     "size": [
      1100,
-     733
+     619
     ],
     "credit": {
-     "by": "Donna Pomeroy",
+     "by": "Travis Nolan",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/2124184",
+     "url": "https://www.inaturalist.org/photos/551635136",
      "source": "iNaturalist"
     }
    }
@@ -28251,6 +28432,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Phocoenidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Dall%27s_porpoise",
   "curated": true
  },
  {
@@ -28260,20 +28442,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De doejong of Indische zeekoe is de meest aan het leven in de zee aangepaste zeekoe.",
   "facts": [
-   "Zijn naam komt van het Maleise 'duyung': zeemeermin.",
-   "Hij eet de bladeren en wortels van zeegras.",
-   "In 2022 werd hij in China uitgestorven verklaard."
+   "Zijn naam komt van het Maleise 'duyung': zeemeermin. Doejongs zouden de mythe van zeemeerminnen hebben geïnspireerd.",
+   "Samen met de lamantijnen is hij het enige zeezoogdier dat alleen planten eet.",
+   "De oudst bekende doejong werd 73 jaar."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Doejong",
   "img": "images/dugong-dugon.webp",
   "imgSize": [
    1400,
-   933
+   1050
   ],
   "credit": {
-   "by": "Lord Mountbatten",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/50639803",
+   "by": "boussion_magali",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/711266185",
    "source": "iNaturalist"
   },
   "obs": 30607,
@@ -28283,12 +28465,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dugong-dugon.webp",
     "size": [
      1400,
-     933
+     1050
     ],
     "credit": {
-     "by": "Lord Mountbatten",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/50639803",
+     "by": "boussion_magali",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/711266185",
      "source": "iNaturalist"
     }
    },
@@ -28296,12 +28478,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dugong-dugon-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "Ivan Samra",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/415728141",
+     "url": "https://www.inaturalist.org/photos/49026381",
      "source": "iNaturalist"
     }
    },
@@ -28309,12 +28491,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/dugong-dugon-3.webp",
     "size": [
      1100,
-     733
+     619
     ],
     "credit": {
-     "by": "Luis P. B.",
+     "by": "madgeographic",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/189598291",
+     "url": "https://www.inaturalist.org/photos/163258305",
      "source": "iNaturalist"
     }
    }
@@ -28323,6 +28505,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sirenia",
   "family": "Dugongidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Dugong",
   "curated": true
  },
  {
@@ -28332,20 +28515,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De dolfijn van Cuvier, Ziphius cavirostris, is een walvisachtige uit de familie der spitssnuitdolfijnen, Ziphiidae.",
   "facts": [
-   "Hij is een kampioen diepduiken: gemeten tot bijna 3000 meter diep.",
-   "Eén exemplaar bleef 3 uur en 42 minuten onder water.",
-   "Hij heeft maar twee tanden, op het puntje van zijn onderkaak."
+   "Hij is wereldkampioen duiken onder de zoogdieren: tot bijna 3000 meter diep.",
+   "Hij hield één keer zijn adem 3 uur en 42 minuten in!",
+   "Alleen volwassen mannetjes hebben zichtbare tanden: twee stuks, op het puntje van de onderkaak."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Dolfijn_van_Cuvier",
   "img": "images/ziphius-cavirostris.webp",
   "imgSize": [
    1400,
-   933
+   1050
   ],
   "credit": {
-   "by": "Charlotte Kirchner",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/45358353",
+   "by": "ifonu",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/531435769",
    "source": "iNaturalist"
   },
   "obs": 11848,
@@ -28355,12 +28538,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/ziphius-cavirostris.webp",
     "size": [
      1400,
-     933
+     1050
     ],
     "credit": {
-     "by": "Charlotte Kirchner",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/45358353",
+     "by": "ifonu",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/531435769",
      "source": "iNaturalist"
     }
    },
@@ -28371,9 +28554,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Silver Leapers",
+     "by": "Charlotte Kirchner",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/202164336",
+     "url": "https://www.inaturalist.org/photos/45358080",
      "source": "iNaturalist"
     }
    },
@@ -28381,12 +28564,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/ziphius-cavirostris-3.webp",
     "size": [
      1100,
-     733
+     619
     ],
     "credit": {
-     "by": "bev435",
+     "by": "Brendan Murtha",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/205043870",
+     "url": "https://www.inaturalist.org/photos/487697161",
      "source": "iNaturalist"
     }
    }
@@ -28395,6 +28578,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Hyperoodontidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Cuvier%27s_beaked_whale",
   "curated": true
  },
  {
@@ -28404,20 +28588,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De donkergestreepte dolfijn of bonte dolfijn is een klein tot middelgroot soort dolfijn uit de gematigde en koele kustwateren van het zuidelijk halfrond.",
   "facts": [
-   "Hij leeft in koele kustwateren op het zuidelijk halfrond.",
-   "Hij wordt 1,6 tot 2,2 meter lang.",
-   "Omdat hij op scholen vis jaagt, belandt hij vaak in visnetten."
+   "Hij is een acrobaat: hij maakt salto's en schroeven boven het water.",
+   "Jonge dolfijnen leren de sprongen in een vaste volgorde: eerst plonsen, de ingewikkelde salto's pas als laatste.",
+   "Ze werken samen om scholen vis bij elkaar te drijven."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Donkergestreepte_dolfijn",
   "img": "images/lagenorhynchus-obscurus.webp",
   "imgSize": [
    1400,
-   937
+   933
   ],
   "credit": {
-   "by": "NOAA Photo Library",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/1183970",
+   "by": "kbanning94",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/536857918",
    "source": "iNaturalist"
   },
   "obs": 1102,
@@ -28427,12 +28611,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lagenorhynchus-obscurus.webp",
     "size": [
      1400,
-     937
+     933
     ],
     "credit": {
-     "by": "NOAA Photo Library",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/1183970",
+     "by": "kbanning94",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/536857918",
      "source": "iNaturalist"
     }
    },
@@ -28440,12 +28624,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lagenorhynchus-obscurus-2.webp",
     "size": [
      1100,
-     736
+     707
     ],
     "credit": {
-     "by": "NOAA Photo Library",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/1183971",
+     "by": "martinmoscovich",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/83048676",
      "source": "iNaturalist"
     }
    },
@@ -28453,12 +28637,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lagenorhynchus-obscurus-3.webp",
     "size": [
      1100,
-     734
+     733
     ],
     "credit": {
-     "by": "Victoria Hoete-Dodd",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/4971505",
+     "by": "kbanning94",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/536857924",
      "source": "iNaturalist"
     }
    }
@@ -28467,6 +28651,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Dusky_dolphin",
   "curated": true
  },
  {
@@ -28476,20 +28661,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De dwergpotvis is een tandwalvis uit de familie der dwergpotvissen.",
   "facts": [
-   "Hij lijkt op een potvis, maar is maar zo'n drie meter lang.",
-   "Hij jaagt op inktvissen, diepzeevissen, krabben en garnalen.",
-   "Bijna alles wat we van hem weten, komt van gestrande dieren."
+   "Bij schrik spuit hij een rode wolk uit, net als een inktvis.",
+   "In zijn hersenen zitten magnetische kristallen: misschien navigeert hij met het aardmagnetisch veld.",
+   "Hij maakt geluid met een orgaan dat 'apensnuit' heet."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Dwergpotvis",
   "img": "images/kogia-breviceps.webp",
   "imgSize": [
    1400,
-   1050
+   1120
   ],
   "credit": {
-   "by": "Peter Crowcroft",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/6017365",
+   "by": "Sergio Martínez",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/198282116",
    "source": "iNaturalist"
   },
   "obs": 5035,
@@ -28499,12 +28684,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/kogia-breviceps.webp",
     "size": [
      1400,
-     1050
+     1120
     ],
     "credit": {
-     "by": "Peter Crowcroft",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/6017365",
+     "by": "Sergio Martínez",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/198282116",
      "source": "iNaturalist"
     }
    },
@@ -28512,12 +28697,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/kogia-breviceps-2.webp",
     "size": [
      1100,
-     732
+     733
     ],
     "credit": {
-     "by": "Martina Nolte",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/66924863",
+     "by": "DiGua Su",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/720129275",
      "source": "iNaturalist"
     }
    },
@@ -28525,12 +28710,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/kogia-breviceps-3.webp",
     "size": [
      1100,
-     734
+     733
     ],
     "credit": {
-     "by": "Tersia",
+     "by": "DiGua Su",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/67586165",
+     "url": "https://www.inaturalist.org/photos/720129259",
      "source": "iNaturalist"
     }
    }
@@ -28539,6 +28724,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Kogiidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Pygmy_sperm_whale",
   "curated": true
  },
  {
@@ -28548,20 +28734,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De dwergvinvis is een in zee levend zoogdier dat hoort tot de parvorde van baleinwalvissen.",
   "facts": [
-   "Hij wordt gemiddeld 7 tot 7,5 meter lang.",
-   "Hij kan 60 jaar oud worden.",
-   "Een pasgeboren kalf weegt zo'n 450 kilo."
+   "Hij is de kleinste vinvis.",
+   "Als orka's hem achtervolgen, zwemt hij ze in open water gewoon voorbij.",
+   "Eén dwergvinvis die op het strand vastzat, liet zich met de vloed weer drijven en zwom weg."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Dwergvinvis",
   "img": "images/balaenoptera-acutorostrata.webp",
   "imgSize": [
    1400,
-   1050
+   851
   ],
   "credit": {
-   "by": "Nils",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/2901229",
+   "by": "Wayne and Pam Osborn",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/255459537",
    "source": "iNaturalist"
   },
   "obs": 268095,
@@ -28571,12 +28757,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/balaenoptera-acutorostrata.webp",
     "size": [
      1400,
-     1050
+     851
     ],
     "credit": {
-     "by": "Nils",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/2901229",
+     "by": "Wayne and Pam Osborn",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/255459537",
      "source": "iNaturalist"
     }
    },
@@ -28584,12 +28770,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/balaenoptera-acutorostrata-2.webp",
     "size": [
      1100,
-     880
+     825
     ],
     "credit": {
-     "by": "finsandphotography",
+     "by": "bretthartl",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/629025000",
+     "url": "https://www.inaturalist.org/photos/536411497",
      "source": "iNaturalist"
     }
    },
@@ -28611,6 +28797,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Balaenopteridae",
   "ns": 2195,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_minke_whale",
   "curated": true
  },
  {
@@ -28620,9 +28807,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "Edens vinvis of Edens walvis is een walvis uit de familie vinvissen.",
   "facts": [
-   "Hij wordt 9 tot 12 meter lang en weegt 16 tot 25 ton.",
-   "Hij kan plotseling versnellen, vertragen of van richting veranderen.",
-   "Hij komt vooral voor bij Indonesië en de Filipijnen."
+   "Een mysterieus geluid uit de Marianen, de 'biotwang', bleek in 2024 van deze walvis te komen.",
+   "Soms maakt hij korte geluiden die klinken als een kreunende mens.",
+   "Hij kan plotseling versnellen, vertragen of van richting veranderen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Edens_vinvis",
   "img": "images/balaenoptera-edeni.webp",
@@ -28651,12 +28838,39 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/50305700",
      "source": "iNaturalist"
     }
+   },
+   {
+    "img": "images/balaenoptera-edeni-2.webp",
+    "size": [
+     1100,
+     733
+    ],
+    "credit": {
+     "by": "David Bell",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/61044016",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/balaenoptera-edeni-3.webp",
+    "size": [
+     1100,
+     825
+    ],
+    "credit": {
+     "by": "Simon Pierce",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/224044685",
+     "source": "iNaturalist"
+    }
    }
   ],
   "thumb": "thumbs/balaenoptera-edeni.webp",
   "order": "Cetacea",
   "family": "Balaenopteridae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Balaenoptera_edeni",
   "curated": true
  },
  {
@@ -28666,9 +28880,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De galapagoszeeleeuw is een zeeleeuwensoort die uitsluitend voorkomt op de Galapagoseilanden en Isla de la Plata.",
   "facts": [
-   "Hij leeft alleen op de Galapagoseilanden en Isla de la Plata.",
-   "Hij blaft luid en speelt graag in de branding.",
-   "Hij is een grote toeristenattractie."
+   "Ze jagen in groepen op tonijn en drijven die een rotsinham in, soms zelfs het land op.",
+   "Een moeder herkent het blafje van haar pup tussen dertig andere blaffende zeeleeuwen.",
+   "Ze hebben geleerd te jagen in het licht van vissersboten."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Galapagoszeeleeuw",
   "img": "images/zalophus-wollebaeki.webp",
@@ -28702,12 +28916,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/zalophus-wollebaeki-2.webp",
     "size": [
      1100,
-     825
+     734
     ],
     "credit": {
-     "by": "Line Juul Nielsen",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/174545719",
+     "by": "Steve Harbula",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/58088734",
      "source": "iNaturalist"
     }
    },
@@ -28715,12 +28929,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/zalophus-wollebaeki-3.webp",
     "size": [
      1100,
-     792
+     880
     ],
     "credit": {
-     "by": "John G. Phillips",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/108443319",
+     "by": "zimmwisdom",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/228826176",
      "source": "iNaturalist"
     }
    }
@@ -28729,6 +28943,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Otariidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_sea_lion",
   "curated": true
  },
  {
@@ -28738,20 +28953,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De gestreepte dolfijn is een dolfijn uit het geslacht Stenella.",
   "facts": [
-   "Van zijn oog lopen donkerblauwe strepen naar zijn borstvin en staart.",
-   "Groepen kunnen samensmelten tot zo'n drieduizend dolfijnen.",
-   "Met echolocatie jaagt hij tot 200 meter diep op lantaarnvissen."
+   "Hij springt hoog boven het water en is een echte acrobaat.",
+   "In de Stille Oceaan noemen ze hem 'streaker', omdat hij razendsnel wegschiet van boten.",
+   "Hij duikt tot 700 meter diep om te jagen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gestreepte_dolfijn",
   "img": "images/stenella-coeruleoalba.webp",
   "imgSize": [
-   1400,
-   927
+   1111,
+   740
   ],
   "credit": {
-   "by": "Sergio Martínez",
+   "by": "Luca Boscain",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/9394147",
+   "url": "https://www.inaturalist.org/photos/137862485",
    "source": "iNaturalist"
   },
   "obs": 41550,
@@ -28760,26 +28975,39 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/stenella-coeruleoalba.webp",
     "size": [
-     1400,
-     927
+     1111,
+     740
     ],
     "credit": {
-     "by": "Sergio Martínez",
+     "by": "Luca Boscain",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/9394147",
+     "url": "https://www.inaturalist.org/photos/137862485",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/stenella-coeruleoalba-2.webp",
     "size": [
-     860,
-     578
+     1100,
+     734
     ],
     "credit": {
-     "by": "Alfiero Brisotto",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/66285",
+     "by": "Remy DUBAS",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/165801708",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/stenella-coeruleoalba-3.webp",
+    "size": [
+     1100,
+     719
+    ],
+    "credit": {
+     "by": "gabmot",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/409216726",
      "source": "iNaturalist"
     }
    }
@@ -28788,6 +29016,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 66,
+  "wikiEn": "https://en.wikipedia.org/wiki/Striped_dolphin",
   "curated": true
  },
  {
@@ -28797,20 +29026,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De gewone dolfijn is een dolfijn met een pelagische leefwijze, anders dan de bekende tuimelaar, die vooral langs kusten voorkomt.",
   "facts": [
-   "Hij haalt snelheden van ruim 50 kilometer per uur.",
-   "Hij leeft vooral in open zee, minder vaak langs de kust.",
-   "Een pasgeboren kalf weegt ongeveer 10 kilo."
+   "Groepen kunnen samenkomen tot 'megagroepen' van meer dan 10.000 dolfijnen.",
+   "Hij heeft een zandloperpatroon op zijn flanken, in geel en grijs.",
+   "Hij heeft tot 60 kleine, scherpe tanden per kaakhelft."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_dolfijn",
   "img": "images/delphinus-delphis.webp",
   "imgSize": [
-   1400,
-   930
+   1080,
+   820
   ],
   "credit": {
-   "by": "Jorge Herreros de Lartundo",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/71700771",
+   "by": "Corey Husic",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/158954338",
    "source": "iNaturalist"
   },
   "obs": 142273,
@@ -28819,13 +29048,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/delphinus-delphis.webp",
     "size": [
-     1400,
-     930
+     1080,
+     820
     ],
     "credit": {
-     "by": "Jorge Herreros de Lartundo",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/71700771",
+     "by": "Corey Husic",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/158954338",
      "source": "iNaturalist"
     }
    },
@@ -28846,12 +29075,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/delphinus-delphis-3.webp",
     "size": [
      1100,
-     652
+     733
     ],
     "credit": {
-     "by": "Robin Gwen Agarwal",
+     "by": "Joao Tata Regala",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/317453919",
+     "url": "https://www.inaturalist.org/photos/252670730",
      "source": "iNaturalist"
     }
    }
@@ -28860,6 +29089,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 274,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_dolphin",
   "curated": true
  },
  {
@@ -28869,20 +29099,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De gewone spitssnuitdolfijn of Noordzee-spitssnuitdolfijn is een walvis uit de familie van de spitssnuitdolfijnen.",
   "facts": [
-   "Hij heet ook wel Noordzee-spitssnuitdolfijn.",
-   "Hij heeft maar twee tanden, in zijn onderkaak.",
-   "De eerste tekening van hem werd deels uit de fantasie gemaakt, op basis van alleen een schedel."
+   "Hij heet ook Noordzee-spitssnuitdolfijn.",
+   "Hij heeft vaak ronde littekens van koekjessnijderhaaien, die hapjes uit hem nemen.",
+   "Mannetjes hebben maar twee tanden, die ze gebruiken in gevechten."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_spitssnuitdolfijn",
   "img": "images/mesoplodon-bidens.webp",
   "imgSize": [
    1400,
-   933
+   858
   ],
   "credit": {
-   "by": "Ryan Zucker",
+   "by": "Wayne and Pam Osborn",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/246320414",
+   "url": "https://www.inaturalist.org/photos/255464915",
    "source": "iNaturalist"
   },
   "obs": 4944,
@@ -28892,20 +29122,7 @@ window.OCEAN_ANIMALS = [
     "img": "images/mesoplodon-bidens.webp",
     "size": [
      1400,
-     933
-    ],
-    "credit": {
-     "by": "Ryan Zucker",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/246320414",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/mesoplodon-bidens-2.webp",
-    "size": [
-     1100,
-     674
+     858
     ],
     "credit": {
      "by": "Wayne and Pam Osborn",
@@ -28915,15 +29132,28 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/mesoplodon-bidens-3.webp",
+    "img": "images/mesoplodon-bidens-2.webp",
     "size": [
-     987,
-     654
+     1100,
+     733
     ],
     "credit": {
-     "by": "Christine Veeschkens",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/73929",
+     "by": "Ryan Zucker",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/246320414",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/mesoplodon-bidens-3.webp",
+    "size": [
+     1100,
+     733
+    ],
+    "credit": {
+     "by": "Tim Healy",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/223004336",
      "source": "iNaturalist"
     }
    }
@@ -28932,6 +29162,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Hyperoodontidae",
   "ns": 45,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sowerby%27s_beaked_whale",
   "curated": true
  },
  {
@@ -28941,20 +29172,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De gewone vinvis is een zeezoogdier uit de familie van de vinvissen.",
   "facts": [
-   "Hij is het op één na grootste dier op aarde, tot 27 meter lang.",
-   "Zijn brul is honderden kilometers ver te horen.",
-   "Zijn ademwolk is één rechte kolom van zo'n vijf meter hoog."
+   "Zijn liederen zijn zo krachtig dat ze kilometers diep in de zeebodem doordringen; aardwetenschappers gebruiken ze om de bodem te onderzoeken.",
+   "Toen onderzoekers zijn geluiden voor het eerst hoorden, hadden ze niet door dat het een walvis was.",
+   "Hij is het op één na grootste dier op aarde."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_vinvis",
   "img": "images/balaenoptera-physalus.webp",
   "imgSize": [
    1400,
-   933
+   840
   ],
   "credit": {
-   "by": "Cephas",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/206941766",
+   "by": "xavierpiron",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/406681235",
    "source": "iNaturalist"
   },
   "obs": 295668,
@@ -28964,7 +29195,20 @@ window.OCEAN_ANIMALS = [
     "img": "images/balaenoptera-physalus.webp",
     "size": [
      1400,
-     933
+     840
+    ],
+    "credit": {
+     "by": "xavierpiron",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/406681235",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/balaenoptera-physalus-2.webp",
+    "size": [
+     1100,
+     733
     ],
     "credit": {
      "by": "Cephas",
@@ -28974,28 +29218,15 @@ window.OCEAN_ANIMALS = [
     }
    },
    {
-    "img": "images/balaenoptera-physalus-2.webp",
-    "size": [
-     800,
-     600
-    ],
-    "credit": {
-     "by": "anonymous",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/174123",
-     "source": "iNaturalist"
-    }
-   },
-   {
     "img": "images/balaenoptera-physalus-3.webp",
     "size": [
      1100,
-     727
+     733
     ],
     "credit": {
-     "by": "David H. Webster",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/3376",
+     "by": "Aurélien Grimaud",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/568120620",
      "source": "iNaturalist"
     }
    }
@@ -29004,6 +29235,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Balaenopteridae",
   "ns": 192,
+  "wikiEn": "https://en.wikipedia.org/wiki/Fin_whale",
   "curated": true
  },
  {
@@ -29013,20 +29245,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De gewone zeehond is een zeeroofdier uit de familie van de zeehonden.",
   "facts": [
-   "Hij drinkt geen zeewater: hij haalt vocht uit zijn voedsel.",
-   "Hij rust vaak in groepen van wel 1000 zeehonden.",
-   "Een pasgeboren zeehond is 70 tot 95 centimeter lang."
+   "Een zeehond genaamd Hoover kon menselijke woorden nadoen, iets wat bij geen enkel ander zoogdier is gezien.",
+   "Pups kunnen al een paar uur na hun geboorte zwemmen en duiken.",
+   "Zeehond Freddie, vernoemd naar Freddie Mercury vanwege zijn snor, zwom de Theems op tot in Londen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gewone_zeehond",
   "img": "images/phoca-vitulina.webp",
   "imgSize": [
    1400,
-   933
+   1034
   ],
   "credit": {
-   "by": "Andrew Reding",
-   "license": "CC-BY-NC-ND",
-   "url": "https://www.inaturalist.org/photos/190781322",
+   "by": "David Badke",
+   "license": "CC-BY-SA",
+   "url": "https://www.inaturalist.org/photos/7517880",
    "source": "iNaturalist"
   },
   "obs": 352707,
@@ -29036,12 +29268,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/phoca-vitulina.webp",
     "size": [
      1400,
-     933
+     1034
     ],
     "credit": {
-     "by": "Andrew Reding",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/190781322",
+     "by": "David Badke",
+     "license": "CC-BY-SA",
+     "url": "https://www.inaturalist.org/photos/7517880",
      "source": "iNaturalist"
     }
    },
@@ -29049,12 +29281,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/phoca-vitulina-2.webp",
     "size": [
      1100,
-     733
+     1005
     ],
     "credit": {
-     "by": "ucumari photography",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/190781270",
+     "by": "cgbb2004",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/21470498",
      "source": "iNaturalist"
     }
    },
@@ -29062,12 +29294,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/phoca-vitulina-3.webp",
     "size": [
      1100,
-     785
+     733
     ],
     "credit": {
-     "by": "Dan Roach",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/65061739",
+     "by": "Andrew Reding",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/190781322",
      "source": "iNaturalist"
     }
    }
@@ -29076,6 +29308,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Phocidae",
   "ns": 34073,
+  "wikiEn": "https://en.wikipedia.org/wiki/Harbor_seal",
   "curated": true
  },
  {
@@ -29085,20 +29318,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De gramper ook wel Risso's dolfijn of grijze dolfijn is een donkergrijze dolfijn uit de familie van de dolfijnachtigen.",
   "facts": [
-   "Op zijn borst heeft hij een witte vlek in de vorm van een anker.",
-   "Oudere dieren zitten zo vol littekens dat ze soms wit lijken.",
-   "Hij heeft geen tanden in zijn bovenkaak."
+   "Hij is de grootste soort die 'dolfijn' heet.",
+   "Oudere dieren zitten zo vol littekens van speels gestoei dat ze bijna wit lijken.",
+   "Dolfijn Pelorus Jack begeleidde van 1888 tot 1912 schepen door een zeestraat in Nieuw-Zeeland."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Gramper",
   "img": "images/grampus-griseus.webp",
   "imgSize": [
    1400,
-   933
+   1061
   ],
   "credit": {
-   "by": "Daniel Benák",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/229354004",
+   "by": "Robin Gwen Agarwal",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/142809679",
    "source": "iNaturalist"
   },
   "obs": 44296,
@@ -29108,12 +29341,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/grampus-griseus.webp",
     "size": [
      1400,
-     933
+     1061
     ],
     "credit": {
-     "by": "Daniel Benák",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/229354004",
+     "by": "Robin Gwen Agarwal",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/142809679",
      "source": "iNaturalist"
     }
    },
@@ -29121,12 +29354,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/grampus-griseus-2.webp",
     "size": [
      1100,
-     729
+     1040
     ],
     "credit": {
-     "by": "Christian Schwarz",
+     "by": "Robin Gwen Agarwal",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/14383425",
+     "url": "https://www.inaturalist.org/photos/142809664",
      "source": "iNaturalist"
     }
    },
@@ -29134,12 +29367,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/grampus-griseus-3.webp",
     "size": [
      1100,
-     745
+     733
     ],
     "credit": {
-     "by": "J. Maughn",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/165727440",
+     "by": "Daniel Benák",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/229354004",
      "source": "iNaturalist"
     }
    }
@@ -29148,6 +29381,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 95,
+  "wikiEn": "https://en.wikipedia.org/wiki/Risso%27s_dolphin",
   "curated": true
  },
  {
@@ -29157,9 +29391,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De griend is een soort tandwalvis uit de familie van de dolfijnachtigen.",
   "facts": [
-   "Na de orka is hij de grootste dolfijn.",
-   "Hij haalt snelheden tot 44 kilometer per uur.",
-   "In 1985 strandden er zo'n vierhonderd tegelijk in Nieuw-Zeeland."
+   "Hij heeft meer hersencellen in zijn hersenschors dan welk zoogdier ook: bijna twee keer zoveel als mensen.",
+   "Ondanks zijn naam is hij geen walvis, maar een grote dolfijn.",
+   "Zijn Engelse naam 'long-finned' dankt hij aan zijn ongewoon lange borstvinnen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Griend_%28dier%29",
   "img": "images/globicephala-melas.webp",
@@ -29168,9 +29402,9 @@ window.OCEAN_ANIMALS = [
    933
   ],
   "credit": {
-   "by": "Vsevolod Rudyi",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/215548393",
+   "by": "whale_nerd",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/254758028",
    "source": "iNaturalist"
   },
   "obs": 30364,
@@ -29183,9 +29417,9 @@ window.OCEAN_ANIMALS = [
      933
     ],
     "credit": {
-     "by": "Vsevolod Rudyi",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/215548393",
+     "by": "whale_nerd",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/254758028",
      "source": "iNaturalist"
     }
    },
@@ -29193,12 +29427,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/globicephala-melas-2.webp",
     "size": [
      1100,
-     729
+     733
     ],
     "credit": {
-     "by": "Dirk Klaus",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/84563154",
+     "by": "Vsevolod Rudyi",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/215548393",
      "source": "iNaturalist"
     }
    },
@@ -29206,12 +29440,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/globicephala-melas-3.webp",
     "size": [
      1100,
-     700
+     619
     ],
     "credit": {
-     "by": "Barney Moss",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/84563153",
+     "by": "simben",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/283726671",
      "source": "iNaturalist"
     }
    }
@@ -29220,6 +29454,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 253,
+  "wikiEn": "https://en.wikipedia.org/wiki/Long-finned_pilot_whale",
   "curated": true
  },
  {
@@ -29229,20 +29464,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De grijze walvis is een baleinwalvis uit de familie van de vinvissen.",
   "facts": [
-   "Hij maakt de langste jaarlijkse trek van alle zoogdieren: 15.000 tot 22.000 kilometer.",
-   "Hij kan 50 tot 60 jaar oud worden.",
+   "Hij maakt de langste jaarlijkse trek van alle zoogdieren: tot 22.000 kilometer.",
+   "Eén vrouwtje wordt al sinds 1977 gevolgd en is zo'n 55 jaar oud.",
    "In de Atlantische Oceaan werd hij in de 18e eeuw uitgeroeid."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grijze_walvis",
   "img": "images/eschrichtius-robustus.webp",
   "imgSize": [
    1400,
-   930
+   910
   ],
   "credit": {
-   "by": "David Merrett",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/130504303",
+   "by": "Stefan Cloete",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/640528116",
    "source": "iNaturalist"
   },
   "obs": 36477,
@@ -29252,12 +29487,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/eschrichtius-robustus.webp",
     "size": [
      1400,
-     930
+     910
     ],
     "credit": {
-     "by": "David Merrett",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/130504303",
+     "by": "Stefan Cloete",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/640528116",
      "source": "iNaturalist"
     }
    },
@@ -29265,12 +29500,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/eschrichtius-robustus-2.webp",
     "size": [
      1100,
-     619
+     733
     ],
     "credit": {
-     "by": "Ricardo",
+     "by": "Sergio Martínez",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/182728835",
+     "url": "https://www.inaturalist.org/photos/155062831",
      "source": "iNaturalist"
     }
    },
@@ -29278,12 +29513,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/eschrichtius-robustus-3.webp",
     "size": [
      1100,
-     733
+     617
     ],
     "credit": {
-     "by": "Andrea Carpio",
+     "by": "Robin Gwen Agarwal",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/244724464",
+     "url": "https://www.inaturalist.org/photos/264006615",
      "source": "iNaturalist"
     }
    }
@@ -29292,6 +29527,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Eschrichtiidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Gray_whale",
   "curated": true
  },
  {
@@ -29301,9 +29537,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De grijze zeehond of kegelrob is een zeeroofdier uit de familie van de zeehonden.",
   "facts": [
-   "Hij eet gemiddeld 5,7 kilo vis per dag.",
-   "Door de vette melk komt een jong tot bijna 2 kilo per dag aan.",
-   "Na 16 tot 21 dagen zogen verlaat de moeder haar jong."
+   "Wilde grijze zeehonden blijken uit zichzelf te 'klappen' met hun voorvinnen.",
+   "Ze jagen tegenwoordig zelfs op dolfijnen.",
+   "Mannetjes kunnen in een jaar met meer dan zes vrouwtjes paren."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Grijze_zeehond",
   "img": "images/halichoerus-grypus.webp",
@@ -29337,12 +29573,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/halichoerus-grypus-2.webp",
     "size": [
      1100,
-     777
+     825
     ],
     "credit": {
-     "by": "Keith DP Wilson",
+     "by": "Jakob Fahr",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/200723643",
+     "url": "https://www.inaturalist.org/photos/178457742",
      "source": "iNaturalist"
     }
    },
@@ -29350,12 +29586,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/halichoerus-grypus-3.webp",
     "size": [
      1100,
-     661
+     733
     ],
     "credit": {
-     "by": "Martha de Jong-Lantink",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/200723208",
+     "by": "Kevin Lynch",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/83153847",
      "source": "iNaturalist"
     }
    }
@@ -29364,6 +29600,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Phocidae",
   "ns": 54493,
+  "wikiEn": "https://en.wikipedia.org/wiki/Grey_seal",
   "curated": true
  },
  {
@@ -29373,9 +29610,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De Groenlandse walvis is een walvis uit de familie van de echte walvissen.",
   "facts": [
-   "Hij heeft de langste baleinen van alle walvissen.",
-   "Hij heeft geen rugvin.",
-   "Hij leeft in het ijskoude water van de Noordpool, maar is ook weleens voor de Nederlandse kust gezien."
+   "Hij wordt heel oud: een zwanger vrouwtje werd op 121 jaar geschat.",
+   "Met zijn enorme driehoekige kop breekt hij door het ijs van de Noordpool.",
+   "In een paar jaar zijn bij Groenland 184 verschillende walvisliederen opgenomen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Groenlandse_walvis",
   "img": "images/balaena-mysticetus.webp",
@@ -29409,25 +29646,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/balaena-mysticetus-2.webp",
     "size": [
      1100,
-     733
+     619
     ],
     "credit": {
-     "by": "Vicki Beaver",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/475706742",
+     "by": "Кирилл Романов",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/619222082",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/balaena-mysticetus-3.webp",
     "size": [
-     960,
+     1100,
      642
     ],
     "credit": {
-     "by": "Olga Shpak",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/12975195",
+     "by": "Royle Safaris",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/294664204",
      "source": "iNaturalist"
     }
    }
@@ -29436,6 +29673,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Balaenidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Bowhead_whale",
   "curated": true
  },
  {
@@ -29446,19 +29684,19 @@ window.OCEAN_ANIMALS = [
   "intro": "De hectordolfijn is een soort dolfijn uit Nieuw-Zeeland.",
   "facts": [
    "Hij leeft alleen in Nieuw-Zeeland.",
-   "Je herkent hem aan zijn zwarte rugvin en de zwarte rand rond zijn ogen.",
-   "Jongen hebben tot zo'n 6 maanden donkere strepen."
+   "Zijn rugvin is opvallend rond, niet spits zoals bij de meeste dolfijnen.",
+   "Hij leeft in kleine groepjes en praat met echoklikjes."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Hectordolfijn",
   "img": "images/cephalorhynchus-hectori.webp",
   "imgSize": [
    1400,
-   933
+   825
   ],
   "credit": {
-   "by": "Clinton Duffy",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/5606346",
+   "by": "William Harland",
+   "license": "CC-BY",
+   "url": "https://www.inaturalist.org/photos/593006629",
    "source": "iNaturalist"
   },
   "obs": 873,
@@ -29468,12 +29706,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cephalorhynchus-hectori.webp",
     "size": [
      1400,
-     933
+     825
     ],
     "credit": {
-     "by": "Clinton Duffy",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/5606346",
+     "by": "William Harland",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/593006629",
      "source": "iNaturalist"
     }
    },
@@ -29481,12 +29719,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cephalorhynchus-hectori-2.webp",
     "size": [
      1100,
-     733
+     619
     ],
     "credit": {
-     "by": "Cameron Eckert",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/31033152",
+     "by": "Genevieve Early",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/593568119",
      "source": "iNaturalist"
     }
    },
@@ -29494,12 +29732,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cephalorhynchus-hectori-3.webp",
     "size": [
      1100,
-     733
+     736
     ],
     "credit": {
-     "by": "Cameron Eckert",
+     "by": "chris_barnesoz",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/31033149",
+     "url": "https://www.inaturalist.org/photos/187167571",
      "source": "iNaturalist"
     }
    }
@@ -29508,6 +29746,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Hector%27s_dolphin",
   "curated": true
  },
  {
@@ -29517,20 +29756,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De ijsbeer of poolbeer is een grote geelwitte beer, die langer en groter is dan de andere beren.",
   "facts": [
-   "De oudst bekende wilde ijsbeer werd 32 jaar.",
-   "Een pasgeboren ijsbeer weegt maar zo'n 600 gram.",
-   "Hij kan hooguit een paar minuten onder water blijven; het record is 3 minuten en 10 seconden."
+   "Hij is de grootste beer en het grootste roofdier op land.",
+   "Hij kan dagenlang achter elkaar zwemmen: gemiddeld 3,4 dagen per tocht.",
+   "IJsberen vormen soms vaste 'vriendschappen' en reizen, rusten en spelen dan samen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/IJsbeer",
   "img": "images/ursus-maritimus.webp",
   "imgSize": [
    1400,
-   882
+   792
   ],
   "credit": {
-   "by": "Morten Ross",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/123092729",
+   "by": "Laura Keene",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/19264370",
    "source": "iNaturalist"
   },
   "obs": 11270,
@@ -29540,12 +29779,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/ursus-maritimus.webp",
     "size": [
      1400,
-     882
+     792
     ],
     "credit": {
-     "by": "Morten Ross",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/123092729",
+     "by": "Laura Keene",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/19264370",
      "source": "iNaturalist"
     }
    },
@@ -29553,12 +29792,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/ursus-maritimus-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Алексей Логинов",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/109439406",
+     "by": "M. A. Naturalist",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/61910982",
      "source": "iNaturalist"
     }
    },
@@ -29566,12 +29805,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/ursus-maritimus-3.webp",
     "size": [
      1100,
-     716
+     825
     ],
     "credit": {
-     "by": "Morten Ross",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/111316985",
+     "by": "M. A. Naturalist",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/61910979",
      "source": "iNaturalist"
     }
    }
@@ -29580,6 +29819,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Ursidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Polar_bear",
   "curated": true
  },
  {
@@ -29590,8 +29830,8 @@ window.OCEAN_ANIMALS = [
   "intro": "De Indische bruinvis is een walvis uit de familie der bruinvissen.",
   "facts": [
    "Hij heeft geen rugvin, maar een lage, bobbelige kiel.",
-   "Hij zwemt ook troebele rivieren op.",
-   "Hij blijft altijd binnen vijf kilometer van de kust."
+   "Zijn skelet is extreem licht: maar 5% van zijn lichaamsgewicht.",
+   "Hij komt vaak ver van de plek waar hij onderdook weer boven."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Indische_bruinvis",
   "img": "images/neophocaena-phocaenoides.webp",
@@ -29652,6 +29892,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Phocoenidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Indo-Pacific_finless_porpoise",
   "curated": true
  },
  {
@@ -29661,20 +29902,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De Indische griend is een opvallend donkergekleurde griend met een bol voorhoofd en een zeer korte snuit.",
   "facts": [
-   "Hij heeft een bol voorhoofd en een heel korte snuit.",
-   "Hij duikt tot 1700 meter diep om inktvissen te vangen.",
-   "Rond Hawaï en de Canarische Eilanden zie je hem het hele jaar."
+   "Hij jaagt op inktvissen met een bliksemsnelle sprint op grote diepte.",
+   "Vrouwtjes stoppen rond hun 40e met jongen krijgen, maar leven tot over de 60.",
+   "Hij is na de orka en de griend de grootste dolfijn."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Indische_griend",
   "img": "images/globicephala-macrorhynchus.webp",
   "imgSize": [
    1400,
-   851
+   1040
   ],
   "credit": {
-   "by": "A Emmerson",
+   "by": "dnoby",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/51450464",
+   "url": "https://www.inaturalist.org/photos/159806977",
    "source": "iNaturalist"
   },
   "obs": 16971,
@@ -29684,12 +29925,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/globicephala-macrorhynchus.webp",
     "size": [
      1400,
-     851
+     1040
     ],
     "credit": {
-     "by": "A Emmerson",
+     "by": "dnoby",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/51450464",
+     "url": "https://www.inaturalist.org/photos/159806977",
      "source": "iNaturalist"
     }
    },
@@ -29697,12 +29938,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/globicephala-macrorhynchus-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Andrés E. Ríos Saldaña",
+     "by": "thadroller",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/573223",
+     "url": "https://www.inaturalist.org/photos/160507022",
      "source": "iNaturalist"
     }
    },
@@ -29713,9 +29954,9 @@ window.OCEAN_ANIMALS = [
      825
     ],
     "credit": {
-     "by": "Rafael de la Parra",
+     "by": "docprt",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/55782293",
+     "url": "https://www.inaturalist.org/photos/252161554",
      "source": "iNaturalist"
     }
    }
@@ -29724,6 +29965,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Short-finned_pilot_whale",
   "curated": true
  },
  {
@@ -29733,21 +29975,21 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De Irrawaddydolfijn is een dolfijn uit het geslacht Orcaella.",
   "facts": [
-   "Hij leeft ook in rivieren, zoals de Irrawaddy in Myanmar, waar hij zijn naam aan dankt.",
-   "Hij kan zijn lippen tuiten en met water spuiten.",
-   "Hij komt in rivieren en langs de kust vaak dicht bij mensen."
+   "Hij spuit waterstralen om vis bij elkaar te drijven.",
+   "Volgens verhalen redden ze verdrinkende dorpelingen en beschermen ze mensen tegen krokodillen.",
+   "Hij leeft ook in rivieren, zoals de Irrawaddy in Myanmar."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Irrawaddydolfijn",
   "img": "images/orcaella-brevirostris.webp",
   "imgSize": [
-   1191,
-   1000
+   1400,
+   933
   ],
   "credit": {
-   "by": "C. Berjeau",
-   "license": "Public domain",
-   "url": "https://commons.wikimedia.org/wiki/File:Orcaella_brevirostris_1878.jpg",
-   "source": "Wikimedia Commons"
+   "by": "Woraphot Bunkhwamdi",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/282767229",
+   "source": "iNaturalist"
   },
   "obs": 924,
   "map": "maps/orcaella-brevirostris.webp",
@@ -29755,26 +29997,26 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/orcaella-brevirostris.webp",
     "size": [
-     1191,
-     1000
+     1400,
+     933
     ],
     "credit": {
-     "by": "C. Berjeau",
-     "license": "Public domain",
-     "url": "https://commons.wikimedia.org/wiki/File:Orcaella_brevirostris_1878.jpg",
-     "source": "Wikimedia Commons"
+     "by": "Woraphot Bunkhwamdi",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/282767229",
+     "source": "iNaturalist"
     }
    },
    {
     "img": "images/orcaella-brevirostris-2.webp",
     "size": [
      1100,
-     738
+     728
     ],
     "credit": {
-     "by": "Long Vu",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/99593391",
+     "by": "BioM_Akekachoke.B",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/345657581",
      "source": "iNaturalist"
     }
    },
@@ -29782,12 +30024,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/orcaella-brevirostris-3.webp",
     "size": [
      1100,
-     844
+     688
     ],
     "credit": {
-     "by": "Bernard DUPONT",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/106836299",
+     "by": "Sila Viriyautsahakul",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/346960788",
      "source": "iNaturalist"
     }
    }
@@ -29796,6 +30038,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Irrawaddy_dolphin",
   "curated": true
  },
  {
@@ -29805,9 +30048,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De Kaapse pelsrob, Zuid-Afrikaanse pelsrob of Zuid-Afrikaanse zeebeer is een oorrob die te vinden is aan de Atlantische kust van Zuid-Afrika en Namibië.",
   "facts": [
-   "Hij kan 2,3 meter lang en 360 kilo zwaar worden.",
-   "Je ziet hem zelfs zwemmen in de haven van Kaapstad.",
-   "Bij Kaap Kruis in Namibië ligt een enorme kolonie."
+   "Een groot mannetje is gezien terwijl hij vijf blauwe haaien doodde.",
+   "Hij is nieuwsgierig en zwemt vaak minutenlang rond duikers.",
+   "Je ziet hem zelfs zwemmen in de haven van Kaapstad."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kaapse_pelsrob",
   "img": "images/arctocephalus-pusillus.webp",
@@ -29841,12 +30084,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/arctocephalus-pusillus-2.webp",
     "size": [
      1100,
-     825
+     734
     ],
     "credit": {
-     "by": "bathyporeia",
-     "license": "CC-BY-NC-SA",
-     "url": "https://www.inaturalist.org/photos/729978",
+     "by": "Bird Explorers",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/23809900",
      "source": "iNaturalist"
     }
    },
@@ -29857,9 +30100,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Jens Sommer-Knudsen",
+     "by": "Bird Explorers",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/111483685",
+     "url": "https://www.inaturalist.org/photos/23809673",
      "source": "iNaturalist"
     }
    }
@@ -29868,6 +30111,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Otariidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Arctocephalus_pusillus",
   "curated": true
  },
  {
@@ -29877,20 +30121,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De Kerguelenzeebeer is een oorrob uit de onderfamilie der zeeberen.",
   "facts": [
-   "Mannetjes hebben snorharen van 35 tot 50 centimeter.",
-   "Op zoek naar voedsel blijft hij soms vijf dagen weg en zwemt hij 150 kilometer ver.",
-   "Moeders herkennen hun jong aan de roep en de geur."
+   "Ondanks zijn Engelse naam ('Antarctische zeebeer') leeft hij vooral op eilanden rond Antarctica.",
+   "Zijn wetenschappelijke naam komt van het Duitse schip SMS Gazelle.",
+   "Op Zuid-Georgia leeft 95% van alle Kerguelenzeeberen ter wereld."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kerguelenzeebeer",
   "img": "images/arctocephalus-gazella.webp",
   "imgSize": [
-   1400,
-   933
+   1280,
+   853
   ],
   "credit": {
-   "by": "Liam Quinn",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/71159",
+   "by": "David Robichaud",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/115960957",
    "source": "iNaturalist"
   },
   "obs": 239812,
@@ -29899,13 +30143,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/arctocephalus-gazella.webp",
     "size": [
-     1400,
-     933
+     1280,
+     853
     ],
     "credit": {
-     "by": "Liam Quinn",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/71159",
+     "by": "David Robichaud",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/115960957",
      "source": "iNaturalist"
     }
    },
@@ -29916,9 +30160,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "whale_nerd",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/122330538",
+     "by": "Liam Quinn",
+     "license": "CC-BY-SA",
+     "url": "https://www.inaturalist.org/photos/71159",
      "source": "iNaturalist"
     }
    },
@@ -29929,9 +30173,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "pgkaestner",
+     "by": "Johnny Giese",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/251095927",
+     "url": "https://www.inaturalist.org/photos/386912638",
      "source": "iNaturalist"
     }
    }
@@ -29940,6 +30184,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Otariidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Antarctic_fur_seal",
   "curated": true
  },
  {
@@ -29949,20 +30194,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De klapmuts is een zeeroofdier uit de familie der zeehonden.",
   "facts": [
-   "Het mannetje kan een 'muts' op zijn kop opblazen, en zelfs zijn neustussenschot.",
-   "Hij duikt 300 meter diep en blijft 20 minuten onder water.",
-   "Een jong weegt bij de geboorte gemiddeld 22 kilo."
+   "Het mannetje kan een 'muts' op zijn kop opblazen, en zelfs zijn neustussenschot als een ballon.",
+   "Pups worden geboren met een blauwgrijze vacht en heten daarom 'blueback'.",
+   "Hij is 90% van de tijd onder water."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Klapmuts",
   "img": "images/cystophora-cristata.webp",
   "imgSize": [
-   1300,
-   935
+   1400,
+   1050
   ],
   "credit": {
-   "by": "Pål A. Olsvik",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/209640402",
+   "by": "Alexandre Terrigeol",
+   "license": "CC-BY-NC-ND",
+   "url": "https://www.inaturalist.org/photos/156426541",
    "source": "iNaturalist"
   },
   "obs": 2432,
@@ -29971,13 +30216,13 @@ window.OCEAN_ANIMALS = [
    {
     "img": "images/cystophora-cristata.webp",
     "size": [
-     1300,
-     935
+     1400,
+     1050
     ],
     "credit": {
-     "by": "Pål A. Olsvik",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/209640402",
+     "by": "Alexandre Terrigeol",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/156426541",
      "source": "iNaturalist"
     }
    },
@@ -29985,12 +30230,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cystophora-cristata-2.webp",
     "size": [
      1100,
-     721
+     733
     ],
     "credit": {
-     "by": "Peter Meisenheimer",
+     "by": "whale_nerd",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/341840390",
+     "url": "https://www.inaturalist.org/photos/88015549",
      "source": "iNaturalist"
     }
    },
@@ -29998,12 +30243,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cystophora-cristata-3.webp",
     "size": [
      1100,
-     721
+     825
     ],
     "credit": {
-     "by": "Peter Meisenheimer",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/341840371",
+     "by": "Michael Bakker Paiva",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/264306095",
      "source": "iNaturalist"
     }
    }
@@ -30012,6 +30257,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Phocidae",
   "ns": 36,
+  "wikiEn": "https://en.wikipedia.org/wiki/Hooded_seal",
   "curated": true
  },
  {
@@ -30021,9 +30267,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De kleinste potvis is een walvis uit de familie der dwergpotvissen.",
   "facts": [
-   "Hij is de kleinste walvis: sommige dolfijnen zijn groter.",
-   "Hij wordt 2,1 tot 2,7 meter lang.",
-   "Hij duikt minstens 300 meter diep."
+   "Bij gevaar spuit hij een wolk roodbruine vloeistof uit, als een inktvis.",
+   "Die vloeistof zit in een zak bij zijn darmen en lijkt op chocoladesiroop.",
+   "Hij is de kleinste walvis: sommige dolfijnen zijn groter."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kleinste_potvis",
   "img": "images/kogia-sima.webp",
@@ -30060,9 +30306,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Heather and Andrew Hodgson",
+     "by": "Alvaro Jaramillo",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/46805060",
+     "url": "https://www.inaturalist.org/photos/289877131",
      "source": "iNaturalist"
     }
    },
@@ -30070,12 +30316,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/kogia-sima-3.webp",
     "size": [
      1100,
-     733
+     731
     ],
     "credit": {
-     "by": "Alvaro Jaramillo",
+     "by": "Sergio Martínez",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/289877131",
+     "url": "https://www.inaturalist.org/photos/71553037",
      "source": "iNaturalist"
     }
    }
@@ -30084,6 +30330,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Kogiidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Dwarf_sperm_whale",
   "curated": true
  },
  {
@@ -30093,20 +30340,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De kortsnuitdolfijn of Commersons dolfijn is een van de vier soorten dolfijnen uit het geslacht Cephalorhynchus.",
   "facts": [
-   "Met zijn zwart-witte tekening lijkt hij een beetje op een orka.",
-   "Het is een van de kleinste walvisachtigen, ongeveer 1,5 meter lang.",
-   "Mannetjes hebben een druppelvormige zwarte vlek op hun buik, vrouwtjes een ronde."
+   "Met zijn zwart-witte tekening lijkt hij op een mini-orka.",
+   "Een vrouwtje van 23 kilo is misschien de kleinste volwassen walvisachtige ooit gemeten.",
+   "Hij zwemt bij eb rivieren op om te jagen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kortsnuitdolfijn",
   "img": "images/cephalorhynchus-commersonii.webp",
   "imgSize": [
    1400,
-   937
+   935
   ],
   "credit": {
-   "by": "Eddie Maloney",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/137195195",
+   "by": "Justin Hofman",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/441842688",
    "source": "iNaturalist"
   },
   "obs": 2219,
@@ -30116,12 +30363,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/cephalorhynchus-commersonii.webp",
     "size": [
      1400,
-     937
+     935
     ],
     "credit": {
-     "by": "Eddie Maloney",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/137195195",
+     "by": "Justin Hofman",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/441842688",
      "source": "iNaturalist"
     }
    },
@@ -30129,25 +30376,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/cephalorhynchus-commersonii-2.webp",
     "size": [
      1100,
-     688
+     617
     ],
     "credit": {
-     "by": "Christoph Moning",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/365405689",
+     "by": "pleistocene",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/144049450",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/cephalorhynchus-commersonii-3.webp",
     "size": [
-     1024,
-     704
+     1100,
+     619
     ],
     "credit": {
-     "by": "Sebastián Saiter V.",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/265492459",
+     "by": "sonata_z",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/457991771",
      "source": "iNaturalist"
     }
    }
@@ -30156,6 +30403,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Commerson%27s_dolphin",
   "curated": true
  },
  {
@@ -30165,9 +30413,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De krabbeneter of krabbenrob is een zeehond die voorkomt rond Antarctica. Het is waarschijnlijk het meest algemene zeeroofdier.",
   "facts": [
-   "Ondanks zijn naam eet hij vooral krill, geen krabben.",
-   "Zijn tanden werken als een zeef, zodat het krill niet ontsnapt.",
-   "Hij is waarschijnlijk het meest voorkomende zeeroofdier ter wereld."
+   "Ondanks zijn naam eet hij geen krabben, maar krill.",
+   "Zijn tanden hebben uitsteeksels die als een zeef werken.",
+   "Bijna 8 op de 10 krabbeneters die hun eerste jaar overleven, hebben littekens van zeeluipaarden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Krabbeneter",
   "img": "images/lobodon-carcinophaga.webp",
@@ -30201,6 +30449,19 @@ window.OCEAN_ANIMALS = [
     "img": "images/lobodon-carcinophaga-2.webp",
     "size": [
      1100,
+     733
+    ],
+    "credit": {
+     "by": "Greg Lasley",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/1347671",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/lobodon-carcinophaga-3.webp",
+    "size": [
+     1100,
      800
     ],
     "credit": {
@@ -30209,25 +30470,13 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/108626523",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/lobodon-carcinophaga-3.webp",
-    "size": [
-     1100,
-     854
-    ],
-    "credit": {
-     "by": "Jerome Viard",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/108626434",
-     "source": "iNaturalist"
-    }
    }
   ],
   "thumb": "thumbs/lobodon-carcinophaga.webp",
   "order": "Carnivora",
   "family": "Phocidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Crabeater_seal",
   "curated": true
  },
  {
@@ -30237,8 +30486,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De kustotter, ook wel chungungo-otter of mariene otter genoemd, is een zoogdier uit de familie van de marterachtigen.",
   "facts": [
-   "Hij leeft langs de zuidwestkust van Zuid-Amerika, in Peru, Chili en Argentinië.",
-   "Hij heet ook wel mariene otter."
+   "Hij is een van de kleinste otters en het kleinste zeezoogdier ter wereld.",
+   "Anders dan de meeste otters zoekt hij juist ruige kusten op, met harde golven en wind.",
+   "Moeders laten hun jong op hun buik meeliften terwijl ze op hun rug zwemmen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Kustotter",
   "img": "images/lontra-felina.webp",
@@ -30272,12 +30522,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lontra-felina-2.webp",
     "size": [
      1100,
-     734
+     688
     ],
     "credit": {
-     "by": "MatiasG",
-     "license": "CC-BY-ND",
-     "url": "https://www.inaturalist.org/photos/146268202",
+     "by": "jorgevalenzuelae",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/304561619",
      "source": "iNaturalist"
     }
    },
@@ -30285,12 +30535,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lontra-felina-3.webp",
     "size": [
      1100,
-     734
+     832
     ],
     "credit": {
-     "by": "Daniel Stange",
+     "by": "Dalila Parraguez",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/265316650",
+     "url": "https://www.inaturalist.org/photos/403234004",
      "source": "iNaturalist"
     }
    }
@@ -30299,6 +30549,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Mustelidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Marine_otter",
   "curated": true
  },
  {
@@ -30308,8 +30559,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De La Plata-dolfijn is een zoogdier uit de familie van de Pontoporiidae, waarin het de enige levende soort is.",
   "facts": [
-   "Hij leeft voor de kust van Brazilië, Uruguay en Argentinië.",
-   "Hij is de enige nog levende soort in zijn familie."
+   "Hij heeft naar verhouding de langste snavel van alle walvisachtigen: tot 15% van zijn lijf.",
+   "Hij heeft tot 61 tanden in elke kaakhelft.",
+   "Het is de enige 'rivierdolfijn' die in zee leeft."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/La_Plata-dolfijn",
   "img": "images/pontoporia-blainvillei.webp",
@@ -30370,6 +30622,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Pontoporiidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/La_Plata_dolphin",
   "curated": true
  },
  {
@@ -30379,9 +30632,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De langsnuitdolfijn of spinnerdolfijn is een dolfijnensoort die voorkomt in tropische en subtropische wateren over de gehele wereld.",
   "facts": [
-   "Hij heeft de meeste tanden van alle walvisachtigen: 45 tot 65 per kaak.",
-   "Hij zwemt soms meer dan een half uur mee met de boeggolf van schepen.",
-   "Hij heet ook spinnerdolfijn."
+   "Hij is beroemd om zijn sprongen waarbij hij om zijn as draait: tot zeven keer in één sprong!",
+   "Overdag rust hij in ondiepe baaien; 's nachts trekt hij de oceaan op om te jagen.",
+   "Hij heeft de meeste tanden van alle walvisachtigen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Langsnuitdolfijn",
   "img": "images/stenella-longirostris.webp",
@@ -30415,12 +30668,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/stenella-longirostris-2.webp",
     "size": [
      1100,
-     733
+     841
     ],
     "credit": {
-     "by": "Magnus Kjaergaard",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/71746514",
+     "by": "Lucie Koudelková",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/718489182",
      "source": "iNaturalist"
     }
    },
@@ -30428,12 +30681,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/stenella-longirostris-3.webp",
     "size": [
      1100,
-     838
+     825
     ],
     "credit": {
-     "by": "Liisa Havukainen",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/71746516",
+     "by": "ktnt",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/457279580",
      "source": "iNaturalist"
     }
    }
@@ -30442,6 +30695,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Spinner_dolphin",
   "curated": true
  },
  {
@@ -30450,7 +30704,11 @@ window.OCEAN_ANIMALS = [
   "sci": "Phoca largha",
   "cat": "Zoogdieren",
   "intro": "De larghazeehond is een zoogdier uit de familie van de zeehonden.",
-  "facts": [],
+  "facts": [
+   "Zijn zilveren vacht zit helemaal vol donkere vlekken.",
+   "Hij is verlegen en laat mensen moeilijk dichtbij komen.",
+   "In groepen gromt, blaft, kreunt en brult hij."
+  ],
   "wiki": "https://nl.wikipedia.org/wiki/Larghazeehond",
   "img": "images/phoca-largha.webp",
   "imgSize": [
@@ -30486,22 +30744,22 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Nigel Voaden",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/2826630",
+     "by": "Greg Easton",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/413886120",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/phoca-largha-3.webp",
     "size": [
-     850,
-     567
+     1100,
+     733
     ],
     "credit": {
-     "by": "jomilo75",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/95203892",
+     "by": "Grigory Evtukh",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/160057980",
      "source": "iNaturalist"
     }
    }
@@ -30509,7 +30767,9 @@ window.OCEAN_ANIMALS = [
   "thumb": "thumbs/phoca-largha.webp",
   "order": "Carnivora",
   "family": "Phocidae",
-  "ns": 0
+  "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Spotted_seal",
+  "curated": true
  },
  {
   "id": "otaria-flavescens",
@@ -30518,9 +30778,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De manenrob of Patagonische zeeleeuw is een oorrob.",
   "facts": [
-   "Volwassen mannetjes hebben een enorme manen om hun nek.",
-   "Een mannetje leidt een harem van gemiddeld tien vrouwtjes.",
-   "Buiten de paartijd zijn de mannetjes rustige, zorgzame vaders."
+   "Volwassen mannetjes hebben een enorme manen, net een leeuw.",
+   "Sommige mannetjes hebben een harem van wel 18 vrouwtjes.",
+   "Hij profiteert slim van dolfijnen: als die vis bijeen drijven, pikt hij zijn deel mee."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Manenrob",
   "img": "images/otaria-flavescens.webp",
@@ -30554,12 +30814,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/otaria-flavescens-2.webp",
     "size": [
      1100,
-     733
+     720
     ],
     "credit": {
-     "by": "Carlos Olavarria",
+     "by": "Sebastián Lescano",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/4124692",
+     "url": "https://www.inaturalist.org/photos/43577360",
      "source": "iNaturalist"
     }
    },
@@ -30570,9 +30830,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Gonzalo Bravo",
+     "by": "Enzo Bonanno",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/85376714",
+     "url": "https://www.inaturalist.org/photos/127683947",
      "source": "iNaturalist"
     }
    }
@@ -30581,6 +30841,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Otariidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/South_American_sea_lion",
   "curated": true
  },
  {
@@ -30591,8 +30852,8 @@ window.OCEAN_ANIMALS = [
   "intro": "De Mediterrane monniksrob of gewone monniksrob is een zeeroofdier uit de familie van de zeehonden.",
   "facts": [
    "Hij is waarschijnlijk het meest bedreigde zeeroofdier: er zijn er minder dan vijfhonderd.",
-   "Hij heeft een witte vlek op zijn buik.",
-   "Hij eet vis en inktvis, vooral octopus."
+   "De oude Griekse stad Phocaea had de monniksrob als symbool.",
+   "In 2014 sliep er een urenlang op een druk stadsstrand in Pula, Kroatië, tussen de badgasten."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Mediterrane_monniksrob",
   "img": "images/monachus-monachus.webp",
@@ -30627,6 +30888,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Phocidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Mediterranean_monk_seal",
   "curated": true
  },
  {
@@ -30636,9 +30898,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De narwal is een arctische tandwalvis die behoort tot de familie van de grondeldolfijnen.",
   "facts": [
-   "Zijn slagtand kan 3 meter lang worden en heeft een spiraalpatroon.",
-   "Met die tand voelt hij waarschijnlijk verschillen in temperatuur en water.",
-   "Vroeger dacht men dat de tand gif kon neutraliseren."
+   "Zijn 'hoorn' is eigenlijk een tand die tot 3 meter lang wordt, in een spiraal.",
+   "Met drones zagen onderzoekers hoe narwallen met hun tand op vissen tikken om ze te verdoven.",
+   "Vrouwtjes kunnen zo'n 115 jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Narwal",
   "img": "images/monodon-monoceros.webp",
@@ -30672,12 +30934,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/monodon-monoceros-2.webp",
     "size": [
      1100,
-     751
+     734
     ],
     "credit": {
-     "by": "пресс-служба ПАО \"Газпром нефть\"",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/66927347",
+     "by": "azure27014",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/561463407",
      "source": "iNaturalist"
     }
    },
@@ -30685,12 +30947,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/monodon-monoceros-3.webp",
     "size": [
      1100,
-     751
+     659
     ],
     "credit": {
-     "by": "пресс-служба ПАО \"Газпром нефть\"",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/77801844",
+     "by": "pfaucher",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/11134682",
      "source": "iNaturalist"
     }
    }
@@ -30699,6 +30961,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Monodontidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Narwhal",
   "curated": true
  },
  {
@@ -30708,20 +30971,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De Nieuw-Zeelandse zeeleeuw is een oorrob die voorkomt in de zee ten zuiden van Zuidereiland.",
   "facts": [
-   "Mannetjes hebben een donkere vacht met manen om hun nek.",
-   "De grootste kolonie ligt op de Aucklandeilanden.",
-   "Hij zwemt tot 150 kilometer van de kust."
+   "Het is de enige zeeleeuw die ver landinwaarts trekt, tot in bossen!",
+   "Moeders nemen hun pups mee het binnenland in, weg van opdringerige mannetjes en stormen.",
+   "In 1993 kreeg zeeleeuw 'Mum' een jong: de eerste geboorte op het Zuidereiland in 150 jaar."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Nieuw-Zeelandse_zeeleeuw",
   "img": "images/phocarctos-hookeri.webp",
   "imgSize": [
    1400,
-   1120
+   933
   ],
   "credit": {
-   "by": "Stewart Armstrong",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/1200191",
+   "by": "Christian Kropf",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/104114651",
    "source": "iNaturalist"
   },
   "obs": 36562,
@@ -30731,12 +30994,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/phocarctos-hookeri.webp",
     "size": [
      1400,
-     1120
+     933
     ],
     "credit": {
-     "by": "Stewart Armstrong",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/1200191",
+     "by": "Christian Kropf",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/104114651",
      "source": "iNaturalist"
     }
    },
@@ -30744,12 +31007,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/phocarctos-hookeri-2.webp",
     "size": [
      1100,
-     733
+     880
     ],
     "credit": {
-     "by": "Christian Kropf",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/104114657",
+     "by": "Stewart Armstrong",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/1200191",
      "source": "iNaturalist"
     }
    },
@@ -30760,9 +31023,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "Giverny",
+     "by": "Samuel Amaris",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/58096363",
+     "url": "https://www.inaturalist.org/photos/464679362",
      "source": "iNaturalist"
     }
    }
@@ -30771,6 +31034,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Otariidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/New_Zealand_sea_lion",
   "curated": true
  },
  {
@@ -30780,20 +31044,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De noordelijke butskop is een walvisachtige uit de familie der spitssnuitdolfijnen.",
   "facts": [
-   "Hij heeft een groot, bol voorhoofd.",
-   "Hij jaagt meestal dieper dan een kilometer.",
-   "Hij kan minstens zeventig minuten onder water blijven."
+   "Hij kan tot 130 minuten onder water blijven.",
+   "Hij is nieuwsgierig en zwemt naar schepen toe.",
+   "Kalveren drinken 3 à 4 jaar melk bij hun moeder."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Noordelijke_butskop",
   "img": "images/hyperoodon-ampullatus.webp",
   "imgSize": [
    1400,
-   1050
+   1048
   ],
   "credit": {
    "by": "Jean-François Rousseau",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/213038294",
+   "url": "https://www.inaturalist.org/photos/329941326",
    "source": "iNaturalist"
   },
   "obs": 9664,
@@ -30803,12 +31067,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/hyperoodon-ampullatus.webp",
     "size": [
      1400,
-     1050
+     1048
     ],
     "credit": {
      "by": "Jean-François Rousseau",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/213038294",
+     "url": "https://www.inaturalist.org/photos/329941326",
      "source": "iNaturalist"
     }
    },
@@ -30816,12 +31080,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/hyperoodon-ampullatus-2.webp",
     "size": [
      1100,
-     825
+     824
     ],
     "credit": {
      "by": "Jean-François Rousseau",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/213038441",
+     "url": "https://www.inaturalist.org/photos/329941286",
      "source": "iNaturalist"
     }
    },
@@ -30829,12 +31093,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/hyperoodon-ampullatus-3.webp",
     "size": [
      1100,
-     732
+     825
     ],
     "credit": {
-     "by": "Anne Schlösser",
+     "by": "Jean-François Rousseau",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/307874470",
+     "url": "https://www.inaturalist.org/photos/229393605",
      "source": "iNaturalist"
     }
    }
@@ -30843,6 +31107,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Hyperoodontidae",
   "ns": 22,
+  "wikiEn": "https://en.wikipedia.org/wiki/Northern_bottlenose_whale",
   "curated": true
  },
  {
@@ -30852,20 +31117,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De noordelijke gladde dolfijn is een soort dolfijn uit het noorden van de Stille Oceaan.",
   "facts": [
-   "Hij haalt snelheden van 30 tot 40 kilometer per uur.",
-   "Hij springt zo'n 7 meter ver per sprong.",
-   "Hij vormt soms groepen van wel 3000 dolfijnen."
+   "Na de mens heeft hij de hoogste 'intelligentiescore' (hersengrootte ten opzichte van het lijf) van alle dieren.",
+   "Groepen lijken over het water te stuiteren, met sprongen tot 7 meter ver.",
+   "Anders dan de meeste dolfijnen fluit hij niet."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Noordelijke_gladde_dolfijn",
   "img": "images/lissodelphis-borealis.webp",
   "imgSize": [
    1400,
-   887
+   1280
   ],
   "credit": {
-   "by": "guyincognito",
+   "by": "Robin Gwen Agarwal",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/19095297",
+   "url": "https://www.inaturalist.org/photos/246061362",
    "source": "iNaturalist"
   },
   "obs": 1553,
@@ -30875,12 +31140,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lissodelphis-borealis.webp",
     "size": [
      1400,
-     887
+     1280
     ],
     "credit": {
-     "by": "guyincognito",
+     "by": "Robin Gwen Agarwal",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/19095297",
+     "url": "https://www.inaturalist.org/photos/246061362",
      "source": "iNaturalist"
     }
    },
@@ -30888,12 +31153,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lissodelphis-borealis-2.webp",
     "size": [
      1100,
-     712
+     650
     ],
     "credit": {
-     "by": "James Maughn",
+     "by": "Robin Gwen Agarwal",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/12046712",
+     "url": "https://www.inaturalist.org/photos/240434693",
      "source": "iNaturalist"
     }
    },
@@ -30901,12 +31166,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lissodelphis-borealis-3.webp",
     "size": [
      1100,
-     887
+     688
     ],
     "credit": {
-     "by": "James Maughn",
+     "by": "Robin Gwen Agarwal",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/12046716",
+     "url": "https://www.inaturalist.org/photos/177052863",
      "source": "iNaturalist"
     }
    }
@@ -30915,6 +31180,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Northern_right_whale_dolphin",
   "curated": true
  },
  {
@@ -30924,9 +31190,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De noordelijke zeebeer is een in de Beringzee levende oorrob.",
   "facts": [
-   "Mannetjes zijn vier keer zo zwaar als vrouwtjes: zo'n 200 tegen 50 kilo.",
-   "De grootste kolonie ligt op de Pribilofeilanden in de Beringzee.",
-   "Jongen worden met een zwarte vacht geboren en kunnen meteen zwemmen."
+   "Zijn achterflippers zijn de langste van alle zeeleeuwen en zeeberen.",
+   "Zijn snorharen zijn zo lang dat ze vaak voorbij zijn oren steken.",
+   "Eén mannetje kan in één seizoen met wel 50 vrouwtjes paren."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Noordelijke_zeebeer",
   "img": "images/callorhinus-ursinus.webp",
@@ -30960,12 +31226,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/callorhinus-ursinus-2.webp",
     "size": [
      1100,
-     733
+     734
     ],
     "credit": {
-     "by": "Linda",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/79224018",
+     "by": "no rights reserved",
+     "license": "CC0",
+     "url": "https://www.inaturalist.org/photos/306868691",
      "source": "iNaturalist"
     }
    },
@@ -30973,12 +31239,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/callorhinus-ursinus-3.webp",
     "size": [
      1100,
-     733
+     615
     ],
     "credit": {
-     "by": "Gabe T",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/28315775",
+     "by": "Liam Ragan",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/431602460",
      "source": "iNaturalist"
     }
    }
@@ -30987,6 +31253,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Otariidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Northern_fur_seal",
   "curated": true
  },
  {
@@ -30996,9 +31263,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De noordelijke zeeolifant is een van de twee soorten zeeolifanten.",
   "facts": [
-   "Mannetjes kunnen 2500 kilo wegen.",
-   "Mannetjes duiken tot wel 1500 meter diep.",
-   "Eind 19e eeuw was hij bijna uitgestorven."
+   "Eind 19e eeuw waren er misschien nog maar 20 tot 40 over; nu zijn het er weer heel veel.",
+   "Hij bewaart extra zuurstofrijk bloed in zijn milt, als een duikfles.",
+   "Met zijn snorharen voelt hij prooien in het donker beter dan met zijn ogen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Noordelijke_zeeolifant",
   "img": "images/mirounga-angustirostris.webp",
@@ -31032,19 +31299,6 @@ window.OCEAN_ANIMALS = [
     "img": "images/mirounga-angustirostris-2.webp",
     "size": [
      1100,
-     733
-    ],
-    "credit": {
-     "by": "rabbitlady101",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/182763170",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/mirounga-angustirostris-3.webp",
-    "size": [
-     1100,
      880
     ],
     "credit": {
@@ -31053,12 +31307,26 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/109363496",
      "source": "iNaturalist"
     }
+   },
+   {
+    "img": "images/mirounga-angustirostris-3.webp",
+    "size": [
+     1100,
+     734
+    ],
+    "credit": {
+     "by": "John Sullivan",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/360606570",
+     "source": "iNaturalist"
+    }
    }
   ],
   "thumb": "thumbs/mirounga-angustirostris.webp",
   "order": "Carnivora",
   "family": "Phocidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Northern_elephant_seal",
   "curated": true
  },
  {
@@ -31068,9 +31336,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De noordkaper is een walvis uit de familie van de echte walvissen, een van de drie soorten uit het geslacht van de noordkapers.",
   "facts": [
-   "De grootste ooit gevonden was 18 meter lang en woog ruim 117.000 kilo.",
-   "Hij eet piepkleine roeipootkreeftjes en ander plankton.",
-   "Aanvaringen met schepen en visnetten zijn zijn grootste bedreiging."
+   "Zijn ademwolk heeft de vorm van een hart.",
+   "Zijn kop is een kwart van zijn hele lijf.",
+   "De oudst bekende noordkaper werd zo'n 70 jaar."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Noordkaper",
   "img": "images/eubalaena-glacialis.webp",
@@ -31104,12 +31372,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/eubalaena-glacialis-2.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "FWC Fish and Wildlife Research Institute",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/186307015",
+     "by": "Stuart Tingley",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/110558182",
      "source": "iNaturalist"
     }
    },
@@ -31117,12 +31385,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/eubalaena-glacialis-3.webp",
     "size": [
      1100,
-     733
+     732
     ],
     "credit": {
-     "by": "FWC Fish and Wildlife Research Institute",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/186307019",
+     "by": "Stuart Tingley",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/110558224",
      "source": "iNaturalist"
     }
    }
@@ -31131,6 +31399,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Balaenidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/North_Atlantic_right_whale",
   "curated": true
  },
  {
@@ -31140,20 +31409,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De noordse vinvis, soms Noorse vinvis genoemd, is een baleinwalvis uit de familie der vinvissen.",
   "facts": [
-   "Hij is een snelle zwemmer, tot 55 kilometer per uur.",
-   "Hij eet minstens 100 tot 200 kilo voedsel per dag.",
-   "Hij kan 65 tot 70 jaar oud worden."
+   "Hij is een van de snelste walvissen, tot zo'n 55 kilometer per uur.",
+   "De oudst bekende noordse vinvis werd 74 jaar.",
+   "Bij het duiken zakt hij gewoon weg; alleen zijn rugvin en blaasgat blijven nog even zichtbaar."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Noordse_vinvis",
   "img": "images/balaenoptera-borealis.webp",
   "imgSize": [
    1400,
-   931
+   788
   ],
   "credit": {
-   "by": "Mette Hesselholt Henne Hansen",
+   "by": "jackmckee50",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/104842153",
+   "url": "https://www.inaturalist.org/photos/698247820",
    "source": "iNaturalist"
   },
   "obs": 21450,
@@ -31163,25 +31432,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/balaenoptera-borealis.webp",
     "size": [
      1400,
-     931
+     788
     ],
     "credit": {
-     "by": "Mette Hesselholt Henne Hansen",
+     "by": "jackmckee50",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/104842153",
+     "url": "https://www.inaturalist.org/photos/698247820",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/balaenoptera-borealis-2.webp",
     "size": [
-     898,
-     643
+     1100,
+     648
     ],
     "credit": {
-     "by": "Christin Khan",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/51082524",
+     "by": "ritaleitao",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/244137043",
      "source": "iNaturalist"
     }
    },
@@ -31189,12 +31458,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/balaenoptera-borealis-3.webp",
     "size": [
      1100,
-     880
+     732
     ],
     "credit": {
-     "by": "Sara Simma",
+     "by": "Mette Hesselholt Henne Hansen",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/17988257",
+     "url": "https://www.inaturalist.org/photos/104842153",
      "source": "iNaturalist"
     }
    }
@@ -31203,6 +31472,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Balaenopteridae",
   "ns": 171,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sei_whale",
   "curated": true
  },
  {
@@ -31212,20 +31482,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De orka of zwaardwalvis is de grootste vertegenwoordiger van de familie der dolfijnen.",
   "facts": [
-   "Hij is de grootste dolfijn en zijn rugvin kan 2 meter hoog zijn.",
-   "In een groep heeft het oudste vrouwtje vaak de leiding.",
-   "Er is maar één gedocumenteerde 'aanval' van een wilde orka op een mens."
+   "Orka's hebben 'cultuur': elke groep heeft eigen jachttrucs en geluiden die ze doorgeven aan hun jongen.",
+   "Vrouwtjes worden tot 90 jaar oud, dus soms zwemmen er zes generaties samen.",
+   "Wilde orka's plagen soms onderzoekers door voorwerpen weg te duwen die ze willen pakken."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Orka",
   "img": "images/orcinus-orca.webp",
   "imgSize": [
    1400,
-   930
+   1050
   ],
   "credit": {
-   "by": "Robert Pittman",
-   "license": "PD",
-   "url": "https://www.inaturalist.org/photos/360303852",
+   "by": "Sherry Kirkvold",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/223550594",
    "source": "iNaturalist"
   },
   "obs": 41782,
@@ -31235,12 +31505,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/orcinus-orca.webp",
     "size": [
      1400,
-     930
+     1050
     ],
     "credit": {
-     "by": "Robert Pittman",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/360303852",
+     "by": "Sherry Kirkvold",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/223550594",
      "source": "iNaturalist"
     }
    },
@@ -31248,12 +31518,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/orcinus-orca-2.webp",
     "size": [
      1100,
-     824
+     733
     ],
     "credit": {
-     "by": "Martín Acosta Albarracín",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/363511814",
+     "by": "Sabine Templeton",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/213848580",
      "source": "iNaturalist"
     }
    },
@@ -31261,12 +31531,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/orcinus-orca-3.webp",
     "size": [
      1100,
-     733
+     731
     ],
     "credit": {
-     "by": "Zach Baranowski",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/28076087",
+     "by": "Robert Pittman",
+     "license": "PD",
+     "url": "https://www.inaturalist.org/photos/360303852",
      "source": "iNaturalist"
     }
    }
@@ -31275,6 +31545,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 268,
+  "wikiEn": "https://en.wikipedia.org/wiki/Orca",
   "curated": true
  },
  {
@@ -31284,9 +31555,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De potvis of cachelot is een walvis uit de familie van de potvissen.",
   "facts": [
-   "Grote mannetjes duiken waarschijnlijk tot 2500 à 2900 meter diep.",
-   "In de maag van een potvis werd een pijlinktvis van zo'n tien meter gevonden.",
-   "Hij kan 77 jaar oud worden."
+   "Hij heeft het grootste brein van alle dieren ooit: meer dan vijf keer zo zwaar als dat van een mens.",
+   "Hij is het luidste dier ter wereld: zijn klikken halen 236 decibel.",
+   "Elke potvis heeft een eigen klik, als een stem die je kunt herkennen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Potvis",
   "img": "images/physeter-macrocephalus.webp",
@@ -31320,12 +31591,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/physeter-macrocephalus-2.webp",
     "size": [
      1100,
-     756
+     733
     ],
     "credit": {
-     "by": "hdmiller",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/23223503",
+     "by": "Jane Kempler &amp; Andrew Goldby Freelance",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/604186154",
      "source": "iNaturalist"
     }
    },
@@ -31333,12 +31604,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/physeter-macrocephalus-3.webp",
     "size": [
      1100,
-     790
+     813
     ],
     "credit": {
-     "by": "Rino",
+     "by": "Martin Holladay",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/100408064",
+     "url": "https://www.inaturalist.org/photos/649789156",
      "source": "iNaturalist"
     }
    }
@@ -31347,6 +31618,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Physeteridae",
   "ns": 255,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sperm_whale",
   "curated": true
  },
  {
@@ -31356,9 +31628,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De ringelrob, stinkrob of kleine zeehond is een zeeroofdier uit de familie van de zeehonden.",
   "facts": [
-   "Hij is het kleinste zeezoogdier van de Noordzee.",
+   "Hij is de kleinste en meest voorkomende zeehond van het Noordpoolgebied.",
    "Hij graaft holen in de sneeuw van wel 7 meter lang voor zijn jong.",
-   "De ijsbeer is zijn grootste vijand."
+   "Hij kan 40 jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Ringelrob",
   "img": "images/pusa-hispida.webp",
@@ -31367,9 +31639,9 @@ window.OCEAN_ANIMALS = [
    933
   ],
   "credit": {
-   "by": "Kingfisher",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/12265846",
+   "by": "Mike V.A. Burrell",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/5361740",
    "source": "iNaturalist"
   },
   "obs": 29002,
@@ -31382,9 +31654,9 @@ window.OCEAN_ANIMALS = [
      933
     ],
     "credit": {
-     "by": "Kingfisher",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/12265846",
+     "by": "Mike V.A. Burrell",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/5361740",
      "source": "iNaturalist"
     }
    },
@@ -31392,12 +31664,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pusa-hispida-2.webp",
     "size": [
      1100,
-     813
+     734
     ],
     "credit": {
-     "by": "Estormiz",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/200722295",
+     "by": "Viktor N. Chekan",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/282136950",
      "source": "iNaturalist"
     }
    },
@@ -31405,12 +31677,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pusa-hispida-3.webp",
     "size": [
      1100,
-     733
+     734
     ],
     "credit": {
-     "by": "TheFlyingPanda",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/172489342",
+     "by": "Татьяна",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/407110962",
      "source": "iNaturalist"
     }
    }
@@ -31419,6 +31691,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Phocidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Ringed_seal",
   "curated": true
  },
  {
@@ -31428,20 +31701,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De Rosszeehond is een op het pakijs in de Zuidelijke Oceaan veel voorkomende zeehondensoort.",
   "facts": [
-   "Hij heeft enorme ogen met een doorsnede van 7 centimeter.",
-   "Hij verlaat de Antarctische wateren nooit.",
-   "Hij maakt kwetterende geluiden die onder water ver dragen."
+   "Zijn naam betekent 'oog-rob': zijn ogen zijn tot 7 centimeter groot.",
+   "Hij maakt sirene-achtige geluiden met zijn mond dicht, zonder lucht uit te blazen.",
+   "Zijn pups krijgen maar vier weken melk."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Rosszeehond",
   "img": "images/ommatophoca-rossii.webp",
   "imgSize": [
    1400,
-   933
+   1050
   ],
   "credit": {
-   "by": "Justin Hofman",
+   "by": "chrismm",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/602503199",
+   "url": "https://www.inaturalist.org/photos/388417491",
    "source": "iNaturalist"
   },
   "obs": 1303,
@@ -31451,12 +31724,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/ommatophoca-rossii.webp",
     "size": [
      1400,
-     933
+     1050
     ],
     "credit": {
-     "by": "Justin Hofman",
+     "by": "chrismm",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/602503199",
+     "url": "https://www.inaturalist.org/photos/388417491",
      "source": "iNaturalist"
     }
    },
@@ -31464,25 +31737,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/ommatophoca-rossii-2.webp",
     "size": [
      1100,
-     733
+     873
     ],
     "credit": {
-     "by": "Ginette Vachon",
+     "by": "Janel Saydam",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/2198016",
+     "url": "https://www.inaturalist.org/photos/600192082",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/ommatophoca-rossii-3.webp",
     "size": [
-     1100,
-     734
+     1000,
+     631
     ],
     "credit": {
-     "by": "biboudaf",
+     "by": "timmcclurg",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/176674075",
+     "url": "https://www.inaturalist.org/photos/253357208",
      "source": "iNaturalist"
     }
    }
@@ -31491,6 +31764,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Phocidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Ross_seal",
   "curated": true
  },
  {
@@ -31500,9 +31774,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De snaveldolfijn is een kleine tandwalvis die tot de dolfijnenfamilie behoort.",
   "facts": [
-   "Hij dankt zijn naam aan zijn opvallend lange snuit.",
-   "Zijn tanden zijn ruw door verticale richeltjes.",
-   "Zijn flanken hebben een paarsige glans."
+   "Zijn tanden zijn ruw door smalle richeltjes; daar dankt hij zijn Engelse naam 'rough-toothed' aan.",
+   "Zijn onderkaak is wit, soms met een roze gloed.",
+   "Zijn echoklikjes zijn ongewoon kort: hooguit 0,2 seconden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Snaveldolfijn",
   "img": "images/steno-bredanensis.webp",
@@ -31536,6 +31810,19 @@ window.OCEAN_ANIMALS = [
     "img": "images/steno-bredanensis-2.webp",
     "size": [
      1100,
+     694
+    ],
+    "credit": {
+     "by": "dougiewainwright",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/340859062",
+     "source": "iNaturalist"
+    }
+   },
+   {
+    "img": "images/steno-bredanensis-3.webp",
+    "size": [
+     1100,
      733
     ],
     "credit": {
@@ -31544,25 +31831,13 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/452235610",
      "source": "iNaturalist"
     }
-   },
-   {
-    "img": "images/steno-bredanensis-3.webp",
-    "size": [
-     1100,
-     637
-    ],
-    "credit": {
-     "by": "Rafael de la Parra",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/55924920",
-     "source": "iNaturalist"
-    }
    }
   ],
   "thumb": "thumbs/steno-bredanensis.webp",
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Rough-toothed_dolphin",
   "curated": true
  },
  {
@@ -31572,20 +31847,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De Stellerzeeleeuw is de grootste soort uit de familie der oorrobben.",
   "facts": [
-   "Hij is de grootste oorrob.",
-   "Hij jaagt vooral 's nachts, 15 tot 25 kilometer uit de kust.",
-   "Soms zoogt een vrouwtje drie jongen van verschillende jaren tegelijk."
+   "Alleen de walrus en de zeeolifanten zijn groter dan hij.",
+   "Pups worden bijna zwart geboren; volwassen dieren zijn lichtgeel tot roodbruin.",
+   "Onder water maakt hij klikken, blaffen en boeren."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Stellerzeeleeuw",
   "img": "images/eumetopias-jubatus.webp",
   "imgSize": [
    1400,
-   931
+   977
   ],
   "credit": {
-   "by": "Thomas",
-   "license": "CC-BY-ND",
-   "url": "https://www.inaturalist.org/photos/60007629",
+   "by": "Steven Mlodinow",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/2966237",
    "source": "iNaturalist"
   },
   "obs": 11552,
@@ -31595,12 +31870,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/eumetopias-jubatus.webp",
     "size": [
      1400,
-     931
+     977
     ],
     "credit": {
-     "by": "Thomas",
-     "license": "CC-BY-ND",
-     "url": "https://www.inaturalist.org/photos/60007629",
+     "by": "Steven Mlodinow",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/2966237",
      "source": "iNaturalist"
     }
    },
@@ -31608,12 +31883,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/eumetopias-jubatus-2.webp",
     "size": [
      1100,
-     619
+     734
     ],
     "credit": {
-     "by": "Tuoichen",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/64658440",
+     "by": "Jason Headley",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/170699017",
      "source": "iNaturalist"
     }
    },
@@ -31621,12 +31896,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/eumetopias-jubatus-3.webp",
     "size": [
      1100,
-     734
+     732
     ],
     "credit": {
-     "by": "L Pittman",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/1160127",
+     "by": "Thomas",
+     "license": "CC-BY-ND",
+     "url": "https://www.inaturalist.org/photos/60007629",
      "source": "iNaturalist"
     }
    }
@@ -31635,6 +31910,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Otariidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Steller_sea_lion",
   "curated": true
  },
  {
@@ -31644,9 +31920,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De tuimelaar is een dolfijnensoort.",
   "facts": [
-   "Met zijn sonar vindt hij vis, zelfs in troebel water.",
-   "Hij onthoudt geluiden van anderen jarenlang: een sterk geheugen.",
-   "Hij heeft een uitgebreide 'taal' van geluiden, al weten we niet of het echt een taal is."
+   "Hij heeft het langste sociale geheugen van alle dieren: hij herkent het fluitje van een vriend na meer dan 20 jaar.",
+   "Elke tuimelaar heeft een eigen 'naam': een uniek fluitje.",
+   "Hij verdooft vissen met geluid of slaat ze tegen het koraal."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Tuimelaar",
   "img": "images/tursiops-truncatus.webp",
@@ -31680,12 +31956,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/tursiops-truncatus-2.webp",
     "size": [
      1100,
-     717
+     732
     ],
     "credit": {
-     "by": "Laurent Bouveret",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/186561621",
+     "by": "Sergio Martínez",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/9448595",
      "source": "iNaturalist"
     }
    },
@@ -31693,12 +31969,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/tursiops-truncatus-3.webp",
     "size": [
      1100,
-     777
+     743
     ],
     "credit": {
-     "by": "Punkus",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/341667124",
+     "by": "Dean Hester",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/50888296",
      "source": "iNaturalist"
     }
    }
@@ -31707,6 +31983,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 736,
+  "wikiEn": "https://en.wikipedia.org/wiki/Common_bottlenose_dolphin",
   "curated": true
  },
  {
@@ -31716,20 +31993,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De walrus is een zeeroofdier van de koude zeeën van het noordelijke halfrond.",
   "facts": [
-   "Zowel mannetjes als vrouwtjes hebben slagtanden.",
-   "Oudere mannetjes kunnen bijna wit worden.",
-   "Hij is bijzonder agressief tegen ijsberen."
+   "Zijn snorharen zijn zo gevoelig dat hij er vormen mee kan onderscheiden.",
+   "Zowel mannetjes als vrouwtjes hebben slagtanden, tot bijna een meter lang.",
+   "Op Spitsbergen was hij in 1952 bijna verdwenen, maar dankzij een jachtverbod kwam hij terug."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Walrus",
   "img": "images/odobenus-rosmarus.webp",
   "imgSize": [
    1400,
-   933
+   881
   ],
   "credit": {
-   "by": "Sheelagh Halsey",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/53721113",
+   "by": "alexander_semenov",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/330739632",
    "source": "iNaturalist"
   },
   "obs": 28152,
@@ -31739,12 +32016,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/odobenus-rosmarus.webp",
     "size": [
      1400,
-     933
+     881
     ],
     "credit": {
-     "by": "Sheelagh Halsey",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/53721113",
+     "by": "alexander_semenov",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/330739632",
      "source": "iNaturalist"
     }
    },
@@ -31752,12 +32029,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/odobenus-rosmarus-2.webp",
     "size": [
      1100,
-     1100
+     750
     ],
     "credit": {
-     "by": "jfavery",
+     "by": "alexander_semenov",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/218134551",
+     "url": "https://www.inaturalist.org/photos/330739492",
      "source": "iNaturalist"
     }
    },
@@ -31765,12 +32042,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/odobenus-rosmarus-3.webp",
     "size": [
      1100,
-     726
+     733
     ],
     "credit": {
-     "by": "Sebastián Lescano",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/309355722",
+     "by": "Sheelagh Halsey",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/53721113",
      "source": "iNaturalist"
     }
    }
@@ -31779,6 +32056,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Odobenidae",
   "ns": 45,
+  "wikiEn": "https://en.wikipedia.org/wiki/Walrus",
   "curated": true
  },
  {
@@ -31788,9 +32066,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De Weddellzeehond is een van de meest voorkomende zeehonden in Antarctica en genoemd naar de Weddellzee, een deel van de Zuidelijke Oceaan.",
   "facts": [
-   "Hij duikt tot 600 meter diep en blijft tot een uur onder water.",
-   "Op het ijs is hij mak, omdat hij daar geen vijanden heeft.",
-   "Hij houdt een wak in het ijs open tot het ijs 2 meter dik is."
+   "Hij 'zingt' onder het ijs, en elke zeehond heeft een eigen lied.",
+   "Het is een van de weinige zeehonden die een tweeling kan krijgen.",
+   "Hij duikt tot 600 meter diep en blijft tot een uur onder water."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Weddellzeehond",
   "img": "images/leptonychotes-weddellii.webp",
@@ -31824,12 +32102,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/leptonychotes-weddellii-2.webp",
     "size": [
      1100,
-     731
+     825
     ],
     "credit": {
-     "by": "Erasmo Macaya Horta",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/12771003",
+     "by": "Nidhin Cyril Joseph",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/28500747",
      "source": "iNaturalist"
     }
    },
@@ -31837,12 +32115,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/leptonychotes-weddellii-3.webp",
     "size": [
      1100,
-     762
+     733
     ],
     "credit": {
-     "by": "Chelsea Fairley",
+     "by": "romanlabrousse",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/468147124",
+     "url": "https://www.inaturalist.org/photos/178017449",
      "source": "iNaturalist"
     }
    }
@@ -31851,6 +32129,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Phocidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Weddell_seal",
   "curated": true
  },
  {
@@ -31860,9 +32139,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De West-Afrikaanse lamantijn is een lamantijn en daarmee lid van de aquatische zoogdierenorde Sirenia, de zeekoeien.",
   "facts": [
-   "Hij heeft geen achterpoten; die zijn vergroeid tot een staart.",
-   "Hij zwemt ook rivieren op, tot in Mali, Niger en Tsjaad.",
-   "Hij is helemaal aangepast aan het leven onder water."
+   "Het is de enige lamantijn buiten Amerika.",
+   "Bij de Serer in Senegal is hij heilig: volgens hun scheppingsverhaal bewaakt hij de geheimen van de toekomst.",
+   "Hij zwemt rivieren op tot in Mali, Niger en Tsjaad."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/West-Afrikaanse_lamantijn",
   "img": "images/trichechus-senegalensis.webp",
@@ -31923,6 +32202,7 @@ window.OCEAN_ANIMALS = [
   "order": "Sirenia",
   "family": "Trichechidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/African_manatee",
   "curated": true
  },
  {
@@ -31932,20 +32212,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De witflankdolfijn is een soort uit de familie dolfijnachtigen.",
   "facts": [
-   "Hij ademt meestal om de 20 seconden, maar kan 5 minuten duiken.",
-   "Groepen kunnen uit duizenden dolfijnen bestaan.",
-   "Ze jagen samen op scholen vis zoals haring."
+   "Achter zijn rugvin heeft hij een witte tot lichtgele vlek die je bij geen andere dolfijn ziet.",
+   "In grote groepen springt hij vaker: waarschijnlijk is dat sociaal.",
+   "Groepen bestaan niet uit familie, maar zijn eerder 'samen sterk'."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Witflankdolfijn",
   "img": "images/lagenorhynchus-acutus.webp",
   "imgSize": [
    1400,
-   933
+   788
   ],
   "credit": {
-   "by": "Cody Limber",
-   "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/227510649",
+   "by": "Ryan Van Meter",
+   "license": "CC-BY-NC-ND",
+   "url": "https://www.inaturalist.org/photos/418606567",
    "source": "iNaturalist"
   },
   "obs": 13659,
@@ -31955,12 +32235,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lagenorhynchus-acutus.webp",
     "size": [
      1400,
-     933
+     788
     ],
     "credit": {
-     "by": "Cody Limber",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/227510649",
+     "by": "Ryan Van Meter",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/418606567",
      "source": "iNaturalist"
     }
    },
@@ -31968,12 +32248,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lagenorhynchus-acutus-2.webp",
     "size": [
      1100,
-     672
+     867
     ],
     "credit": {
-     "by": "Ryan Van Meter",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/163544374",
+     "by": "Austin Bow",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/511339041",
      "source": "iNaturalist"
     }
    },
@@ -31981,12 +32261,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lagenorhynchus-acutus-3.webp",
     "size": [
      1100,
-     733
+     648
     ],
     "credit": {
-     "by": "charm",
+     "by": "yeungmenteu",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/148485008",
+     "url": "https://www.inaturalist.org/photos/462438488",
      "source": "iNaturalist"
     }
    }
@@ -31995,6 +32275,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 263,
+  "wikiEn": "https://en.wikipedia.org/wiki/Atlantic_white-sided_dolphin",
   "curated": true
  },
  {
@@ -32004,8 +32285,8 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De witsnuitdolfijn is een walvissoort die behoort tot de dolfijnenfamilie.",
   "facts": [
-   "Hij heeft een korte, dikke snuit en een bol voorhoofd.",
-   "Hij wordt 2,4 tot 2,9 meter lang.",
+   "Zijn rechterflipper is vaak sterker dan zijn linker: hij is misschien 'rechtshandig'!",
+   "Hij zwemt graag mee met de boeggolf van snelle boten.",
    "Hij komt ook in de Noordzee voor."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Witsnuitdolfijn",
@@ -32015,9 +32296,9 @@ window.OCEAN_ANIMALS = [
    933
   ],
   "credit": {
-   "by": "Charlotte Kirchner",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/146341190",
+   "by": "Sigrún Helgu",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/245196519",
    "source": "iNaturalist"
   },
   "obs": 11925,
@@ -32030,9 +32311,9 @@ window.OCEAN_ANIMALS = [
      933
     ],
     "credit": {
-     "by": "Charlotte Kirchner",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/146341190",
+     "by": "Sigrún Helgu",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/245196519",
      "source": "iNaturalist"
     }
    },
@@ -32040,12 +32321,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lagenorhynchus-albirostris-2.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Ivar Abrahamsen",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/73930",
+     "by": "Stijn",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/550944401",
      "source": "iNaturalist"
     }
    },
@@ -32053,12 +32334,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/lagenorhynchus-albirostris-3.webp",
     "size": [
      1100,
-     664
+     611
     ],
     "credit": {
-     "by": "desertnaturalist",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/65329744",
+     "by": "Isabel C. Avila",
+     "license": "CC-BY-NC-ND",
+     "url": "https://www.inaturalist.org/photos/438195478",
      "source": "iNaturalist"
     }
    }
@@ -32067,6 +32348,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 3098,
+  "wikiEn": "https://en.wikipedia.org/wiki/White-beaked_dolphin",
   "curated": true
  },
  {
@@ -32076,9 +32358,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De witte dolfijn, ook wel beloega of witte walvis genoemd, is een tandwalvis, meer bepaald een grondeldolfijn.",
   "facts": [
-   "Anders dan de meeste walvissen kan hij knikken en zijn hoofd draaien.",
-   "Jongen zijn grijs; volwassen dieren zijn melkwit.",
-   "Een beloega in gevangenschap probeerde menselijke stemmen na te doen."
+   "Zijn roep klinkt als vogelgezang: hij heet ook wel 'de kanarie van de zee'.",
+   "Beloega NOC leerde menselijke spraak na te doen.",
+   "Anders dan de meeste walvissen kan hij knikken en zijn hoofd draaien."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Witte_dolfijn",
   "img": "images/delphinapterus-leucas.webp",
@@ -32087,9 +32369,9 @@ window.OCEAN_ANIMALS = [
    1050
   ],
   "credit": {
-   "by": "Hafiz Issadeen",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/66927700",
+   "by": "kathleenfspicer",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/13972749",
    "source": "iNaturalist"
   },
   "obs": 12941,
@@ -32102,22 +32384,22 @@ window.OCEAN_ANIMALS = [
      1050
     ],
     "credit": {
-     "by": "Hafiz Issadeen",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/66927700",
+     "by": "kathleenfspicer",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/13972749",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/delphinapterus-leucas-2.webp",
     "size": [
-     1100,
-     736
+     1000,
+     824
     ],
     "credit": {
-     "by": "Pburka",
-     "license": "PD",
-     "url": "https://www.inaturalist.org/photos/162130889",
+     "by": "Mark Davidson",
+     "license": "CC-BY-NC-SA",
+     "url": "https://www.inaturalist.org/photos/15033336",
      "source": "iNaturalist"
     }
    },
@@ -32125,12 +32407,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/delphinapterus-leucas-3.webp",
     "size": [
      1100,
-     733
+     825
     ],
     "credit": {
-     "by": "Fundación Caja Mediterráneo",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/66927701",
+     "by": "Hafiz Issadeen",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/66927700",
      "source": "iNaturalist"
     }
    }
@@ -32139,6 +32421,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Monodontidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Beluga_whale",
   "curated": true
  },
  {
@@ -32148,9 +32431,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De zadelrob is een zeehond, die leeft in het noorden van de Atlantische Oceaan en in de Noordelijke IJszee, rond de Noordpool.",
   "facts": [
-   "Hij kan 30 minuten onder water blijven en 280 meter diep duiken.",
-   "Hij brengt het grootste deel van zijn leven in het water door.",
-   "Beelden van de jacht op zijn pups leidden wereldwijd tot protesten."
+   "Een geboorte kan maar 15 seconden duren.",
+   "Onder water gebruiken volwassen dieren meer dan 19 soorten geluiden bij het versieren.",
+   "Zijn ogen en neus hebben een 'warmtewisselaar' die lichaamswarmte vasthoudt."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zadelrob",
   "img": "images/pagophilus-groenlandicus.webp",
@@ -32159,9 +32442,9 @@ window.OCEAN_ANIMALS = [
    933
   ],
   "credit": {
-   "by": "Doug Suitor",
+   "by": "Joshua Liverman",
    "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/141027830",
+   "url": "https://www.inaturalist.org/photos/13597936",
    "source": "iNaturalist"
   },
   "obs": 7785,
@@ -32174,9 +32457,9 @@ window.OCEAN_ANIMALS = [
      933
     ],
     "credit": {
-     "by": "Doug Suitor",
+     "by": "Joshua Liverman",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/141027830",
+     "url": "https://www.inaturalist.org/photos/13597936",
      "source": "iNaturalist"
     }
    },
@@ -32184,25 +32467,25 @@ window.OCEAN_ANIMALS = [
     "img": "images/pagophilus-groenlandicus-2.webp",
     "size": [
      1100,
-     733
+     880
     ],
     "credit": {
-     "by": "Marie Hosch",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/30684608",
+     "by": "Krystyn Scrbic",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/260236328",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/pagophilus-groenlandicus-3.webp",
     "size": [
-     1024,
-     768
+     1100,
+     733
     ],
     "credit": {
-     "by": "Gene Herzberg",
+     "by": "Doug Suitor",
      "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/111165511",
+     "url": "https://www.inaturalist.org/photos/141027830",
      "source": "iNaturalist"
     }
    }
@@ -32211,6 +32494,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Phocidae",
   "ns": 13,
+  "wikiEn": "https://en.wikipedia.org/wiki/Harp_seal",
   "curated": true
  },
  {
@@ -32220,20 +32504,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De zeeluipaard is een zeehond uit de familie Phocidae.",
   "facts": [
-   "Hij slingert pinguïns heen en weer boven het water om ze in stukken te scheuren.",
-   "Hij achtervolgt zijn prooi soms tot op het ijs.",
-   "Met speciale tanden kan hij ook krill uit het water zeven."
+   "Hij jaagt op pinguïns, en slingert die heen en weer om ze in stukken te scheuren.",
+   "Mannetjes zingen onder water een eigen 'lied' met trillers en hoe-geluiden.",
+   "Hij kan ook krill uit het water zeven met speciale tanden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zeeluipaard",
   "img": "images/hydrurga-leptonyx.webp",
   "imgSize": [
    1400,
-   927
+   933
   ],
   "credit": {
-   "by": "Mike Bowie",
-   "license": "CC-BY",
-   "url": "https://www.inaturalist.org/photos/19460647",
+   "by": "Justin Hofman",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/445879661",
    "source": "iNaturalist"
   },
   "obs": 9805,
@@ -32243,30 +32527,17 @@ window.OCEAN_ANIMALS = [
     "img": "images/hydrurga-leptonyx.webp",
     "size": [
      1400,
-     927
+     933
     ],
     "credit": {
-     "by": "Mike Bowie",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/19460647",
+     "by": "Justin Hofman",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/445879661",
      "source": "iNaturalist"
     }
    },
    {
     "img": "images/hydrurga-leptonyx-2.webp",
-    "size": [
-     1100,
-     734
-    ],
-    "credit": {
-     "by": "Kim Nesbitt",
-     "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/258672936",
-     "source": "iNaturalist"
-    }
-   },
-   {
-    "img": "images/hydrurga-leptonyx-3.webp",
     "size": [
      1100,
      733
@@ -32277,12 +32548,26 @@ window.OCEAN_ANIMALS = [
      "url": "https://www.inaturalist.org/photos/89556998",
      "source": "iNaturalist"
     }
+   },
+   {
+    "img": "images/hydrurga-leptonyx-3.webp",
+    "size": [
+     1100,
+     734
+    ],
+    "credit": {
+     "by": "gillbsydney",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/72229853",
+     "source": "iNaturalist"
+    }
    }
   ],
   "thumb": "thumbs/hydrurga-leptonyx.webp",
   "order": "Carnivora",
   "family": "Phocidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Leopard_seal",
   "curated": true
  },
  {
@@ -32292,20 +32577,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De zeeotter is een grote, in zee levende otter.",
   "facts": [
-   "Hij eet elke dag zo'n kwart van zijn eigen gewicht om warm te blijven.",
-   "Om niet weg te drijven tijdens het slapen wikkelt hij zich in kelp.",
-   "Onder zijn oksel heeft hij huidplooien om voedsel in te bewaren."
+   "Hij is een van de weinige dieren die gereedschap gebruiken.",
+   "Een zeeoor zuigt zich vast met een kracht van 4000 keer zijn eigen gewicht; de otter moet er vaak meerdere keren voor duiken.",
+   "Om niet weg te drijven tijdens het slapen wikkelt hij zich in kelp."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zeeotter",
   "img": "images/enhydra-lutris.webp",
   "imgSize": [
    1400,
-   934
+   788
   ],
   "credit": {
-   "by": "Marshal Hedin",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/311432614",
+   "by": "Andrea Kreuzhage",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/173090796",
    "source": "iNaturalist"
   },
   "obs": 26988,
@@ -32315,12 +32600,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/enhydra-lutris.webp",
     "size": [
      1400,
-     934
+     788
     ],
     "credit": {
-     "by": "Marshal Hedin",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/311432614",
+     "by": "Andrea Kreuzhage",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/173090796",
      "source": "iNaturalist"
     }
    },
@@ -32341,12 +32626,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/enhydra-lutris-3.webp",
     "size": [
      1100,
-     734
+     733
     ],
     "credit": {
-     "by": "Mike Andersen",
-     "license": "CC-BY-NC-ND",
-     "url": "https://www.inaturalist.org/photos/19531902",
+     "by": "Mickey Wu",
+     "license": "CC-BY",
+     "url": "https://www.inaturalist.org/photos/557544676",
      "source": "iNaturalist"
     }
    }
@@ -32355,6 +32640,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Mustelidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Sea_otter",
   "curated": true
  },
  {
@@ -32364,20 +32650,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De zuidelijke zeeolifant is een van de twee soorten zeeolifanten.",
   "facts": [
-   "Mannetjes hebben een slurf waarmee ze heel hard kunnen brullen.",
-   "Het duikrecord staat op 2388 meter diep.",
-   "Eén mannetje kan in een seizoen met wel 40 vrouwtjes paren."
+   "Mannetjes zijn meer dan twee keer zo zwaar als een walrus.",
+   "Hij kan wekenlang achter elkaar op het droge blijven.",
+   "Het duikrecord staat op 2388 meter diep."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zuidelijke_zeeolifant",
   "img": "images/mirounga-leonina.webp",
   "imgSize": [
    1400,
-   933
+   789
   ],
   "credit": {
-   "by": "Antoine Lamielle",
-   "license": "CC-BY-SA",
-   "url": "https://www.inaturalist.org/photos/346639278",
+   "by": "andresmontalvoi",
+   "license": "CC-BY-NC",
+   "url": "https://www.inaturalist.org/photos/74623482",
    "source": "iNaturalist"
   },
   "obs": 1100900,
@@ -32387,12 +32673,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/mirounga-leonina.webp",
     "size": [
      1400,
-     933
+     789
     ],
     "credit": {
-     "by": "Antoine Lamielle",
-     "license": "CC-BY-SA",
-     "url": "https://www.inaturalist.org/photos/346639278",
+     "by": "andresmontalvoi",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/74623482",
      "source": "iNaturalist"
     }
    },
@@ -32403,9 +32689,9 @@ window.OCEAN_ANIMALS = [
      733
     ],
     "credit": {
-     "by": "MatiasG",
-     "license": "CC-BY-ND",
-     "url": "https://www.inaturalist.org/photos/58392187",
+     "by": "Adrien Mauss",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/55697851",
      "source": "iNaturalist"
     }
    },
@@ -32427,6 +32713,7 @@ window.OCEAN_ANIMALS = [
   "order": "Carnivora",
   "family": "Phocidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Southern_elephant_seal",
   "curated": true
  },
  {
@@ -32436,9 +32723,9 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De zuidkaper of Australische walvis is een walvis uit de familie van de echte walvissen, een van de drie soorten uit het geslacht van de noordkapers.",
   "facts": [
-   "Hij communiceert meer met aanrakingen en houdingen dan met geluid.",
-   "Soms steekt hij lang zijn staart rechtop uit het water, in de wind.",
-   "Een kalf is bij de geboorte al 4,6 tot 6 meter lang."
+   "Hij doet aan 'staartzeilen': hij steekt zijn staart rechtop in de wind en laat zich meevoeren.",
+   "De oudst bekende zuidkaper werd 70 jaar.",
+   "In Argentinië is de enige plek ter wereld waar je officieel met hem mag zwemmen."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zuidkaper",
   "img": "images/eubalaena-australis.webp",
@@ -32475,9 +32762,9 @@ window.OCEAN_ANIMALS = [
      619
     ],
     "credit": {
-     "by": "Nestor Galina",
-     "license": "CC-BY",
-     "url": "https://www.inaturalist.org/photos/28014",
+     "by": "Matias Ian Popoff",
+     "license": "CC-BY-NC",
+     "url": "https://www.inaturalist.org/photos/458005159",
      "source": "iNaturalist"
     }
    },
@@ -32485,12 +32772,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/eubalaena-australis-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "Pablo Fraire",
+     "by": "loan_1221",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/30314878",
+     "url": "https://www.inaturalist.org/photos/440508908",
      "source": "iNaturalist"
     }
    }
@@ -32499,6 +32786,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Balaenidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Southern_right_whale",
   "curated": true
  },
  {
@@ -32508,20 +32796,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De zwarte dolfijn is een walvisachtige uit de familie der spitssnuitdolfijnen.",
   "facts": [
-   "Hij is de grootste spitssnuitdolfijn, tot bijna 13 meter lang.",
-   "Hij kan ruim een uur onder water blijven.",
-   "Hij heeft meestal maar vier tanden, allemaal in zijn onderkaak."
+   "Na de potvis is hij de grootste tandwalvis.",
+   "Zijn paar tanden heten 'vechttanden': hij gebruikt ze in gevechten met soortgenoten.",
+   "Mannetjes kunnen 84 jaar oud worden."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zwarte_dolfijn",
   "img": "images/berardius-bairdii.webp",
   "imgSize": [
    1400,
-   692
+   1050
   ],
   "credit": {
-   "by": "markc666",
+   "by": "James Maughn",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/322952635",
+   "url": "https://www.inaturalist.org/photos/288375414",
    "source": "iNaturalist"
   },
   "obs": 739,
@@ -32531,12 +32819,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/berardius-bairdii.webp",
     "size": [
      1400,
-     692
+     1050
     ],
     "credit": {
-     "by": "markc666",
+     "by": "James Maughn",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/322952635",
+     "url": "https://www.inaturalist.org/photos/288375414",
      "source": "iNaturalist"
     }
    },
@@ -32544,12 +32832,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/berardius-bairdii-2.webp",
     "size": [
      1100,
-     825
+     544
     ],
     "credit": {
-     "by": "James Maughn",
+     "by": "markc666",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/288375414",
+     "url": "https://www.inaturalist.org/photos/322952635",
      "source": "iNaturalist"
     }
    },
@@ -32571,6 +32859,7 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Hyperoodontidae",
   "ns": 0,
+  "wikiEn": "https://en.wikipedia.org/wiki/Baird%27s_beaked_whale",
   "curated": true
  },
  {
@@ -32580,20 +32869,20 @@ window.OCEAN_ANIMALS = [
   "cat": "Zoogdieren",
   "intro": "De zwarte zwaardwalvis is een van de grotere leden van de dolfijnenfamilie.",
   "facts": [
-   "Hij dankt zijn naam aan zijn gelijkenis met de orka.",
-   "Hij jaagt op tonijn en kabeljauw, en soms op andere dolfijnen.",
-   "Hij kan zestig jaar oud worden."
+   "Hij is zo sociaal dat hele groepen samen stranden: in 1946 lagen er meer dan 800 op een strand in Argentinië.",
+   "Vrouwtjes leven nog lang na hun overgang, net als bij grienden.",
+   "Hij zwemt soms samen met tuimelaars."
   ],
   "wiki": "https://nl.wikipedia.org/wiki/Zwarte_zwaardwalvis",
   "img": "images/pseudorca-crassidens.webp",
   "imgSize": [
    1400,
-   788
+   1050
   ],
   "credit": {
-   "by": "gage_m",
+   "by": "Rafael de la Parra",
    "license": "CC-BY-NC",
-   "url": "https://www.inaturalist.org/photos/457666343",
+   "url": "https://www.inaturalist.org/photos/55991844",
    "source": "iNaturalist"
   },
   "obs": 10609,
@@ -32603,12 +32892,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pseudorca-crassidens.webp",
     "size": [
      1400,
-     788
+     1050
     ],
     "credit": {
-     "by": "gage_m",
+     "by": "Rafael de la Parra",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/457666343",
+     "url": "https://www.inaturalist.org/photos/55991844",
      "source": "iNaturalist"
     }
    },
@@ -32616,12 +32905,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pseudorca-crassidens-2.webp",
     "size": [
      1100,
-     825
+     739
     ],
     "credit": {
-     "by": "dnoby",
+     "by": "laurentdenoumea",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/159798566",
+     "url": "https://www.inaturalist.org/photos/534773746",
      "source": "iNaturalist"
     }
    },
@@ -32629,12 +32918,12 @@ window.OCEAN_ANIMALS = [
     "img": "images/pseudorca-crassidens-3.webp",
     "size": [
      1100,
-     825
+     733
     ],
     "credit": {
-     "by": "baulacarey",
+     "by": "clararodrigues",
      "license": "CC-BY-NC",
-     "url": "https://www.inaturalist.org/photos/229082685",
+     "url": "https://www.inaturalist.org/photos/80473834",
      "source": "iNaturalist"
     }
    }
@@ -32643,7 +32932,8 @@ window.OCEAN_ANIMALS = [
   "order": "Cetacea",
   "family": "Delphinidae",
   "ns": 26,
+  "wikiEn": "https://en.wikipedia.org/wiki/False_killer_whale",
   "curated": true
  }
 ];
-window.OCEAN_META = {"built": "2026-10-03", "offlineMB": 111};
+window.OCEAN_META = {"built": "2026-10-04", "offlineMB": 113};

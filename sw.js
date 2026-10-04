@@ -1,7 +1,8 @@
 // Service worker: maakt de Oceaanquiz installeerbaar en offline speelbaar.
-const VERSION = "v6";
+const VERSION = "v7";
 const SHELL = `oq-shell-${VERSION}`;
-const MEDIA = "oq-media"; // foto's en kaarten veranderen zelden: blijft bewaard tussen versies
+// foto's en kaarten veranderen zelden: blijft bewaard tussen versies, behalve als de foto's vernieuwd zijn
+const MEDIA = "oq-media-2";
 
 const SHELL_FILES = [
   "./", "index.html", "style.css", "app.js", "data.js", "manifest.webmanifest",
@@ -17,7 +18,7 @@ self.addEventListener("install", event => {
 self.addEventListener("activate", event => {
   event.waitUntil(
     caches.keys()
-      .then(keys => Promise.all(keys.filter(k => k.startsWith("oq-shell-") && k !== SHELL).map(k => caches.delete(k))))
+      .then(keys => Promise.all(keys.filter(k => (k.startsWith("oq-shell-") && k !== SHELL) || (k.startsWith("oq-media") && k !== MEDIA)).map(k => caches.delete(k))))
       .then(() => self.clients.claim())
   );
 });
