@@ -83,11 +83,7 @@ svg.i { width: 1.15em; height: 1.15em; flex: none; stroke: currentColor; fill: n
 .quiz-top { margin-top: env(safe-area-inset-top); }
 .appbar-inner { max-width: 1180px; margin: 0 auto; padding: 10px 20px; display: flex; align-items: center; gap: 24px; }
 .brand { display: flex; align-items: center; gap: 10px; background: none; border: 0; cursor: pointer; padding: 0; }
-.logo { width: 34px; height: 34px; border-radius: 10px; background: linear-gradient(135deg, #29a3e0, #0b4f8f); position: relative; box-shadow: var(--shadow-sm); }
-.logo::after {
-  content: ""; position: absolute; inset: 0;
-  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M6 19c3-4 6-4 9 0s6 4 11 0' stroke='white' stroke-width='2.6' fill='none' stroke-linecap='round'/%3E%3Cpath d='M10 13c2-3 5-4 9-2' stroke='white' stroke-width='2.6' fill='none' stroke-linecap='round' opacity='.7'/%3E%3C/svg%3E") center/100% no-repeat;
-}
+.logo { width: 34px; height: 34px; border-radius: 10px; background: #0aa8ec url("icons/favicon-64.png") center/cover no-repeat; box-shadow: var(--shadow-sm); }
 .brand-name { font: 800 19px var(--font-display); letter-spacing: -.03em; }
 .nav { display: flex; gap: 4px; }
 .nav-link { background: none; border: 0; padding: 8px 14px; border-radius: 999px; cursor: pointer; color: var(--text-2); font-weight: 600; }
