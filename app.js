@@ -109,6 +109,21 @@
       return ((h ^= h >>> 16) >>> 0) / 4294967296;
     };
   }
+  // Dieren van de dagelijkse uitdaging: een vaste volgorde door alle dieren, elke dag de volgende 10.
+  // Na een rondje (±46 dagen) wordt elke helft apart opnieuw geschud, zodat een dier minstens
+  // ruim drie weken wegblijft, ook over de grens van twee rondjes heen.
+  function dailyAnimals(key) {
+    const [y, m, d] = key.split("-").map(Number);
+    const day = Math.round((Date.UTC(y, m - 1, d) - Date.UTC(2026, 0, 1)) / 864e5);
+    const perCycle = Math.floor(ANIMALS.length / DAILY_LEN);
+    const cycle = Math.floor(day / perCycle), pos = ((day % perCycle) + perCycle) % perCycle;
+    let order = shuffle([...ANIMALS].sort((a, b) => a.id < b.id ? -1 : 1), seeded("oceaanquiz-rondje-0"));
+    for (let c = 1; c <= cycle; c++) {
+      const half = Math.ceil(order.length / 2), rnd = seeded("oceaanquiz-rondje-" + c);
+      order = [...shuffle(order.slice(0, half), rnd), ...shuffle(order.slice(half), rnd)];
+    }
+    return order.slice(pos * DAILY_LEN, (pos + 1) * DAILY_LEN);
+  }
   const todayKey = () => { const d = new Date(); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`; };
   const DAY = 86400000;
 
@@ -273,7 +288,7 @@
                 <h3>Dagelijkse uitdaging</h3>
                 <p>${todays
                   ? `Vandaag gespeeld: <b>${todays.correct}/${todays.total}</b> goed · ${fmt(todays.score)} punten. Morgen weer 10 nieuwe dieren!`
-                  : "Elke dag 10 dieren, voor iedereen dezelfde. Deel je score met vrienden."}
+                  : "Elke dag 10 andere dieren op niveau moeilijk, voor iedereen dezelfde. Deel je score met vrienden."}
                   ${streak > 1 ? `<br><span class="streak-txt">${icon("flame")} ${streak} dagen op rij</span>` : ""}</p>
               </div>
               <button class="btn ${todays ? "btn-secondary" : ""}" data-act="${todays ? "share-daily" : "daily"}">
@@ -582,9 +597,9 @@
     if (mode === "daily") {
       if (daily[todayKey()]) return shareDaily(todayKey());
       const rnd = seeded("oceaanquiz-" + todayKey());
-      difficulty = "normal"; qtype = "photo"; pool = ANIMALS;
+      difficulty = "hard"; qtype = "photo"; pool = ANIMALS;
       const opts = { difficulty, qtype, pool };
-      questions = shuffle(ANIMALS, rnd).slice(0, DAILY_LEN).map(a => makeQuestion(a, opts, rnd));
+      questions = shuffle(dailyAnimals(todayKey()), rnd).map(a => makeQuestion(a, opts, rnd));
     } else if (mode === "learn") {
       if (!pool.length) pool = ANIMALS;
       const now = Date.now();
