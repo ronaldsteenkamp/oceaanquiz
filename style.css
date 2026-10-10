@@ -439,6 +439,9 @@ select.sel { font: inherit; padding: 10px 12px; border-radius: 12px; border: 1px
 .card .thumb { position: relative; aspect-ratio: 4 / 3; background: var(--surface-3); overflow: hidden; }
 .card .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .4s; }
 .card:hover .thumb img { transform: scale(1.04); }
+.card.locked { cursor: default; color: inherit; filter: grayscale(.85) brightness(.85); }
+.card.locked:hover { transform: none; box-shadow: none; }
+.card.locked:hover .thumb img { transform: none; }
 .card .found { position: absolute; top: 8px; right: 8px; width: 24px; height: 24px; border-radius: 50%; background: var(--success); color: #fff; display: grid; place-items: center; box-shadow: var(--shadow-sm); }
 .card .found svg.i { width: 14px; height: 14px; stroke-width: 3; }
 .card .body { padding: 10px 12px 12px; }

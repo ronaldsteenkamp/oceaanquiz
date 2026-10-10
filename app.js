@@ -1073,8 +1073,8 @@
     </div>`;
   }
 
-  function cardHTML(a) {
-    return `<button class="card" data-id="${a.id}">
+  function cardHTML(a, locked = false) {
+    return `<button class="card${locked ? " locked" : ""}" data-id="${a.id}"${locked ? ` disabled title="Nog niet ontdekt: speel de quiz om dit dier te ontdekken"` : ""}>
       <span class="thumb"><img src="${a.thumb}" alt="" loading="lazy">
         ${found.has(a.id) ? `<span class="found" title="Ontdekt">${icon("check")}</span>` : ""}
         ${isNorthSea(a) ? `<span class="ns-badge" title="Komt voor in de Noordzee">${icon("waves")}</span>` : ""}</span>
@@ -1082,7 +1082,7 @@
     </button>`;
   }
   function bindCards(root, list) {
-    $$(".card", root).forEach(c => c.onclick = () => openDetail(BY_ID.get(c.dataset.id), list));
+    $$(".card:not(.locked)", root).forEach(c => c.onclick = () => openDetail(BY_ID.get(c.dataset.id), list));
   }
 
   // ================= Gids =================
@@ -1107,7 +1107,8 @@
     view.innerHTML = `
       <div class="container">
         <div class="guide-head">
-          <div><h1>Dierengids</h1><p>Alle ${ANIMALS.length} zeedieren uit de quiz, met feitjes, foto's en verspreidingskaarten.</p></div>
+          <div><h1>Dierengids</h1><p>Alle ${ANIMALS.length} zeedieren uit de quiz, met feitjes, foto's en verspreidingskaarten.
+            Je hebt er <b>${found.size}</b> ontdekt: raad een dier goed in de quiz om het hier te kunnen openen.</p></div>
         </div>
         <div class="toolbar">
           <div class="toolbar-row">
@@ -1145,9 +1146,10 @@
   function fillGuide() {
     const list = guideList();
     $("#g-count").textContent = `${list.length} ${list.length === 1 ? "dier" : "dieren"}`;
-    $("#g-grid").innerHTML = list.length ? list.map(cardHTML).join("")
+    $("#g-grid").innerHTML = list.length ? list.map(a => cardHTML(a, !found.has(a.id))).join("")
       : `<div class="empty-state">Geen dieren gevonden. Probeer een andere zoekterm.</div>`;
-    bindCards($("#g-grid"), list);
+    // alleen ontdekte dieren zijn te openen (ook bladeren in de detailweergave)
+    bindCards($("#g-grid"), list.filter(a => found.has(a.id)));
   }
 
   // ================= Over =================
