@@ -1,5 +1,5 @@
 // Service worker: maakt de Oceaanquiz installeerbaar en offline speelbaar.
-const VERSION = "v12";
+const VERSION = "v11";
 const SHELL = `oq-shell-${VERSION}`;
 // foto's en kaarten veranderen zelden: blijft bewaard tussen versies, behalve als de foto's vernieuwd zijn
 const MEDIA = "oq-media-4";
@@ -8,7 +8,7 @@ const SHELL_FILES = [
   "./", "index.html", "style.css", "app.js", "data.js", "manifest.webmanifest",
   "fonts/inter.woff2", "fonts/jakarta.woff2",
   "maps/_base-light.png", "maps/_base-dark.png",
-  "icons/icon-192.png", "icons/icon-512.png", "icons/apple-touch-icon.png", "icons/favicon-64.png",
+  "icons/icon-192.png", "icons/icon-512.png", "icons/apple-touch-icon.png",
 ];
 
 self.addEventListener("install", event => {
