@@ -194,7 +194,14 @@
   function applyTheme(t) {
     if (t) document.documentElement.dataset.theme = t;
     $("#theme-toggle").innerHTML = icon(effectiveTheme() === "dark" ? "sun" : "moon");
+    syncBars();
   }
+  // statusbalk en navigatiebalk van de telefoon in de kleur van het thema
+  function syncBars() {
+    const c = getComputedStyle(document.documentElement).getPropertyValue("--surface").trim();
+    document.querySelectorAll('meta[name="theme-color"]').forEach(m => m.content = c);
+  }
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", syncBars);
   applyTheme(store.get("oq3-theme", null));
   $("#theme-toggle").onclick = () => {
     const next = effectiveTheme() === "dark" ? "light" : "dark";
@@ -435,7 +442,7 @@
   const CAN_CACHE = "caches" in window && "serviceWorker" in navigator && location.protocol !== "file:";
   const IS_IOS = /iphone|ipad|ipod/i.test(navigator.userAgent) ||
     (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
-  const IS_STANDALONE = matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+  const IS_STANDALONE = matchMedia("(display-mode: standalone)").matches || matchMedia("(display-mode: fullscreen)").matches || navigator.standalone === true;
   const MEDIA_URLS = [...new Set([...ANIMALS.map(a => a.img), ...ANIMALS.map(a => a.thumb), ...ANIMALS.map(a => a.map).filter(Boolean)])];
   let installPrompt = null;
   const offline = { cached: null, busy: false, done: 0 };
